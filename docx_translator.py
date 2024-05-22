@@ -1,7 +1,6 @@
 import os
 from docx import Document
 from gpt_translator import GPTTranslator
-from concurrent.futures import ThreadPoolExecutor, wait
 import json
 import shutil
 import time
@@ -14,6 +13,8 @@ class DocTranslator:
         print(f"术语表: {json.dumps(terminology, indent=4)}")
 
         self.translator = GPTTranslator(terminology)
+        self.excludes = ["F", "Y", "N", "-", "+"]
+        self.debug_mode = True
 
     def __load_terminology(self, file_path):
         data = {}
@@ -33,7 +34,6 @@ class DocTranslator:
 
     def __translate_text(self, text):
         return self.translator.translate(text)
-        # return text
 
     def __copy_file(self, source_file, dest_file):
         try:
@@ -45,11 +45,23 @@ class DocTranslator:
         print(f"############# 正在处理 {self.part} 第 {index} 个段落 #############")
         if paragraph.text.strip():
             translated_text = self.__translate_text(paragraph.text)
-            print(f"原文: {paragraph.text}")
-            print(f"译文: {translated_text}")
-            paragraph.text = paragraph.text.replace(
+            translated_text = paragraph.text.replace(
                 paragraph.text.strip(), translated_text.strip()
             )
+
+            # 输出原文和译文
+            orgin_msg = f"原文: {paragraph.text}"
+            translated_msg = f"译文: {translated_text}"
+            print(orgin_msg)
+            print(translated_msg)
+            if self.debug_mode:
+                self.debug_file.write(orgin_msg + "\n")
+                self.debug_file.write(translated_msg + "\n")
+                self.debug_file.write(
+                    "--------------------------------------------------\n"
+                )
+
+            paragraph.text = translated_text
 
     def __translate_paragraphs(self, paragraphs):
         paragraphs = [paragraph for paragraph in paragraphs if paragraph.text.strip()]
@@ -89,6 +101,7 @@ class DocTranslator:
 
     def translate(self, file):
         start = time.time()
+        self.debug_file_path = file.replace(".docx", "-debug.txt")
 
         # 复制文件
         translated_file = file.replace(".docx", "-translated.docx")
@@ -96,29 +109,27 @@ class DocTranslator:
 
         doc = Document(translated_file)
 
-        # 翻译页眉
-        # headers = [section.header for section in doc.sections]
-        self.part = "页眉"
-        self.__translate_headers([doc.sections[0].header])
+        with open(self.debug_file_path, "w", encoding="utf-8") as debug_file:
+            self.debug_file = debug_file
+            # 翻译页眉
+            headers = [section.header for section in doc.sections]
+            self.__translate_headers([headers[0]])
 
-        # 翻译页脚
-        # footers = [section.footer for section in doc.sections]
-        self.part = "页脚"
-        self.__translate_footers([doc.sections[0].footer])
+            # 翻译页脚
+            footers = [section.footer for section in doc.sections]
+            self.__translate_footers([footers[0]])
 
-        # 翻译shapes
-        # self.__translate_paragraphs(doc.inline_shapes)
-        self.part = "shapes"
-        for shape in doc.inline_shapes:
-            print(shape)
+            # 翻译shapes
+            shapes = []
+            for shape in doc.inline_shapes:
+                shapes.append(shape)
+            self.__translate_paragraphs(shapes)
 
-        # 翻译段落
-        self.part = "段落"
-        self.__translate_paragraphs(doc.paragraphs)
+            # 翻译段落
+            self.__translate_paragraphs(doc.paragraphs)
 
-        # 翻译表格
-        self.part = "表格"
-        self.__translate_tables(doc.tables)
+            # 翻译表格
+            self.__translate_tables(doc.tables)
 
         # 保存文件
         doc.save(translated_file)

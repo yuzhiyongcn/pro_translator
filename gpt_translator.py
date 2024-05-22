@@ -1,6 +1,7 @@
 from openai import OpenAI
 import os
 import ast
+import json
 
 
 class GPTTranslator:
@@ -31,6 +32,19 @@ class GPTTranslator:
     def __create_system_instruction(self, terminology):
         terms = ", ".join([f"'{k}' -> '{v}'" for k, v in terminology.items()])
         return f"Please use the following translations for specific terms: {terms}."
+
+    def convert_string_to_list(self, text):
+        # 检查输入是否为字符串
+        if isinstance(text, str):
+            # 尝试将字符串转换为 JSON 格式的列表
+            try:
+                text = text.replace("'", '"')
+                return json.loads(text)
+            except json.JSONDecodeError:
+                print("Error: The provided string is not a valid JSON format.")
+                return text
+        else:
+            return text
 
     def translate(self, text):
         if (
@@ -66,10 +80,10 @@ class GPTTranslator:
             max_tokens=2048,  # 确定生成的响应能适配提供的标记数量
         )
 
-        msg = response.choices[0].message.content
+        msg = response.choices[0].message.content.strip()
         if " -> " in msg:
-            msg = msg.split(" -> ")[1]
-        return ast.literal_eval(msg) if isinstance(text, list) else msg
+            msg = msg.split(" -> ")[1].strip()
+        return self.convert_string_to_list(msg) if isinstance(text, list) else msg
 
 
 if __name__ == "__main__":
