@@ -42,20 +42,22 @@ class DocTranslator:
             print(f"文件复制失败: {e}")
 
     def __translate_paragraph(self, index, paragraph):
-        print(f"############# 正在处理第 {index} 个段落 #############")
+        print(f"############# 正在处理 {self.part} 第 {index} 个段落 #############")
         if paragraph.text.strip():
             translated_text = self.__translate_text(paragraph.text)
             print(f"原文: {paragraph.text}")
             print(f"译文: {translated_text}")
-            paragraph.text = paragraph.text.replace(paragraph.text.strip(), translated_text)
+            paragraph.text = paragraph.text.replace(
+                paragraph.text.strip(), translated_text.strip()
+            )
 
     def __translate_paragraphs(self, paragraphs):
+        paragraphs = [paragraph for paragraph in paragraphs if paragraph.text.strip()]
         # 只处理前30个
         # paragraphs = paragraphs[:30]
 
-        self._concurrent_process(
-            paragraphs, self.__translate_paragraph, max_workers=self.num_threads
-        )
+        for index, item in enumerate(paragraphs):
+            self.__translate_paragraph(index, item)
 
     def __translate_tables(self, tables):
         paragraphs = []
@@ -85,22 +87,6 @@ class DocTranslator:
                         paragraphs.extend(cell.paragraphs)
         self.__translate_paragraphs(paragraphs)
 
-    def _concurrent_process(self, items, func, max_workers=16):
-        if len(items) <= 50000:
-            for index, item in enumerate(items):
-                func(index, item)
-        else:
-            # 使用 ThreadPoolExecutor 创建一个包含 max_workers 个线程的线程池
-            with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                # 使用 submit 方法将 items 列表中的每个项目提交给线程池处理
-                futures = [
-                    executor.submit(func, index, item)
-                    for index, item in enumerate(items)
-                ]
-
-                # 等待所有任务完成
-                wait(futures)
-
     def translate(self, file):
         start = time.time()
 
@@ -111,22 +97,27 @@ class DocTranslator:
         doc = Document(translated_file)
 
         # 翻译页眉
-        headers = [section.header for section in doc.sections]
-        self.__translate_headers(headers)
+        # headers = [section.header for section in doc.sections]
+        self.part = "页眉"
+        self.__translate_headers([doc.sections[0].header])
 
         # 翻译页脚
-        footers = [section.footer for section in doc.sections]
-        self.__translate_footers(footers)
+        # footers = [section.footer for section in doc.sections]
+        self.part = "页脚"
+        self.__translate_footers([doc.sections[0].footer])
 
         # 翻译shapes
         # self.__translate_paragraphs(doc.inline_shapes)
+        self.part = "shapes"
         for shape in doc.inline_shapes:
             print(shape)
 
         # 翻译段落
+        self.part = "段落"
         self.__translate_paragraphs(doc.paragraphs)
 
         # 翻译表格
+        self.part = "表格"
         self.__translate_tables(doc.tables)
 
         # 保存文件
@@ -138,4 +129,4 @@ class DocTranslator:
 
 if __name__ == "__main__":
     translator = DocTranslator()
-    translator.translate("111-EN.docx")
+    translator.translate("NSR_T103508-7_PH-42754_DRF dog.docx")
