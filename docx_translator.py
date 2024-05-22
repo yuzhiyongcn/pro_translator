@@ -1,7 +1,6 @@
 import os
 from docx import Document
 from gpt_translator import GPTTranslator
-from concurrent.futures import ThreadPoolExecutor, wait
 import json
 import shutil
 import time
@@ -14,6 +13,8 @@ class DocTranslator:
         print(f"术语表: {json.dumps(terminology, indent=4)}")
 
         self.translator = GPTTranslator(terminology)
+        self.excludes = ["F", "Y", "N", "-", "+"]
+        self.debug_mode = True
 
     def __load_terminology(self, file_path):
         data = {}
@@ -33,7 +34,6 @@ class DocTranslator:
 
     def __translate_text(self, text):
         return self.translator.translate(text)
-        # return text
 
     def __copy_file(self, source_file, dest_file):
         try:
@@ -41,21 +41,46 @@ class DocTranslator:
         except Exception as e:
             print(f"文件复制失败: {e}")
 
-    def __translate_paragraph(self, index, paragraph):
-        print(f"############# 正在处理第 {index} 个段落 #############")
-        if paragraph.text.strip():
-            translated_text = self.__translate_text(paragraph.text)
-            print(f"原文: {paragraph.text}")
-            print(f"译文: {translated_text}")
-            paragraph.text = paragraph.text.replace(paragraph.text.strip(), translated_text)
+    def __split_list(self, alist, chunk_size=10):
+        # 使用列表切片，将alist按每chunk_size个元素分割成多个数组
+        return [alist[i : i + chunk_size] for i in range(0, len(alist), chunk_size)]
+
+    def __translate_paragraph_groups(self, paragraph_groups):
+        for index, group in enumerate(paragraph_groups):
+            print(f"############# 正在处理第 {index} 组段落 #############")
+            group_text = [p.text for p in group]
+            translated_group_text = self.__translate_text(group_text)
+            for i, paragraph in enumerate(group):
+                print(
+                    f"############# 正在处理第 {index} 组, 第 {i} 个段落 #############"
+                )
+                translated_text = translated_group_text[i]
+                # translated_text = paragraph.text.replace(
+                #     paragraph.text.strip(), translated_text
+                # )
+                orgin_msg = f"原文: {paragraph.text}"
+                translated_msg = f"译文: {translated_text}"
+                print(orgin_msg)
+                print(translated_msg)
+                if self.debug_mode:
+                    self.debug_file.write(orgin_msg + "\n")
+                    self.debug_file.write(translated_msg + "\n")
+                    self.debug_file.write(
+                        "--------------------------------------------------\n"
+                    )
+                paragraph.text = translated_text
 
     def __translate_paragraphs(self, paragraphs):
+        paragraphs = [
+            p
+            for p in paragraphs
+            if p.text.strip() and p.text.strip() not in self.excludes
+        ]
         # 只处理前30个
         # paragraphs = paragraphs[:30]
 
-        self._concurrent_process(
-            paragraphs, self.__translate_paragraph, max_workers=self.num_threads
-        )
+        paragraph_groups = self.__split_list(paragraphs, 10)
+        self.__translate_paragraph_groups(paragraph_groups)
 
     def __translate_tables(self, tables):
         paragraphs = []
@@ -85,24 +110,9 @@ class DocTranslator:
                         paragraphs.extend(cell.paragraphs)
         self.__translate_paragraphs(paragraphs)
 
-    def _concurrent_process(self, items, func, max_workers=16):
-        if len(items) <= 50000:
-            for index, item in enumerate(items):
-                func(index, item)
-        else:
-            # 使用 ThreadPoolExecutor 创建一个包含 max_workers 个线程的线程池
-            with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                # 使用 submit 方法将 items 列表中的每个项目提交给线程池处理
-                futures = [
-                    executor.submit(func, index, item)
-                    for index, item in enumerate(items)
-                ]
-
-                # 等待所有任务完成
-                wait(futures)
-
     def translate(self, file):
         start = time.time()
+        self.debug_file_path = file.replace(".docx", "-debug.txt")
 
         # 复制文件
         translated_file = file.replace(".docx", "-translated.docx")
@@ -110,24 +120,27 @@ class DocTranslator:
 
         doc = Document(translated_file)
 
-        # 翻译页眉
-        headers = [section.header for section in doc.sections]
-        self.__translate_headers(headers)
+        with open(self.debug_file_path, "w", encoding="utf-8") as debug_file:
+            self.debug_file = debug_file
+            # 翻译页眉
+            headers = [section.header for section in doc.sections]
+            self.__translate_headers([headers[0]])
 
-        # 翻译页脚
-        footers = [section.footer for section in doc.sections]
-        self.__translate_footers(footers)
+            # 翻译页脚
+            footers = [section.footer for section in doc.sections]
+            self.__translate_footers([footers[0]])
 
-        # 翻译shapes
-        # self.__translate_paragraphs(doc.inline_shapes)
-        for shape in doc.inline_shapes:
-            print(shape)
+            # 翻译shapes
+            shapes = []
+            for shape in doc.inline_shapes:
+                shapes.append(shape)
+            self.__translate_paragraphs(shapes)
 
-        # 翻译段落
-        self.__translate_paragraphs(doc.paragraphs)
+            # 翻译段落
+            self.__translate_paragraphs(doc.paragraphs)
 
-        # 翻译表格
-        self.__translate_tables(doc.tables)
+            # 翻译表格
+            self.__translate_tables(doc.tables)
 
         # 保存文件
         doc.save(translated_file)
@@ -138,4 +151,4 @@ class DocTranslator:
 
 if __name__ == "__main__":
     translator = DocTranslator()
-    translator.translate("111-EN.docx")
+    translator.translate("NSR_T103508-7_PH-42754_DRF dog.docx")
