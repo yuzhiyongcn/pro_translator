@@ -72,7 +72,7 @@ class DocTranslator:
     def _translate_paragraphs(self, paragraphs):
         paragraphs = [paragraph for paragraph in paragraphs if paragraph.text.strip()]
         # 只处理前30个
-        paragraphs = paragraphs[:60]
+        paragraphs = paragraphs[:30]
 
         for index, item in enumerate(paragraphs):
             self._translate_paragraph(index, item)

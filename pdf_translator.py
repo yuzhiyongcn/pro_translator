@@ -1,4 +1,5 @@
 import fitz  # PyMuPDF
+import winreg
 
 
 def translate(text):
@@ -9,43 +10,91 @@ def translate(text):
     return translated_text
 
 
-def translate_pdf(input_pdf_path, output_pdf_path):
-    # 打开PDF文件
-    pdf_document = fitz.open(input_pdf_path)
+def translate_pdf(pdf_path, output_path):
+    document = fitz.open(pdf_path)
 
-    # 遍历每一页
-    for page_num in range(len(pdf_document)):
-        page = pdf_document[page_num]
-        text_dict = page.get_text("dict")
+    for page_num in range(len(document)):
+        page = document[page_num]
+        text_instances = page.get_text("dict")
 
-        # 遍历每一个文本块
-        for block in text_dict["blocks"]:
-            if "lines" in block:  # 确保块中有文本行
+        for block in text_instances["blocks"]:
+            if "lines" in block:
                 for line in block["lines"]:
                     for span in line["spans"]:
-                        text = span["text"]
-                        translated_text = translate(text)
+                        original_text = span["text"]
+                        translated_text = translate(original_text)
+                        span["text"] = "标题"  # 修改文本
 
-                        # 获取文本的位置
-                        rect = fitz.Rect(span["bbox"])
+        # 清除当前页内容
 
-                        # 删除原有文本
-                        page.add_redact_annot(
-                            rect, fill=(1, 1, 1)
-                        )  # 填充白色覆盖原有文本
-                        page.apply_redactions()  # 应用覆盖
+    document.save(output_path)
+    document.close()
 
-                        # 插入翻译后的文本
-                        page.insert_text(
-                            rect.tl,
-                            translated_text,
-                            fontsize=span["size"],
-                            color=(0, 0, 0),
-                        )
 
-    # 保存翻译后的PDF
-    pdf_document.save(output_pdf_path)
-    pdf_document.close()
+def extract_unique_fonts_from_pdf(pdf_path):
+    document = fitz.open(pdf_path)
+    font_names = set()  # 用于存储唯一的字体名称
+
+    for page_num in range(len(document)):
+        page = document[page_num]
+        text_instances = page.get_text("dict")
+
+        for block in text_instances["blocks"]:
+            if "lines" in block:
+                for line in block["lines"]:
+                    for span in line["spans"]:
+                        font_name = span["font"]
+                        font_names.add(font_name)
+
+    document.close()
+    return font_names
+
+
+def list_installed_fonts():
+    installed_fonts = []
+    try:
+        # 打开字体注册表项
+        with winreg.OpenKey(
+            winreg.HKEY_LOCAL_MACHINE,
+            r"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts",
+        ) as reg_key:
+            index = 0
+            while True:
+                try:
+                    # 获取字体名称和对应的字体文件路径
+                    font_value = winreg.EnumValue(reg_key, index)
+                    font_name = font_value[0]  # 字体名称
+                    font_path = font_value[1]  # 字体文件路径
+                    installed_fonts.append((font_name, font_path))
+                    index += 1
+                except OSError:
+                    # 如果没有更多的字体，则跳出循环
+                    break
+    except FileNotFoundError:
+        # 如果注册表项不存在，则输出错误信息
+        print("Error: Fonts registry key not found.")
+
+    return installed_fonts
+
+
+def check_missing_fonts(fonts):
+    missing_fonts = []
+    for font in fonts:
+        try:
+            # 尝试打开字体注册表项
+            with winreg.OpenKey(
+                winreg.HKEY_LOCAL_MACHINE,
+                r"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts",
+            ) as reg_key:
+                # 从注册表中获取字体文件路径
+                font_path, _ = winreg.QueryValueEx(reg_key, font)
+                # 如果字体文件路径为空，则说明字体不存在
+                if not font_path:
+                    missing_fonts.append(font)
+        except FileNotFoundError:
+            # 如果注册表项不存在，则说明字体不存在
+            missing_fonts.append(font)
+    return missing_fonts
 
 
 if __name__ == "__main__":
@@ -53,3 +102,43 @@ if __name__ == "__main__":
     output_pdf_path = "translated_output.pdf"  # 输出翻译后PDF文件路径
 
     translate_pdf(input_pdf_path, output_pdf_path)
+    # print(extract_unique_fonts_from_pdf(input_pdf_path))
+
+    # fonts_to_check = {
+    #     "CourierNew,Bold",
+    #     "Times-Roman",
+    #     "Helvetica",
+    #     "Times-Bold",
+    #     "ArialMT",
+    #     "Times-BoldItalic",
+    #     "Symbol",
+    #     "Arial,Bold",
+    #     "Helvetica-Bold",
+    #     "Calibri",
+    #     "Arial",
+    #     "CourierNew",
+    #     "TimesNewRoman",
+    #     "Times-Italic",
+    #     "TimesNewRoman,Bold",
+    #     "PathData",
+    # }
+
+    # missing_fonts = check_missing_fonts(fonts_to_check)
+
+    # # 打印缺少的字体
+    # if missing_fonts:
+    #     print("系统缺少以下字体:")
+    #     for font in missing_fonts:
+    #         print(font)
+    # else:
+    #     print("系统已安装所有字体")
+
+    # installed_fonts = list_installed_fonts()
+
+    # # 打印已安装的字体信息
+    # if installed_fonts:
+    #     print("已安装的字体:")
+    #     for font_name, font_path in installed_fonts:
+    #         print(f"{font_name}: {font_path}")
+    # else:
+    #     print("系统中未安装任何字体.")
