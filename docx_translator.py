@@ -4,32 +4,18 @@ from gpt_translator import GPTTranslator
 import json
 import shutil
 import time
+import terms_persister as persister
 
 
 class DocTranslator:
-    def __init__(self):
-        terminology = self._load_terminology("terminology.txt")
-        print(f"术语表: {json.dumps(terminology, indent=4)}")
+    def __init__(self, to_CN=True):
+        terms_file = r"input\terms_en2zh.xlsx" if to_CN else r"input\terms_zh2en.xlsx"
+        self.terms = persister.read_from_excel(terms_file)
+        print(f"术语表单词数量: {len(self.terms)}")
 
-        self.translator = GPTTranslator(terminology)
+        self.translator = GPTTranslator(to_CN)
         self.excludes = ["F", "Y", "N", "-", "+"]
         self.debug_mode = True
-
-    def _load_terminology(self, file_path):
-        data = {}
-        with open(file_path, "r", encoding="utf-8") as file:
-            for line in file:
-                # 去除每行的空白符
-                line = line.strip()
-                if line:
-                    # 分割成键值对
-                    key, value = line.split("=", 1)
-                    # 去除键和值两端的空白符
-                    key = key.strip()
-                    value = value.strip()
-                    # 添加到字典中
-                    data[key] = value
-        return data
 
     def _translate_text(self, text):
         if text in self.excludes:
@@ -106,6 +92,7 @@ class DocTranslator:
         self._translate_paragraphs(paragraphs)
 
     def translate(self, file):
+        # TODO yzy
         start = time.time()
         self.debug_file_path = file.replace(".docx", "-debug.txt")
 
