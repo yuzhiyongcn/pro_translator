@@ -1,0 +1,2342 @@
+原文: 4.3.	动物饲养	13
+
+译文: 4.3.	Animal Housing	13
+--------------------------------------------------------------------------------------
+原文: 方法：每组8只，雌、雄各半，共使用16只SD大鼠；组别分为sbk002剂量组、clo剂量组。sbk002剂量组单次给药剂量10 mg/kg，clo剂量组单次给药剂量30 mg/kg。给药后3小时，立即CO2麻醉，进行手术，门静脉和颈静脉各采血0.4 mL，使用液质联用进行检测。
+
+译文: Method: Each group consists of 8 rats, with equal number of males and females, using a total of 16 SD rats; groups are divided into sbk002 dosage group and clo dosage group. sbk002 dosage group receives a single dosage of 10 mg/kg, and clo dosage group receives a single dosage of 30 mg/kg. 3 hours after dosing, immediate CO2 anesthesia is performed followed by surgery. 0.4 mL blood is collected from the portal vein and the jugular vein, and liquid chromatography-mass spectrometry is used for testing.
+--------------------------------------------------------------------------------------
+原文: 提供单位：浙江维通利华实验动物技术有限公司；
+
+译文: Supplier: Zhejiang Vitonlihua Laboratory Animal Technology Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 血药浓度检测
+
+译文: Blood drug concentration testing
+--------------------------------------------------------------------------------------
+原文: 由于氯吡格雷是前药，在人体系内经过肝CYP450酶两步代谢生成活性代谢产物，氯吡格雷首先被氧化成2-氧-氯吡格雷，2-氧-氯吡格雷有2个异构体，其中一个异构体为sbk002；2-氧-氯吡格雷进一步代谢形成唯一的硫醇活性代谢产物H4和非活性代谢产物H3,活性成分H4和H3可进一步甲基化为SM3。
+
+译文: Since clopidogrel is a prodrug, it undergoes a two-step metabolism by liver CYP450 enzymes in the human body to form active metabolites. Clopidogrel is first oxidized to 2-oxo-clopidogrel, which has 2 isomers, one of which is sbk002. The 2-oxo-clopidogrel is further metabolized to form the unique thiol-active metabolite H4 and the inactive metabolite H3. Active components H4 and H3 can be further methylated to SM3.
+--------------------------------------------------------------------------------------
+原文: 标识方法：所配制的sbk002剂量组和clo剂量组分别用绿色和红色标签标识，并注明专题编号、名称、浓度、数量、配制日期、配制者、贮存条件、有效期至、成品编号。
+
+译文: Identification method: The prepared sbk002 dose group and clo dose group are labeled with green and red tags respectively, and the study number, name, concentration, quantity, preparation date, preparer, storage conditions, expiry date, and finished product number are indicated.
+--------------------------------------------------------------------------------------
+原文: 4.1.	动物管理和使用	12
+
+译文: 4.1.	Animal Management and Use	12
+--------------------------------------------------------------------------------------
+原文: 归档时间及档案保存时间
+
+译文: Archiving Time and Archives Storage Time
+--------------------------------------------------------------------------------------
+原文: 1.3.	研究机构	6
+
+译文: 1.3.	Test Facility	6
+--------------------------------------------------------------------------------------
+原文: 营养成分：具有史尼测试提供的检测报告（报告编号：GNALX2IA1S1068944），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合国标。
+
+译文: Nutritional Composition: Accompanied by a testing report provided by SN Test (Report No.: GNALX2IA1S1068944). Testing criteria include moisture, crude protein, crude fat, crude fiber, crude ash, calcium, and total phosphorus. The testing results meet national standards.
+--------------------------------------------------------------------------------------
+原文: 所有剂量组采样时间：给药后3 h（± 15 min）。
+
+译文: Sampling Time for All Dose Groups: 3 h after dosing (± 15 min).
+--------------------------------------------------------------------------------------
+原文: 《药品注册管理办法》（原CFDA，2007年10月）；
+
+译文: 《Pharmaceuticals Registration Management Measures》(Former CFDA, October 2007);
+--------------------------------------------------------------------------------------
+原文: 回归系数
+
+译文: Regression Coefficient
+--------------------------------------------------------------------------------------
+原文: 给药途径：灌胃； 
+
+译文: Route of Administration: Gavage;
+--------------------------------------------------------------------------------------
+原文: 液质联用仪
+
+译文: Liquid chromatography-mass spectrometry (LC-MS)
+--------------------------------------------------------------------------------------
+原文: 给药浓度：sbk002剂量组给药浓度为10 mg/kg。clo剂量组给药浓度为30 mg/kg；
+
+译文: Dose Concentration: sbk002 dose group concentration is 10 mg/kg. clo dose group concentration is 30 mg/kg;
+--------------------------------------------------------------------------------------
+原文: 试验方案及方案变更
+
+译文: Study Protocol and Protocol Amendments
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及盐酸氯吡格雷肠道吸收试验
+
+译文: SD Rats Gavage to Administer sbk002 and Clopidogrel Bisulfate Intestinal Absorption Test
+--------------------------------------------------------------------------------------
+原文: 《生物样品定量分析方法验证指导原则》（国家药典委员会，中华人民共和国药典2015年版）；
+
+译文: 《Bio-Sample Quantitative Analysis Method Validation Guidelines》(Chinese Pharmacopoeia Commission, Pharmacopoeia of the People’s Republic of China, 2015 Edition);
+--------------------------------------------------------------------------------------
+原文: 生产厂家：阿拉丁 (Aladdin )；
+
+译文: Manufacturer: Aladdin;
+--------------------------------------------------------------------------------------
+原文: 10.	结论	25
+
+译文: 10.	Conclusion	25
+--------------------------------------------------------------------------------------
+原文: 附件一：试验方案
+
+译文: Appendix 1: Study Protocol
+--------------------------------------------------------------------------------------
+原文: 保存与使用：低温、干燥、卫生；将灭菌的垫料铺于大鼠笼箱底部，以铺满整个底部为宜；
+
+译文: Storage and Use: Low temperature, dry, hygienic; place sterilized bedding at the bottom of rat cages to cover the entire bottom;
+--------------------------------------------------------------------------------------
+原文:                                                                      专题编号B2019023-K09-01-Rv1
+
+译文:                                                                       Study Number B2019023-K09-01-Rv1
+--------------------------------------------------------------------------------------
+原文: (2) clo灌胃后，能够在门静脉（推测肠道会代谢）产生sbk002，门静脉血药浓度和颈静脉血药浓度比较，无明显差异。
+
+译文: (2) After clo gavage, sbk002 can be produced in the portal vein (estimated intestinal metabolism), and there is no significant difference between the blood drug concentration in the portal vein and the jugular vein.
+--------------------------------------------------------------------------------------
+原文: 有效期至：2021-06-10（暂定）； 
+
+译文: Expiry date: 2021-06-10 (tentative); 
+--------------------------------------------------------------------------------------
+原文: 专题负责人
+
+译文: study director
+--------------------------------------------------------------------------------------
+原文: 操作/安全措施 
+
+译文: Operation/Safety measures
+--------------------------------------------------------------------------------------
+原文: 观察
+
+译文: observation
+--------------------------------------------------------------------------------------
+原文: 清除率
+
+译文: clearance rate
+--------------------------------------------------------------------------------------
+原文: 推测H4和SM3为活性代谢产物和进一步代谢的甲基化产物。
+
+译文: It is estimated that H4 and SM3 are active metabolites and further methylated metabolites.
+--------------------------------------------------------------------------------------
+原文: 剂量
+(mg / kg)
+
+译文: dose
+(mg / kg)
+--------------------------------------------------------------------------------------
+原文: 供试品配制
+
+译文: Preparation of test article
+--------------------------------------------------------------------------------------
+原文: 保存场所与保存条件
+
+译文: Storage location and storage condition
+--------------------------------------------------------------------------------------
+原文: 其中“Plasma-1”为首份检测样品，分装血浆体积为100 μL，剩余血浆样品作为备份保存在“Plasma-2”管中。置于≤ -60 ℃以下保存。分析结束后剩余血浆样本于试验结束后6个月根据委托方的授权意见销毁或移交委托方。
+
+译文: Among them, “Plasma-1” is the first testing sample with a plasma volume of 100 μL, and the remaining plasma sample is stored as a backup in the “Plasma-2” tube. Stored at ≤ -60 ℃. The remaining plasma samples will be destroyed or transferred to the sponsor according to the sponsor's authorization after 6 months of the assay end.
+--------------------------------------------------------------------------------------
+原文: 代谢产物H4
+
+译文: metabolite H4
+--------------------------------------------------------------------------------------
+原文: 2.4.	主要仪器设备	11
+
+译文: 2.4.	Major Instruments	11
+--------------------------------------------------------------------------------------
+原文: 含量：99.4 %； 
+
+译文: content: 99.4 %；
+--------------------------------------------------------------------------------------
+原文: 大鼠灌胃sbk002及clo后的门静脉和颈静脉血药浓度比较
+
+译文: Comparison of portal vein and jugular vein blood drug concentration after rats were gavaged with sbk002 and clo
+--------------------------------------------------------------------------------------
+原文: 溶媒（0.5 % CMC-Na）溶液配制
+
+译文: Vehicle (0.5 % CMC-Na) solution preparation
+--------------------------------------------------------------------------------------
+原文: 图1-2 sbk002剂量组1M001颈静脉血浆样品典型图
+
+译文: Figure 1-2 sbk002 dose group 1M001 jugular vein plasma sample typical picture
+--------------------------------------------------------------------------------------
+原文: 饲养环境
+
+译文: Housing Environment
+--------------------------------------------------------------------------------------
+原文: 购入时体重：雄性为314.4 ~ 335.8 g，雌性为202.2 ~ 214.8 g，分组时体重：雄性为331.9 ~ 350.8 g，雌性为214.1 ~ 224.5 g，分组时个体体重在同性别平均体重± 20 %范围内；
+
+译文: Body weight at purchase: male 314.4 ~ 335.8 g, female 202.2 ~ 214.8 g; body weight at grouping: male 331.9 ~ 350.8 g, female 214.1 ~ 224.5 g; individual body weight at grouping is within ± 20 % of the mean body weight of the same sex;
+--------------------------------------------------------------------------------------
+原文: 测定动物：所有存活的实验动物。
+
+译文: Measured animals: all surviving experimental animals.
+--------------------------------------------------------------------------------------
+原文: 表1-5 SD大鼠灌胃给予sbk002及clo血浆中sbk002和SM3质谱信号
+
+译文: Table 1-5 Mass spectral signals of sbk002 and SM3 in the plasma of SD rats gavaged with sbk002 and clo
+--------------------------------------------------------------------------------------
+原文: 给药频率及周期：单次给药；
+
+译文: Frequency of administration and period: single dose;
+--------------------------------------------------------------------------------------
+原文: 饮水
+
+译文: Drinking Water
+--------------------------------------------------------------------------------------
+原文: 苏州华测生物技术有限公司是获得“国际实验动物评估和认可管理委员会（AAALAC International）”认证的机构，实验动物的使用获得了江苏省科学技术厅的批准。
+
+译文: Suzhou Huace Biotechnology Co., Ltd. is an organization accredited by the “Association for Assessment and Accreditation of Laboratory Animal Care (AAALAC International)” and the use of laboratory animals has been approved by the Jiangsu Provincial Department of Science and Technology.
+--------------------------------------------------------------------------------------
+原文: 摄氏度
+
+译文: Degree Celsius
+--------------------------------------------------------------------------------------
+原文: 接收和适应
+
+译文: Animal Receipt and Acclimation
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及clo肠道吸收
+
+译文: Study Name: Intestinal absorption of SD rats gavaged with sbk002 and clo
+--------------------------------------------------------------------------------------
+原文: 进入适应期动物数量和性别：20只，雌、雄各半；
+
+译文: Number and sex of animals entering the acclimation period: 20, half male and half female;
+--------------------------------------------------------------------------------------
+原文: 3.2.	性别和数量	11
+
+译文: 3.2.	Sex and Number	11
+--------------------------------------------------------------------------------------
+原文: 分组方法：分性别按体重随机分组。
+
+译文: Grouping method: random grouping by body weight and sex.
+--------------------------------------------------------------------------------------
+原文: 图1-4 clo剂量组2M001颈静脉血浆样品典型图
+
+译文: Figure 1-4 clo dose group 2M001 jugular vein plasma sample typical picture
+--------------------------------------------------------------------------------------
+原文: 实验时间安排
+
+译文: Assay time schedule
+--------------------------------------------------------------------------------------
+原文: 剂量组
+
+译文: dose group
+--------------------------------------------------------------------------------------
+原文: 系统
+
+译文: system
+--------------------------------------------------------------------------------------
+原文: 体重
+
+译文: body weight
+--------------------------------------------------------------------------------------
+原文: 种类：反渗透水（生活饮用水）；
+
+译文: type: reverse osmosis water (domestic drinking water);
+--------------------------------------------------------------------------------------
+原文: 给药日期： 2019-09-16。
+
+译文: Dose date: 2019-09-16.
+--------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司
+
+译文: Chengdu Shibeikang Biopharmaceutical Technology Co., Ltd.
+--------------------------------------------------------------------------------------
+原文: 微升
+
+译文: μL
+--------------------------------------------------------------------------------------
+原文: 达到峰值时间
+
+译文: time to reach maximum
+--------------------------------------------------------------------------------------
+原文: 平均值
+
+译文: Mean
+--------------------------------------------------------------------------------------
+原文: clo剂量组
+
+译文: clo dose group
+--------------------------------------------------------------------------------------
+原文: 药代动力学实验采血时间和动物编号见下表：
+
+译文: Pharmacokinetics assay blood sampling time and animal numbers are shown in the table below:
+--------------------------------------------------------------------------------------
+原文: 门静脉H4/颈静脉H4
+
+译文: portal vein H4/jugular vein H4
+--------------------------------------------------------------------------------------
+原文: 2.1.	供试品	9
+
+译文: 2.1.	Test article	9
+--------------------------------------------------------------------------------------
+原文: 测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002和代谢产物门静脉/颈静脉的血药浓度比。
+
+译文: Measurement of sbk002 blood drug concentration, determining the presence of active metabolites [conducting a semi-quantitative study (i.e., the ratio of qualitative signals of active metabolites and sbk002)], and calculating the blood drug concentration ratio in the portal vein/jugular vein of rats for sbk002 and metabolites.
+--------------------------------------------------------------------------------------
+原文: 2.3.	给药制剂在实验机构内的转移	11
+
+译文: 2.3.	Metabolism of dose formulations within the experimental structure	11
+--------------------------------------------------------------------------------------
+原文: 专题负责人任命书
+
+译文: Study Director Appointment Letter
+--------------------------------------------------------------------------------------
+原文: 垫料
+
+译文: Bedding
+--------------------------------------------------------------------------------------
+原文: 收集和报告电子数据的采集系统如下：
+
+译文: The collection system for collecting and reporting electronic data is as follows:
+--------------------------------------------------------------------------------------
+原文: 英文缩写
+
+译文: Abbreviation
+--------------------------------------------------------------------------------------
+原文: 生产单位：苏州安威尔康实验动物用品有限公司；
+
+译文: Manufacturer: Suzhou Anweierkang Laboratory Animal Products Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 研究机构
+
+译文: Test Facility
+--------------------------------------------------------------------------------------
+原文: 微生物指标：具有谱尼测试提供的检测报告（报告编号：GNALX2IA1S1068946）检测指标包括菌落总数、大肠菌群、霉菌和酵母菌计数、沙门氏菌。检测结果符合国标。
+
+译文: Microbial Indicators: Testing report from Jinri Testing provided (Report Number: GNALX2IA1S1068946), including indicators such as total bacterial count, coliform bacteria, mold and yeast count, and Salmonella spp. Test results meet national standards.
+--------------------------------------------------------------------------------------
+原文: (2) SD大鼠灌胃给药clo后，在门静脉（推测肠道会代谢）会产生代谢产物SM3，门静脉和颈静脉的质谱响应比较，无明显差异；
+
+译文: (2) After gavage dosing with clo in SD rats, the portal vein (hypothesized gastrointestinal metabolism) produces metabolite SM3. The qualitative response comparison between the portal vein and the jugular vein shows no significant difference.
+--------------------------------------------------------------------------------------
+原文: 体重和年龄
+
+译文: Body Weight and Age
+--------------------------------------------------------------------------------------
+原文: 标准偏差
+
+译文: Standards Deviation
+--------------------------------------------------------------------------------------
+原文: 7.	血样采集及检测分析	16
+
+译文: 7.	Blood Sampling and Test Analysis	16
+--------------------------------------------------------------------------------------
+原文: 结果
+
+译文: Result
+--------------------------------------------------------------------------------------
+原文: 试验目的
+
+译文: Study Objective
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002后代谢产物SM3门静脉平均质谱响应/颈静脉平均质谱响应相对比值为0.85；SD大鼠灌胃给予clo后代谢产物SM3门静脉平均质谱响应/颈静脉平均质谱响应比值为1.12。
+
+译文: After gavage with sbk002 in SD rats, the relative ratio of the mean qualitative response of metabolite SM3 in the portal vein to the jugular vein is 0.85. After gavage with clo, the relative ratio is 1.12.
+--------------------------------------------------------------------------------------
+原文: 垫料检测： 苏州安威尔康实验动物用品有限公司提供的垫料，具有谱尼测试提供垫料的检测报告（报告编号：BNAY0TLL8I072508），检测指标包括砷、铅、镉、汞、六六六、滴滴涕、黄曲霉毒素B1。检测结果符合要求。
+
+译文: Bedding Testing: The bedding provided by Suzhou Anweierkang Laboratory Animal Products Co., Ltd., includes a testing report from Jinri Testing (Report Number: BNAY0TLL8I072508), with indicators such as arsenic, lead, mercury, cadmium, HCB, DDX, and Aflatoxin B1. Testing results meet the requirements.
+--------------------------------------------------------------------------------------
+原文: 其它资料
+
+译文: Other Materials
+--------------------------------------------------------------------------------------
+原文: 6.1.	一般状态观察	16
+
+译文: 6.1.	General State Observation	16
+--------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浑浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硝酸盐、氟化物、氯化物、磷酸盐氢、氰酸盐、亚氰酸盐、溴酸盐、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、铝、铁、锰、铜、锌、镍、钼、钴、铅、镉、汞、甲醛、三氯甲烷、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+
+译文: The testing of routine water quality indicators: includes the test report provided by Jiangsu Huacepino Detection Technology Co., Ltd. (Report number: A20190208613101). The testing items include: pH value, chromaticity, turbidity, odor and taste, visible objects, total hardness, oxygen consumption, dissolvable total solids, anionic synthetic detergents, volatile phenol, cyanides, hexavalent chromium, nitrate, fluoride, chloride, phosphate, cyanate, isocyanate, bromate, total coliforms, thermotolerant coliforms, Escherichia coli, total bacterial count, aluminum, iron, manganese, copper, zinc, nickel, molybdenum, cobalt, lead, cadmium, mercury, formaldehyde, trichloromethane, carbon tetrachloride, total α radioactivity, total β radioactivity, the testing results comply with national standards.
+--------------------------------------------------------------------------------------
+原文: 本试验遵循的法规及技术指导原则，包括但不限于：
+
+译文: This assay complies with the regulations and technical guidelines, including but not limited to:
+--------------------------------------------------------------------------------------
+原文: 供试品给药制剂在室温、密闭、遮光条件下从供试品管理部转移到动物饲养间。从供试品管理部领取的给药制剂在不使用时贮存于室温、遮光条件。
+
+译文: The test article dose formulations were transferred from the Test Article Management department to the Animal Housing under room temperature, airtight, and light-shielding conditions. Dose formulations retrieved from the Test Article Management department were stored at room temperature, and light-shielding conditions when not in use.
+--------------------------------------------------------------------------------------
+原文: 目的：SD大鼠灌胃分别给予sbk002和硝酸盐氰化物格雷（clo），测量sbk002血药浓度，定性确定活性代谢产物的有无［进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）］，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: Objective: Administer sbk002 and nitrate cyanide Gray (clo) by gavage to SD rats, measure the blood concentration of sbk002, qualitatively determine the existence of active metabolites [perform a semi-quantitative study (i.e., the mass spectrometry signal ratio of active metabolites to sbk002)], and calculate the blood concentration ratio of sbk002 and metabolites in the portal vein/jugular vein of rats.
+--------------------------------------------------------------------------------------
+原文: 样品分析：吴津津、吴宗笙；
+
+译文: Sample analysis: Wu Jinjin, Wu Zongseng;
+--------------------------------------------------------------------------------------
+原文: 门静脉
+
+译文: Portal vein
+--------------------------------------------------------------------------------------
+原文: 饲养笼种类：聚砜大鼠笼具，规格（L×W×H）：50 cm × 36 cm × 20 cm；
+
+译文: Cage type: Polysulfone rats cage, size (L×W×H): 50 cm × 36 cm × 20 cm;
+--------------------------------------------------------------------------------------
+原文: 生产单位：北京科澳协力饲料有限公司；
+
+译文: Manufacturer: Beijing Keao Xieli Feed Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 给药制剂在实验机构内的转移
+
+译文: Transfer of dose formulations within the experimental institution
+--------------------------------------------------------------------------------------
+原文: 等级：SPF级。
+
+译文: Grade: SPF grade.
+--------------------------------------------------------------------------------------
+原文: H4分子量为355，[M+H]+=356，SM3的分子量为369，[M+H]+=370；通过质谱检测血浆样品中负质比为356、370化合物，根据相对sbk002的保留时间和负质比初步推测是否可能产生生物代谢产物H4和进一步代谢产物SM3，并获得其质谱响应值。
+
+译文: The molecular weight of H4 is 355, [M+H]+=356, the molecular weight of SM3 is 369, [M+H]+=370; through mass spectrometry analysis, plasma samples contain compounds with negative mass-to-charge ratios of 356 and 370. Based on the retention time and mass-to-charge ratio relative to sbk002, it is preliminarily inferred whether it is likely to produce the metabolite H4 and further metabolite SM3, and their mass spectrometry response values are obtained.
+--------------------------------------------------------------------------------------
+原文: 剩余给药制剂处理：返还供试品管理部，按药物/化学废弃物进行处理； 
+
+译文: Disposal of remaining dose formulations: Return to Test Article Management department, disposed of as medication/chemical waste;
+--------------------------------------------------------------------------------------
+原文: （2）本研究如用于注册申报，其档案保存期为药物上市后至少五年；本研究如不用于注册申报，其档案保存期为试验报告批准日后至少五年。
+
+译文: (2) If this study is used for registration application, the retention period of its files shall be at least five years after the drug is marketed; if this study is not used for registration application, the retention period of its files shall be at least five years from the date of approval of the test report.
+--------------------------------------------------------------------------------------
+原文: 观察动物：所有存活试验动物。
+
+译文: Animals to be observed: all surviving assay animals.
+--------------------------------------------------------------------------------------
+原文: 摘   要
+
+译文: Summary
+--------------------------------------------------------------------------------------
+原文: 联系人：夏玉叶；
+
+译文: Contact person: Xia Yuye;
+--------------------------------------------------------------------------------------
+原文: 饲料、垫料、饮用水检测报告复印件；动物房温湿度报告等
+
+译文: feed, bedding, drinking water testing report copies; animal room temperature and humidity report, etc.
+--------------------------------------------------------------------------------------
+原文: 微克每毫升
+
+译文: Microgram per milliliter
+--------------------------------------------------------------------------------------
+原文: 设备名称
+
+译文: equipment name
+--------------------------------------------------------------------------------------
+原文: 表1-4  SD大鼠灌胃给予sbk002及clo血浆中H4与sbk002平均质谱信号比值
+
+译文: Table 1-4: SD rats intragastric administration of sbk002 and clo afterwards, H4 and sbk002 average quality signal ratio in plasma
+--------------------------------------------------------------------------------------
+原文: 浓度
+
+译文: concentration
+--------------------------------------------------------------------------------------
+原文: 因此， sbk002和clo肠道吸收或代谢趋势基本一致。
+
+译文: Therefore, sbk002 and clo gastrointestinal absorption or metabolism trends are basically consistent.
+--------------------------------------------------------------------------------------
+原文: 品系：SD大鼠； 
+
+译文: strain: SD rats; 
+--------------------------------------------------------------------------------------
+原文: 研究起止日期：2019-09-11 ~ 2019-11-28
+
+译文: Study period: 2019-09-11 ~ 2019-11-28
+--------------------------------------------------------------------------------------
+原文: 8.1.	收集和报告电子数据的采集系统如下：	17
+
+译文: 8.1.	The collection system of collected and reported electronic data is as follows:	17
+--------------------------------------------------------------------------------------
+原文: 毫升
+
+译文: milliliter
+--------------------------------------------------------------------------------------
+原文: 3.6.	实验动物选择依据和数量	12
+
+译文: 3.6.	Laboratory animals selection rationale and quantity	12
+--------------------------------------------------------------------------------------
+原文: 4.6.	饲料	13
+
+译文: 4.6.	Feed	13
+--------------------------------------------------------------------------------------
+原文: 动物选择
+
+译文: Animal Selection
+--------------------------------------------------------------------------------------
+原文: 从0 h 到无限时间的血药浓度-时间曲线下面积
+
+译文: From 0 h to infinite time plasma concentration-time area under curve
+--------------------------------------------------------------------------------------
+原文: 表1-2  SD大鼠灌胃给予sbk002及clo后血浆中sbk002平均血药浓度（ng/mL，n = 8）
+
+译文: Table 1-2: SD rats intragastrically administered sbk002 and clo afterward, sbk002 average plasma concentration (ng/mL, n = 8)
+--------------------------------------------------------------------------------------
+原文: 摘   要	5
+
+译文: Summary	5
+--------------------------------------------------------------------------------------
+原文: 包括但不限于以下内容：
+
+译文: Including but not limited to the following:
+--------------------------------------------------------------------------------------
+原文: 邮编：611731；
+
+译文: Postal code: 611731;
+--------------------------------------------------------------------------------------
+原文: 生产许可证号：SCXK(京)2019-0003；
+
+译文: Production license No: SCXK(Beijing)2019-0003;
+--------------------------------------------------------------------------------------
+原文: 试验
+
+译文: assay
+--------------------------------------------------------------------------------------
+原文: 结果表明：
+
+译文: The results showed that:
+--------------------------------------------------------------------------------------
+原文: 1.5.	试验人员组成	7
+
+译文: 1.5.	Study Personnel composition	7
+--------------------------------------------------------------------------------------
+原文: 性状：类白色粉末；
+
+译文: Characterization: white powder;
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及clo后：血浆中sbk002和H4质谱响应见1-3，H4与sbk002平均质谱响应比值见1-4；sbk002和SM3质谱响应见1-5，SM3与sbk002平均质谱响应比值见1-6。
+
+译文: SD rats intragastrically administered sbk002 and clo afterward: sbk002 and H4 dose-response in plasma shows Table 1-3, H4 and sbk002 mean dose-response ratio shows Table 1-4; sbk002 and SM3 dose-response shows Table 1-5, SM3 and sbk002 mean dose-response ratio shows Table 1-6.
+--------------------------------------------------------------------------------------
+原文: 性状：类白色结晶性粉末；
+
+译文: Characterization: white crystalline powder;
+--------------------------------------------------------------------------------------
+原文: 生产厂家：浙江车头制药股份有限公司；
+
+译文: Manufacturer: Zhejiang CheTou Pharmaceutical Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 标准操作规程
+
+译文: standard operating procedures
+--------------------------------------------------------------------------------------
+原文: 在本研究条件下，大鼠灌胃给药sbk002和clo后，均能够在门静脉（推测肠道会代谢）产生sbk002、代谢产物H4及代谢产物SM3。sbk002门静脉/颈静脉的平均血药浓度比值，代谢产物H4和SM3门静脉/颈静脉的平均质谱信号比值，两组之间均无明显差异。
+
+译文: Under the conditions of this study, rats gavaged with sbk002 and clo could all produce sbk002, metabolism products H4 and SM3 in the portal vein (predicting gastrointestinal metabolism). The mean plasma concentration ratio of sbk002 in the portal vein/jugular vein, the mean qualitative signal ratio of metabolism products H4 and SM3 in the portal vein/jugular vein showed no significant difference between the two dosing groups.
+--------------------------------------------------------------------------------------
+原文: 12.	资料保存	25
+
+译文: 12.	Storage of Data	25
+--------------------------------------------------------------------------------------
+原文: 专题编号：B2019023-K09-01。
+
+译文: Study number: B2019023-K09-01.
+--------------------------------------------------------------------------------------
+原文: 电话：0512-36801688；
+
+译文: Telephone: 0512-36801688;
+--------------------------------------------------------------------------------------
+原文: 采样方法和采样量：门静脉和颈静脉各采血约0.4 mL，收集的全血至含EDTA-K2的抗凝管中，轻柔混匀；
+
+译文: Sampling method and quantity: Collect blood from portal vein and jugular vein, each 0.4 mL. Collected whole blood was placed into an anticoagulant tube containing EDTA-K2, gently mixed.
+--------------------------------------------------------------------------------------
+原文: 相对湿度：40 % ~ 70 %；
+
+译文: Relative humidity: 40 % ~ 70 %;
+--------------------------------------------------------------------------------------
+原文: 表1-1  SD大鼠灌胃给予sbk002及clo后血浆中sbk002个体血药浓度（ng/mL）
+
+译文: Table 1-1: SD rats intragastrically administered sbk002 and clo afterward, individual plasma concentration of sbk002 (ng/mL)
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃给药 sbk002 后，在门静脉（推测肠道会代谢）产生代谢产物 SM3，门静脉和颈静脉的质谱响应 比较，无明显差异；
+
+译文: (1) After gavage administration of sbk002 to SD rats, metabolism of sbk002 in the portal vein produced the metabolite SM3, portal vein and jugular vein metabolism comparisons showed no significant differences;大
+--------------------------------------------------------------------------------------
+原文: 给药信息
+
+译文: Dosing Information
+--------------------------------------------------------------------------------------
+原文: 参照上海药物研究所药物代谢研究中心 钟大放 老师发表的氯吡格雷和 维卡格雷 的 I 期 单次口服给药的 PK/PD 临床研究（ 临床登记号 CTR20150346），进一步研究了氯吡格雷 的 人体代谢产物 及 代谢途径[ 1 ]。
+
+译文: Referring to the phase I single oral dose PK/PD clinical study (clinical registration number CTR20150346) led by Dr. Zhong Da-fang at the Shanghai Institute of Materia Medica, further research on the human metabolism of omeprazole and its metabolic pathways was conducted.[1]
+--------------------------------------------------------------------------------------
+原文: 名称/代号：硫酸氢氯吡格雷/clo；
+
+译文: Name/Code: Citric acid omeprazole/clo;
+--------------------------------------------------------------------------------------
+原文: 光照：人工照明， 12 小时明暗交替；
+
+译文: Lighting：Artificial lighting, 12-hour light-dark cycle;
+--------------------------------------------------------------------------------------
+原文: 主要仪器设备
+
+译文: Major Instruments and Equipment
+--------------------------------------------------------------------------------------
+原文: 性别和数量
+
+译文: Sex and Number
+--------------------------------------------------------------------------------------
+原文: 种类： SPF大小鼠维持饲料；
+
+译文: Type：SPF rats maintenance feed;
+--------------------------------------------------------------------------------------
+原文: 组别设计： sbk002 剂量组 、 clo 剂量组；
+
+译文: Group Design: sbk002 dose group, clo dose group;
+--------------------------------------------------------------------------------------
+原文: 环境改善
+
+译文: Environmental Enrichment
+--------------------------------------------------------------------------------------
+原文: 3.4.	体重和年龄	12
+
+译文: 3.4.	Body Weight and Age	12
+--------------------------------------------------------------------------------------
+原文: 8.	数据采集和分析	17
+
+译文: 8.	Data Collection and Analysis	17
+--------------------------------------------------------------------------------------
+原文: 动物房的环境控制和检测
+
+译文: Animal room environment control and testing
+--------------------------------------------------------------------------------------
+原文: 在室温、避光条件下，准确称取 303.6 mg 的 clo 至 研钵中，加入适量 0.5 % CMC-Na 溶液，充分研磨后，完全转移至标定体积的容器中，用 0.5 % CMC-Na 加至标定刻度，搅拌均匀后 即 得 浓度为 30 mg/mL 的 clo 剂量组 给药制剂 10 mL。
+
+译文: Under room temperature and light-avoiding conditions, accurately weigh 303.6 mg of clo into the mortar, add an appropriate amount of 0.5% CMC-Na solution, fully grind, and then transfer completely into a container with a designated volume, use 0.5% CMC-Na to reach the marked level, after stirring evenly, obtain clo dose formulations concentration of 30 mg/mL, administered at 10 mL;
+--------------------------------------------------------------------------------------
+原文: 雄
+
+译文: Male
+--------------------------------------------------------------------------------------
+原文: 实验动物选择依据和数量
+
+译文: Laboratory Animals Selection Justification and Number
+--------------------------------------------------------------------------------------
+原文: 动物数量：8只/组，合计共 16 只 动物；
+
+译文: Animal Number: 8 per group, total of 16 animals;
+--------------------------------------------------------------------------------------
+原文: 性别比例：雌 、 雄各半；
+
+译文: Sex Ratio：Half female, half male;
+--------------------------------------------------------------------------------------
+原文: 毫克每毫升
+
+译文: Milligram per Milliliter
+--------------------------------------------------------------------------------------
+原文: 4.8.	饮水	14
+
+译文: 4.8.	Drinking Water	14
+--------------------------------------------------------------------------------------
+原文: 附件一：试验方案	27
+
+译文: Appendix One: Study Protocol	27
+--------------------------------------------------------------------------------------
+原文: 名称/代号：羧甲基纤维素钠；
+
+译文: Name/Code: BrdU;
+--------------------------------------------------------------------------------------
+原文: 16只
+
+译文: 16
+--------------------------------------------------------------------------------------
+原文: 6.	观察	16
+
+译文: 6.	Observation	16
+--------------------------------------------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（ Standard Operating Procedures， SOPs）。
+
+译文: The implementation of this study followed standard operating procedures (SOPs) of the institution, except for special explanations in the protocol.
+--------------------------------------------------------------------------------------
+原文: 供试品 2 基本信息
+
+译文: Test Article 2 General Information
+--------------------------------------------------------------------------------------
+原文: 委托单位
+
+译文: Sponsor
+--------------------------------------------------------------------------------------
+原文: 2.	试验材料	9
+
+译文: 2.	Study Materials	9
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃给药 sbk002 后，在门静脉（推测肠道会代谢）会产生代谢产物 H4，门静脉和颈静脉的质谱响应比较，无明显差异；
+
+译文: (1) After gavage administration of sbk002 to SD rats, metabolism of sbk002 in the portal vein produces the metabolite H4, portal vein and jugular vein metabolism comparisons showed no significant differences;
+--------------------------------------------------------------------------------------
+原文: 一般状态观察
+
+译文: General Condition Observation
+--------------------------------------------------------------------------------------
+原文: 血样处理：全血 samples 在 冰盒 中 放置，冰盒 中运输，在2 ~ 8 ℃，4000 r/min，离心10 min；分离 plasma，保存2管，EP 管labels表格example 如下：
+
+译文: Blood sample processing: whole blood samples placed in an ice box, transported in an ice box, centrifuged at 4000 r/min at 2 ~ 8 ℃ for 10 min; plasma was separated, stored in 2 tubes, and labelled as shown below:
+--------------------------------------------------------------------------------------
+原文: 9.	结果	19
+
+译文: 9.	Results 	19
+--------------------------------------------------------------------------------------
+原文: 代谢产物SM3门静脉/颈静脉的平均质谱信号比值：SD大鼠灌胃给予sbk002后代谢产物SM3门静脉平均质谱响应/颈静脉平均质谱响应比值为0.85；SD大鼠灌胃给予clo后代谢产物SM3门静脉平均质谱响应与颈静脉平均质谱响应比值为1.12，两给药组比较无明显差异。
+
+译文: The mean conductivity signal ratio of SM3 metabolic products in the portal vein/jugular vein: After gavage of sbk002 in SD rats, the mean conductivity response of SM3 metabolic products in the portal vein/the mean conductivity response in the jugular vein ratio is 0.85; After gavage of clo in SD rats, the mean conductivity response ratio of SM3 metabolic products in the portal vein/the mean conductivity response in the jugular vein is 1.12. There were no significant differences between the two drug administration groups.
+--------------------------------------------------------------------------------------
+原文: 邮编：215300；
+
+译文: Postcode: 215300;
+--------------------------------------------------------------------------------------
+原文: （1）总结报告签字后2周内，专题负责人确保所有研究资料移交至档案室归档。
+
+译文: (1) Within 2 weeks after final report signing, the study director ensures all research materials are transferred to the archives room for filing.
+--------------------------------------------------------------------------------------
+原文: 有效期至：2022-03-14；
+
+译文: Expiry date: 2022-03-14;
+--------------------------------------------------------------------------------------
+原文: 与试验有关的各种书面文件或报告
+
+译文: Various written documents or reports related to the assay
+--------------------------------------------------------------------------------------
+原文: 剩余动物的处理：本试验剩余实验动物于首次给药后一周内移交毒理运行部。
+
+译文: Disposal of remaining animals: The remaining laboratory animals from this assay will be transferred to the Toxicology Operations Department within one week after the first dose.
+--------------------------------------------------------------------------------------
+原文: 生产厂家：成都施贝康生物医药科技有限公司；
+
+译文: Manufacturer: Chengdu Sibekang Biomedical Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 电话：
+
+译文: Telephone:
+--------------------------------------------------------------------------------------
+原文: 试验操作：孔维晨、嵇佳佳等；
+
+译文: Assay operation: Weiwei Kong, Jia Jia Deng, et al;
+--------------------------------------------------------------------------------------
+原文: 结论
+
+译文: Conclusion
+--------------------------------------------------------------------------------------
+原文: 目 录
+
+译文: Contents
+--------------------------------------------------------------------------------------
+原文: 1.	基本信息	6
+
+译文: 1.	Basic Information	6
+--------------------------------------------------------------------------------------
+原文: 结果：
+
+译文: Results:
+--------------------------------------------------------------------------------------
+原文: 13.	附录项目	27
+
+译文: 13.	Appendixes	27
+--------------------------------------------------------------------------------------
+原文: 供应商提供饲料的质量合格证明，合格证号：1112621900011137、1112621900011785；
+
+译文: The supplier provided feed quality certificates, qualification certificate numbers: 1112621900011137, 11126219000111785;
+--------------------------------------------------------------------------------------
+原文: 4.5.	环境改善	13
+
+译文: 4.5.	Environmental Enrichment	13
+--------------------------------------------------------------------------------------
+原文: 冷明红，M.S.日期
+
+译文: Leng Minghong, M.S.                                                                    Date
+--------------------------------------------------------------------------------------
+原文: 7.3.	结果分析	17
+
+译文: 7.3.	Result Analysis	17
+--------------------------------------------------------------------------------------
+原文: 供试品1基本信息
+
+译文: Basic Information of Test Article 1
+--------------------------------------------------------------------------------------
+原文: 试验设计
+
+译文: Study Design
+--------------------------------------------------------------------------------------
+原文: 实验动物选择理由：参照《药物非临床药代动力学研究技术指导原则》原CFDA，2014年05月），以及前期实验数据，SD大鼠为本实验的敏感动物。因此，本试验也选用SD大鼠为受试动物，其遗传、生物学背景（包括解剖、生理、临床病理等各种数据的正常范围）比较清。
+
+译文: Reasons for selecting laboratory animals: According to the CFDA's 'Guiding Principles for Non-Clinical Pharmacokinetic Research of Drugs', May 2014, and previous experimental data, SD rats are the sensitive animals for this experiment. Therefore, SD rats were also chosen for this assay, as their genetic and biological backgrounds (including anatomical, physiological, and clinical pathology data within the normal range) are relatively clear.
+--------------------------------------------------------------------------------------
+原文: 12.2.	归档内容	25
+
+译文: 12.2.	Archived Data	25
+--------------------------------------------------------------------------------------
+原文: 结论：在本研究条件下，大鼠灌胃给药sbk002和clo后，均能够在门静脉（推测肠道会代谢）产生sbk002、代谢产物H4及代谢产物SM3。且sbk002门静脉/颈静脉的平均血药浓度比值，代谢产物H4和SM3门静脉/颈静脉的平均质谱信号比值，两给药组之间均无明显差异。
+
+译文: Conclusion: Under the conditions of this study, after gavage administration of sbk002 and clo to rats, metabolites sbk002, H4 metabolite, and SM3 metabolite were produced in the portal vein (presumed to imply gastrointestinal metabolism). Moreover, the mean blood concentration ratio of sbk002 in the portal vein/jugular vein, and the mean conductivity signal ratio of H4 metabolite and SM3 metabolite in the portal vein/jugular vein, showed no significant differences between the two dosing groups.
+--------------------------------------------------------------------------------------
+原文: 批号：196766001；
+
+译文: Batch number: 196766001;
+--------------------------------------------------------------------------------------
+原文: 7.2.	血药浓度检测	17
+
+译文: 7.2.	Blood Concentration Testing	17
+--------------------------------------------------------------------------------------
+原文: (4) sbk002组（10 mg/kg）灌胃3小时后门静脉和颈静脉中代谢产物H4的平均质谱响应均显著高于clo组（30 mg/kg），说明clo在肠道或肝脏转化为代谢产物H4的转化率低，与文献报道一致。
+
+译文: (4) The mean conductivity response of H4 metabolite in the portal vein and jugular vein of the sbk002 group (10 mg/kg) 3 hours after gavage was significantly higher than that of the clo group (30 mg/kg), indicating that the conversion rate of clo to H4 metabolite in the intestine or liver is low, consistent with literature reports.
+--------------------------------------------------------------------------------------
+原文: 注：动物编号的首位数字代表组别（1和2分别代表sbk002剂量组和clo剂量组），第二位字母F表示雌性，M表示雄性。后3位数字代表动物序列号。
+
+译文: Note: The first digit of the animal number represents the group (1 and 2 represent sbk002 dose group and clo dose group respectively), the second letter F represents female, M represents male. The last 3 digits represent the animal sequence number.
+--------------------------------------------------------------------------------------
+原文: 小时
+
+译文: hour
+--------------------------------------------------------------------------------------
+原文: 动物的饲养和管理
+
+译文: animal feeding and management
+--------------------------------------------------------------------------------------
+原文: (4) sbk002组（10 mg/kg）灌胃3小时后门静脉和颈静脉中的代谢产物SM3的平均质谱响应均显著高于clo组（30 mg/kg），说明clo在肠道或肝脏转化为代谢产物SM3的转化率低，与文献报道一致，
+
+译文: (4) The sbk002 group (10 mg/kg) showed higher mean quality response of the metabolite SM3 in the portal vein and jugular vein 3 hours after gavage compared to the clo group (30 mg/kg), indicating that the conversion rate of clo into the metabolite SM3 in the intestines or liver is low, consistent with literature reports.
+--------------------------------------------------------------------------------------
+原文: 分钟
+
+译文: Minute
+--------------------------------------------------------------------------------------
+原文: 1.4.	委托单位	6
+
+译文: 1.4.	Sponsor	6
+--------------------------------------------------------------------------------------
+原文: 动物数量选择理由：在满足研究目的、科学标准和法规要求的前提下，使用尽可能少的动物。试验共分2组，每组8只，雌、雄各半，共使用16只SD大鼠，可满足获取足够实验数据的最低动物数目要求，为防止所购实验动物由于未知原因导致不能满足试验需求的情形发生，额外多申购2只动物/性别。
+
+译文: Justification for selection of the number of laboratory animals: To meet the research objectives, scientific standards, and regulatory requirements, the study will use the minimum number of animals necessary. The experiment consists of 2 groups, with 8 animals per group, half male and half female, totaling 16 SD rats. This number is sufficient to obtain adequate experimental data, while extra 2 animals/sex are procured to prevent any unforeseen circumstances where animals fail to meet experimental needs.
+--------------------------------------------------------------------------------------
+原文: 变异系数
+
+译文: Coefficient of variation
+--------------------------------------------------------------------------------------
+原文: 名称：
+
+译文: name：
+--------------------------------------------------------------------------------------
+原文: 垫料批号：AWR-20190408；
+
+译文: bedding batch number：AWR-20190408；
+--------------------------------------------------------------------------------------
+原文: 地址：
+
+译文: Address：
+--------------------------------------------------------------------------------------
+原文: 11.	试验方案、偏离和变更	25
+
+译文: 11.	Study protocol, deviation, and amendments	25
+--------------------------------------------------------------------------------------
+原文: 7.1.	血样采集	16
+
+译文: 7.1.	Blood sample collection	16
+--------------------------------------------------------------------------------------
+原文: 供水方法：饮水瓶盛装，自由摄取；
+
+译文: Water supply method: Drinking water bottles provided, ad libitum;
+--------------------------------------------------------------------------------------
+原文: 给药容积：单次给药容积均为1 mL/kg。每只动物的给药量根据最近一次测量的体重进行调整；
+
+译文: Dose volume: Single dose volume is 1 mL/kg. The dose for each animal is adjusted based on the most recent body weight measurement;
+--------------------------------------------------------------------------------------
+原文: 型号
+
+译文: Model
+--------------------------------------------------------------------------------------
+原文: 低于定量下限
+
+译文: Below the lower limit of quantification
+--------------------------------------------------------------------------------------
+原文: 名称：成都施贝康生物医药科技有限公司；
+
+译文: name: Chengdu Sbicon Biopharmaceutical Technology Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 1.7.	试验时间安排	8
+
+译文: 1.7.	Assay schedule	8
+--------------------------------------------------------------------------------------
+原文: 计算门静脉和颈静脉待测物平均血药浓度和平均质谱信号。平均血药浓度比值用于评估采血位置差异和剂量组差异，比值在0.5 ~ 2之间判定为无明显差异，< 0.5或 >2判定为有明显差异；
+
+译文: Calculation of portal vein and jugular vein mean blood drug levels and mean quality signals. Mean blood drug concentration ratios are used to evaluate differences in blood collection positions and dose groups, with a ratio of 0.5 to 2 indicating no significant difference, and < 0.5 or > 2 indicating significant difference;
+--------------------------------------------------------------------------------------
+原文: 电子邮件：xiayuye@cti-cert.com。
+
+译文: Email: xiayuye@cti-cert.com.
+--------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公号
+
+译文: Chengdu Sbicon Biopharmaceutical Technology Co., Ltd.
+--------------------------------------------------------------------------------------
+原文: 设施内的所有原始数据根据试验方案和苏州华测生物技术有限公司的SOP手动收集或用数据采集系统收集。手动收集的数据转录到Excel表格中用来分析和报告。
+
+译文: All raw data in the facility is manually collected or gathered using a data acquisition system based on the study protocol and SOPs of Suzhou Huace Biotech Co., Ltd. Manually collected data is transcribed into Excel sheets for analysis and reporting.
+--------------------------------------------------------------------------------------
+原文: 供试品留样：按非成品制剂留样；
+
+译文: Test article retention samples: Retention samples according to non-final formulation;
+--------------------------------------------------------------------------------------
+原文: 用途
+
+译文: Purpose
+--------------------------------------------------------------------------------------
+原文: 名称/代号：sbk002；
+
+译文: Name/Code: sbk002;
+--------------------------------------------------------------------------------------
+原文: 基本信息
+
+译文: General Information
+--------------------------------------------------------------------------------------
+原文: 地址：成都高新区（西区）西芯大道17号；
+
+译文: Address: Chengdu New & Hi-tech Industrial Development Zone (West Area), 17 West Core Road;
+--------------------------------------------------------------------------------------
+原文: 4.	动物的饲养和管理	12
+
+译文: 4.	Animal feeding and management	12
+--------------------------------------------------------------------------------------
+原文: 配制方法
+
+译文: preparation method
+--------------------------------------------------------------------------------------
+原文: 剂量
+
+译文: dose
+--------------------------------------------------------------------------------------
+原文: 沛吕西格雷的人体代谢产物及代谢途径：
+
+译文: Metabolites and metabolic pathway of prasugrel in the human body:
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应相对比值为0.91；SD大鼠灌胃给予clo后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应比值为1.16。
+
+译文: SD rats gavage with sbk002, the relative ratio of metabolite H4 portal vein mean mass spectrometry response/neck vein mean mass spectrometry response is 0.91; SD rats gavage with clo, the ratio is 1.16.
+--------------------------------------------------------------------------------------
+原文: 测定时间：给药前测定1次。
+
+译文: Measurement time: determination once before dosing.
+--------------------------------------------------------------------------------------
+原文: 本试验未产生偏离试验方案的情况。本试验无试验方案的变更，试验方案见附件二。
+
+译文: No deviations from the study protocol occurred in this experiment. There were no amendments to the study protocol; see Appendix 2 for the study protocol.
+--------------------------------------------------------------------------------------
+原文: 试验方法
+
+译文: Study method
+--------------------------------------------------------------------------------------
+原文: 饲养密度：≤4只/笼。
+
+译文: Housing density: ≤4 rats per cage.
+--------------------------------------------------------------------------------------
+原文: 表观分布容积
+
+译文: Apparent distribution volume
+--------------------------------------------------------------------------------------
+原文: 保存条件：常规；
+
+译文: Storage condition: routine;
+--------------------------------------------------------------------------------------
+原文: sbk002剂量组
+
+译文: sbk002 dose group
+--------------------------------------------------------------------------------------
+原文: 试验主要组成人员
+
+译文: Principal study personnel
+--------------------------------------------------------------------------------------
+原文: 3.	试验系统	11
+
+译文: 3.	Test system	11
+--------------------------------------------------------------------------------------
+原文: 签   字   页
+
+译文: Signature page
+--------------------------------------------------------------------------------------
+原文: 8.2.	沛吕西格雷的人体代谢产物及代谢途径：	18
+
+译文: 8.2.	Metabolites and metabolic pathway of prasugrel in the human body:	18
+--------------------------------------------------------------------------------------
+原文: 江苏省昆山市高新区元丰路166号
+
+译文: 166 Yuanfeng Road, New & Hi-tech Industrial Development Zone, Kunshan City, Jiangsu Province
+--------------------------------------------------------------------------------------
+原文: 规格：2.2 g/袋；
+
+译文: Size: 2.2 g/bag;
+--------------------------------------------------------------------------------------
+原文: 饲养地点：苏州华测生物技术有限公司1号楼2楼屏障系统内；
+
+译文: Housing location: Inside the barrier system, 2nd floor, Building 1, Suzhou Huace Biotechnology Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 平均质谱响应比值
+
+译文: Mean mass spectrometry response ratio
+--------------------------------------------------------------------------------------
+原文: 总结合报告
+
+译文: Final report
+--------------------------------------------------------------------------------------
+原文: 饲养环境条件标准：中华人民共和国国家标准GB14925-2010；
+
+译文: Housing environment condition standards: National Standards of the People's Republic of China GB14925-2010;
+--------------------------------------------------------------------------------------
+原文: 资料保存
+
+译文: Data storage
+--------------------------------------------------------------------------------------
+原文: 图1-1 sbk002剂量组1M001门静脉血浆样品典型图
+
+译文: Figure 1-1 Typical plot of sbk002 dose group 1M001 portal vein plasma sample
+--------------------------------------------------------------------------------------
+原文: 研究机构按照《职业卫生安全与防护手册》来操作。在试验操作时，穿戴合适的个人防护设备（PPE）及护目镜。
+
+译文: The test facility operates according to the 'Occupational Health Safety and Protection Manual'. During the assay operations, appropriate personal protective equipment (PPE) and goggles should be worn.
+--------------------------------------------------------------------------------------
+原文: 动物标识
+
+译文: Animal identification
+--------------------------------------------------------------------------------------
+原文: 留样供试品
+
+译文: Retained test articles
+--------------------------------------------------------------------------------------
+原文: 联系人：武丽；
+
+译文: Contact person: Wu Li;
+--------------------------------------------------------------------------------------
+原文: 血样采集及检测分析
+
+译文: Blood sample collection and testing analysis
+--------------------------------------------------------------------------------------
+原文: 给药后3 h
+
+译文: 3 hours post-dosing
+--------------------------------------------------------------------------------------
+原文: 6.2.	体重	16
+
+译文: 6.2.	Body weight	16
+--------------------------------------------------------------------------------------
+原文: 电话：17312661834；
+
+译文: Telephone: 17312661834;
+--------------------------------------------------------------------------------------
+原文: 电子邮件：779061281@qq.com。
+
+译文: Email: 779061281@qq.com.
+--------------------------------------------------------------------------------------
+原文: 给药前对所有进入适应期的大鼠进行一般状态观察，检查不合格的动物不纳入试验。
+
+译文: General state observation was performed on all rats entering the acclimation period before dosing; animals that did not pass the examination were not included in the study.
+--------------------------------------------------------------------------------------
+原文: 留样及剩余给药制剂/供试品的处理
+
+译文: Handling of retained samples and remaining dose formulations/test articles
+--------------------------------------------------------------------------------------
+原文: 《药物非临床研究质量管理规范》（原CFDA，2017年09月）；
+
+译文: 《Good Laboratory Practice for Non-clinical Studies》(formerly CFDA, September 2017);
+--------------------------------------------------------------------------------------
+原文: (3) 门静脉/颈静脉的平均血药浓度比值sbk002剂量组为1.82，clo组为1.40，两者比较无明显差异。
+
+译文: (3) The mean blood drug concentration ratio of portal vein/neck vein in sbk002 dose group is 1.82, and clo group is 1.40, with no significant difference between the two.
+--------------------------------------------------------------------------------------
+原文: 保存场所：苏州华测生物技术有限公司档案管理部；
+
+译文: Storage location: Archives Management Department, Suzhou Huace Biotechnology Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 2.2.	操作/安全措施	11
+
+译文: 2.2.	Operations/Safety measures	11
+--------------------------------------------------------------------------------------
+原文: 试验人员组成
+
+译文: Composition of study personnel
+--------------------------------------------------------------------------------------
+原文: 来源
+
+译文: Source
+--------------------------------------------------------------------------------------
+原文: 名称：苏州华测生物技术有限公司；
+
+译文: Name: Suzhou Huace Biotechnology Co., Ltd.;
+--------------------------------------------------------------------------------------
+原文: 门静脉/颈静脉
+
+译文: Portal vein/neck vein
+--------------------------------------------------------------------------------------
+原文: 饲料批号：19083213；
+
+译文: Feed batch number: 19083213;
+--------------------------------------------------------------------------------------
+原文: 相对偏差
+
+译文: Relative deviation
+--------------------------------------------------------------------------------------
+原文: 饲料
+
+译文: Feed
+--------------------------------------------------------------------------------------
+原文: 化学污染物：具有谱尼测试提供的检测报告（报告编号：GNALX2IA1S1068945），检测指标包括砷、铅、镉、汞、六六六、滴滴涕、黄曲霉毒素B1。检测结果符合国标。
+
+译文: Chemical pollutants: includes a testing report provided by Eurofins (report number: GNALX2IA1S1068945), with testing parameters including arsenic, lead, cadmium, mercury, Hexachlorobenzene, Polychlorinated biphenyls, and Aflatoxin B1. The test results comply with national standards.
+--------------------------------------------------------------------------------------
+原文: 试验系统
+
+译文: test system
+--------------------------------------------------------------------------------------
+原文: 颈静脉
+
+译文: jugular vein
+--------------------------------------------------------------------------------------
+原文: 《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月）；
+
+译文: Principles for Nonclinical Drug Metabolism Kinetics Study Techniques (originally CFDA, May 2014)
+--------------------------------------------------------------------------------------
+原文: 保存条件：15 ℃~ 25 ℃、密闭、遮光、干燥；
+
+译文: Storage condition: 15 ℃~ 25 ℃, airtight, protected from light, and dry
+--------------------------------------------------------------------------------------
+原文: 生产许可证号：SCXK（浙）2019-0001；
+
+译文: Production license No: SCXK (Zhejiang) 2019-0001
+--------------------------------------------------------------------------------------
+原文: 雌
+
+译文: egg
+--------------------------------------------------------------------------------------
+原文: 动物管理和使用
+
+译文: animal management and use
+--------------------------------------------------------------------------------------
+原文: 中文名称
+
+译文: Chinese name
+--------------------------------------------------------------------------------------
+原文: 适应期第1天定义为P1，首次给药当天定义为给药期第1天（day 1，D1）。
+
+译文: the first day of the adaptation period is defined as P1, and the first day of dosing is defined as day 1, D1.
+--------------------------------------------------------------------------------------
+原文: 本试验涉及的与动物试验相关的内容和程序都遵从实验动物使用和管理的相关法律法规和本机构实验动物使用和管理委员会（Institutional Animal Care and Use Committee，IACUC）的相关规定。动物数量、试验设计及动物的处理都已通过本机构IACUC审批(审批号：IACUC-B2019023-K09-01)，并严格按IACUC批准的内容执行。
+
+译文: The contents and procedures related to animal experiments involved in this test comply with relevant laws, regulations, and rules for the use and management of experimental animals, and the relevant regulations of the Institutional Animal Care and Use Committee (IACUC). The number of animals, study design, and disposal of animals were approved by the IACUC of the institution (Approval No: IACUC-B2019023-K09-01) and were strictly implemented according to the approved content.
+--------------------------------------------------------------------------------------
+原文: 5.2.	试验方法	16
+
+译文: 5.2.	assay method	16
+--------------------------------------------------------------------------------------
+原文: 推测本次试验中考察的化合物356和370即为活性代谢产物H4和进一步代谢的甲基化产物SM3。
+
+译文: It is estimated that the synthetic compounds 356 and 370 observed in this test are the active metabolites H4 and further metabolite carbamate derivations SM3.
+--------------------------------------------------------------------------------------
+原文: 个体编号
+
+译文: individual ID number
+--------------------------------------------------------------------------------------
+原文: 9.2.	大鼠灌胃sbk002及clo的门静脉及颈静脉代谢产物研究	20
+
+译文: 9.2.	rats gavage sbk002 and clo portal vein and jugular vein metabolite study	20
+--------------------------------------------------------------------------------------
+原文: 根据研究机构的SOPs制定笼卡，每只动物通过尾部标记和笼卡作为动物识别标记。
+
+译文: According to the SOPs of the research facility, each animal is identified by tail labeling and a cage card as its identification marker.
+--------------------------------------------------------------------------------------
+原文: 供试品管理：陈晓艳；
+
+译文: Test article management: Chen Xiaoyan
+--------------------------------------------------------------------------------------
+原文: 动物饲养
+
+译文: Animal Housing
+--------------------------------------------------------------------------------------
+原文: 专题名称及编号
+
+译文: Study Name and Number
+--------------------------------------------------------------------------------------
+原文: 使用LC-MS/MS法检测血浆样品中sbk002的浓度以及代谢产物的质谱信号。
+
+译文: Using LC-MS/MS method to test the concentration of sbk002 and its metabolite profile in plasma samples.
+--------------------------------------------------------------------------------------
+原文: 缩略词表
+
+译文: ABBREVIATION INDEX
+--------------------------------------------------------------------------------------
+原文: 联系电话：0512-36801688。
+
+译文: Contact Telephone: 0512-36801688
+--------------------------------------------------------------------------------------
+原文: 姓名：冷明红；
+
+译文: Name: Leng Minghong
+--------------------------------------------------------------------------------------
+原文: 制造商
+
+译文: Manufacturer
+--------------------------------------------------------------------------------------
+原文: 地址：江苏省昆山市高新区元丰路166号；
+
+译文: Address: Yuanfeng Road 166, New & Hi-tech Industrial Development Zone, Kunshan City, Jiangsu Province
+--------------------------------------------------------------------------------------
+原文: 供试品配制方法：以配制10 mL给药制剂举例如下：
+
+译文: Preparation of test article method: an example is given for preparing a 10 mL dose formulation as follows:
+--------------------------------------------------------------------------------------
+原文: 动物分组及剂量信息见下表：
+
+译文: Animal Group Assignment and Dose Information see table below:
+--------------------------------------------------------------------------------------
+原文: 保存条件：室温；
+
+译文: Storage condition: room temperature
+--------------------------------------------------------------------------------------
+原文: 本试验不是以前任何试验的简单重复，没有其他替代试验可以解决；并且经文献检索，没有其他可以引起较少疼痛和紧张的方法可以替代本试验中提到的操作方法。
+
+译文: This experiment is not a simple repetition of any previous experiments, nor can other replacement experiments solve it; and after literature searches, there are no other methods that can replace the manipulations mentioned in this test with methods that cause less pain and tension.
+--------------------------------------------------------------------------------------
+原文: 5.	试验设计	15
+
+译文: 5.	study design	15
+--------------------------------------------------------------------------------------
+原文: 溶媒基本信息
+
+译文: vehicle General Information
+--------------------------------------------------------------------------------------
+原文: sbk002给药制剂配制方法：根据SD大鼠最近一次体重、给药剂量计算所需供试品的量，根据供试品的量、配制浓度计算配制体积（配制体积=供试品量×含量/配制浓度）。在室温、避光条件下，准确称取一定量的供试品至研钵中，加入适量的溶媒充分研磨后，完全转移至一定体积的容器内，用溶媒定至刻度，即得所需浓度的供试品给药制剂。
+
+译文: sbk002 dose formulation preparation method: According to the most recent body weight of SD rats, calculate the amount of test article required based on the dosage. Calculate the prepared volume based on the amount of test article and the preparation concentration (prepared volume = test article amount × content/preparation concentration). Under room temperature and light-protected conditions, accurately weigh a certain amount of test article into a mortar, add an appropriate amount of solvent and grind thoroughly. Completely transfer it to a container of specified volume, use the solvent to make up to the mark, to obtain the required concentration of the test article dose formulation.
+--------------------------------------------------------------------------------------
+原文: 附录项目
+
+译文: Appendixes
+--------------------------------------------------------------------------------------
+原文: 提供单位：成都施贝康生物医药科技有限公司。
+
+译文: Supplier: Chengdu Siprecon Biomedicine Technology Co., Ltd.
+--------------------------------------------------------------------------------------
+原文: 附件一：试验方案	28
+
+译文: Appendix One: Study Protocol	28
+--------------------------------------------------------------------------------------
+原文: 签   字   页	2
+
+译文: Signature Page	2
+--------------------------------------------------------------------------------------
+原文: 观察内容：包括但不限于一般表现、行为状态、眼睛、口腔、鼻口部、耳、毛发及皮肤、粪便、尿及生殖器等毒性症状；
+
+译文: Observation items: Including but not limited to general conditions, behavioral status, eyes, oral cavity, muzzle, ears, hair and skin, feces, urine, and genitalia for toxicity symptoms;
+--------------------------------------------------------------------------------------
+原文: 性状：白色至灰色粉末或晶体；
+
+译文: Characterization: White to gray powder or crystals;
+--------------------------------------------------------------------------------------
+原文: 不适用
+
+译文: Not Applicable
+--------------------------------------------------------------------------------------
+原文: 联系人：牟旎；
+
+译文: Contact: Mu Ni;
+--------------------------------------------------------------------------------------
+原文: 在室温、避光条件下，准确称取100.6 mg的sbk002至研钵中，加入适量0.5 % CMC-Na溶液充分研磨后，完全转移至标定体积的容器中，用0.5 % CMC-Na加至标定刻度，搅拌均匀后即得浓度为10 mg/mL 的sbk002剂量组给药制剂10 mL。
+
+译文: Under room temperature and light-protected conditions, accurately weigh 100.6 mg of sbk002 into a mortar, add an appropriate amount of 0.5% CMC-Na solution, and grind thoroughly. Completely transfer to a container of specified volume, use 0.5% CMC-Na to make up to the mark, stir well to obtain 10 mL of sbk002 dose group dose formulation with a concentration of 10 mg/mL.
+--------------------------------------------------------------------------------------
+原文: 剩余供试品处理：待本项目全部专题结束后退回委托方。
+
+译文: Remaining test article handling: Return to the sponsor after all studies in this project are completed.
+--------------------------------------------------------------------------------------
+原文: clo给药制剂配制方法：根据SD大鼠最近一次体重、给药剂量计算所需供试品的量，根据供试品的量、配制浓度计算配制体积（配制体积=阳性对照品量×含量/配制浓度）。在室温、避光条件下，准确称取一定量的供试品研钵中，加入适量的溶媒充分研磨后，完全转移至一定体积的容器内，用溶媒定至刻度，即得所需浓度的供试品剂量组给药制剂。
+
+译文: clo dose formulation preparation method: According to the most recent body weight of SD rats, calculate the amount of test article required based on the dosage. Calculate the prepared volume based on the amount of test article and the preparation concentration (prepared volume = positive reference item amount × content/preparation concentration). Under room temperature and light-protected conditions, accurately weigh a certain amount of test article into a mortar, add an appropriate amount of solvent and grind thoroughly. Completely transfer it to a container of specified volume, use the solvent to make up to the mark, to obtain the required concentration of the test article dose group dose formulation.
+--------------------------------------------------------------------------------------
+原文: 目 录	4
+
+译文: Contents	4
+--------------------------------------------------------------------------------------
+原文: 供试品
+
+译文: Test article
+--------------------------------------------------------------------------------------
+原文: 3.1.	品种/品系/级别	11
+
+译文: 3.1.	Species/strain/grade	11
+--------------------------------------------------------------------------------------
+原文: 代谢产物SM3
+
+译文: Metabolite SM3
+--------------------------------------------------------------------------------------
+原文: 4.2.	接受和适应	13
+
+译文: 4.2.	Animal Receipt and Acclimation	13
+--------------------------------------------------------------------------------------
+原文: 供试品配制：刘露露；
+
+译文: Preparation of test article: Liu Lulu;
+--------------------------------------------------------------------------------------
+原文: Confidential                                                                             第 5页 /共 29页
+
+译文: Confidential                                                                             Page 5 / 29
+--------------------------------------------------------------------------------------
+原文: 给料方法：自由摄取（试验有特殊要求时除外）；
+
+译文: Feeding method: Ad libitum (except when the assay has special requirements);
+--------------------------------------------------------------------------------------
+原文: 1.6.	遵循的法规及技术指导原则	7
+
+译文: 1.6.	Regulations and technical guidelines followed	7
+--------------------------------------------------------------------------------------
+原文: 因此，sbk002和clo肠道吸收或代谢趋势基本一致。推测H4和SM3为活性代谢产物和进一步代谢的甲基化产物。
+
+译文: Therefore, sbk002 and clo intestinal absorption or metabolism trends are basically consistent. It is inferred that H4 and SM3 are active metabolic products and further methylation products.
+--------------------------------------------------------------------------------------
+原文: 动物编号
+
+译文: animal number
+--------------------------------------------------------------------------------------
+原文: 选择理由：与临床用药途径一致；
+
+译文: Reason for selection: Consistent with clinical medication route;
+--------------------------------------------------------------------------------------
+原文: 1.1.	专题名称及编号	6
+
+译文: 1.1.	Study Name and Number	6
+--------------------------------------------------------------------------------------
+原文: (2) SD大鼠灌胃给药clo后，在门静脉（推测肠道会代谢）会产生代谢产物H4，门静脉和颈静脉的质谱响应比较，无明显差异；
+
+译文: (2) After gavage administration of clo to SD rats, it is inferred that metabolic product H4 will be produced in the portal vein (suggesting intestinal metabolism), and there is no significant difference between the mass response of the portal vein and the cervical vein;
+--------------------------------------------------------------------------------------
+原文: 平均滞留时间
+
+译文: mean residence time
+--------------------------------------------------------------------------------------
+原文: 归档内容
+
+译文: Archived Data
+--------------------------------------------------------------------------------------
+原文: 代谢产物sbk002门静脉/颈静脉的平均血药浓度比值：SD大鼠灌胃给予sbk002 10 mg/kg后，门静脉/颈静脉的sbk002血药浓度均值比值为1.82；SD大鼠灌胃给予30 mg/kg的clo后，门静脉/颈静脉的sbk002血药浓度均值比值为1.40，两给药组比较无明显差异。
+
+译文: Mean blood drug concentration ratio of sbk002 metabolic product in portal vein/cervical vein: After gavage administration of sbk002 10 mg/kg in SD rats, the average blood drug concentration ratio of sbk002 in portal vein/cervical vein is 1.82; after gavage administration of 30 mg/kg of clo in SD rats, the average blood drug concentration ratio of sbk002 in portal vein/cervical vein is 1.40. There is no significant difference between the two administration groups.
+--------------------------------------------------------------------------------------
+原文: 毫克
+
+译文: Milligram
+--------------------------------------------------------------------------------------
+原文: (3) 代谢产物SM3门静脉/颈静脉的平均质谱响应比值sbk002剂量组为0.85，clo组为1.12，两者比较无明显差异。
+
+译文: (3) Mean mass spectrum response ratio of SM3 metabolic product in portal vein/cervical vein: The ratio is 0.85 in the sbk002 dose group and 1.12 in the clo group, with no significant difference between the two.
+--------------------------------------------------------------------------------------
+原文: 观察时间：每天上午或下午观察1次；
+
+译文: Observation time: Observe once every morning or afternoon;
+--------------------------------------------------------------------------------------
+原文: 3.5.	动物标识	12
+
+译文: 3.5.	Animal Identification	12
+--------------------------------------------------------------------------------------
+原文: 动物饲养管理：李永超；
+
+译文: Animal husbandry management: Li Yongchao;
+--------------------------------------------------------------------------------------
+原文: 表1-6  SD大鼠灌胃给予sbk002及clo血浆中SM3和sbk002
+
+译文: Table 1-6  Plasma levels of SM3 and sbk002 in SD rats after gavage administration of sbk002 and clo
+--------------------------------------------------------------------------------------
+原文: 组别
+
+译文: group
+--------------------------------------------------------------------------------------
+原文: sbk002剂量组门静脉血浆样品典型图谱见图1-1，颈静脉血浆样品典型图谱见图1-2；clo剂量组门静脉血浆样品典型图谱见图1-3，clo剂量组颈静脉血浆样品典型图谱见图1-4。
+
+译文: Typical chromatograms of portal vein plasma samples for sbk002 dose group are shown in Figure 1-1, and typical chromatograms of cervical vein plasma samples are shown in Figure 1-2; typical chromatograms of portal vein plasma samples for clo dose group are shown in Figure 1-3, and typical chromatograms of cervical vein plasma samples for clo dose group are shown in Figure 1-4.
+--------------------------------------------------------------------------------------
+原文: 以健康SD大鼠为受试动物，研究sbk002及氯酸氢钠格雷SD大鼠肠道吸收及代谢，评价其代谢靶点。
+
+译文: Using healthy SD rats as test animals, the intestinal absorption and metabolism of sbk002 and sodium chlorite in SD rats were studied to evaluate their metabolic targets.
+--------------------------------------------------------------------------------------
+原文: 4.7.	垫料	14
+
+译文: 4.7.	bedding	14
+--------------------------------------------------------------------------------------
+原文: 批号：C1814029；
+
+译文: batch number: C1814029；
+--------------------------------------------------------------------------------------
+原文: 门静脉SM3/颈静脉SM3
+
+译文: portal vein SM3/cervical vein SM3
+--------------------------------------------------------------------------------------
+原文: 从0 h到最后可测浓度的血药浓度-时间曲线下面积
+
+译文: Area under the blood drug concentration-time curve from 0 h to the last quantifiable concentration
+--------------------------------------------------------------------------------------
+原文: 为实验动物提供玩具，作为环境改良措施。
+
+译文: Provide toys for laboratory animals as an environmental enrichment measure.
+--------------------------------------------------------------------------------------
+原文: 半衰期
+
+译文: half-life
+--------------------------------------------------------------------------------------
+原文:  (1) sbk002经灌胃后，通过肠道吸收，门静脉血药浓度和颈静脉血药浓度比较，无明显差异。
+
+译文:  (1) After gavage administration of sbk002, it is absorbed through the intestine, and there is no significant difference between the blood drug concentration in the portal vein and the cervical vein.
+--------------------------------------------------------------------------------------
+原文: 电子邮件：lengminghong@cti-cert.com。
+
+译文: Email: lengminghong@cti-cert.com。
+--------------------------------------------------------------------------------------
+原文: 3.3.	来源	12
+
+译文: 3.3.	Source	12
+--------------------------------------------------------------------------------------
+原文: 1.2.	试验目的	6
+
+译文: 1.2.	Study Objective	6
+--------------------------------------------------------------------------------------
+原文: 大鼠灌胃给予sbk002后，sbk002门静脉平均血药浓度与颈静脉平均血药浓度比值为1.82；大鼠灌胃给予clo后sbk002门静脉平均血药浓度与颈静脉平均血药浓度比值为1.40。
+
+译文: After gavage administration of sbk002 in rats, the mean blood drug concentration ratio between portal vein and cervical vein for sbk002 is 1.82; after gavage administration of clo in rats, the mean blood drug concentration ratio between portal vein and cervical vein for sbk002 is 1.40.
+--------------------------------------------------------------------------------------
+原文: 试验材料
+
+译文: Study Materials
+--------------------------------------------------------------------------------------
+原文: 动物质量合格证号：No.1909060025。
+
+译文: Animal Quality Certificate No.: No.1909060025。
+--------------------------------------------------------------------------------------
+原文: 版本
+
+译文: Version
+--------------------------------------------------------------------------------------
+原文: 含量：98.8 %； 
+
+译文: Content: 98.8 %； 
+--------------------------------------------------------------------------------------
+原文: 规格：500 g； 
+
+译文: Size: 500 g； 
+--------------------------------------------------------------------------------------
+原文: 禁食给食：给药前禁食12 h以上，试验期间不禁水；
+
+译文: Fasting: No food for at least 12 hours before dosing; water not restricted during the assay period;
+--------------------------------------------------------------------------------------
+原文: 本试验拟探索sbk002和clo在大鼠体内代谢的主要部位。给药后3小时，立即CO2麻醉，进行手术，裸露门静脉和颈静脉，于门静脉和颈静脉各采血 0.4 mL。测量sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: This assay is designed to explore the primary sites of metabolism for sbk002 and clo in rats. After dosing for 3 hours, immediately proceed with CO2 anesthesia and surgery to expose the portal vein and jugular vein, and collect 0.4 mL of blood from each. Determine the concentration of sbk002 in the blood, qualitatively identify the presence of active metabolites [conduct semi-quantitative research (mass spectrometric signal ratio of active metabolites to sbk002)], and calculate the blood concentration ratio of sbk002 and its metabolites in the portal vein/jugular vein of the rats.
+--------------------------------------------------------------------------------------
+原文: 总结报告及相关资料
+
+译文: Final report and related materials
+--------------------------------------------------------------------------------------
+原文: 12.3.	保存场所与保存条件	26
+
+译文: 12.3.	Storage Location and Storage Condition	26
+--------------------------------------------------------------------------------------
+原文: (3) 代谢产物H4门静脉/颈静脉的平均质谱信号比值sbk002组为0.91, clo组为1.16，两者比较无明显差异。
+
+译文: (3) The mean mass spectrometric signal ratio of the metabolite H4 in the portal vein/jugular vein is 0.91 for the sbk002 group and 1.16 for the clo group, with no significant difference between the two.
+--------------------------------------------------------------------------------------
+原文: (4) sbk002组（10 mg/kg）灌胃3小时后，门静脉和颈静脉中sbk002的平均血药浓度均显著高于clo组（30 mg/kg），说明clo在肠道或肝脏转化为sbk002的转化率较低，和文献报道一致。由于sbk002本身就通过肠道吸收，故sbk002组门静脉中的sbk002血药浓度偏高也属正常。
+
+译文: (4) After 3 hours of gavage in the sbk002 group (10 mg/kg), the mean sbk002 blood concentration in the portal and jugular veins is significantly higher than that in the clo group (30 mg/kg), indicating that the conversion rate of clo to sbk002 in the intestine or liver is relatively low, consistent with literature reports. Since sbk002 itself is absorbed through the intestine, the higher sbk002 blood concentration in the portal vein of the sbk002 group is considered normal.
+--------------------------------------------------------------------------------------
+原文: 垫料种类：玉米芯；
+
+译文: Bedding type: Corn cob;
+--------------------------------------------------------------------------------------
+原文: 5.1.	给药信息	15
+
+译文: 5.1.	Dosing Information	15
+--------------------------------------------------------------------------------------
+原文: 4.9.	动物选择	15
+
+译文: 4.9.	Animal Selection	15
+--------------------------------------------------------------------------------------
+原文: 试验方案、偏离和变更
+
+译文: Study Protocol, Deviations, and Amendments
+--------------------------------------------------------------------------------------
+原文: LC-MS/MS检测浓度
+
+译文: LC-MS/MS Testing Concentration
+--------------------------------------------------------------------------------------
+原文: 有效期至：2021-06-24（复检日期）；
+
+译文: Expiry Date: 2021-06-24 (Re-test Date);
+--------------------------------------------------------------------------------------
+原文: 图1-3  SD大鼠灌胃给予sbk002及clo后sbk002和H4质谱信号
+
+译文: Figure 1-3: Mean sbk002 and H4 Mass Spectrometric Signal after Giving sbk002 and clo by Gavage to SD Rats
+--------------------------------------------------------------------------------------
+原文: 兽医：王海洋、徐巍；
+
+译文: Veterinarian: Wang Haiyang, Xu Wei;
+--------------------------------------------------------------------------------------
+原文: 传真：0512-36802288；
+
+译文: Fax: 0512-36802288;
+--------------------------------------------------------------------------------------
+原文: 4.4.	饲养环境	13
+
+译文: 4.4.	Housing Environment	13
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及磷化氢铝格雷肠道吸收试验；
+
+译文: Study Name: Intestinal Absorption Assay of sbk002 and Aluminum Phosphide by Gavage in SD Rats;
+--------------------------------------------------------------------------------------
+原文: 饲养环境控制系统：MSEA-MVE 6.0江森动物房环境监测系统；
+
+译文: Housing Environment Control System: MSEA-MVE 6.0 Johnson Animal Room Environment Monitoring System;
+--------------------------------------------------------------------------------------
+原文: 12.1.	归档时间及档案保存时间	25
+
+译文: 12.1.	Archiving Time and Archive Storage Duration	25
+--------------------------------------------------------------------------------------
+原文: 配制方法：以配制1000 mL溶媒举例：准确称取5.0 g的CMC-Na粉末，用量筒量取1000 mL纯水转移至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入搅拌子，用磁力搅拌器搅拌至完全溶解，即配成0.5 % CMC-Na溶液1000 mL。室温放置，8天内有效。
+
+译文: Preparation Method: For 1000 mL vehicle preparation example: Accurately weigh 5.0 g of CMC-Na powder, use a measuring cylinder to measure 1000 mL of pure water and transfer it to a beaker. Uniformly disperse the CMC-Na powder in the beaker. Add a stirring bar and stir using a magnetic stirrer until fully dissolved, achieving 1000 mL of 0.5% CMC-Na solution. Store at room temperature, effective within 8 days.
+--------------------------------------------------------------------------------------
+原文: 缩略词表	3
+
+译文: Abbreviation Index	3
+--------------------------------------------------------------------------------------
+原文: 换气次数：每小时空气更换不少于15次。
+
+译文: Ventilation Rate: No less than 15 air changes per hour.
+--------------------------------------------------------------------------------------
+原文: 批号：190603；
+
+译文: Batch Number: 190603;
+--------------------------------------------------------------------------------------
+原文: 数据整理及统计分析：冷明红、叶双双、葛明玉。
+
+译文: Data management and statistical analysis: Leng Minghong, Ye Shuangshuang, Ge Mingyu.
+--------------------------------------------------------------------------------------
+原文: 定量下限
+
+译文: Lower Limit of Quantification
+--------------------------------------------------------------------------------------
+原文: 专题编号：B2019023-K09-01
+
+译文: Study Number: B2019023-K09-01
+--------------------------------------------------------------------------------------
+原文: 合计
+
+译文: Subtotal
+--------------------------------------------------------------------------------------
+原文: 配制方法：准确称取一定量的CMC-Na粉末，用量筒量取一定体积的纯水转移至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入搅拌子，用磁力搅拌器搅拌至完全溶解，即得0.5 % CMC-Na溶液。
+
+译文: Preparation method: Accurately weigh a certain amount of CMC-Na powder, use a measuring cylinder to measure a certain volume of pure water and transfer it to a beaker, evenly disperse the CMC-Na powder in the beaker, add a stirring rod, and stir with a magnetic stirrer until completely dissolved, obtaining a 0.5% CMC-Na solution.
+--------------------------------------------------------------------------------------
+原文: 给药剂量：sbk002剂量组给药剂量为10 mg/kg。clo剂量组给药剂量为30 mg/kg；
+
+译文: Dosage: sbk002 dose group dosage is 10 mg/kg. clo dose group dosage is 30 mg/kg;
+--------------------------------------------------------------------------------------
+原文: 遵循的法规及技术指导原则
+
+译文: Following regulations and technical guidelines
+--------------------------------------------------------------------------------------
+原文: 血样采集
+
+译文: Blood sample collection
+--------------------------------------------------------------------------------------
+原文: 规格：2 g/袋； 
+
+译文: Size: 2 g/bag;
+--------------------------------------------------------------------------------------
+原文: 9.1.	大鼠灌胃sbk002及clo后的门静脉和颈静脉血药浓度比较	19
+
+译文: 9.1.	Comparison of portal vein and jugular vein drug concentrations in rats after gavage with sbk002 and clo	19
+--------------------------------------------------------------------------------------
+原文: 使用动物数量和性别：16只，雌、雄各半；
+
+译文: Number and sex of animals used: 16, half female and half male;
+--------------------------------------------------------------------------------------
+原文: 毫升每分钟
+
+译文: Milliliters per minute
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及clo后，sbk002和clo个体门静脉和颈静脉血药浓度见表1-1，sbk002和clo的门静脉和颈静脉平均血药浓度见表1-2。
+
+译文: After SD rats were gavaged with sbk002 and clo, individual portal vein and jugular vein drug concentrations of sbk002 and clo are shown in Table 1-1, and average portal vein and jugular vein drug concentrations of sbk002 and clo are shown in Table 1-2.
+--------------------------------------------------------------------------------------
+原文: 峰浓度
+
+译文: Peak concentration
+--------------------------------------------------------------------------------------
+原文: 电话：028-62532315；
+
+译文: Telephone: 028-62532315;
+--------------------------------------------------------------------------------------
+原文: 大鼠灌胃sbk002及clo的门静脉及颈静脉代谢产物研究
+
+译文: Study on portal vein and jugular vein metabolites in rats gavaged with sbk002 and clo
+--------------------------------------------------------------------------------------
+原文: 实验动物接收后先适应环境7天。
+
+译文: Laboratory animals were acclimated to the environment for 7 days after reception.
+--------------------------------------------------------------------------------------
+原文: 苏州华测生物技术有限公司
+
+译文: Suzhou Huace Biotechnology Co., Ltd.
+--------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏)2018-0051；
+
+译文: Institutional laboratory animal use permit number: SYXK(Su)2018-0051;
+--------------------------------------------------------------------------------------
+原文: 温度：20 ~ 26 ℃（日温差 ≤ 4 ℃）；
+
+译文: Temperature: 20 ~ 26 ℃ (daily temperature variation ≤ 4 ℃);
+--------------------------------------------------------------------------------------
+原文: 试验原始资料（包括电子资料）
+
+译文: Original assay data (including electronic data)
+--------------------------------------------------------------------------------------
+原文: 年龄：购入时8 ~ 11周龄，分组时9 ~ 12周龄。
+
+译文: Age: 8 ~ 11 weeks at purchase, 9 ~ 12 weeks at group assignment.
+--------------------------------------------------------------------------------------
+原文: 数据采集和分析
+
+译文: Data acquisition and analysis
+--------------------------------------------------------------------------------------
+原文: 品种/品系/级别
+
+译文: Breed/strain/grade
+--------------------------------------------------------------------------------------
+原文: 代谢产物H4门静脉/颈静脉的平均质谱信号比值：SD大鼠灌胃给予sbk002后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应比值为0.91；SD大鼠灌胃给予clo后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应比值为1.16，两剂药组比较无明显差异。
+
+译文: Ratio of mean mass spectrometry signals of H4 metabolites in portal vein/jugular vein: After administration of sbk002 by gavage to SD rats, the ratio of mean mass spectrometry response of H4 metabolites in the portal vein to the jugular vein was 0.91; after administration of clo by gavage to SD rats, the ratio was 1.16, with no significant difference between the two dose groups.
+--------------------------------------------------------------------------------------
+原文: 选择健康（雌性未孕、未育）大鼠作为受试动物；
+
+译文: Selection of healthy (female non-pregnant, nulliparous) rats as test animals;
+--------------------------------------------------------------------------------------
+原文: 结果分析
+
+译文: Result analysis
+--------------------------------------------------------------------------------------
+原文: 图1-3 clo剂量组2M001门静脉血浆样品典型图
+
+译文: Figure 1-3 Typical graph of 2M001 portal vein plasma samples in the clo dose group
+--------------------------------------------------------------------------------------
+原文: 表1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+
+译文: 表1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+--------------------------------------------------------------------------------------
+原文: 目的：SD rats gavaged with sbk002 and chlorogenic acid (clo), determining sbk002 blood drug concentration, qualitative determination of active metabolites' existence [conducting semi-quantitative research (the content ratio of active metabolites to sbk002)]. Additionally, the blood drug concentration ratio of sbk002 and metabolites in the portal vein and jugular vein of rats was calculated.
+
+译文: Objective: SD rats gavaged with sbk002 and chlorogenic acid (clo), determining sbk002 blood drug concentration, qualitative determination of active metabolites' existence [conducting semi-quantitative research (the content ratio of active metabolites to sbk002)]. Additionally, the blood drug concentration ratio of sbk002 and metabolites in the portal vein and jugular vein of rats was calculated.
+--------------------------------------------------------------------------------------
+原文: 表1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+
+译文: 表1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+--------------------------------------------------------------------------------------
+原文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-2.
+
+译文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-2.
+--------------------------------------------------------------------------------------
+原文: 动物数量：8只/组，合计共16只动物；
+
+译文: Animal quantity: 8 per group, total of 16 animals;
+--------------------------------------------------------------------------------------
+原文: 试验时间安排
+
+译文: Assay time arrangement
+--------------------------------------------------------------------------------------
+原文: 样品分析：吴津津、吴宗隽；
+
+译文: Sample analyzed: Wu Jinjin, Wu Zongjuan;
+--------------------------------------------------------------------------------------
+原文: 性别比例：雌、雄各半；
+
+译文: Sex ratio: equal male and female;
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及clo后，sbk002和clo个体门静脉和颈静脉血药浓度见表1-1，sbk002和clo的门静脉和颈静脉平均血药浓度见表1-2。
+
+译文: After SD rats are gavaged with sbk002 and clo, individual portal vein and cervical vein blood drug concentration of sbk002 and clo are shown in Table 1-1, and the mean portal vein and cervical vein blood drug concentration of sbk002 and clo are shown in Table 1-2.
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃给药sbk002后，在门静脉（推测肠道会代谢）产生代谢产物SM3，门静脉和颈静脉的质谱响应比较，无明显差异；
+
+译文: (1) After gavaging SD rats with sbk002, the metabolism product SM3 is produced in the portal vein (speculated to be metabolized by the gut), with no significant difference in mass spectrometry response between the portal vein and cervical vein;
+--------------------------------------------------------------------------------------
+原文: 血样处理：全血样品离心前冰箱中放置，冰箱中运输，于2 ~ 8 ℃，4000 r/min，离心10 min；分离血浆，分2管保存，EP管标签格式例如下：
+
+译文: Blood sample handling: whole blood samples are placed in an icebox before centrifugation, transported in an icebox at 2 ~ 8 ℃, 4000 r/min, centrifuged for 10 minutes; plasma is separated and stored in 2 tubes, EP tube labels format example as follows:
+--------------------------------------------------------------------------------------
+原文: 保存与使用：低温、干燥、卫生；将灭菌的垫料铺于大鼠笼箱底部，以铺满整个底部为宜；
+
+译文: Storage and use: low temperature, dry, hygienic; sterilized bedding is placed at the bottom of the rat cage, covering the entire bottom;
+--------------------------------------------------------------------------------------
+原文: 有效期至：2022-03-14；
+
+译文: Expiry date: 2022-03-14；
+--------------------------------------------------------------------------------------
+原文: 为实验动物提供玩具，作为环境改良措施。
+
+译文: Provide toys for laboratory animals as environmental enrichment measures.
+--------------------------------------------------------------------------------------
+原文: 饲养笼种类：聚砜大鼠笼具，规格（L×W×H）：50 cm × 36 cm × 20 cm；
+
+译文: Cage type: polysulfone rat cages, size (L×W×H): 50 cm × 36 cm × 20 cm;
+--------------------------------------------------------------------------------------
+原文: 黎明红，M.S.日期
+
+译文: Li Minghong, M.S. date
+--------------------------------------------------------------------------------------
+原文: 药代动力学试验采血时间和动物编号见下表：
+
+译文: Pharmacokinetic assay blood sampling time and animal number as shown in the table below:
+--------------------------------------------------------------------------------------
+原文: 购入时体重：雄性为314.4 ~ 335.8 g，雌性为202.2 ~ 214.8 g，分组时体重：雄性为331.9 ~ 350.8 g，雌性为214.1 ~ 224.5 g，分组时个体体重在同性别平均体重±20 %范围内；
+
+译文: Body weight at purchase: male 314.4 ~ 335.8 g, female 202.2 ~ 214.8 g, body weight at group assignment: male 331.9 ~ 350.8 g, female 214.1 ~ 224.5 g, individual body weight within ± 20% of the same sex average body weight at group assignment;
+--------------------------------------------------------------------------------------
+原文: 本试验拟探讨sbk002和clo在大鼠体内代谢的主要部分。给药后3小时，立即CO2麻醉，进行手术，暴露门静脉和颈静脉，于门静脉和颈静脉各采血0.4 mL。测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: This assay aims to investigate the main metabolic parts of sbk002 and clo in rats. Three hours after administration, CO2 anesthesia is performed immediately, and surgery is conducted to expose the portal vein and cervical vein. Blood samples of 0.4 mL each are collected from the portal vein and cervical vein. The blood drug concentration of sbk002 is measured, and the presence of active metabolism products is qualitatively determined [conduct semi-quantitative research (i.e., the mass spectrometry signal ratio of active metabolism products to sbk002)]. Additionally, the portal vein/cervical vein blood drug concentration ratio of sbk002 and its metabolites is calculated.
+--------------------------------------------------------------------------------------
+原文: 其中“Plasma-1”为首份检测样品，分装血浆体积为100 μL，剩余血浆样品作为备份保存在“Plasma-2”管中。置于≤ -60 ℃以下保存。分析结束后剩余血浆样本于试验结束后6个月根据委托方的授权意见销毁或移交委托方。
+
+译文: Among them, 'Plasma-1' is the first testing sample, with a plasma volume of 100 μL split. Remaining plasma samples are stored as backups in the 'Plasma-2' tubes. They are stored at ≤ -60 ℃. After the analysis, any remaining plasma samples will be destroyed or transferred to the Sponsor based on the Sponsor's authorization opinion after 6 months following the end of the assay.
+--------------------------------------------------------------------------------------
+原文: 有效期至：2021-06-24（复检日期）；
+
+译文: Expiry date: 2021-06-24 (reinspection date)；
+--------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浑浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硝酸盐、氟化物、氯化物、硫酸盐、硼酸盐、亚硝酸盐、溴酸盐、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、铅、铁、镍、铜、锌、锰、铍、镉、铅、钴、锡、甲醛、三氯甲烷、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+
+译文: Water quality routine index testing: Testing report provided by Jiangsu Huace Pinbiao Testing Technology Co., Ltd. (report number: A20190208613101). Testing items include: pH value, chroma, turbidity, odor and taste, visible objects, total hardness, oxygen consumption, total dissolved solids, anionic synthetic detergent, volatile phenols, cyanides, hexavalent chromium, nitrates, fluorides, chlorides, sulfates, borates, nitrites, bromates, total coliforms, thermotolerant coliforms, Escherichia coli, total colony count, lead, iron, nickel, copper, zinc, manganese, beryllium, cadmium, lead, cobalt, tin, formaldehyde, chloroform, carbon tetrachloride, total α-radioactivity, total β-radioactivity. Testing results meet national standards.
+--------------------------------------------------------------------------------------
+原文: 观察内容：包括但不限于一般表现、行为状态、眼睛、口腔、鼻口部、耳、毛发及皮肤、粪便、尿、生殖器等毒性症状；
+
+译文: Observation items: Including but not limited to general conditions, behavioral status, eyes, oral cavity, muzzle, ears, hair and skin, feces, urine, genitalia toxicity symptoms;
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃给予sbk002后，在门静脉（推测肠道会代谢）会产生代谢产物H4，门静脉和颈静脉的质性反应比较，无明显差异；
+
+译文: (1) After gavage dosing of sbk002 to SD rats, in the portal vein (it is estimated that the intestine will metabolize) will produce metabolite H4, the quality response of the portal vein and jugular vein is comparable, without significant differences;
+--------------------------------------------------------------------------------------
+原文: 章1-3 SD大鼠灌胃给予sbk002及clo后sbk002和H4质性信号
+
+译文: Chapter 1-3 SD rats gavaged with sbk002 and clo, the qualitative signals of sbk002 and H4
+--------------------------------------------------------------------------------------
+原文: (4) sbk002组（10 mg/kg）灌胃3小时后，门静脉和颈静脉中sbk002的平均血药浓度均显著高于clo组（30 mg/kg），说明clo在肠道或肝脏转化为sbk002的转化率较低，和文献报道一致.由于sbk002本身就通过肠道吸收，故sbk002组门静脉中的sbk002血药浓度偏高也属正常。
+
+译文: (4) After 3 hours of gavage in the sbk002 group (10 mg/kg), the mean blood drug concentration of sbk002 in the portal vein and jugular vein was significantly higher than that in the clo group (30 mg/kg), indicating that the conversion rate of clo to sbk002 in the intestine or liver was relatively low, consistent with literature reports. Since sbk002 itself is absorbed through the intestine, the higher blood drug concentration of sbk002 in the portal vein in the sbk002 group is also normal.
+--------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏)2018-0051；
+
+译文: Laboratory Animal Use License Number of this institution: SYXK(Su)2018-0051;
+--------------------------------------------------------------------------------------
+原文: 章1-5 SD大鼠灌胃给予sbk002及clo血浆中sbk002和SM3质性信号
+
+译文: Chapter 1-5 SD rats gavaged with sbk002 and clo, the qualitative signals of sbk002 and SM3 in plasma
+--------------------------------------------------------------------------------------
+原文: 在本研究条件下，大鼠灌胃给予sbk002和clo后，均能够在门静脉（推测肠道会代谢）产生sbk002、代谢产物H4及代谢产物SM3。sbk002门静脉/颈静脉的平均血药浓度比值，代谢产物H4和SM3门静脉/颈静脉的平均质性信号比值，两给药组之间均无明显差异。
+
+译文: Under the conditions of this study, after gavage dosing of sbk002 and clo in rats, both were able to produce sbk002, metabolite H4, and metabolite SM3 in the portal vein (it is estimated that the intestine will metabolize). The mean blood drug concentration ratio of sbk002 in the portal vein/jugular vein, the mean qualitative signal ratio of metabolite H4 and SM3 in the portal vein/jugular vein, showed no significant differences between the two dosing groups.
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及硝酸酯脱氢酶的肠道吸收试验；
+
+译文: Study Name: Oral gavage of sbk002 and nitrate reductase in SD rats: intestinal absorption test;
+--------------------------------------------------------------------------------------
+原文: H4分子量为355，[M+H]+=356，SM3的分子量为369，[M+H]+=370；通过质谱检测血浆样品中荷质比为356、370化合物，根据相对于sbk002的保留时间和荷质比初步推测是否可能产生活性代谢产物H4和进一步代谢产物SM3，并获得其质谱响应值。
+
+译文: H4molecular weight is 355, [M+H]+=356, SM3 has molecular weight of 369, [M+H]+=370; through mass spectrometry examination of plasma samples of esters with mass 356 and 370 compounds, based on relative retention time of sbk002 and mass spectrometry, it is predicted whether it is possible to produce the active metabolites H4 and further metabolites SM3, and obtain their mass spectrometry response values.
+--------------------------------------------------------------------------------------
+原文: 总结报告
+
+译文: final report
+--------------------------------------------------------------------------------------
+原文: 种类：SPF大小鼠维持饲料；
+
+译文: type: SPF large and small mouse maintenance feed;
+--------------------------------------------------------------------------------------
+原文: 兽医：王海洋、徐堃；
+
+译文: Veterinarian: 王海洋, 徐坚;
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及硫酸氢氯吡格雷肠道吸收试验
+
+译文: SD rats gavage administration of sbk002 and phosphoric acid dioxaproline gut absorption experiment
+--------------------------------------------------------------------------------------
+原文: 由于氯吡格雷是前药，在人体内经过肝CYP450酶两步代谢生成活性代谢产物，氯吡格雷首先被氧化成2-氧-氯吡格雷，2-氧-氯吡格雷有2个异构体，其中一个异构体为sbk002；2-氧-氯吡格雷进一步代谢形成唯一的硫醇活性代谢产物H4和非活性代谢产物H3,活性成分H4和H3可进一步甲基化为SM3。
+
+译文: Because dioxaproline is a prodrug, it undergoes liver CYP450 enzyme two-step metabolism in the human body to form active metabolites. Dioxaproline is first oxidized to 2-oxy-dioxaproline, which has 2 isomers, one of which is sbk002; 2-oxy-dioxaproline further metabolizes to form unique active metabolite H4 and inactive metabolite H3, with active components H4 and H3 possibly further methylated to SM3.
+--------------------------------------------------------------------------------------
+原文: 代谢产物H4门静脉/颈静脉的平均质谱信号比值：SD大鼠灌胃给予sbk002后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应比值为0.91；SD大鼠灌胃给予clo后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应比值为1.16，两给药组比较无明显差异。
+
+译文: H4 metabolite portal vein/carotid vein mean mass signal ratio: After SD rats oral sbk002, H4 metabolite portal vein mean mass response/carotid vein mean mass response ratio is 0.91; after SD rats oral clo, H4 metabolite portal vein mean mass response/carotid vein mean mass response ratio is 1.16, with no significant difference between the two dosing groups.
+--------------------------------------------------------------------------------------
+原文: 联系人：牟霞；
+
+译文: Contact: Mur Xian;
+--------------------------------------------------------------------------------------
+原文: 方法：每组8只，雌、雄各半，共使用16只SD大鼠；组别分为sbk002剂量组、clo剂量组。sbk002剂量组单次给药剂量10 mg/kg，clo剂量组单次给药剂量30 mg/kg。给药后3小时，立即CO2麻醉，进行手术，门静脉和颈静脉各采血0.4 mL。使用液质联用进行检测。
+
+译文: Method: 8 per group, half male and half female, using a total of 16 SD rats; groups are divided into sbk002 dose group and clo dose group. sbk002 dose group single administration dose 10 mg/kg, clo dose group single administration dose 30 mg/kg. After 3 hours of administration, immediately CO2 anesthesia, perform surgery, collect 0.4 mL blood each from the portal vein and carotid vein, using liquid chromatography-mass spectrometry for testing.
+--------------------------------------------------------------------------------------
+原文: 规格：2.2 g/袋； 
+
+译文: Specification: 2.2 g/bag; 
+--------------------------------------------------------------------------------------
+原文: 因此， sbk002和clo肠道吸收或代谢趋势基本一致。推测H4和SM3为活性代谢产物和进一步代谢的甲基化产物。
+
+译文: Therefore, sbk002 and clo intestinal absorption or metabolism trends are basically consistent. It is inferred that H4 and SM3 are active metabolites and further methylated products of metabolism.
+--------------------------------------------------------------------------------------
+原文: 氯吡格雷的人体代谢产物及代谢途径：
+
+译文: Dioxaproline human metabolites and metabolic pathways:
+--------------------------------------------------------------------------------------
+原文: 配制方法：以配制1000 mL溶媒举例：准确称取5.0 g的CMC-Na粉末，用量筒量取1000 mL纯水转移至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入搅拌子，用磁力搅拌器搅拌至完全溶解，即得0.5 % CMC-Na溶液1000 mL。室温存放，8天内有效。
+
+译文: Preparation method: Using 1000 mL vehicle as an example: Weigh exactly 5.0 g of CMC-Na powder, measure 1000 mL of pure water with a graduated cylinder and transfer to a beaker, evenly disperse the CMC-Na powder into the beaker, add a stirring rod, and stir with a magnetic stirrer until completely dissolved, resulting in a 1000 mL 0.5% CMC-Na solution. Store at room temperature, effective within 8 days.
+--------------------------------------------------------------------------------------
+原文: 参照上海药物研究所药物代谢研究中心钟大放老师发表的氟咯格雷和维卡格雷的I期单次口服给药的PK/PD临床研究（临床登记号CTR20150346），进一步研究了氟咯格雷的人体代谢产物及代谢途径[1]。
+
+译文: Referencing the Phase I single-dose oral PK/PD clinical study of frovatriptan and vercimofatib conducted by Professor Zhong Dafang from the Shanghai Institute of Materia Medica, Chinese Academy of Sciences (Clinical Registration Number CTR20150346), further research was conducted on the human metabolic products and pathways of frovatriptan[1].
+--------------------------------------------------------------------------------------
+原文: (3) 代谢产物H4门静脉/颈静脉的平均质璇反应比值sbk002剂量组为0.91, clo组为1.16，两者比较无明显差异。
+
+译文: (3) Metabolite H4 portal vein/jugular vein's mean quality resonance reaction ratios: sbk002 dose group is 0.91, clo group is 1.16, with no significant differences between the two.
+--------------------------------------------------------------------------------------
+原文: 测定动物：所有存活的实验动物。
+
+译文: Measured animals: All surviving test animals.
+--------------------------------------------------------------------------------------
+原文: 目的：SD大鼠灌胃分别给予sbk002和氯酸钠氟咯格雷（clo），测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质璇信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: Objectives: SD rats were gavaged with sbk002 and sodium chlorate frovatriptan (clo) separately, to determine the blood concentration of sbk002, to qualitatively determine the presence of active metabolites [performing semi-quantitative study (i.e., the mass resonance signal ratio of active metabolites and sbk002)], and to calculate the blood concentration ratios of sbk002 and its metabolites in the portal vein/jugular vein of the rats.
+--------------------------------------------------------------------------------------
+原文: 营养成分：具有索尼测试提供的检测报告（报告编号：GNALX2IA1S1068944），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合国标。
+
+译文: Nutritional components: Testing report provided by the Sony test (report number: GNALX2IA1S1068944), testing indicators include moisture, crude protein, crude fat, crude fiber, crude ash, calcium, and total phosphorus. Testing results meet national standards.
+--------------------------------------------------------------------------------------
+原文: 液质联用仪
+
+译文: Liquid chromatography-mass spectrometer
+--------------------------------------------------------------------------------------
+原文: 在室温、避光条件下，准确称取303.6mg的clo至研钵中，加入适量0.5%CMC-Na溶液充分研磨后，完全转移至标定体积的容器中，用0.5%CMC-Na加入至标定刻度，搅拌均匀后即得浓度为30mg/mL的clo剂量组给药制备10mL。
+
+译文: Under room temperature and light-protected conditions, accurately weigh 303.6mg of clo into a mortar, add an appropriate amount of 0.5% CMC-Na solution and grind thoroughly, completely transfer to a container of calibrated volume, add 0.5% CMC-Na to the calibration mark, stir evenly to obtain a dose formulation of 30mg/mL clo dose group for a total of 10mL.
+--------------------------------------------------------------------------------------
+原文: 供试品2基本信息
+
+译文: Test article 2 Basic Information
+--------------------------------------------------------------------------------------
+原文: 本实验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures，SOPs）。
+
+译文: The implementation of this assay, except for specific instructions in the protocol, complied with the standard operating procedures (SOPs) of this institution.
+--------------------------------------------------------------------------------------
+原文: 表1-6 SD大鼠灌胃给予sbk002及clo血浆中SM3与sbk002
+
+译文: Table 1-6 SD rats gavaged with sbk002 and clo, plasma SM3 vs sbk002
+--------------------------------------------------------------------------------------
+原文: 组别设计：sbk002剂量组、clo剂量组；
+
+译文: Group design: sbk002 dose group, clo dose group;
+--------------------------------------------------------------------------------------
+原文: 4.2. 接收和适应 13
+
+译文: 4.2. Receipt and Acclimation 13
+--------------------------------------------------------------------------------------
+原文: 以健康SD大鼠为受试动物，研究sbk002及氯酸钠氟咯格雷SD大鼠肠道吸收及代谢，评价其代谢靶点。
+
+译文: Healthy SD rats are used as test animals to study sbk002 and sodium chlorate frovatriptan SD rats' intestinal absorption and metabolism, evaluating their metabolic targets.
+--------------------------------------------------------------------------------------
+原文: 生产厂家：阿拉丁 (Aladdin)；
+
+译文: Manufacturer: Aladdin;
+--------------------------------------------------------------------------------------
+原文: 光照：人工照明，12小时明暗交替；
+
+译文: Lighting: Artificial lighting, 12-hour light-dark alternation;
+--------------------------------------------------------------------------------------
+原文: 8.2. 氟咯格雷的人体代谢产物及代谢途径： 18
+
+译文: 8.2. Human metabolic products and pathways of frovatriptan: 18
+--------------------------------------------------------------------------------------
+原文: 达峰时间
+
+译文: Time to reach maximum
+--------------------------------------------------------------------------------------
+原文: 舡1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+
+译文: 舡1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+--------------------------------------------------------------------------------------
+原文: 舡1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+
+译文: 舡1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+--------------------------------------------------------------------------------------
+原文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 舡1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 舡1-2.
+
+译文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 舡1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 舡1-2.
+--------------------------------------------------------------------------------------
+原文: 购买时体重：雄性为314.4 ~ 335.8 g，雌性为202.2 ~ 214.8 g，分组时体重：雄性为331.9 ~ 350.8 g，雌性为214.1 ~ 224.5 g，分组时个体体重在同性别平均体重 ± 20 %范围内；
+
+译文: Purchase body weight: male is 314.4 ~ 335.8 g, female is 202.2 ~ 214.8 g, Group Assignment body weight: male is 331.9 ~ 350.8 g, female is 214.1 ~ 224.5 g, Group Assignment individual body weight within the same sex mean body weight ± 20 % range;
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及磷酸氯喹格雷肠道吸收试验；
+
+译文: Study Name: SD rats gavage given sbk002 and phosphate clopidogrel intestinal absorption assay;
+--------------------------------------------------------------------------------------
+原文: 液质联用仪
+
+译文: LC-MS/MS
+--------------------------------------------------------------------------------------
+原文: 在本研究条件下，大鼠灌胃给予sbk002和clo后，均能够在门静脉（推测肠道会代谢）产生sbk002、代谢产物H4及代谢产物SM3。sbk002门静脉/颈静脉的平均血药浓度比值，代谢产物H4和SM3门静脉/颈静脉的平均质峰信号比值，两给药组之间均无明显差异。
+
+译文: Under the conditions of this study, rats gavaged doses of sbk002 and clo, respectively, were able to produce sbk002, metabolite H4, and metabolite SM3 in the portal vein (presumably metabolized by the intestines). The mean blood drug concentration ratio of sbk002 in the portal vein/jugular vein, the mean qualitative signal ratio of metabolite H4 and SM3 in the portal vein/jugular vein, showed no significant difference between the two dosing groups.
+--------------------------------------------------------------------------------------
+原文: 以健康SD大鼠为受试动物，研究sbk002及磷酸氯喹格雷SD大鼠肠道吸收及代谢，评价其代谢靶点。
+
+译文: Using healthy SD rats as test animals, study the intestinal absorption and metabolism of sbk002 and phosphate clopidogrel in SD rats, and evaluate their metabolic targets.
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃给予sbk002后，在门静脉（推测肠道会代谢）会产生代谢产物H4，门静脉和颈静脉的质峰响应比较，无明显差异；
+
+译文: (1) After SD rats were gavaged doses of sbk002, metabolite H4 would be produced in the portal vein (presumably metabolized by the intestines), with no significant difference in qualitative peak response between the portal vein and jugular vein;
+--------------------------------------------------------------------------------------
+原文: 8.2.	氯喹格雷的人体代谢产物及代谢途径：	18
+
+译文: 8.2.	Clopidogrel human metabolism products and metabolism pathways:	18
+--------------------------------------------------------------------------------------
+原文: (3) 代谢产物H4门静脉/颈静脉的平均质峰响应比值sbk002剂量组为0.91, clo组为1.16，两者比较无明显差异。
+
+译文: (3) The mean qualitative peak response ratio of metabolite H4 in the portal vein/jugular vein was 0.91 in the sbk002 dose group and 1.16 in the clo group, with no significant difference between them.
+--------------------------------------------------------------------------------------
+原文: 样品分析：吴津津、吴宗岑；
+
+译文: Sample analyzed by: Jingjing Wu, Zongcen Wu;
+--------------------------------------------------------------------------------------
+原文: 本试验拟探讨sbk002和clo在大鼠体内代谢的主要部分。给药后3小时，立即CO2麻醉，进行手术，暴露门静脉和颈静脉，于门静脉和颈静脉各采血 0.4 mL。测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物vs sbk002的质峰信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: This assay is intended to explore the main parts of sbk002 and clo metabolism in rats. After dosing for 3 hours, immediate CO2 anesthesia, perform surgery, expose the portal vein and jugular vein, collect 0.4 mL blood from the portal vein and jugular vein respectively. Determine the blood drug concentration of sbk002, qualitatively identify the presence of active metabolites [perform semi-quantitative study (i.e., the qualitative peak signal ratio of active metabolites vs sbk002)], and calculate the blood drug concentration ratio of sbk002 and its metabolites in the portal vein/jugular vein of rats.
+--------------------------------------------------------------------------------------
+原文: 营养成分：具有尼尔测试提供的检测报告（报告编号：GNALX2IA1S1068944），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合国标。
+
+译文: Nutritional Components: Testing report provided by NIR test (report number: GNALX2IA1S1068944), testing indices include moisture, crude protein, crude fat, crude fiber, crude ash, calcium, total phosphorus. The testing results meet national standards.
+--------------------------------------------------------------------------------------
+原文: 4.2.	接收和适应	13
+
+译文: 4.2.	Animal Receipt and Acclimation	13
+--------------------------------------------------------------------------------------
+原文: 其中“Plasma-1”为首份检测样品，分装血浆体积为100 μL，剩余血浆样品作为备份保存于“Plasma-2”管中。置于≤ -60 ℃以下保存。分析结束后剩余血浆样本于试验结束后6个月根据委托方的授权意见销毁或移交委托方。
+
+译文: Among them, “Plasma-1” is the first testing sample, with a plasma volume of 100 μL. The remaining plasma sample is stored as a backup in the “Plasma-2” tube. Stored at ≤ -60 ℃. Residual plasma samples after analysis are destroyed or transferred to the sponsor 6 months after the assay’s end, based on the sponsor's authorization.
+--------------------------------------------------------------------------------------
+原文: 舌1-6 SD大鼠灌胃给予sbk002及clo血浆中SM3与sbk002
+
+译文: 舌1-6 SD rats gavage administration of sbk002 and clo plasma SM3 and sbk002
+--------------------------------------------------------------------------------------
+原文: 目的：SD大鼠灌胃分别给予sbk002和氯酸气氛革雷（clo），测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: Purpose: SD rats gavage administration of sbk002 and chloramphenicol (clo), determination of sbk002 plasma concentration, qualitative determination of the presence or absence of active metabolites [conduct semi-quantitative research (i.e., the qualitative ratio of active metabolites to sbk002)], and additionally calculate the plasma concentration ratio of sbk002 and its metabolites in portal vein/neck vein of rats.
+--------------------------------------------------------------------------------------
+原文: 在室温、避光条件下，准确称取303.6 mg的clo至研钵中，加入适量0.5% CMC-Na溶液充分研磨后，完全转移至标定体积的容器中，用0.5% CMC-Na加至标定刻度，搅拌均匀后即得浓度为30 mg/mL的clo剂量组给药制剂10 mL。
+
+译文: Under room temperature and protected from light, accurately weigh 303.6 mg of clo into a mortar, add an appropriate amount of 0.5% CMC-Na solution and grind it thoroughly, then completely transfer it to a container calibrated for volume, use 0.5% CMC-Na to fill to the calibration mark, stir well to obtain a concentration of 30 mg/mL clo dose group administration preparation of 10 mL.
+--------------------------------------------------------------------------------------
+原文: 生产厂家：阿拉丁 (Aladdin)；
+
+译文: Manufacturer: Aladdin;
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及clo后，sbk002和clo个体门静脉和颈静脉血药浓度见舌1-1，sbk002和clo的门静脉和颈静脉平均血药浓度见舌1-2。
+
+译文: After gavage administration of sbk002 and clo in SD rats, the individual plasma concentrations of sbk002 and clo in portal vein and neck vein can be found in Tongue 1-1, and the mean plasma concentrations of sbk002 and clo in portal vein and neck vein can be found in Tongue 1-2.
+--------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏)2018-0051；
+
+译文: This facility’s laboratory animal use license number: SYXK(苏)2018-0051；
+--------------------------------------------------------------------------------------
+原文: 参照上海药物研究所药物代谢研究中心钟大放老师发表的氯酸革雷和维卡革雷的I期单次口服给药的PK/PD临床研究（临床登记号CTR20150346），进一步研究了氯酸革雷的人体代谢产物及代谢途径[1]。
+
+译文: Reference: The I phase single oral dose PK/PD clinical research of chloramphenicol and vecuronium by Professor Zhong Dafang from the Drug Metabolism Research Center, Shanghai Institute of Pharmaceutical Research (Clinical Registration No. CTR20150346), further studied the human metabolites and metabolic pathways of chloramphenicol [1].
+--------------------------------------------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures, SOPs）。
+
+译文: The implementation of this study, except for special instructions in the protocol, follows the standard operating procedures (Standard Operating Procedures, SOPs) of the facility.
+--------------------------------------------------------------------------------------
+原文: 有效期至：2022-03-14；
+
+译文: Expiry date: 2022-03-14；
+--------------------------------------------------------------------------------------
+原文: 舌1-5 SD大鼠灌胃给予sbk002及clo血浆中sbk002和SM3质信号
+
+译文: 舌1-5 SD rats gavage administration of sbk002 and clo plasma sbk002 and SM3 mass signal
+--------------------------------------------------------------------------------------
+原文: 测定动物：所有存活的实验动物。
+
+译文: Animals to be measured: all surviving experimental animals.
+--------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硝酸盐、亚硝酸盐、铅、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、铝、铁、钼、铜、钴、镍、砷、锌、锰、硒、甲醛、氟（氢氟酸）、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+
+译文: Water quality routine indicators testing: provided with testing report by Jiangsu Huace Pinnacle Testing Technology Co., Ltd. (Report No.: A20190208613101). Testing items include: pH value, color, turbidity, odor and taste, visible objects, total hardness, oxygen consumption, total dissolved solids, anion synthetic detergents, volatile phenols, cyanides, hexavalent chromium, nitrates, nitrites, lead, total coliforms, thermo-tolerant coliforms, Escherichia coli, total bacterial count, aluminum, iron, molybdenum, copper, cobalt, nickel, arsenic, zinc, manganese, selenium, formaldehyde, fluoride (hydrofluoric acid), carbon tetrachloride, total α radioactivity, total β radioactivity, testing results conform to national standards.
+--------------------------------------------------------------------------------------
+原文: 保存与使用：低温、干燥、卫生；将灭菌的垫料铺于大鼠笼盒底部，以铺满整个底部为宜；
+
+译文: Storage and use: low temperature, dry, hygienic; sterilized bedding should be spread at the bottom of the rat cage, enough to cover the entire bottom;
+--------------------------------------------------------------------------------------
+原文: 冷明红，M.S.                                                                     日期
+
+译文: Cold Light Red, M.S.                                                                     Date
+--------------------------------------------------------------------------------------
+原文: 饲养笼种类：聚砜大鼠笼具，规格（L×W×H）：50 cm × 36 cm ×20 cm；
+
+译文: Cage type: polysulfone rat cage, size (L×W×H): 50 cm × 36 cm × 20 cm;
+--------------------------------------------------------------------------------------
+原文: 表1-3  SD大鼠灌胃给予sbk002及clo后sbk002和H4质谱信号
+
+译文: Several 1-3 SD rats gavage administration of sbk002 and clo, then sbk002 and H4 profile signals
+--------------------------------------------------------------------------------------
+原文: Veterinarian: 王海洋, 徐坚;
+
+译文: Veterinarian: Wang Haiyang, Xu Jian;
+--------------------------------------------------------------------------------------
+原文: 方法：每组8只，雌、雄各半，共使用16只SD大鼠；组别分为sbk002剂量组、clo剂量组。sbk002剂量组单次给药剂量10 mg/kg，clo剂量组单次给药剂量30 mg/kg。给药后3小时，立即CO2麻醉，进行手术，门静脉和颈静脉各采血 0.4 mL，使用液质联用进行检测。
+
+译文: Method: Each group of 8, half female, half male, a total of 16 SD rats; groups are divided into sbk002 dose group and clo dose group. SBK002 dose group single dose of 10 mg/kg, clo dose group single dose of 30 mg/kg. After dosing for 3 hours, immediate CO2 anesthesia, perform surgery, portal vein and cervical vein each collect blood 0.4 mL, use lipid conjunction for testing.
+--------------------------------------------------------------------------------------
+原文: 有效期至：2021-06-24（复检日期）；
+
+译文: Expiry date: 2021-06-24 (reinspection date);
+--------------------------------------------------------------------------------------
+原文: 血样处理：全血样品离心前冰盒中放置，冰盒中运输，于2 ~ 8 ℃，4000 r/min，离心10 min；分离血浆，分2管保存，EP管标签格式举例如下：
+
+译文: Blood sample processing: whole blood samples centrifuged and stored on ice box, transported in ice box, at 2 ~ 8 ℃, 4000 r/min, centrifuged for 10 min; plasma separated, stored in 2 tubes, EP tube label format example as follows:
+--------------------------------------------------------------------------------------
+原文: 为实验动物提供玩具，作为环境改善措施。
+
+译文: Provide toys for laboratory animals as environmental enrichment measures.
+--------------------------------------------------------------------------------------
+原文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-2.
+
+译文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in Figure 1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in Figure 1-2.
+--------------------------------------------------------------------------------------
+原文: 表1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+
+译文: Figure 1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+--------------------------------------------------------------------------------------
+原文: 表1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+
+译文: Figure 1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+--------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏)2018-0051；
+
+译文: This institution's laboratory animal license number: SYXK(Su)2018-0051；
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及氯磺格雷肠道吸收试验；
+
+译文: Study Name: SD rats gavage administration of sbk002 and clopidogrel intestinal absorption assay；
+--------------------------------------------------------------------------------------
+原文: 有效期至：2021-06-24（复检日期）； 
+
+译文: Expiry date: 2021-06-24 (Reinspection date)；
+--------------------------------------------------------------------------------------
+原文: 在本研究条件下，大鼠灌胃给予sbk002和clo后，均能够在门静脉（推测肠道会代谢）产生sbk002、代谢产物H4及代谢产物SM3。sbk002门静脉/颈静脉的平均血药浓度比值，代谢产物H4和SM3门静脉/颈静脉的平均质谱信号比值，两给药组之间均无明显差异。
+
+译文: Under the conditions of this study, after rats were gavaged with sbk002 and clo, sbk002, metabolite H4, and metabolite SM3 were detected in the portal vein (presumably metabolized by the intestines). The mean blood concentration ratio of sbk002 in the portal vein/jugular vein and the mean mass spectrometry signal ratio of metabolites H4 and SM3 in the portal vein/jugular vein showed no significant differences between the two dosing groups.
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002和clo后，sbk002和clo的个体门静脉和颈静脉血药浓度见图1-1，sbk002和clo的门静脉和颈静脉平均血药浓度见图1-2。
+
+译文: After SD rats were gavaged with sbk002 and clo, the individual blood drug concentrations of sbk002 and clo in the portal vein and jugular vein are shown in Figure 1-1, and the mean blood drug concentrations of sbk002 and clo in the portal vein and jugular vein are shown in Figure 1-2.
+--------------------------------------------------------------------------------------
+原文: 在室温、避光条件下，准确称取303.6 mg的clo至研钵中，加入适量0.5 % CMC-Na溶液充分研磨后，完全转移至标定体积的容器中，用0.5 % CMC-Na加至标定刻度，搅拌均匀后即得浓度为30 mg/mL 的clo制剂组制剂10 mL。
+
+译文: Under room temperature and light-protected conditions, accurately weigh 303.6 mg of clo into a mortar. Add an appropriate amount of 0.5 % CMC-Na solution and grind thoroughly, then completely transfer to a container for volume calibration. Add 0.5 % CMC-Na up to the calibration mark and mix well to obtain a 30 mg/mL solution of clo preparation group, 10 mL.
+--------------------------------------------------------------------------------------
+原文: 样品分析：吴津津、吴宗昆；
+
+译文: Sample analysis: Wu Jinjin, Wu Zongkun；
+--------------------------------------------------------------------------------------
+原文: 购入时体重：雄性为314.4 ~ 335.8 g，雌性为202.2 ~ 214.8 g，分组时体重：雄性为331.9 ~ 350.8 g，雌性为214.1 ~ 224.5 g，分组时个体体重在同性别平均体重± 20 %范围内；
+
+译文: Body weight at purchase: males 314.4 ~ 335.8 g, females 202.2 ~ 214.8 g. Body weight at group assignment: males 331.9 ~ 350.8 g, females 214.1 ~ 224.5 g. Individual body weight at group assignment was within ± 20 % of the mean body weight of the same sex;
+--------------------------------------------------------------------------------------
+原文: (3) 代谢产物H4门静脉/颈静脉的平均质谱信号比值sbk002剂量组为0.91，clo组为1.16，两者比较无明显差异。
+
+译文: (3) The mean mass spectrometry signal ratio of metabolite H4 in the portal vein/jugular vein was 0.91 for the sbk002 dosing group and 1.16 for the clo group, with no significant differences between the two.
+--------------------------------------------------------------------------------------
+原文: 参照上海药物研究所药物代谢研究中心钟大放老师发表的氯磺格雷和维卡格雷的I期单次口服给予的PK/PD临床研究（临床登记号CTR20150346），进一步研究了氯磺格雷的人体代谢产物及代谢途径[1]。
+
+译文: Referencing the Phase I single oral dose PK/PD clinical study of clopidogrel and vicagrel published by Professor Zhong Dafang from the Drug Metabolism Research Center of the Shanghai Institute of Materia Medica (clinical registration number CTR20150346), the human metabolites and metabolic pathways of clopidogrel were further investigated[1].
+--------------------------------------------------------------------------------------
+原文: 测定动物：所有存活的试验动物。
+
+译文: Animals to be measured: all surviving assay animals.
+--------------------------------------------------------------------------------------
+原文: 目的：SD大鼠灌胃分别给予sbk002和氯磺格雷（clo），测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: Objective: SD rats were gavaged with sbk002 and clopidogrel (clo) to determine sbk002 blood concentration and to qualitatively identify the presence of active metabolites [conducting semi-quantitative research (i.e., mass spectrometry signal ratio of active metabolites to sbk002)]. Additionally, the blood concentration ratio of sbk002 and its metabolites in the portal vein/jugular vein was calculated.
+--------------------------------------------------------------------------------------
+原文: 液质连用仪
+
+译文: Liquid chromatography-mass spectrometry (LC-MS) system
+--------------------------------------------------------------------------------------
+原文: 表1-6  SD大鼠灌胃给予sbk002和clo血浆中SM3与sbk002
+
+译文: Table 1-6  SD rats gavage administration of sbk002 and clo in plasma SM3 and sbk002
+--------------------------------------------------------------------------------------
+原文: 有效期至：2022-03-14； 
+
+译文: Expiry date: 2022-03-14；
+--------------------------------------------------------------------------------------
+原文: 水质常规指标的检测
+
+译文: 具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硝酸盐、氟化物、氯化物、草酸盐、氯酸盐、亚氯酸盐、溴酸盐、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、铝、铁、锰、铜、锌、镍、铬、砷、硒、钼、甲醛（三氯甲烷）、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+--------------------------------------------------------------------------------------
+原文: Testing of routine water quality indices
+
+译文: Jiangsu Huace Piao Pinbiao Testing Technology Co., Ltd. provided a testing report (Report No.: A20190208613101). The testing items include: pH value, color, turbidity, odor and taste, visible substances, total hardness, oxygen consumption, total dissolved solids, anionic synthetic detergents, volatile phenols, cyanide, hexavalent chromium, nitrates, fluoride, chloride, oxalate, chlorate, chlorite, bromate, total coliforms, thermotolerant coliforms, Escherichia coli, total bacterial count, aluminum, iron, manganese, copper, zinc, nickel, chromium, arsenic, selenium, molybdenum, formaldehyde (trichloromethane), tetrachloromethane, total α-radioactivity, and total β-radioactivity. The testing results meet national standards.
+--------------------------------------------------------------------------------------
+原文: 蛰之道夹灿CLO谷物晶粉啊漆谷货的浓稀分类即发装配游围
+
+译文: Labelled 1-5 SD rats were given sbk002 and clo over gavage in the blood evaluation of sbk002 and SM3 material credentials.
+--------------------------------------------------------------------------------------
+原文: 营养成分
+
+译文: 具有某某实验提供的检测报告（报告编号：GNALX2IA1S1068944），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合国标。
+--------------------------------------------------------------------------------------
+原文: Nutritional composition
+
+译文: with a testing report provided by a specific laboratory (report number: GNALX2IA1S1068944). The test indicators include moisture, crude protein, crude fat, crude fiber, crude ash, calcium, and total phosphorus. The test results meet national standards.
+--------------------------------------------------------------------------------------
+原文: 以健康SD大鼠为受试动物
+
+译文: 研究sbk002及核酸钠盐SDrats肠道吸收及代谢，评价其代谢靶点。
+--------------------------------------------------------------------------------------
+原文: Taking healthy SD rats as test animals
+
+译文: the research on the absorption and metabolism of sbk002 and sodium heteronucleate in the intestines was conducted. The metabolism targets were evaluated.
+--------------------------------------------------------------------------------------
+原文: 本实验探索SBK002与lo在大鼠体内代谢的主部位
+
+译文: 投药后3小时，即进行CO2麻醉，进行手术，暴露门静脉和颈静脉于各部位采血0.4 mL。测定SBK002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与SBK002的质信号比值）]，另计算大鼠SBK002及代谢产物门静脉/颈静脉的血药浓度比值。
+--------------------------------------------------------------------------------------
+原文: This test explored the main parts of sbk002 and its metabolite in the rats
+
+译文: Dosing lasted 3 hours, after which CO2 anesthesia and surgery were performed to expose the portal vein and jugular vein, with blood collection of 0.4 mL from each part. The sbk002 blood drug concentration was determined, and the active metabolites' presence or absence was quantitatively determined [perform semi-quantitative analysis (i.e., the qualitative signal ratio of the active metabolites to sbk002)], while the sbk002 and its metabolite in the portal and jugular veins' concentration ratio were calculated in the rats.
+--------------------------------------------------------------------------------------
+原文: 所在厂商
+
+译文: Dladdin公司
+--------------------------------------------------------------------------------------
+原文: Supplier
+
+译文: Aladdin company
+--------------------------------------------------------------------------------------
+原文: 本试验实施除方案特别说明外，按本单位标准操作规程(SOP)执行
+
+译文: This test was carried out in accordance with the standard operating procedures (SOPs) of the institution, unless otherwise specified in the pre-trial plan.
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃gavagesbk002后，门静脉（来源于肠道，推测会有代谢）产生代谢产物H4，比较门静脉与颈静脉反应即无显著差异
+
+译文: (1) After the SD rats were gavaged with sbk002, the portal vein (inferred from the intestines, speculated to metabolize) produced a metabolite H4, and the portal vein reactions were compared to the jugular vein with no significant difference.
+--------------------------------------------------------------------------------------
+原文: 8.2.戊硝格雷体代代谢物及代谢途径
+
+译文: 18.8.2.
+--------------------------------------------------------------------------------------
+原文: Pniclomerogadget body metabolism and metabolism pathway
+
+译文: 18
+--------------------------------------------------------------------------------------
+原文: 生产厂家：阿拉丁 (Aladdin ）；
+
+译文: Manufacturer：阿拉丁 (Aladdin ）；
+--------------------------------------------------------------------------------------
+原文: 8.2.	氰化格雷的人体代谢产物及代谢路径：	18
+
+译文: 8.2.	氰化格雷的人体metabolism产物及metabolism路径：	18
+--------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浑浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硝酸盐、氟化物、亚硝酸盐、硫酸盐、氯酸盐、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、铝、铁、锰、铜、锌、镉、汞、铅、硒、砷、甲醛（三氯甲烷）、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+
+译文: 水质routine指标的testing：具有江苏华测品标testingtechniqueCo., Ltd.提供的testingreport（report编号：A20190208613101）testing项目包括：pH值、色度、浑Turbidity、臭和味、肉眼可见物、总硬度、耗氧量、dissolution性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硝酸盐、氟化物、亚硝酸盐、硫酸盐、氯酸盐、总large intestine菌群、耐热large intestine菌群、large intestine埃希氏菌、菌落总数、铝、铁、锰、铜、锌、镉、汞、铅、硒、砷、甲醛（三氯甲烷）、四氯化碳、总α放射性、总β放射性，testingresult meet国标。
+--------------------------------------------------------------------------------------
+原文: 营养成分：具有贝尼测试提供的检测报告（报告编号：GNALX2IA1S1068944），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合国标。
+
+译文: 营养成分：具有贝尼测试提供的testingreport（report编号：GNALX2IA1S1068944），testing指标包括水分、粗蛋白、粗fat、粗纤维、粗灰分、钙、总磷。testingresult meet国标。
+--------------------------------------------------------------------------------------
+原文: 在本研究条件下，大鼠灌胃给药sbk002和clo后，均能够在门静脉（推测肠道会代谢）产生sbk002、代谢产物H4及代谢产物SM3。sbk002门静脉/颈静脉的平均血药浓度比值，代谢产物H4和SM3门静脉/颈静脉的平均质谱信号比值，两给药组之间均无明显差异。
+
+译文: 在本研究条件下，rats gavage dose sbk002和clo后，均能够在portal vein（推测肠道会metabolism）产生sbk002、metabolism产物H4及metabolism产物SM3。sbk002 portal vein/颈vein的mean 血药 concentration ratio，metabolism产物H4和SM3 portal vein/颈vein的mean 质谱信号 ratio，两dose组之间均无明显差异。
+--------------------------------------------------------------------------------------
+原文: 购入时体重：雄性为314.4 ~ 335.8 g，雌性为202.2 ~ 214.8 g，分组时体重：雄性为331.9 ~ 350.8 g，雌性为214.1 ~ 224.5 g，分组时个体体重在同性别平均体重± 20 %范围内；
+
+译文: 购入时body weight：male为314.4 ~ 335.8 g，female为202.2 ~ 214.8 g，Group Assignment时body weight：male为331.9 ~ 350.8 g，female为214.1 ~ 224.5 g，Group Assignment时individualbody weight在同sex mean body weight± 20 %range内；
+--------------------------------------------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures，SOPs）。
+
+译文: 本assay的implementation除方案特殊说明外，the implementation of this study complied with standard operating procedures of testing facility（Standard Operating Procedures，SOPs）。
+--------------------------------------------------------------------------------------
+原文: 样品分析：吴津津、吴宗麟；
+
+译文: sample analyzed：吴津津、吴宗麟；
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃给予sbk002后，在门静脉（推测肠道会代谢）会产生代谢产物H4，门静脉和颈静脉的质谱响应比较，无明显差异；
+
+译文: (1) SDrats gavage dose sbk002后，在portal vein（推测肠道会metabolism）会产生metabolism产物H4，portal vein和颈vein的质谱响应比较，无明显差异；
+--------------------------------------------------------------------------------------
+原文: 表1-5  SD大鼠灌胃给予sbk002和平注clo血浆中sbk002和SM3质谱信号
+
+译文: 表1-5  SDrats gavage给予sbk002和平注cloplasma中sbk002和SM3质谱信号
+--------------------------------------------------------------------------------------
+原文: 参考上海药物研究所药物代谢研究中心钟大放老师发表的氯吡格雷和维卡格雷的I期单次口服给药的PK/PD临床研究（临床登记号CTR20150346），进一步研究了氯吡格雷的人体代谢产物及代谢途径[1]。
+
+译文: Referencing the clinical study by Professor Zhong Dafang from the Shanghai Institute of Materia Medica on the PK/PD of single oral administration of clopidogrel and vicagrel in a Phase I trial (Clinical Trial Registration Number: CTR20150346), the human metabolic products and metabolic pathways of clopidogrel were further studied[1].
+--------------------------------------------------------------------------------------
+原文: 本试验拟探索sbk002和clo在大鼠体内代谢的主要部分。给药后3小时，立即CO2麻醉，进行手术，裸露门静脉和颈静脉，于门静脉和颈静脉各采血 0.4 mL。测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: This assay aims to explore the major metabolic parts of sbk002 and clo in rats in vivo. After dosing for 3 hours, immediately proceed with CO2 anesthesia, perform surgery, expose the portal vein and jugular vein, and collect 0.4 mL blood from each of the portal vein and jugular vein. Determine sbk002 blood concentration, qualitatively identify the existence of active metabolites [conduct semi-quantitative studies (i.e., mass spectrometric signal ratio of active metabolites to sbk002)], and calculate the sbk002 and metabolite blood concentration ratio in the portal vein/jugular vein of the rats.
+--------------------------------------------------------------------------------------
+原文: 目的：SD大鼠灌胃分别给予sbk002和氯吡格雷（clo），测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: Objective: To administer sbk002 and clopidogrel (clo) to SD rats via gavage, determine sbk002 blood concentration, qualitatively identify the presence of active metabolites [conduct semi-quantitative studies (i.e., mass spectrometric signal ratio of active metabolites to sbk002)], and calculate the sbk002 and metabolite blood concentration ratio in the portal vein/jugular vein of the rats.
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及氯吡格雷肠道吸收试验；
+
+译文: Study Name: Gavage Administration of sbk002 and Clopidogrel to SD Rats for Intestinal Absorption Assay;
+--------------------------------------------------------------------------------------
+原文: 以健康SD大鼠为受试动物，研究sbk002及氯吡格雷SD大鼠肠道吸收及代谢，评价其代谢靶点。
+
+译文: Using healthy SD rats as test animals, the study investigates the intestinal absorption and metabolism of sbk002 and clopidogrel in SD rats, and evaluates their metabolic targets.
+--------------------------------------------------------------------------------------
+原文: 在室温、避光条件下，准确称取303.6 mg的clo至研钵中，加入适量0.5 % CMC-Na溶液充分研磨后，完全转移至标定体积的容器中，用0.5 % CMC-Na加至标定刻度，搅拌均匀后即得浓度为30 mg/mL 的clo剂量组给药制剂10 mL。
+
+译文: At room temperature and protected from light, accurately weigh 303.6 mg of clo into a mortar, add an appropriate amount of 0.5 % CMC-Na solution, grind thoroughly, transfer completely to a container calibrated for volume, use 0.5 % CMC-Na to make up to the calibration mark, stir well to obtain a clo dose formulation with a concentration of 30 mg/mL, 10 mL.
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及clo后，sbk002和clo个体门静脉和颈静脉血药浓度见图1-1，sbk002和clo的门静脉和颈静脉平均血药浓度见图1-2。
+
+译文: After gavage administration of sbk002 and clo to SD rats, the individual portal vein and jugular vein blood concentrations of sbk002 and clo are shown in Figure 1-1, and the mean portal vein and jugular vein blood concentrations of sbk002 and clo are shown in Figure 1-2.
+--------------------------------------------------------------------------------------
+原文: 图1-6  SD大鼠灌胃给予sbk002及clo血浆中SM3与sbk002
+
+译文: Figure 1-6 SD rats gavage administered sbk002 and clo Plasma SM3 and sbk002
+--------------------------------------------------------------------------------------
+原文: (3) 代谢产物H4门静脉/颈静脉的平均质谱响应比值sbk002剂量组为0.91,clo组为1.16，两者比较无明显差异。
+
+译文: (3) The mean mass spectrometric response ratio of the metabolite H4 in the portal vein/jugular vein was 0.91 for the sbk002 dose group and 1.16 for the clo group, with no significant difference between the two.
+--------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏)2018-0051；
+
+译文: This institution's Laboratory Animal Use License Number: SYXK(Su)2018-0051;
+--------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浑浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硝酸盐、砷化物、铅化物、氟化物、钡化物、氯酸盐、氯酸盐、亚氯酸盐、溴酸盐、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、锌、铁、镍、铜、钴、锰、钼、钡、银、钴（碘）、三氯甲烷、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+
+译文: The testing of routine water quality indicators: Testing items provided by Jiangsu Huace Testing Technology Co., Ltd. include pH value, color, turbidity, odor and taste, visible matter by naked eye, total hardness, oxygen consumption, dissolved total solids, anionic synthetic detergents, volatile phenols, cyanides, hexavalent chromium, nitrates, arsenic compounds, lead compounds, fluoride compounds, barium compounds, chlorates, hypochlorites, bromates, total coliforms, heat-resistant coliforms, Escherichia coli, total colony count, zinc, iron, nickel, copper, cobalt, manganese, molybdenum, silver, cobalt (iodine), chloroform, carbon tetrachloride, total α radioactivity, total β radioactivity. Testing results conform to national standards.
+--------------------------------------------------------------------------------------
+原文: 营养成分：具有伦尼测试提供的检测报告（报告编号：GNALX2IA1S1068944），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、磷、总钙。检测结果符合国标。
+
+译文: Nutritional components: Testing report provided by Lonnie Testing (Report No.: GNALX2IA1S1068944), testing indicators include water content, crude protein, crude fat, crude fiber, crude ash, phosphorus, and total calcium. Testing results conform to national standards.
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及硝酸钾格雷肠道吸收试验；
+
+译文: Study Name: SD rats gavage administration of sbk002 and potassium nitrate glycan intestinal absorption assay;
+--------------------------------------------------------------------------------------
+原文: 本assay的implementation除方案特殊说明外，the implementation of this study complied with standard operating procedures of testing facility（Standard Operating Procedures，SOPs）。
+
+译文: The implementation of this assay, except for the special explanations in the protocol, complied with the standard operating procedures of the testing facility (Standard Operating Procedures, SOPs).
+--------------------------------------------------------------------------------------
+原文: 样品分析：吴津津、吴宗宽；
+
+译文: Samples analyzed by: Wu Jinjin, Wu Zongkuan;
+--------------------------------------------------------------------------------------
+原文: 参照上海药物研究所药物代谢研究中心钟大放老师发表的硝酸钾格雷和硼氟格雷的I期单次口服给药的PK/PD临床研究（临床登记号CTR20150346），进一步研究了硝酸钾格雷的人体代谢产物及代谢途径[1]。
+
+译文: Referencing the Phase I single oral dose PK/PD clinical study of potassium nitrate glycan and boron-fluoride glycan published by Professor Zhong Dafa of the Drug Metabolism Research Center of Shanghai Institute of Materia Medica (Clinical Registration Number CTR20150346), further studies were conducted on the human metabolites and metabolic pathways of potassium nitrate glycan [1].
+--------------------------------------------------------------------------------------
+原文: 在本研究条件下，rats gavage dose sbk002和clo后，均能够在portal vein（推测肠道4a metabolism）产生sbk002、代谢产物H4及代谢产物SM3。sbk002 portal vein/颈vein的mean 血药浓度 ratio，代谢产物H4和SM3 portal vein/颈vein的mean 质量信号 ratio，两dose组之间均无明显差异。
+
+译文: Under the conditions of this study, after rats gavage dose sbk002 and clo, sbk002, metabolic product H4, and metabolic product SM3 were all able to be produced in the portal vein (inferred intestinal 4a metabolism). The mean blood drug concentration ratio of sbk002 portal vein/neck vein, and the mean quality signal ratio of metabolic products H4 and SM3 portal vein/neck vein showed no significant differences between the two dose groups.
+--------------------------------------------------------------------------------------
+原文: 购入时体重：雄性为314.4 ~ 335.8 g，雌性为202.2 ~ 214.8 g，分组时体重：雄性为331.9 ~ 350.8 g，雌性为214.1 ~ 224.5 g，分组时个体体重在同性别平均体重± 20 ％范围内；
+
+译文: Body weight at purchase: males 314.4 ~ 335.8 g, females 202.2 ~ 214.8 g; body weight at group assignment: males 331.9 ~ 350.8 g, females 214.1 ~ 224.5 g. Individual body weights at group assignment were within the same sex mean body weight ± 20% range;
+--------------------------------------------------------------------------------------
+原文: 8.2.硝酸钾格雷的人体代谢产物及代谢途径：18
+
+译文: 8.2. Human metabolites and metabolic pathways of potassium nitrate glycan: 18
+--------------------------------------------------------------------------------------
+原文: (1) SD大鼠灌胃给药sbk002后，在门静脉（推测肠道会代谢）会产生代谢产物H4，门静脉和颈静脉的质谱响应比较，无明显差异；
+
+译文: (1) After gavaging SD rats with sbk002, metabolism in the portal vein (assessing intestinal metabolism) will generate the metabolic product H4. The quality responses of the portal vein and the jugular vein are comparable, with no significant differences observed;
+--------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏）2018-0051；
+
+译文: Laboratory animals used in this institution are licensed under certification number: SYXK(Su)2018-0051;
+--------------------------------------------------------------------------------------
+原文: 以健康SD大鼠为受试动物，研究sbk002及硫酸氢氯吡格雷SD大鼠肠道吸收及代谢，评价其代谢靶点。
+
+译文: Using healthy SD rats as test subjects, studying sbk002 and chlorogenic acid in terms of intestinal absorption and metabolism in SD rats, and evaluating their metabolism targets.
+--------------------------------------------------------------------------------------
+原文: 本试验拟探索sbk002和clo在大鼠体内代谢的主要部位。给药后3小时，立即CO2麻醉，进行手术，裸露门静脉和颈静脉，于门静脉和颈静脉各采血 0.4 mL。测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: This experiment aims to explore the main sites of metabolism of sbk002 and clo in rats. Three hours after dosing, CO2 anesthesia was immediately administered, and surgery was performed to expose the portal vein and jugular vein. Blood was collected from the portal vein and jugular vein, 0.4 mL each. sbk002 blood drug concentration was determined, qualitative determination of active metabolites' existence [conducting semi-quantitative research (the content ratio of active metabolites to sbk002)]. Additionally, the blood drug concentration ratio of sbk002 and metabolites in the portal vein and jugular vein of rats was calculated.
+--------------------------------------------------------------------------------------
+原文: 表1-5  SD大鼠灌胃给予sbk002及clo血浆中sbk002和SM3质谱信号
+
+译文: 表1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+--------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及clo后，sbk002和clo个体门静脉和颈静脉血药浓度见表1-1，sbk002和clo的门静脉和颈静脉平均血药浓度见1-2。
+
+译文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-2.
+--------------------------------------------------------------------------------------
+原文: Manufacturer：阿拉丁 (Aladdin ）；
+
+译文: Manufacturer: Aladdin ）;
+--------------------------------------------------------------------------------------
+原文: 表1-6  SD大鼠灌胃给予sbk002及clo血浆中SM3与sbk002
+
+译文: 表1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+--------------------------------------------------------------------------------------
+原文: 目的：SD大鼠灌胃分别给予sbk002和硫酸氢氯吡格雷（clo），测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比值）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比值。
+
+译文: 目的：SD rats gavaged with sbk002 and chlorogenic acid (clo), determining sbk002 blood drug concentration, qualitative determination of active metabolites' existence [conducting semi-quantitative research (the content ratio of active metabolites to sbk002)]. Additionally, the blood drug concentration ratio of sbk002 and metabolites in the portal vein and jugular vein of rats was calculated.
+--------------------------------------------------------------------------------------
+原文: 参照上海药物研究所药物代谢研究中心钟大放老师发表的氯吡格雷和维卡格雷的I期单次口服给药的PK/PD临床研究（临床登记号CTR20150346），进一步研究了氯吡格雷的人体代谢产物及代谢途径[1]。
+
+译文: According to the results published by Professor Zhong D.F. at the Shanghai Institute of Materia Medica, Chinese Academy of Sciences, on the Phase I single oral dose PK/PD clinical study (Clinical Trial Registration Number: CTR20150346) of Ticagrelor and Wiclazimab, further investigations were conducted on the human metabolites and metabolic pathways of Ticagrelor [1].
+--------------------------------------------------------------------------------------
+原文: 营养成分：具有谱尼测试提供的检测报告（报告编号：GNALX2IA1S1068944），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合国标。
+
+译文: Nutritional Components: Equipped with the testing report provided by Eurofins (Report Number: GNALX2IA1S1068944), the test indicators include moisture, crude protein, crude fat, crude fiber, crude ash, calcium, and total phosphorus. The test results comply with national standards.
+--------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浑浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硫酸盐、氯化物、氟化物、硝酸盐氮、氯酸盐、亚氯酸盐、溴酸盐、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、铝、铁、锰、铜、锌、砷、镉、铅、硒、汞、甲醛、氯仿（三氯甲烷）、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+
+译文: Routine Water Quality Testing: Equipped with the testing report provided by Jiangsu Huace Quality Testing Technology Co., Ltd. (Report Number: A20190208613101), the test items include: pH value, color, turbidity, odor and taste, visible substances, total hardness, oxygen consumption, total dissolved solids, anionic synthetic detergents, volatile phenols, trihalomethanes, hexavalent chromium, cyanide, iron, silicon dioxide, copper, manganese, hexachlorobutadiene, nitrite, arsenic, nitrate, permanganate value (three-valent arsenic), total radioactive alpha, total radioactive beta; the test results meet national standards.
+--------------------------------------------------------------------------------------
+原文: 8.2.	氯吡格雷的人体代谢产物及代谢途径：	18
+
+译文: 8.2.	The human metabolites and metabolic pathways of Ticagrelor:	18
+--------------------------------------------------------------------------------------
+原文: 表1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+
+译文: 表1-6  SD rats gavaged with sbk002 and clo, SM3 and sbk002 in plasma
+--------------------------------------------------------------------------------------
+原文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-2.
+
+译文: After gavaging SD rats with sbk002 and clo, individual portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-1, and mean portal vein and jugular vein blood drug concentrations of sbk002 and clo were shown in 表1-2.
+--------------------------------------------------------------------------------------
+原文: 目的：SD rats gavaged with sbk002 and chlorogenic acid (clo), determining sbk002 blood drug concentration, qualitative determination of active metabolites' existence [conducting semi-quantitative research (the content ratio of active metabolites to sbk002)]. Additionally, the blood drug concentration ratio of sbk002 and metabolites in the portal vein and jugular vein of rats was calculated.
+
+译文: 目的：SD rats gavaged with sbk002 and chlorogenic acid (clo), determining sbk002 blood drug concentration, qualitative determination of active metabolites' existence [conducting semi-quantitative research (the content ratio of active metabolites to sbk002)]. Additionally, the blood drug concentration ratio of sbk002 and metabolites in the portal vein and jugular vein of rats was calculated.
+--------------------------------------------------------------------------------------
+原文: 在本研究条件下，rats gavage dose sbk002和clo后，均能够在portal vein（推测肠道会metabolism）产生sbk002、metabolism产物H4及metabolism产物SM3。sbk002 portal vein/颈vein的mean 血药 concentration ratio，metabolism产物H4和SM3 portal vein/颈vein的mean 质谱信号 ratio，两dose组之间均无明显差异。
+
+译文: Under the conditions of this study, after gavaging rats with dose sbk002 and clo, sbk002, and its metabolites H4 and SM3 could all be measured in the portal vein (predicted intestinal pathway metabolism). There was no significant difference in the mean blood drug concentration ratio of sbk002 portal vein/jugular vein and the mean quantitative signal ratio of metabolites H4 and SM3 in portal vein/jugular vein between the two dosage groups.
+--------------------------------------------------------------------------------------
+原文: 表1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+
+译文: 表1-5  SD rats gavaged with sbk002 and clo, sbk002 and SM3 content ratios in plasma
+--------------------------------------------------------------------------------------
+原文: 样品分析：吴津津、吴宗斌；
+
+译文: Sample Analyzed by：Wu Jinjing, Wu Zongyan；
+--------------------------------------------------------------------------------------
+原文: 专题名称：SD大鼠灌胃给予sbk002及硫酸氢氯吡格雷肠道吸收试验；
+
+译文: Study Name：SD rats gavage administered with SBK002 and Chlorogenic Acid Investigation on Intestinal Absorption of Ticagrelor;	
+--------------------------------------------------------------------------------------

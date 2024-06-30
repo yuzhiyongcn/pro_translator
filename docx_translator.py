@@ -99,9 +99,43 @@ class DocTranslator:
 
         return dicts
 
+    def __translate_dict(self, origin_dict):
+        # 过滤包含待翻译文本的dict
+        new_dict = {}
+        for key, value in origin_dict.items():
+            if self.__is_translate_required(value):
+                new_dict[key] = value
+        if len(new_dict) == 0:
+            print("------------翻译已经全部完成------------")
+            return origin_dict
+
+        # 分割dict
+        to_translate_dicts = self.__split_dict_by_token_limit(new_dict, 8000)
+        print(f"分割后的dict数量: {len(to_translate_dicts)}")
+        count = 0
+        for to_translate_dict in to_translate_dicts:
+            to_translate_dict = self.__preprocess(to_translate_dict)
+            origin_dict.update(self.translator.translate(to_translate_dict))
+
+            count += len(to_translate_dict)
+            print(f"已翻译: {count} / {len(origin_dict)}")
+
+        # 迭代翻译
+        print("------------开始迭代翻译------------")
+        self.__translate_dict(origin_dict)
+
+    def __is_translate_required(self, text):
+        if not self.__is_text_skipped(text):
+            if self.to_CN and not su.has_chinese(text):  # 翻译成中文，只翻译英文文本
+                return True
+            elif not self.to_CN and su.has_chinese(text):  # 翻译成英文，只翻译中文文本
+                return True
+        return False
+
     def translate(self, file):
         start = time.time()
         self.debug_file_path = file.replace(".docx", f"-debug-{time.time()}.txt")
+        self.debug_file_path = "output\\" + self.debug_file_path
 
         # 复制文件
         translated_file = file.replace(".docx", "-translated.docx")
@@ -115,10 +149,10 @@ class DocTranslator:
         paragraphs.extend(self.__load_headers_or_footers(headers))
         footers = [section.footer for section in doc.sections]
         paragraphs.extend(self.__load_headers_or_footers(footers))
-        shapes = []
-        for shape in doc.inline_shapes:
-            shapes.append(shape)
-        paragraphs.extend(shapes)
+        # shapes = []
+        # for shape in doc.inline_shapes:
+        #     shapes.append(shape)
+        # paragraphs.extend(shapes)
         paragraphs.extend(doc.paragraphs)
         paragraphs.extend(self.__load_tables(doc.tables))
 
@@ -130,15 +164,8 @@ class DocTranslator:
         # 分离中英文文本
         to_translate_texts = []
         for text in texts:
-            if not self.__is_text_skipped(text):
-                if self.to_CN and not su.has_chinese(
-                    text
-                ):  # 翻译成中文，只翻译英文文本
-                    to_translate_texts.append(text)
-                elif not self.to_CN and su.has_chinese(
-                    text
-                ):  # 翻译成英文，只翻译中文文本
-                    to_translate_texts.append(text)
+            if self.__is_translate_required(text):
+                to_translate_texts.append(text)
 
         # 只翻译前30个
         # to_translate_texts = to_translate_texts[:30]
@@ -152,19 +179,9 @@ class DocTranslator:
             return
 
         # 翻译
-        translated_dict = {}
-        # 分割dict
-        to_translate_dicts = self.__split_dict_by_token_limit(
-            {text: text for text in to_translate_texts}, 8000
-        )
-        print(f"分割后的dict数量: {len(to_translate_dicts)}")
-        for to_translate_dict in to_translate_dicts:
-            to_translate_dict = self.__preprocess(to_translate_dict)
-            translated_dict.update(self.translator.translate(to_translate_dict))
-            # translated_dict.update(to_translate_dict)
-
-            print(f"当前翻译段落数量: {len(to_translate_dict)}")
-            print(f"已翻译: {len(translated_dict)} / {len(to_translate_texts)}")
+        # 初始化翻译结果
+        translated_dict = {text: text for text in to_translate_texts}
+        translated_dict = self.__translate_dict(translated_dict)
 
         # 写入log
         if self.debug_mode:
@@ -173,7 +190,7 @@ class DocTranslator:
                     debug_file.write(f"原文: {key}\n\n")
                     debug_file.write(f"译文: {value}\n")
                     debug_file.write(
-                        "--------------------------------------------------------------------------------------\n"
+                        "------------------------------------------------------------------------------------\n"
                     )
 
         # 更新段落文本
@@ -192,5 +209,5 @@ class DocTranslator:
 if __name__ == "__main__":
     translator = DocTranslator(False)
     translator.translate(
-        "ICR小鼠灌胃给予sbk002及硫酸氢氯吡格雷原料药-单次给药毒性试验-报告-正文-translated-translated.docx"
+        "B2019023-K09-01_SD大鼠灌胃给予sbk002及硫酸氢氯吡格雷肠道吸收实验总结报告_final_20191128-translated-translated-translated.docx"
     )
