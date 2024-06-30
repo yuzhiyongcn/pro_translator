@@ -5,12 +5,23 @@ import json
 import shutil
 import time
 import terms_persister as persister
+import string_utils as su
+import file_utils as fu
 
 
 class DocTranslator:
     def __init__(self, to_CN=True):
+        self.to_CN = to_CN
         terms_file = r"input\terms_en2zh.xlsx" if to_CN else r"input\terms_zh2en.xlsx"
         self.terms = persister.read_from_excel(terms_file)
+
+        additional_terms = (
+            r"input\additional_terms_en2zh.json"
+            if to_CN
+            else r"input\additional_terms_zh2en.json"
+        )
+        self.terms.update(fu.read_json_file(additional_terms))
+
         print(f"术语表单词数量: {len(self.terms)}")
 
         self.translator = GPTTranslator(to_CN)
@@ -22,8 +33,6 @@ class DocTranslator:
             return text
         if text.replace(" ", "").isdigit():
             return text
-        if text.replace(" ", "").replace("Ä", "") == "":
-            return text.replace("Ä", "-")
 
         return self.translator.translate(text)
 
@@ -33,68 +42,66 @@ class DocTranslator:
         except Exception as e:
             print(f"文件复制失败: {e}")
 
-    def _translate_paragraph(self, index, paragraph):
-        print(f"############# 正在处理 {self.part} 第 {index} 个段落 #############")
-        if paragraph.text.strip():
-            translated_text = self._translate_text(paragraph.text)
-            translated_text = paragraph.text.replace(
-                paragraph.text.strip(), translated_text.strip()
-            )
-
-            # 输出原文和译文
-            orgin_msg = f"原文: {paragraph.text}"
-            translated_msg = f"译文: {translated_text}"
-            print(orgin_msg)
-            print(translated_msg)
-            if self.debug_mode:
-                self.debug_file.write(orgin_msg + "\n")
-                self.debug_file.write(translated_msg + "\n")
-                self.debug_file.write(
-                    "--------------------------------------------------\n"
-                )
-
-            paragraph.text = translated_text
-
-    def _translate_paragraphs(self, paragraphs):
-        paragraphs = [paragraph for paragraph in paragraphs if paragraph.text.strip()]
-        # 只处理前30个
-        paragraphs = paragraphs[:30]
-
-        for index, item in enumerate(paragraphs):
-            self._translate_paragraph(index, item)
-
-    def _translate_tables(self, tables):
+    def __load_tables(self, tables):
         paragraphs = []
         for table in tables:
             for row in table.rows:
                 for cell in row.cells:
                     paragraphs.extend(cell.paragraphs)
-        self._translate_paragraphs(paragraphs)
+        return paragraphs
 
-    def _translate_headers(self, headers):
+    def __load_headers_or_footers(self, headers_or_footers):
         paragraphs = []
-        for header in headers:
-            paragraphs.extend(header.paragraphs)
-            for table in header.tables:
-                for row in table.rows:
-                    for cell in row.cells:
-                        paragraphs.extend(cell.paragraphs)
-        self._translate_paragraphs(paragraphs)
+        for header_or_footer in headers_or_footers:
+            paragraphs.extend(header_or_footer.paragraphs)
+            paragraphs.extend(self.__load_tables(header_or_footer.tables))
+        return paragraphs
 
-    def _translate_footers(self, footers):
-        paragraphs = []
-        for footer in footers:
-            paragraphs.extend(footer.paragraphs)
-            for table in footer.tables:
-                for row in table.rows:
-                    for cell in row.cells:
-                        paragraphs.extend(cell.paragraphs)
-        self._translate_paragraphs(paragraphs)
+    def __is_text_skipped(self, text):
+        text = text.replace(" ", "")
+        return text in self.excludes or text.isdigit()
+
+    def __preprocess(self, to_translate_dict):
+        processed = {}
+
+        processed.update(to_translate_dict)
+
+        # 将key, value中的:替换为\\: 防止json解析错误, 并去除原始的key
+        # for key, value in to_translate_dict.items():
+        #     processed[key.replace(":", "\\:")] = value.replace(":", "\\:")
+
+        # 使用术语表预处理文本, 如果术语表中有对应的翻译则直接使用, 替换结果为dict的value
+        for key in processed:
+            for term_key, term_value in self.terms.items():
+                if term_key in key:
+                    processed[key] = processed[key].replace(term_key, term_value)
+
+        return processed
+
+    def __split_dict_by_token_limit(self, original_dict, max_token_limit):
+        current_dict = {}
+        dicts = []
+        current_token_count = 2  # Start with 2 for '{}'
+
+        for key, value in original_dict.items():
+            key_str = json.dumps({key: value})
+            key_token_count = len(key_str)
+            if current_token_count + key_token_count > max_token_limit:
+                dicts.append(current_dict)
+                current_dict = {}
+                current_token_count = 2  # Reset for '{}'
+
+            current_dict[key] = value
+            current_token_count += key_token_count
+
+        if current_dict:
+            dicts.append(current_dict)
+
+        return dicts
 
     def translate(self, file):
-        # TODO yzy
         start = time.time()
-        self.debug_file_path = file.replace(".docx", "-debug.txt")
+        self.debug_file_path = file.replace(".docx", f"-debug-{time.time()}.txt")
 
         # 复制文件
         translated_file = file.replace(".docx", "-translated.docx")
@@ -102,32 +109,78 @@ class DocTranslator:
 
         doc = Document(translated_file)
 
-        with open(self.debug_file_path, "w", encoding="utf-8") as debug_file:
-            self.debug_file = debug_file
-            # 翻译页眉
-            self.part = "页眉"
-            headers = [section.header for section in doc.sections]
-            self._translate_headers([headers[0]])
+        paragraphs = []
+        # 读取所有段落
+        headers = [section.header for section in doc.sections]
+        paragraphs.extend(self.__load_headers_or_footers(headers))
+        footers = [section.footer for section in doc.sections]
+        paragraphs.extend(self.__load_headers_or_footers(footers))
+        shapes = []
+        for shape in doc.inline_shapes:
+            shapes.append(shape)
+        paragraphs.extend(shapes)
+        paragraphs.extend(doc.paragraphs)
+        paragraphs.extend(self.__load_tables(doc.tables))
 
-            # 翻译页脚
-            self.part = "页脚"
-            footers = [section.footer for section in doc.sections]
-            self._translate_footers([footers[0]])
+        # 获取所有段落文本
+        texts = set()
+        for paragraph in paragraphs:
+            texts.add(paragraph.text)
 
-            # 翻译shapes
-            self.part = "shapes"
-            shapes = []
-            for shape in doc.inline_shapes:
-                shapes.append(shape)
-            self._translate_paragraphs(shapes)
+        # 分离中英文文本
+        to_translate_texts = []
+        for text in texts:
+            if not self.__is_text_skipped(text):
+                if self.to_CN and not su.has_chinese(
+                    text
+                ):  # 翻译成中文，只翻译英文文本
+                    to_translate_texts.append(text)
+                elif not self.to_CN and su.has_chinese(
+                    text
+                ):  # 翻译成英文，只翻译中文文本
+                    to_translate_texts.append(text)
 
-            # 翻译段落
-            self.part = "段落"
-            self._translate_paragraphs(doc.paragraphs)
+        # 只翻译前30个
+        # to_translate_texts = to_translate_texts[:30]
 
-            # 翻译表格
-            self.part = "表格"
-            self._translate_tables(doc.tables)
+        print(f"待翻译文本数量: {len(to_translate_texts)}")
+        for index, text in enumerate(to_translate_texts):
+            print(f"{index}: {text}")
+
+        if len(to_translate_texts) == 0:
+            print("------------翻译已经全部完成------------")
+            return
+
+        # 翻译
+        translated_dict = {}
+        # 分割dict
+        to_translate_dicts = self.__split_dict_by_token_limit(
+            {text: text for text in to_translate_texts}, 8000
+        )
+        print(f"分割后的dict数量: {len(to_translate_dicts)}")
+        for to_translate_dict in to_translate_dicts:
+            to_translate_dict = self.__preprocess(to_translate_dict)
+            translated_dict.update(self.translator.translate(to_translate_dict))
+            # translated_dict.update(to_translate_dict)
+
+            print(f"当前翻译段落数量: {len(to_translate_dict)}")
+            print(f"已翻译: {len(translated_dict)} / {len(to_translate_texts)}")
+
+        # 写入log
+        if self.debug_mode:
+            with open(self.debug_file_path, "w", encoding="utf-8") as debug_file:
+                for key, value in translated_dict.items():
+                    debug_file.write(f"原文: {key}\n\n")
+                    debug_file.write(f"译文: {value}\n")
+                    debug_file.write(
+                        "--------------------------------------------------------------------------------------\n"
+                    )
+
+        # 更新段落文本
+        for paragraph in paragraphs:
+            if paragraph.text in translated_dict:
+                paragraph.text = translated_dict[paragraph.text]
+        pass
 
         # 保存文件
         doc.save(translated_file)
@@ -137,5 +190,7 @@ class DocTranslator:
 
 
 if __name__ == "__main__":
-    translator = DocTranslator()
-    translator.translate("NSR_T103508-7_PH-42754_DRF dog.docx")
+    translator = DocTranslator(False)
+    translator.translate(
+        "ICR小鼠灌胃给予sbk002及硫酸氢氯吡格雷原料药-单次给药毒性试验-报告-正文-translated-translated.docx"
+    )

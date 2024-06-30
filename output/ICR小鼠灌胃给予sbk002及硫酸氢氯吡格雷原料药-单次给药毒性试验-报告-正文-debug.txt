@@ -1,0 +1,1464 @@
+原文: ICR小鼠单次经口灌胃给予sbk002及硫酸氢氯吡格雷原料药后观察14天，观察供试品可能引起毒性反应的性质、程度及可逆性，初步判断毒性靶器官或靶组织，为后期临床试验设计和安全用药提供参考。
+译文: ICR mice were given a single oral gavage of sbk002 and phosphoric acid quinine cholecalciferol raw material drug, observed for 14 days, observation of test article may cause toxic reactions in terms of nature, extent and reversibility, initially determining the toxicity target organ or target tissue, providing references for subsequent clinical trial design and safe drug use.
+--------------------------------------------------
+原文: 称量
+译文: weigh
+--------------------------------------------------
+原文: 本试验中各部分符合下列有关动物管理和福利的法规和准则：
+译文: In this assay, all parts comply with the following regulations and guidelines related to animal management and welfare:
+--------------------------------------------------
+原文: 主要仪器设备
+译文: Major Instruments and Equipment
+--------------------------------------------------
+原文: 15.2.	附件二：试验结果统计汇总	31
+译文: 15.2.	Appendix 2: Assay Results Statistical Summary	31
+--------------------------------------------------
+原文: 根据研究机构的SOPs制定笼卡，每只动物通过尾部标记和笼卡作为动物识别标记。
+译文: According to the test facility's SOPs, cage cards are made, with each animal identified through tail labeling and cage cards for animal identification.
+--------------------------------------------------
+原文: 非计划解剖：大体解剖观察发现3F001、3F002、3F004、3F006、3F007、3F008、3F010、3M001、3M002、3M003、3M004、3M005、3M006、3M009、3M008、3M010自溶；3F003、3M007胃膨大；3F003胃壁呈透明状，内容物为棕黄色糊状；3M007肺胀局灶颜色暗红；3F005肝脏左叶局灶黄色改变。
+译文: Non-scheduled necropsy: gross necropsy observations revealed autolysis in 3F001, 3F002, 3F004, 3F006, 3F007, 3F008, 3F010, 3M001, 3M002, 3M003, 3M004, 3M005, 3M006, 3M009, 3M008, and 3M010; gastric expansion in 3F003 and 3M007; the gastric wall of 3F003 was transparent, with its contents being yellowish-orange pulp; focal dark red lung areas in 3M007; and yellowish change in the left lobe of the liver in 3F005.
+--------------------------------------------------
+原文: 4.1.	动物管理和使用	18
+译文: 4.1.	Animal Management and Use	18
+--------------------------------------------------
+原文: 1.	基本信息	10
+译文: 1.	General Information	10
+--------------------------------------------------
+原文: 4.3.	动物饲养	18
+译文: 4.3.	Animal Housing	18
+--------------------------------------------------
+原文: 3.	试验系统	17
+译文: 3.	Test System	17
+--------------------------------------------------
+原文: 汇报日期（SD/机构负责人）
+译文: Report Date (SD/Test Facility Management)
+--------------------------------------------------
+原文: 饲养地点：苏州华测生物技术有限公司1号楼2楼屏障系统内；
+译文: Laboratory animal use license No.: Suzhou Huace Biology Technology Co., Ltd., Building 1, 2nd Floor, within the barrier system;
+--------------------------------------------------
+原文: 先进行一般检查，检查动物外观，包括体型，营养状况，被毛和皮肤，外生殖器及各腔道等；打开腹腔，盆腔，胸腔并检查各腔内脏器，观察各脏器在体位置，颜色，大小，硬度，有无出血及粘连等；并记录剖检所见。
+译文: First, perform general examinations, examining the animal's external appearance, including body shape, nutritional status, hair and skin, external genitalia, and various cavities; open the abdominal cavity, pelvic cavity, and thoracic cavity and examine internal organs, observing the positioning, color, size, hardness, and presence of hemorrhage or adhesion of each organ; and record the necropsy findings.
+--------------------------------------------------
+原文: QA声明	4
+译文: QA Statement	4
+--------------------------------------------------
+原文: 邮编：215300；
+译文: Postal Code: 215300;
+--------------------------------------------------
+原文: 试验开始日期： 2018-12-12；
+译文: Assay Start Date: 2018-12-12;
+--------------------------------------------------
+原文: 收集和报告电子数据的采集系统如下：
+译文: The collection system for collecting and reporting electronic data is as follows:
+--------------------------------------------------
+原文: 《药品注册管理办法》（原CFDA，2007年10月）；
+译文: 《Pharmaceuticals Registration Management Measures》 (Former CFDA, October 2007);
+--------------------------------------------------
+原文: 5.2.	剂量设计依据	21
+译文: 5.2.	Dose Design Justification	21
+--------------------------------------------------
+原文: 基本信息
+译文: General Information
+--------------------------------------------------
+原文: 等级：SPF级。
+译文: Grade: SPF grade.
+--------------------------------------------------
+原文: D15，待解剖动物禁食过夜。
+译文: D15, animals to be necropsied fasted overnight.
+--------------------------------------------------
+原文: 试验方案变更（No.02）
+译文: Study Protocol Amendments (No.02)
+--------------------------------------------------
+原文: 1.8.	质量保证	12
+译文: 1.8.	Quality Assurance	12
+--------------------------------------------------
+原文: 此外，质量保证部依据SOPs实施每季度的过程检查及每年的机构检查。
+译文: In addition, the quality assurance department will follow SOPs to implement quarterly process inspections and annual organizational inspections.
+--------------------------------------------------
+原文: 测定时间：P1 ~ P2、D1 ~ D2、D6 ~ D7、D13 ~ D14天各测定1 次（Pristima数据报表以剩食量测定日期显示，即P2、D2、D7、D14天）；
+译文: Measurement time: P1 ~ P2, D1 ~ D2, D6 ~ D7, D13 ~ D14, each measured once (Pristima data report displays the leftover measurement dates, i.e., P2, D2, D7, D14);
+--------------------------------------------------
+原文: 2.2.	阳性对照品	13
+译文: 2.2.	Positive Control	13
+--------------------------------------------------
+原文: 性状：白色或类白色粉末；
+译文: Characterization: white or nearly white powder;
+--------------------------------------------------
+原文: 6.	观察与检查	21
+译文: 6.	Observation and Examination	21
+--------------------------------------------------
+原文: 2.	试验材料	12
+译文: 2.	Study Materials	12
+--------------------------------------------------
+原文: 讨论
+译文: Discussion
+--------------------------------------------------
+原文: 皮肤和乳腺（腹股沟）
+译文: Skin and mammary gland (inguinal)
+--------------------------------------------------
+原文: 给药后剩余溶媒对照组给药制剂处理：返还供试品管理部，按药物/化学废弃物要求进行处理。
+译文: After dosing residual vehicle control group dose formulations disposal: return to Test Article Management Department, perform disposal according to the requirements for medication/chemical waste.
+--------------------------------------------------
+原文: 结果：
+译文: result:
+--------------------------------------------------
+原文: 大体解剖观察
+译文: gross necropsy observation
+--------------------------------------------------
+原文: 饲养环境条件标准：中华人民共和国国家标准GB14925-2010；
+译文: Housing Environment Conditions Standards: National Standards of the People's Republic of China GB14925-2010；
+--------------------------------------------------
+原文: 5.	实验设计	20
+译文: 5.	study design	20
+--------------------------------------------------
+原文: 脏器称量
+译文: organ weighing
+--------------------------------------------------
+原文: 计划解剖：大体解剖观察未见异常。
+译文: scheduled necropsy: gross necropsy observation did not reveal abnormalities.
+--------------------------------------------------
+原文: 14.	主要参考文献	29
+译文: 14.	main reference documents	29
+--------------------------------------------------
+原文: 2.1.1.    基本信息
+译文: 2.1.1.    General Information
+--------------------------------------------------
+原文: 体重：购入时体重雌性为22.2 ~ 26.5 g，雄性为22.0 ~ 27.5 g，分组时体重：雌性为23.5 ~ 27.4 g，雄性为27.0 ~ 32.0 g，分组时个体体重在同性别平均体重± 20 %范围内；
+译文: body weight: At purchase, body weight of females was 22.2 ~ 26.5 g, males were 22.0 ~ 27.5 g, at group assignment: females were 23.5 ~ 27.4 g, males were 27.0 ~ 32.0 g, individual body weight during group assignment was within the range of mean body weight ± 20 % for the same sex;
+--------------------------------------------------
+原文: 垫料种类：玉米芯；
+译文: bedding type: corn cob;
+--------------------------------------------------
+原文: 年龄：购入时约5 ~ 7周，分组时约6 ~ 8 周。
+译文: age: At purchase approximately 5 ~ 7 weeks, at group assignment approximately 6 ~ 8 weeks.
+--------------------------------------------------
+原文: 给药制剂配制
+译文: dose formulations preparation
+--------------------------------------------------
+原文: 15.3.	附件三：实验结果个体数据	32
+译文: 15.3.	Appendix Three: assay result individual data	32
+--------------------------------------------------
+原文: 专题编号：A2018030-T001-01。
+译文: study number: A2018030-T001-01.
+--------------------------------------------------
+原文: 留样阳性对照品处理：本批供试品留样以供试品管理部相关记录为准，项目结束后按SOP规定进行归档，储存于本机构档案管理部留样档案室；
+译文: retention samples positive reference item disposal: this batch of test article retention samples follow the records of the Test Article Management Department, after project completion perform archiving as per SOP regulations, store at this institution's archives management department retention samples archive room;
+--------------------------------------------------
+原文: 固定液
+译文: fixative
+--------------------------------------------------
+原文: 称量并记录组织/器官的绝对重量（需称量的组织/器官详见7.6），并计算脏体比和脏脑比
+译文: weigh and record the absolute weight of tissues/organs (tissues/organs that need to be weighed are detailed in 7.6), and calculate organ-to-body ratio and organ-to-brain ratio
+--------------------------------------------------
+原文: 小肠（回肠）
+译文: small intestine (ileum)
+--------------------------------------------------
+原文: 剩余供试品处理：待本项目全部专题结束后退回委托方。
+译文: Remaining test article handling: to be returned to the sponsor after all studies of this project end.
+--------------------------------------------------
+原文: 甲状腺含甲状旁腺*
+译文: thyroid gland containing parathyroid gland*
+--------------------------------------------------
+原文: 饲养环境控制系统：MSEA-MVE 6.0江西动物房环境监测系统；
+译文: Housing Environment Control System: MSEA-MVE 6.0 Jiangxi Animal Room Environment Monitoring System；
+--------------------------------------------------
+原文: 脏体比 = 脏器重量（g） / 体重（g）× 100 %；
+译文: organ-to-body ratio = organ weight (g) / body weight (g)× 100 %；
+--------------------------------------------------
+原文: 配制方法举例：以配制100 mL 0.5 % CMC-Na举例：
+译文: preparation method example: preparation of 100 mL 0.5 % CMC-Na as an example:
+--------------------------------------------------
+原文: 名称：羧甲基纤维素钠（CMC-Na）；
+译文: name: carboxymethylcellulose sodium (CMC-Na)；
+--------------------------------------------------
+原文: 姓名：何艳；
+译文: name: He Yan；
+--------------------------------------------------
+原文: 摄食量测定结果汇总见附件二表3，个体数据见附件三表9-1、9-2。结果显示：与溶媒对照组相比，给药后D14，sbk002剂量组雄性动物的摄食量降低（P<0.01），但仍在正常波动范围内。给药前与给药后溶媒对照组及sbk002剂量组实验动物的摄食量未见与供试品给药相关的明显异常。
+译文: Summary of food consumption determination results is in Appendix Two Table 3, individual data is in Appendix Three Table 9-1, 9-2. Results show: Compared to the vehicle control group, on D14 after dosing, food consumption in the male animals of the sbk002 dose group decreased (P<0.01), but was still within the normal fluctuation range. No test article treatment-related remarkable findings were observed in food consumption of laboratory animals in the vehicle control group and sbk002 dose group before and after dosing.
+--------------------------------------------------
+原文: 准确称取25050 mg的sbk002，加适量0.5 % CMC-Na溶液充分研磨后，完全转移至标定好的烧杯（100 mL）中，加0.5 % CMC-Na溶液定容至刻度，即得250 mg/mL sbk002剂量组给药制剂100 mL。
+译文: Accurately weigh 25050 mg of sbk002, add an appropriate amount of 0.5 % CMC-Na solution and grind thoroughly, completely transfer to the calibrated beaker (100 mL), add 0.5 % CMC-Na solution to volume to the mark, obtaining 100 mL dose formulations of 250 mg/mL sbk002 dose group.
+--------------------------------------------------
+原文: 15.6.	附件六：温湿度报告	35
+译文: 15.6.	Appendix Six: Temperature and Humidity Report	35
+--------------------------------------------------
+原文: 本试验条件下，ICR小鼠分别单次灌胃给予sbk002和clo，给药剂量均为5000 mg/kg，给药后连续观察14天。溶媒对照组和sbk002剂量组的实验动物均存活至计划解剖，一般状态观察均未见与供试品给药相关的异常。D1给药后，clo剂量组雄性动物有不同程度的俯卧、活动减少，共济失调、呼吸急促/微弱、瘫痪无力、抽搐，步态不稳症状，雌性动物除3F009外，其它动物有不同程度的流涎，俯卧、活动减少、呼吸急促、无力、抽搐、步态不稳，共济失调、肌颤、弓背等症状；D2时，clo剂量组雌性动物3F001、3F008仍有体温低、俯卧、活动减少、共济失调、颤抖的症状。clo剂量组D1 ~ D3 期间共死亡19/20只动物（10雄、9雌）。
+译文: Under the assay conditions, ICR mice were separately given a single gavage dose of sbk002 and clo, with dosages of 5000 mg/kg, followed by continuous observation for 14 days after dosing. The laboratory animals in the vehicle control group and sbk002 dose group survived until the scheduled necropsy, and no treatment-related abnormalities were observed. On D1 after dosing, male animals in the clo dose group exhibited different extents of lying down, decreased activity, balance disorders, accelerated/depressed respiration, lethargy, convulsions, unstable gait, and other symptoms. Except for female animal 3F009, other female animals showed different extents of salivation, lying down, decreased activity, accelerated respiration, lethargy, convulsions, unstable gait, balance disorders, muscle spasms, and arched back symptoms. On D2, female animals 3F001 and 3F008 in the clo dose group still exhibited symptoms such as low body temperature, lying down, decreased activity, balance disorders, and trembling. Between D1 and D3, a total of 19 out of 20 animals (10 males and 9 females) in the clo dose group died.
+--------------------------------------------------
+原文: 10.1.5.3.  大体解剖观察
+译文: 10.1.5.3.  Gross necropsy observation
+--------------------------------------------------
+原文: 剩余给药制剂处理：返还供试品管理部，按药物/化学废弃物要求进行处理； 
+译文: Remaining dose formulations disposal: return to test article management department, and handle according to the requirements for medication/chemical waste disposal;
+--------------------------------------------------
+原文: 主要参考文献
+译文: Mainly reference documents
+--------------------------------------------------
+原文: 溶媒对照组
+译文: Vehicle control group
+--------------------------------------------------
+原文: 质量保证部门遵照《药物非临床研究质量管理规范》（2017年09月），美国食品药品监督管理局（FDA）（21 CFR 58，Good Laboratory Practice For Nonclinical Laboratory Studies），经济合作与发展组织（OECD） [OECD Principles of Good Laboratory Practice, ENV/MC/CHEM (98)17]的GLP法规及本机构SOP对试验方案、方案变更、试验过程、原始数据和总结报告进行严格的监督、调查与审阅，以保证试验过程与试验结果的可信性。
+译文: Quality Assurance Department in accordance with 'Non-clinical Study Good Laboratory Practices (GLPs)' (September 2017), U.S. Food and Drug Administration (FDA) (21 CFR 58, Good Laboratory Practice For Nonclinical Laboratory Studies), Organization for Economic Cooperation and Development (OECD) [OECD Principles of Good Laboratory Practice, ENV/MC/CHEM (98)17] GLP regulations, and the institution's SOPs for strict supervision, inspection, and review of study protocols, protocol amendments, the study process, raw data, and final reports to ensure the reliability of the study process and results.
+--------------------------------------------------
+原文: 本试验不是以前任何试验的简单重复，没有其他替代试验可以解决；并且经文献检索，没有其他可以引起较少疼痛和紧张的方法可以替代本试验中提到的操作方法；试验过程中未发现能引起动物疼痛、紧张或疾病等影响到动物试验结果的情况。
+译文: The assay is not a simple repetition of any previous assays, and there are no alternative assays that can resolve it. Furthermore, literature searches did not reveal any methods that could replace the procedures mentioned in this assay with less pain and tension. During the study process, no conditions were found that could cause pain, tension, or diseases affecting the animal experiment results.
+--------------------------------------------------
+原文: 6.1.	一般状态观察	21
+译文: 6.1.	General state observation	21
+--------------------------------------------------
+原文: 保留
+译文: Retention
+--------------------------------------------------
+原文: 规格：20 g/袋； 
+译文: Specification: 20 g/bag; 
+--------------------------------------------------
+原文: 动物编号
+译文: Animal number
+--------------------------------------------------
+原文: 专题负责人：高婷婷
+译文: Study director: Gao Shaosha
+--------------------------------------------------
+原文: 给药制剂配制：石鑫鑫、刘露露；
+译文: Dose formulations preparation: Shi Jingjing, Liu Lulu;
+--------------------------------------------------
+原文: 配制方法
+译文: Preparation method
+--------------------------------------------------
+原文: 附件二
+译文: Appendix Ⅱ：Assay result statistical summary
+--------------------------------------------------
+原文: 解剖动物
+译文: anatomy animal
+--------------------------------------------------
+原文: 动物福利
+译文: animal welfare：
+--------------------------------------------------
+原文: 实验结果
+译文: assay result
+--------------------------------------------------
+原文: 签    字    页	2
+译文: Signature Page	2
+--------------------------------------------------
+原文: 给药信息
+译文: Dosing Information
+--------------------------------------------------
+原文: 实验方案
+译文: Study Protocol
+--------------------------------------------------
+原文: 饲养环境
+译文: Housing Environment
+--------------------------------------------------
+原文: 淋巴结（肠系膜）
+译文: lymph node (Mesentery)
+--------------------------------------------------
+原文: 依据2017年9月1日生效的原食品药品监督管理总局《药物非临床研究质量管理规范》（局令第34号），经济合作和发展组织OECD Principles of Good Laboratory Practice (as revised in 1997) ENV/MC/CHEM(98)17，美国食品药品监督管理局Good Laboratory Practice for Nonclinical Laboratory Studies (21CFR Part 58)，实验方案和标准操作规程（SOPs）进行检查，以及列出将检查报告汇报给专题负责人和机构负责人的日期。此外，本声明确认该总结报告准确反映了实验的原始数据。
+译文: According to the Food and Drug Administration's "Good Laboratory Practice for Nonclinical Laboratory Studies" (Order No. 34) that came into effect on September 1, 2017, the OECD Principles of Good Laboratory Practice (as revised in 1997) ENV/MC/CHEM(98)17, and the FDA's Good Laboratory Practice for Nonclinical Laboratory Studies (21CFR Part 58), inspection was conducted based on the study protocol and standard operating procedures (SOPs), and the date for reporting the inspection report to the study director and facility management was listed. Additionally, this statement confirms that the final report accurately reflects the raw data from the assay.
+--------------------------------------------------
+原文: 生产厂家
+译文: Manufacturer：Shanghai Aladdin Biochemical Technology Co., Ltd.
+--------------------------------------------------
+原文: 3.1.
+译文: 3.1.	Strain/Grade	17
+--------------------------------------------------
+原文: 遵循的法规及技术指导原则
+译文: Regulations and Technical Guidelines Followed
+--------------------------------------------------
+原文: 饮水
+译文: Drinking Water
+--------------------------------------------------
+原文: 胸腺（或胸腺区域）
+译文: thymus (or thymus region)
+--------------------------------------------------
+原文: 注：动物编号的首位数字代表组别（1、2、3分别代表溶媒对照组、sbk002剂量组和clo剂量组）。第二位字母代表性别（F为雌性、M为雄性），最后3位数字代表动物顺序号。“/”代表不适用。
+译文: Note: The first digit of the animal number represents the group (1, 2, 3 respectively represent vehicle control group, sbk002 dose group, and clo dose group). The second letter represents the sex (F for female, M for male), and the last 3 digits represent the animal sequence number. “/” represents Not Applicable.
+--------------------------------------------------
+原文: 垫料检测
+译文: Bedding testing：Supplier provided a quality certificate for the feed, certificate number: No. 1201812080010; test report for bedding chemical pollutants provided by Sini Testing Group Co., Ltd., batch number 20180712 (report number: BMA5HG9J16849708A), testing indicators include absorbency (48-hour absorbency), moisture, total ash, lead, cadmium, arsenic, BHC, DDT, aflatoxin B1. Testing results met the requirements.
+--------------------------------------------------
+原文: 设备名称
+译文: Equipment Name
+--------------------------------------------------
+原文: 骨（股骨，包括膝关节）
+译文: Bone (Femur, including knee joint)
+--------------------------------------------------
+原文: 本实验在苏州华测生物技术有限公司（研究机构）所完成的所有部分均遵守实验方案和研究机构的标准操作规程（SOPs），本实验遵从下列药物非临床研究质量管理规范（GLP）。
+译文: This assay, conducted at Suzhou Huace Biological Technology Co., Ltd (test facility), adhered to the study protocol and the standard operating procedures (SOPs) of the test facility. The assay complies with the following Good Laboratory Practices (GLP) for non-clinical laboratory studies.
+--------------------------------------------------
+原文: 浓度
+译文: Concentration
+--------------------------------------------------
+原文: 种类
+译文: Type: SPF mouse maintenance feed;
+--------------------------------------------------
+原文: 前列腺
+译文: prostate gland
+--------------------------------------------------
+原文: 切片机
+译文: Microtome
+--------------------------------------------------
+原文: 性别比例：雌、雄各半；
+译文: sex ratio: female and male each half;
+--------------------------------------------------
+原文: 子宫（含子宫颈）
+译文: uterus (including cervix)
+--------------------------------------------------
+原文: 3.6.	实验动物选择依据和数量	17
+译文: 3.6.	selection and number of laboratory animals	17
+--------------------------------------------------
+原文: 供试品给药制剂在室温、遮光条件下从供试品管理部转移到试验场所，溶媒对照组给药制剂在室温条件下从供试品管理部转移到试验场所。从供试品管理部领取的供试品给药制剂在不使用时贮存在室温、遮光条件，溶媒对照组给药制剂在不使用时贮存在室温条件下。
+译文: test article dose formulations at room temperature and light-shielded conditions are transferred from Test Article Management to the test site, vehicle control group dose formulations at room temperature are transferred from Test Article Management to the test site. Test article dose formulations obtained from Test Article Management are stored at room temperature and light-shielded conditions when not in use; vehicle control group dose formulations are stored at room temperature when not in use.
+--------------------------------------------------
+原文: 输卵管
+译文: fallopian tube
+--------------------------------------------------
+原文: 委托单位
+译文: Sponsor
+--------------------------------------------------
+原文: 膀胱
+译文: urinary bladder
+--------------------------------------------------
+原文: 动物脏器绝对重量测定结果汇总见附件二表4-1、4-2，个体数据见附件三表10-1、10-2；脏体比计算结果见附件二表5-1、5-2，个体数据见附件三表11-1、11-2；脏脑比计算结果见附件二表6-1、6-2，个体数据见附件三表12-1、12-2。结果显示：D15时，与溶媒对照组相比，sbk002剂量组雌性动物脑重量降低（P<0.05）、子宫（含子宫颈）重量及脏体比降低（P<0.05），雄性动物肺脏及主支气管脏脑比升高（P<0.05），以上检测结果虽有统计学差异，但均属正常波动范围内波动。除此之外，实验动物其余脏器重量、脏体比及脏脑比计算结果与溶媒对照组相比差异均无统计学意义（P>0.05），未见与供试品给药相关的明显异常。
+译文: animal organ absolute weight determination results are summarized in Appendix 2 tables 4-1, 4-2, individual data are in Appendix 3 tables 10-1, 10-2; organ-to-body ratio calculation results are in Appendix 2 tables 5-1, 5-2, individual data are in Appendix 3 tables 11-1, 11-2; organ-to-brain ratio calculation results are in Appendix 2 tables 6-1, 6-2, individual data are in Appendix 3 tables 12-1, 12-2. Results showed that at D15, compared with the vehicle control group, the sbk002 dose group had a decrease in brain weight (P<0.05), uterus (including cervix) weight, and organ-to-body ratio (P<0.05) in female animals; an increase in lung and main bronchial organ-to-brain ratio (P<0.05) in male animals. Despite statistical differences, all the detected variations were within normal fluctuation ranges. Other than these, no statistically significant differences (P>0.05) were seen in the rest of the organ weights, organ-to-body ratios, and organ-to-brain ratio calculation results between test and control groups, showing no notable abnormalities related to the test article administration.
+--------------------------------------------------
+原文: 动物数量：共60只，每组各20只；
+译文: animal number: total 60, each group 20;
+--------------------------------------------------
+原文: 剂量组
+译文: dose group
+--------------------------------------------------
+原文: 定量指标采用均数±标准差表示。样本数小于3时，该组数据不纳入统计比较。
+译文: Quantitative parameters are expressed by mean ± standard deviation. Data from groups with fewer than 3 samples are not included in statistical comparison.
+--------------------------------------------------
+原文: 10.2	讨论	27
+译文: 10.2	discussion	27
+--------------------------------------------------
+原文: 使用动物数量和性别：60只，雌、雄各半；
+译文: number and sex of animals used: 60, female and male each half;
+--------------------------------------------------
+原文: 试验方案及变更详见附件五；
+译文: study protocol and amendments detailed in Appendix 5;
+--------------------------------------------------
+原文: 选择健康（未孕、未育）ICR小鼠作为受试动物。适应期所有ICR小鼠均检查合格，选择其中60只动物纳入试验。
+译文: Selection of healthy (non-pregnant, nulliparous) ICR mice as test animals. All ICR mice passed the examination during the acclimatization period, selecting 60 of them for the study.
+--------------------------------------------------
+原文: 《药物单次给药毒性试验技术指导原则》（原CFDA，2014年05月）；
+译文: Guideline for Single Dose Toxicity Study of Drugs (former CFDA, May 2014);
+--------------------------------------------------
+原文: 观察与检查
+译文: observation and examination
+--------------------------------------------------
+原文: clo剂量组动物3M001、3M002、3M003、3M004、3M008、3M009、3F004、3F005、3F010于D1发现死亡，3M005、3M006、3M007、3M010、3F002、3F003、3F006、3F007于D2发现死亡，3F001、3F008于D3发现死亡。
+译文: clo dose group animals 3M001, 3M002, 3M003, 3M004, 3M008, 3M009, 3F004, 3F005, 3F010 were found dead on D1; 3M005, 3M006, 3M007, 3M010, 3F002, 3F003, 3F006, 3F007 were found dead on D2; 3F001, 3F008 were found dead on D3.
+--------------------------------------------------
+原文: 睾丸
+译文: testes
+--------------------------------------------------
+原文: 归档时间
+译文: Archiving Time
+--------------------------------------------------
+原文: 给药部位引流淋巴结（颌下淋巴结）
+译文: dosing site draining lymph node (mandibular lymph node)
+--------------------------------------------------
+原文:                                                                  专题编号：A2018030-T001-01
+译文:                                                                  study number: A2018030-T001-01
+--------------------------------------------------
+原文: 观察内容：包括但不限于一般表现、行为状态、眼睛、口腔、鼻口部、耳、毛发及皮肤、粪便、尿、生殖器等毒性症状；
+译文: Observation items: including but not limited to general conditions, behavioral status, eyes, oral cavity, muzzle, ears, hair and skin, feces, urine, genitalia, and other toxicity symptoms;
+--------------------------------------------------
+原文: 动物管理和使用
+译文: animal management and use
+--------------------------------------------------
+原文: 仅对大体解剖观察发现体积、颜色或质地有异常的脏器/组织进行取材、组织固定，进行石蜡包埋、切片、制片和HE染色等常规组织学处理，并进行组织病理学检查。如需保存则双侧眼球和视神经保存在2.5 %戊二醛溶液中，睾丸及附睾保存在改良的Davidson’s固定液中，其余组织/器官均保存在10 %中性缓冲福尔马林固定液中。
+译文: Only for gross necropsy observation findings of abnormal volume, color or consistency in organs/tissues, perform trimming, tissue fixation, paraffin embedding, sectioning, slide preparation, and HE staining, and conduct histopathological examination. If storage is needed, preserve bilateral eyeballs and optic nerve in 2.5% glutaraldehyde solution, testes and epididymis in modified Davidson’s fixative, and all other tissues/organs in 10% neutral buffered formalin.
+--------------------------------------------------
+原文: 配制后暂存条件及有效期：室温、遮光，4 h 内使用。
+译文: Storage conditions and expiry date after preparation: room temperature, light-resistant, use within 4 hours.
+--------------------------------------------------
+原文: 江苏省昆山市高新区元丰路166号
+译文: Jiangsu Province, Kunshan City, New & Hi-tech Industrial Development Zone, Yuanfeng Road, No. 166
+--------------------------------------------------
+原文: 脑（大脑、小脑、脑干）
+译文: brain (cerebrum, cerebellum, brain stem)
+--------------------------------------------------
+原文: 换气次数：每小时空气更换不少于15次。
+译文: ventilation rate: at least 15 air changes per hour.
+--------------------------------------------------
+原文: 4.8.	饮水	20
+译文: 4.8.	Drinking Water	20
+--------------------------------------------------
+原文: 封片机
+译文: Sealing Machine
+--------------------------------------------------
+原文: 试验系统
+译文: test system
+--------------------------------------------------
+原文: 电子邮件：779061281@qq.com。
+译文: email: 779061281@qq.com.
+--------------------------------------------------
+原文: 供试品留样：按公司相关SOP进行供试品留样；
+译文: test article retention samples: perform test article retention samples according to company related SOP;
+--------------------------------------------------
+原文: 苏州华测生物技术有限公司
+译文: Suzhou Huace Biological Technology Co., Ltd.
+--------------------------------------------------
+原文: 剂量设计依据
+译文: dose design justification
+--------------------------------------------------
+原文: 所有定量指标均采用Pristima 7.0.0 版数据采集系统采集及统计分析，必要时使用SPSS进行统计分析。
+译文: All quantitative parameters are collected and statistically analyzed using Pristima 7.0.0 data acquisition system; use SPSS for statistical analysis when necessary.
+--------------------------------------------------
+原文: 组织病理学
+译文: histopathological examination
+--------------------------------------------------
+原文: 7.3.	麻醉及安乐死方法	22
+译文: 7.3.	Anesthesia and euthanasia methods	22
+--------------------------------------------------
+原文: 饲养密度：≤4只/笼。
+译文: housing density: ≤4 animals per cage.
+--------------------------------------------------
+原文: 地址：
+译文: Address:
+--------------------------------------------------
+原文: 大肠（直肠）
+译文: large intestine (rectum)
+--------------------------------------------------
+原文: 10.1.5.4.  组织病理学检查
+译文: 10.1.5.4.  Histopathological examination
+--------------------------------------------------
+原文: 小肠（空肠）
+译文: small intestine (jejunum)
+--------------------------------------------------
+原文: 苏州华测生物技术有限公司是获得“国际实验动物评价和认可管理委员会（AAALAC International）”认证的机构，实验动物的使用获得了江苏省科学技术厅的批准。
+译文: Suzhou Huace Biological Technology Co., Ltd. is accredited by the 'Association for Assessment and Accreditation of Laboratory Animal Care International (AAALAC International)' and its use of laboratory animals is approved by the Jiangsu Provincial Department of Science and Technology.
+--------------------------------------------------
+原文: 专题名称：ICR小鼠灌胃给予sbk002及磷酸胺康唑格雷原料药单次给药毒性试验
+译文: Study Name: ICR mice gavage with sbk002 and phosphoric acid domperidone maleate raw material single dose toxicity study
+--------------------------------------------------
+原文: 保存与使用：低温、干燥、卫生；将灭菌的垫料铺于小鼠笼箱底部，以铺满整个底部为宜；
+译文: storage and use: low temperature, dry, hygienic; place sterilized bedding at the bottom of the mouse cage to fully cover the bottom;
+--------------------------------------------------
+原文: 饲养笼种类：聚砜小鼠笼具，规格（L×W×H）：26 cm× 16 cm× 13 cm；
+译文: cage type: polysulfone mouse cage, size (L×W×H): 26 cm×16 cm×13 cm;
+--------------------------------------------------
+原文: 名称
+译文: name
+--------------------------------------------------
+原文: 统计分析
+译文: statistical analysis
+--------------------------------------------------
+原文: 大肠（结肠）
+译文: large intestine (colon)
+--------------------------------------------------
+原文: 电话：0512-36801688；
+译文: telephone: 0512-36801688;
+--------------------------------------------------
+原文: GLP法规：
+译文: GLP regulations:
+--------------------------------------------------
+原文: 10.1.5.1.  死亡或濒死状况
+译文: 10.1.5.1.  Death or moribund condition
+--------------------------------------------------
+原文: 15.5.     附件五：试验方案及变更
+译文: 15.5.     Appendix Five: study protocol and amendments
+--------------------------------------------------
+原文: 研究起止时间：2018-12-10 ~ 2019- 01-21
+译文: study duration: 2018-12-10 ~ 2019- 01-21
+--------------------------------------------------
+原文: 7.7.	死亡动物的处置	24
+译文: 7.7.	Handling of dead animals	24
+--------------------------------------------------
+原文: 本试验未产生偏离。
+译文: No deviations occurred in this assay.
+--------------------------------------------------
+原文: 垫料批号：20180712；
+译文: bedding batch number: 20180712;
+--------------------------------------------------
+原文: 4.2.	接收和适应	18
+译文: 4.2.	Animal Receipt and Acclimation	18
+--------------------------------------------------
+原文: 6.3.	摄食量	22
+译文: 6.3.	food consumption	22
+--------------------------------------------------
+原文: 供水方法：饮水瓶盛装，自由摄取（采集尿液期间移去水瓶）；
+译文: water supply method: Drinking Water bottles provided, ad libitum (collection urine period remove the water bottles);
+--------------------------------------------------
+原文: 目 录
+译文: Contents
+--------------------------------------------------
+原文: 设施内的所有原始数据根据试验方案和苏州华测生物技术有限公司的SOP手动收集或用数据采集系统收集。手动收集的数据可以转录到Excel表格中用来分析和报告。
+译文: All raw data within the facility will be collected manually according to the study protocol and the SOP of Suzhou Huachao Bio-Technology Co., Ltd., or collected using a data acquisition system. Manually collected data can be transcribed into Excel tables for analysis and reporting.
+--------------------------------------------------
+原文: 相对湿度：44.6 % ~ 64.4 %；
+译文: Relative humidity: 44.6 % ~ 64.4 %;
+--------------------------------------------------
+原文: 试验期间，给药前与给药后溶媒对照组及sbk002剂量组实验动物的摄食量未见与供试品给药相关的明显异常，clo剂量组给药后存活动物D2食量显著下降。
+译文: During the assay period, no significant abnormalities were observed in the food consumption of the vehicle control group and sbk002 dose group animals before and after dosing related to the test article. However, in the clo dose group, food consumption decreased significantly in surviving animals on D2 post-dosing.
+--------------------------------------------------
+原文: 戊巴比妥钠
+译文: pentobarbital sodium
+--------------------------------------------------
+原文: 大体解剖、脏器称量和组织病理学检查
+译文: Gross necropsy, organ weighing, and histopathological examination
+--------------------------------------------------
+原文: 15.	附录项目	29
+译文: 15.	Appendixes	29
+--------------------------------------------------
+原文: QA声明
+译文: QA statement
+--------------------------------------------------
+原文: 2.6.	给药制剂在试验机构内的转移	16
+译文: 2.6.	Dose formulations transfer within the test facility	16
+--------------------------------------------------
+原文: 生产许可证号：SCXK(京)2014-0010；
+译文: Production license No: SCXK(Beijing)2014-0010;
+--------------------------------------------------
+原文: 胰腺
+译文: pancreas
+--------------------------------------------------
+原文: 准确称取25304 mg的clo，用0.5 % CMC-Na溶液充分研磨后，完全转移至标定好的烧杯（100 mL）中，用0.5 % CMC-Na溶液定容至刻度，即得250 mg/mL clo剂量组给药制剂100 mL。
+译文: Accurately weigh 25,304 mg of clo, fully grind it with 0.5% CMC-Na solution, completely transfer it to a labeled beaker (100 mL), dilute to the mark with 0.5% CMC-Na solution to make a dose formulation of 250 mg/mL clo dose group up to 100 mL.
+--------------------------------------------------
+原文: 饲料检测：供应商提供饲料的质量合格证明，合格证号：1112621800002026、1112621800002136；
+译文: feed testing: The supplier provided quality certificates for the feed, certificate numbers: 1112621800002026, 1112621800002136;
+--------------------------------------------------
+原文: 操作/安全措施
+译文: operation/Safety measures
+--------------------------------------------------
+原文: 心脏
+译文: heart
+--------------------------------------------------
+原文: 试验材料
+译文: Study Materials
+--------------------------------------------------
+原文: 所有存活的实验动物。
+译文: All surviving laboratory animals.
+--------------------------------------------------
+原文: 给药途径：经口灌胃，给药前用磁力搅拌器以一定转速搅拌15 min及以上（转速设定以形成明显凹陷但不产生漩涡及大量气泡为准）。
+译文: Route of administration: oral gavage, pre-dose with magnetic stirrer stirring at a certain speed for 15 min or more (speed set to form a clear depression but without foaming or large bubbles).
+--------------------------------------------------
+原文: 注：F指10 %的中性缓冲福尔马林固定液；MD指改良Davidson’s固定液；2.5 %G指2.5 %戊二醛溶液；*至少镜检单侧；# 大体解剖观察发现体积、颜色或质地有异常进行。
+译文: Note: F with 10% neutral buffered formalin fixative; MD indicates modified Davidson's fixative; 2.5% G with 2.5% glutaraldehyde solution; * at least microscopic examination unilateral; # for gross necropsy, observe for abnormal volume, color, or consistency.
+--------------------------------------------------
+原文: 高婷婷，M.M.                                                               日期
+译文: 高婷婷, M.M.                                                               Date
+--------------------------------------------------
+原文: 邮编：611731；
+译文: Postal code: 611731;
+--------------------------------------------------
+原文: ICR小鼠灌胃给予sbk002及硫酸氢氯吡格雷原料药
+译文: ICR mice gavage administered sbk002 and potassium dichromate raw material
+--------------------------------------------------
+原文: 供试品的含量和稳定性材料由委托方提供。分析方法参照“sbk002及硫酸氢氯吡格雷原料药给药制剂分析方法学验证试验（专题编号：A2018030-FA01）”，在该专题中进行供试品稳定性分析，故本试验不再单独进行稳定性测定。
+译文: The content and stability materials of the test product are provided by the sponsor. The analysis method refers to “sbk002 and sodium bicarbonate raw material drug dose formulation analysis methodology validation test (special topic number: A2018030-FA01)”. The stability analysis of the test product is conducted within this special topic, hence, this experiment will not be independently performing stability determination.
+--------------------------------------------------
+原文: 配制方法举例：以配制100 mL给药制剂举例： 
+译文: Preparation method example: Using preparation of 100 mL dose formulation as an example: 
+--------------------------------------------------
+原文:  试验主要组成人员
+译文: Assay mainly composed of personnel
+--------------------------------------------------
+原文: 2.8.	主要仪器设备	16
+译文: 2.8.	Major Instruments	16
+--------------------------------------------------
+原文: 摘 要
+译文: 摘 要
+--------------------------------------------------
+原文: 4.4.	饲养环境	18
+译文: 4.4.	Housing Environment	18
+--------------------------------------------------
+原文: 13.1.	归档时间	28
+译文: 13.1.	Archiving Time	28
+--------------------------------------------------
+原文: 联系人：武丽；
+译文: Contact person: 路丽;
+--------------------------------------------------
+原文: 2.4.	给药制剂分析	15
+译文: 2.4.	Dose Formulation Analysis	15
+--------------------------------------------------
+原文: 生产单位：江苏协同医药生物工程有限责任公司
+译文: Manufacturer: Jiangsu Hengrui Medicine Co., Ltd.
+--------------------------------------------------
+原文: 保存条件：常规；
+译文: Storage condition: routine;
+--------------------------------------------------
+原文: 给药浓度：sbk002剂量组和clo剂量组给药浓度均为250 mg/mL；
+译文: Dose Concentration: sbk002 dose group and clo dose group dose concentration are both 250 mg/mL;
+--------------------------------------------------
+原文: 电话：028-62532315；
+译文: Telephone: 028-62532315;
+--------------------------------------------------
+原文: 唾液腺（颌下腺、舌下腺）
+译文: Salivary gland (submandibular gland, sublingual gland)
+--------------------------------------------------
+原文: 本机构代号：W2018027；
+译文: Facility Code: W2018027;
+--------------------------------------------------
+原文: 测定时间：试验P1、D1、D2、D7、D14、D15各测定1 次（P1称重用于分组；D1为给药前体重，用于计算给药体积；D15体重仅用于计算脏体比和计算麻醉剂给药量，不纳入对体重指标的统计分析中；D1和D15 体重均不纳入对体重指标的分析中，根据动物毒性反应情况可以适当调整测定频率）；
+译文: Measurement time: assay P1, D1, D2, D7, D14, and D15 each measured once (P1 signal weight for group assignment; D1 is pre- dose body weight, used for calculating the dose volume; D15 body weight is used only for calculating organ-to-body ratio and for calculating anesthesia dose, not included in the statistical analysis of body weight indicators; D1 and D15 body weight is not included in the analysis of body weight indicators, and the measurement frequency can be appropriately adjusted according to the toxic responses of the animals);
+--------------------------------------------------
+原文: 根据《药物单次给药毒性研究技术指导原则》（原CFDA，2014年05月）和ICH M3建议，单次给药毒性试验给药剂量应包括从未见毒性反应的剂量到出现严重毒性反应的剂量，或达到最大给药量（MTD）。根据委托方提供资料：同类药小鼠单次毒性试验给药剂量为5000 mg/kg，无动物死亡，综合考虑该供试品的可配制浓度，本次试验sbk002剂量组拟经口灌胃给药，给药体积为20 mL/kg，给药剂量为5000 mg/kg，clo剂量组给予相同剂量的阳性对照品硫酸氢氯吡格雷（clo），另设溶媒对照组，给予相同给药体积的溶媒，为后续临床试验设计和安全用药提供参考。
+译文: According to the Technical Guiding Principle for Single Dose Toxicity Study of Medicinal Products (Original CFDA, May 2014) and ICH M3 recommendations, the dosage for single dose toxicity studies should range from a dose with no observed toxic reaction to a dose presenting severe toxic reactions, or up to the Maximum Tolerated Dose (MTD). According to the data provided by the Sponsor: the single dose toxicity study dosage for the same class of drugs in mice is 5000 mg/kg, with no animal deaths. Considering the feasible concentration for preparing the test product, this study will employ sbk002 dose group with supposed oral gavage, with a dose volume of 20 mL/kg and a dosage of 5000 mg/kg. The clo dose group will be administered an equivalent dose of positive reference item sodium bicarbonate (clo). Additionally, a vehicle control group will be set, administered with an equivalent dose volume of the vehicle. This will provide reference for subsequent clinical study design and for safe drug usage.
+--------------------------------------------------
+原文: 15.3.     附件三：试验结果个体数据
+译文: 15.3.     Appendix Three: Assay result individual data
+--------------------------------------------------
+原文: 骨骼肌（股二头肌）
+译文: Skeletal muscle (biceps femoris)
+--------------------------------------------------
+原文: 目的：ICR小鼠单次经口灌胃给予sbk002及硫酸氢氯吡格雷（clo）原料药后观察14天，观察供试品可能引起毒性反应的性质、程度及可逆性，初步判断毒性靶器官或靶组织，为后期临床试验设计和安全用药提供参考。
+译文: Objective: Observe for 14 days after a single oral gavage of sbk002 and chloroform (clo) raw material to ICR mice, to investigate the nature, extent, and reversibility of potential toxic reactions caused by the test article, preliminarily determining the target organ or target tissue toxicity, providing a reference for future clinical study designs and safe drug administration.
+--------------------------------------------------
+原文: 综上所述，本试验条件下，ICR小鼠单次经口灌胃给予 sbk002 最大耐受剂量（MTD）≥5000 mg/kg，相同剂量下clo经口灌胃给药半数致死量（LD50）＜5000 mg/kg。
+译文: In summary, under the conditions of this experiment, the maximum tolerated dose (MTD) of sbk002 administered via single oral gavage to ICR mice is ≥5000 mg/kg, while the median lethal dose (LD50) of clo under the same dose is <5000 mg/kg.
+--------------------------------------------------
+原文: 大体解剖和组织病理学检查结果详见附件四。
+译文: Details of gross necropsy and histopathological examination results are provided in Appendix Four.
+--------------------------------------------------
+原文: 有效期至：2019-11-25； 
+译文: Expiry date: 2019-11-25;
+--------------------------------------------------
+原文: 联系人：夏玉叶；
+译文: Contact person: Xia Yuye;
+--------------------------------------------------
+原文: 1.9.	试验时间安排	12
+译文: 1.9.	Assay schedule	12
+--------------------------------------------------
+原文: 6.2.	体重	22
+译文: 6.2.	Body weight	22
+--------------------------------------------------
+原文: 保存场所：苏州华测生物技术有限公司档案管理部；
+译文: Storage location: Suzhou Huace Biomedical Technology Co., Ltd. Archives Management Department;
+--------------------------------------------------
+原文: 雌性
+译文: Female
+--------------------------------------------------
+原文: 4.5.	环境改善	19
+译文: 4.5.	Environmental Enrichment	19
+--------------------------------------------------
+原文: 给药制剂取样
+译文: Sampling of dose formulations
+--------------------------------------------------
+原文: 留样及剩余阳性对照品给药制剂/阳性对照品的处理
+译文: Retention of samples and disposal of remaining positive control items dose formulations/positive control items
+--------------------------------------------------
+原文: 等级
+译文: Grade
+--------------------------------------------------
+原文: QA：何艳 
+译文: QA: He Yan
+--------------------------------------------------
+原文: 本试验条件下，D15时，与溶媒对照组相比，sbk002剂量组雌性动物脑重量降低、子宫（含子宫颈）重量及脏体比降低，雄性动物肺脏和主支气管脏脑比升高，以上检测结果虽有统计学差异，但均属正常波动范围内波动，且大体观察未见明显病理学改变，故认为上述改变无毒理学意义。除此之外，实验动物其余脏器重量、脏体比及脏脑比计算结果与溶媒对照组相比差异均无统计学意义（P>0.05），未见与供试品给药相关的明显异常。sbk002剂量组动物大体解剖观察未见明显病理学改变。clo剂量组死亡动物肉眼病变组织病理学检查见肺脏淤血、胃坏死、胃色素沉积，动物直接死亡原因不能确定，3F003与3M007死亡原因可能与消化系统毒性有关，肺脏的病理学改变可能与死亡后脏器淤血有关。
+译文: Under assay conditions, at D15, compared to the vehicle control group, female animals in the sbk002 dose group exhibited a decrease in brain weight, uterus (including cervix) weight, and organ-to-body ratio, while male animals exhibited an increase in lung and main bronchi organ-to-brain ratio. Although these testing results showed statistical differences, they were within normal fluctuation ranges, and no obvious pathological changes were observed through gross observation, therefore these findings are considered to be of no toxicological significance. Additionally, the differences in organ weight, organ-to-body ratio, and organ-to-brain ratio of the laboratory animals compared to the vehicle control group were statistically insignificant (P>0.05), and no remarkable findings related to the test article administration were observed. No obvious pathological changes were observed in the sbk002 dose group through gross necropsy. In the clo dose group, the deceased animals showed signs of lung congestion, stomach necrosis, and pigment deposition in the stomach upon gross lesion histopathological examination. The direct cause of death for these animals could not be determined; the death of 3F003 and 3M007 could be related to toxicity in the digestive system, and the pathological changes in the lungs may be related to post-mortem organ congestion.
+--------------------------------------------------
+原文: 7.1.	解剖时间	22
+译文: 7.1.	Necropsy Time	22
+--------------------------------------------------
+原文: 性状：白色至灰色粉末或晶体；
+译文: Characterization: White to grayish powder or crystal;
+--------------------------------------------------
+原文: 精囊
+译文: Seminal vesicles
+--------------------------------------------------
+原文: 动物选择
+译文: Animal Selection
+--------------------------------------------------
+原文: 剩余给药制剂处理：按公司相关SOP进行供试品留样； 
+译文: Handling of remaining dose formulations: Performing test article retention samples according to the company's related SOP;
+--------------------------------------------------
+原文: 13.2.	保存场所与保存条件	29
+译文: 13.2.	Storage Location and Storage Conditions	29
+--------------------------------------------------
+原文: 专题名称：ICR小鼠灌胃给予sbk002及硫酸氢氯吡格雷原料药单次给药毒性试验；
+译文: Study Name: Single dose toxicity studies of sbk002 and chloroform raw material administered via gavage to ICR mice;
+--------------------------------------------------
+原文: 观察时间：单次给药结束后连续观察4 h，试验期间，每天观察2次（上、下午各一次），动物出现明显毒性症状时，可增加观察频率，并记录（解剖当日观察一次）；
+译文: Observation time: Continuously observe for 4 h after each dose; during the assay period, observe twice daily (once in the morning and once in the afternoon). If animals exhibit clear signs of toxicity, increase the observation frequency and record (observe once on the day of necropsy).
+--------------------------------------------------
+原文: 10.	试验结果与讨论	25
+译文: 10.	Assay results and discussion	25
+--------------------------------------------------
+原文: 高婷婷，M.M.                                                                    日期
+译文: Gao Momo, M.M.                                                                    Date
+--------------------------------------------------
+原文: 附件三：试验结果个体数据
+译文: Appendix III: Assay result individual data
+--------------------------------------------------
+原文: 组别设计：溶媒对照组、sbk002剂量组和clo剂量组；
+译文: Group design: Vehicle control group, sbk002 dose group, and clo dose group;
+--------------------------------------------------
+原文: 死亡动物的处置
+译文: Handling of deceased animals
+--------------------------------------------------
+原文: 7.4.	大体解剖观察	22
+译文: 7.4.	Gross necropsy observation	22
+--------------------------------------------------
+原文: 性状：类白色结晶性粉末；
+译文: Characterization: White crystalline powder;
+--------------------------------------------------
+原文: 脊髓（颈、胸、腰）
+译文: Spinal cord (neck, thoracic, lumbar)
+--------------------------------------------------
+原文: 摘    要	8
+译文: Summary	8
+--------------------------------------------------
+原文: 分组方法：采用Pristima系统分性别随机分组；
+译文: Group assignment method: Using Pristima system for sex-random group assignment;
+--------------------------------------------------
+原文: 给药日期：         2018-12-14；
+译文: Dosing date:         2018-12-14;
+--------------------------------------------------
+原文: 脏脑比 = 脏器重量（g） / 脑重量（g）× 100 %。
+译文: Organ-to-brain ratio = organ weight (g) / brain weight (g) × 100%.
+--------------------------------------------------
+原文: 4.6.	饲料	19
+译文: 4.6.	Feed	19
+--------------------------------------------------
+原文: 供试品代号：sbk002
+译文: Test article code: sbk002
+--------------------------------------------------
+原文: 传真：0512-36802288；
+译文: 传真：0512-36802288;
+--------------------------------------------------
+原文: 适应期第1天定义为P1，给药当天定义为给药期第1天（D1）。
+译文: Pretest phase day 1 defined as P1, dosing day defined as dosing phase day 1 (D1).
+--------------------------------------------------
+原文: 试验结束日期： 2018-12-28。
+译文: Assay end date: 2018-12-28.
+--------------------------------------------------
+原文: 实验动物接收后先适应环境6天。
+译文: Laboratory animals receive 6 days of acclimation after reception.
+--------------------------------------------------
+原文: 肝脏和胆囊
+译文: Liver with gallbladder
+--------------------------------------------------
+原文: 1.6.	质量保证人员	11
+译文: 1.6.	Quality assurance personnel	11
+--------------------------------------------------
+原文: 染色机
+译文: Stainer
+--------------------------------------------------
+原文: 方法：本试验设3个组，分别为溶媒对照组、sbk002剂量组和clo剂量组，每组20只小鼠，雌雄各半。sbk002剂量组和clo剂量组分别单次经口灌胃给予5000 mg/kg的sbk002和clo，给药后连续观察14天。溶媒对照组给予等体积的溶媒。给药当天定义为给药期（Dosing）第1天（D1）。
+译文: Method: The assay consists of 3 groups, namely the vehicle control group, sbk002 dose group, and clo dose group, with 20 mice in each group, half male and half female. The sbk002 dose group and clo dose group each received a single oral gavage dose of 5000 mg/kg of sbk002 and clo, respectively; observation continued for 14 days post-dosing. The vehicle control group received an equivalent volume of vehicle. The dosing day is defined as dosing phase day 1 (D1).
+--------------------------------------------------
+原文: 试验操作：沈敏、阚家麟、何炜、程加梦；
+译文: Assay operations: Min Shen, Jialing Xu, Chang He, Jiameng Cheng;
+--------------------------------------------------
+原文: 研究机构按照《职业卫生安全与防护手册》来操作。在进行试验操作时，穿戴合适的个人防护设备（PPE）。
+译文: Research institution operations follow the Occupational Health Safety and Protection Manual. When performing assay operations, wear appropriate personal protective equipment (PPE).
+--------------------------------------------------
+原文: 组织包埋机
+译文: Tissue Embedding Machine
+--------------------------------------------------
+原文: GLP依从性声明	3
+译文: Statement of GLP Compliance	3
+--------------------------------------------------
+原文: 水质常规指标的检测：具有上海华测品标检测技术有限公司提供的检测报告（报告编号：A20180219731101、A20180219731102b），检测项目包括：pH值、色度、浑浊度、臭和味、肉眼可见物、菌落总数、总大肠菌群、大肠埃希氏菌、耐热大肠菌群、耗氧量、溶解性总固体、总硬度、阴离子合成洗涤剂、总α放射性、总β放射性、六价铬、氰化物、氟化物、氯化物、硫酸盐、硝酸盐、亚硝酸盐、钡盐、甲醛、三氯甲烷、四氯化碳、锰、镉、铅、钴、镍、铜、钒、挥发酚类。检测结果符合要求。
+译文: Testing of water quality routine indicators: Testing report provided by Shanghai Huace Piao Biao Testing Technology Co., Ltd. (report numbers: A20180219731101, A20180219731102b). Testing items include: pH value, color, turbidity, odor and taste, visible objects, total colony count, total coliform bacteria, Escherichia coli, heat-resistant coliform bacteria, oxygen consumption, dissolved total solids, total hardness, anionic synthetic detergents, total α radioactivity, total β radioactivity, hexavalent chromium, cyanide, fluoride, chlorides, sulfate, nitrate, nitrite, barium salts, formaldehyde, chloroform, carbon tetrachloride, manganese, cadmium, lead, cobalt, nickel, copper, vanadium, and volatile phenols. The testing results meet the requirements.
+--------------------------------------------------
+原文: 配制条件：室温；
+译文: Preparation condition: room temperature;
+--------------------------------------------------
+原文: 观察动物：所有存活实验动物。	
+译文: Animals to be observed: all surviving laboratory animals.	
+--------------------------------------------------
+原文: 本试验涉及的与动物试验相关的内容和程序都遵从实验动物使用和管理的相关法律法规和本机构实验动物管理和使用委员会（Institutional Animal Care and Use Committee, IACUC）的相关规定。动物数量、实验设计及动物的处理通过本机构IACUC审批（审批号：IACUC-A2018030-T001-01），并严格按IACUC审批的内容执行。
+译文: The assay involves content and procedures related to animal experiments that comply with the relevant legal regulations on laboratory animal use and management, and the relevant provisions of the Institutional Animal Care and Use Committee (IACUC) of this institution. The number of animals, study design, and animal disposal have been approved by the IACUC of this institution (approval number: IACUC-A2018030-T001-01) and are strictly executed according to the content approved by IACUC.
+--------------------------------------------------
+原文: 观察症状和检测指标包括：（1）一般状态状态：观察一般表现、行为状态、眼睛、口腔、鼻口部、耳、毛发及皮肤、粪便、尿液、生殖器、死亡等毒性症状；（2）体重；（3）摄食量；（4）大体解剖、脏器称量和组织病理学检查：大体观察各脏器有无明显异常，称量并记录组织/器官的绝对重量，并计算脏体比和脏脑比，对大体解剖观察发现有异常的组织/器官进行组织病理学检查。
+译文: Symptoms observed and testing indicators include: (1) General condition: observation of general performance, behavioral status, eyes, oral cavity, muzzle, ears, hair and skin, feces, urine, genitalia, death and other toxic symptoms; (2) Body weight; (3) Food consumption; (4) Gross necropsy, organ weighing, and histopathological examination: gross observation of any remarkable findings in organs, weighing and recording the absolute weight of tissues/organs, calculating organ-to-body and organ-to-brain ratios, and performing histopathological examination on tissues/organs with abnormal findings from the gross necropsy observations.
+--------------------------------------------------
+原文: 15.5.	附件五：试验方案及变更	34
+译文: 15.5.	Appendix Five: Study protocol and amendments	34
+--------------------------------------------------
+原文: 15.1.	附件一：给药制剂分析报告
+译文: 15.1.	Appendix One: Dose formulations analyzed report
+--------------------------------------------------
+原文: 名称：苏州华测生物技术有限公司；
+译文: name: Suzhou Huace Biological Technology Co., Ltd.;
+--------------------------------------------------
+原文: 剩余动物的处理：本试验剩余实验动物于给药后第5天移交毒理运行部。
+译文: Disposal of remaining animals: The remaining laboratory animals were transferred to the Toxicology Operations Department on the 5th day after dosing.
+--------------------------------------------------
+原文: 1.2.	试验目的	10
+译文: 1.2.	Study Objective	10
+--------------------------------------------------
+原文: 本试验进行过程中产生了两个方案变更：1.变更供试品配制方法、溶媒对照组取样方法、给药制剂分析取样时及给药前用磁力搅拌器的搅拌时间，2.变更统计分析方法。
+译文: This assay process resulted in two protocol amendments: 1. Amendments to the preparation method of the test article, the sampling method for the vehicle control group, the sampling time for dose formulation analysis, and the stirring time using a magnetic stirrer before dosing. 2. Amendments to the statistical analysis method.
+--------------------------------------------------
+原文: 实验结果与讨论
+译文: Assay results and discussion
+--------------------------------------------------
+原文: sbk002剂量组
+译文: sbk002 dose group
+--------------------------------------------------
+原文: 2.3.	溶媒	14
+译文: 2.3.	Vehicle	14
+--------------------------------------------------
+原文: 剩余阳性对照品处理：待本项目全部专题结束后退回委托方。
+译文: Remaining positive reference item disposal: Return to the sponsor after all studies of this project are completed.
+--------------------------------------------------
+原文: 9.	统计分析	24
+译文: 9.	Statistical Analysis	24
+--------------------------------------------------
+原文: 保存条件：15 ℃~ 25 ℃、密闭、遮光、干燥；
+译文: Storage condition: 15 ℃~ 25 ℃, airtight, protected from light, dry;
+--------------------------------------------------
+原文: GLP依从性声明
+译文: Statement of GLP Compliance
+--------------------------------------------------
+原文: 需要摘取、称量、固定和进行组织病理学检查的组织/器官，如下表：
+译文: Tissues/organs that require extraction, weighing, fixation, and histopathological examination are listed in the following table:
+--------------------------------------------------
+原文: 配制条件：室温、避光环境；
+译文: Preparation condition: room temperature, protected from excessive light;
+--------------------------------------------------
+原文: 资料保存
+译文: Storage of Relevant Data
+--------------------------------------------------
+原文: 溶媒的配制
+译文: Vehicle preparation
+--------------------------------------------------
+原文: 给料方法：自由摄取（实验有特殊要求时除外）；
+译文: Feeding method: ad libitum (excluding specific assay requirements);
+--------------------------------------------------
+原文: 实验设计
+译文: Study design
+--------------------------------------------------
+原文: 纯度：98.8 %；
+译文: Purity: 98.8 %;
+--------------------------------------------------
+原文: 7.5.	脏器重量	23
+译文: 7.5.	Organ Weight	23
+--------------------------------------------------
+原文: 供试品
+译文: Test article
+--------------------------------------------------
+原文: 肉眼病变
+译文: Gross lesion
+--------------------------------------------------
+原文: 12.	试验方案及变更、偏离	28
+译文: 12.	Study protocol and amendments, deviations	28
+--------------------------------------------------
+原文: 附件六：温湿度报告
+译文: Appendix Six: Temperature and Humidity Report
+--------------------------------------------------
+原文: 摄食量
+译文: food consumption
+--------------------------------------------------
+原文: 组织名称
+译文: Tissues name
+--------------------------------------------------
+原文: 批号：D163703；
+译文: Batch number: D163703;
+--------------------------------------------------
+原文: 专题结束2周内，专题负责人将试验资料移交档案管理部归档。纸质资料至少保存至药品上市后五年，电子文档永久保存，湿标本及其他生物标本以不影响其质量的保存时间为限。
+译文: Within 2 weeks after the end of the study, the study director will transfer the assay data to the archives management department for filing. Paper documents are to be stored for at least five years after the pharmaceuticals are marketed, electronic documents are to be stored permanently, and wet specimens and other biological specimens are to be stored as long as their quality is not affected.
+--------------------------------------------------
+原文: 电子邮件：xiayuye@cti-cert.com。
+译文: Email: xiayuye@cti-cert.com.
+--------------------------------------------------
+原文: 专题名称：ICR小鼠灌胃给予sbk002及磺酸钴氯胺格雷原料药
+译文: Study Name: ICR mouse gavage administration of sbk002 and cobalt chloride amoxicillin
+--------------------------------------------------
+原文: 解剖日期：         2018-12-28；
+译文: Necropsy date:         2018-12-28;
+--------------------------------------------------
+原文: 阳性对照品配制
+译文: Positive reference item preparation
+--------------------------------------------------
+原文: 种属：ICR小鼠；
+译文: Species: ICR mouse;
+--------------------------------------------------
+原文: 3.5.	动物标识	17
+译文: 3.5.	Animal Identification	17
+--------------------------------------------------
+原文: 联系电话：0512-36801688。
+译文: Contact telephone: 0512-36801688.
+--------------------------------------------------
+原文: 坐骨神经
+译文: Sciatic nerve
+--------------------------------------------------
+原文: 专题编号：A2018030-T001-01
+译文: Study number: A2018030-T001-01
+--------------------------------------------------
+原文: 1.4.	委托单位	10
+译文: 1.4.	Sponsor	10
+--------------------------------------------------
+原文: 结果接受标准：sbk002剂量组及clo剂量组给药制剂的准确度（检测浓度与标示浓度比值）在85 % ~ 115 %之间，sbk002剂量组及clo剂量组给药制剂上、中、下层实测浓度的相对标准偏差（RSD）≤10 %；溶媒对照组给药制剂在sbk002及磺酸钴氯胺格雷原料药保留时间处无干扰峰或干扰峰峰面积≤定量下限峰面积的10 %。
+译文: Result acceptance criteria: The accuracy of the sbk002 dose group and the clo dose group dose formulations (ratio of tested concentration to labeled concentration) should be between 85% ~ 115%. The relative standard deviation (RSD) of the measured concentrations of the upper, middle, and lower layers of the dose formulations for the sbk002 dose group and the clo dose group should be ≤10%. The vehicle control group dose formulations should have no interfering peaks at the retention time for sbk002 and cobalt chloride amoxicillin or the peak area of any interfering peaks should be ≤10% of the peak area limit of quantification.
+--------------------------------------------------
+原文: 动物质量合格证号：No 1812050025。
+译文: Animal quality certificate number: No 1812050025.
+--------------------------------------------------
+原文: 饲料批号：18103213 18113213；
+译文: Feed batch number: 18103213, 18113213;
+--------------------------------------------------
+原文: 组织固定、病理学检查
+译文: Tissue fixation, pathology examination
+--------------------------------------------------
+原文: 一般状态观察
+译文: General status observation
+--------------------------------------------------
+原文: 给药
+译文: Dose
+--------------------------------------------------
+原文: 2017年9月1日生效的原国家食品药品监督管理总局（原CFDA）《药物非临床研究质量管理规范》（局令第34号）。
+译文: The original National Food and Drug Administration (CFDA) 'Good Laboratory Practices (GLPs) for Non-clinical Studies of Pharmaceuticals' (Order No. 34), effective on September 1, 2017.
+--------------------------------------------------
+原文: 规格：30 g/瓶； 
+译文: Specification: 30 g/bottle; 
+--------------------------------------------------
+原文: 1.3.	研究机构	10
+译文: 1.3.	Research Institution	10
+--------------------------------------------------
+原文: 为实验动物提供玩具，作为环境改善措施。
+译文: Provide toys for laboratory animals as environmental enrichment measures.
+--------------------------------------------------
+原文: 动物饲养
+译文: Animal Housing
+--------------------------------------------------
+原文: 名称/代号：硫酸氢氯吡格雷/clo；
+译文: Name/Code: Sodium bromate/clo;
+--------------------------------------------------
+原文: 1.7.	遵循的法规及技术指导原则	11
+译文: 1.7.	Regulations and Technical Guidelines	11
+--------------------------------------------------
+原文: 标识方法：溶媒对照组给药制剂以白色标签标识，并注明专题编号、名称、浓度、数量、配制日期、配制者、贮存条件、有效期至，成品编号；
+译文: Identification method: Formulations for the control group were labeled with white labels and include the study number, name, concentration, quantity, preparation date, preparer, storage conditions, expiry date, and product number;
+--------------------------------------------------
+原文: 配制后暂存条件及有效期：室温存放，7天内使用。
+译文: Storage conditions and expiry after preparation: Store at room temperature and use within 7 days.
+--------------------------------------------------
+原文: 型号
+译文: Model
+--------------------------------------------------
+原文: 《药物非临床研究质量管理规范》（原CFDA，2017年09月）；
+译文: 'Good Laboratory Practices (GLPs) for Non-clinical Studies of Pharmaceuticals' (CFDA, September 2017);
+--------------------------------------------------
+原文: 何艳                                                                                     日期
+译文: 何艳                                                                                     Date
+--------------------------------------------------
+原文: 光照：人工照明，12小时明暗交替；
+译文: Lighting: Artificial lighting; 12-hour light/dark cycles;
+--------------------------------------------------
+原文: 检查日期
+译文: Inspection Date
+--------------------------------------------------
+原文: 主动脉
+译文: Aorta
+--------------------------------------------------
+原文: 试验方案变更（No.01）
+译文: Study protocol amendments (No.01)
+--------------------------------------------------
+原文: 试验过程中没有发生任何已知的可能影响数据完整性的事件。
+译文: No known events that could affect data integrity occurred during the study process.
+--------------------------------------------------
+原文: 配制方法举例：以配制100 mL给药制剂举例：
+译文: Example of preparation method: For preparing 100mL of dose formulation:
+--------------------------------------------------
+原文: 附件一：给药制剂分析报告
+译文: Appendix One: Dose Formulation Analysis Report
+--------------------------------------------------
+原文: 种类：反渗透水（检测报告为生活饮用水）；
+译文: Type: Reverse osmosis water (testing report as domestic drinking water);
+--------------------------------------------------
+原文: 配制后暂存条件及有效期：室温、遮光，4 h内使用。
+译文: Storage conditions and expiry after preparation: Room temperature; protect from light, use within 4 hours.
+--------------------------------------------------
+原文: 数据整理及统计分析：高婷婷、沈婷婷。
+译文: Data collation and statistical analysis: Gao Xiaoxia, Shen Xiaoxia.
+--------------------------------------------------
+原文: 保存场所与保存条件
+译文: Storage site and Storage condition
+--------------------------------------------------
+原文: 8.	数据采集和分析	24
+译文: 8.	Data Acquisition and Analysis	24
+--------------------------------------------------
+原文: 上海军豪生物科技有限公司
+译文: Shanghai Junhao Biotechnology Co., Ltd.
+--------------------------------------------------
+原文: 名称/代号：sbk002；
+译文: Name/Code: sbk002;
+--------------------------------------------------
+原文: 兽医：王海洋、徐堃、吴自强、徐永强、沈双琪；
+译文: Veterinarian: Wang Haiyang, Xu Rui, Wu Ziqiang, Xu Yongqiang, Shen Shuangya;
+--------------------------------------------------
+原文: 15.4.	附件四：病理学检查报告	33
+译文: 15.4.	Appendix Four: Pathology Examination Report	33
+--------------------------------------------------
+原文: 3.4.	体重和年龄	17
+译文: 3.4.	Body Weight and Age	17
+--------------------------------------------------
+原文: 动物标识
+译文: Animal Identification
+--------------------------------------------------
+原文: 1.1.	专题名称及编号	10
+译文: 1.1.	Study Title and Number	10
+--------------------------------------------------
+原文: 组织病理学检查：李言川；
+译文: Histopathological Examination: Li Yanchuan;
+--------------------------------------------------
+原文:  动物的饲养和管理
+译文:  Animal Housing and Management
+--------------------------------------------------
+原文: 13.	资料保存	28
+译文: 13.	Storage of Data	28
+--------------------------------------------------
+原文: 5.1.	给药信息	21
+译文: 5.1.	Dosing Information	21
+--------------------------------------------------
+原文: 溶媒
+译文: Vehicle
+--------------------------------------------------
+原文: 测定动物：所有存活的实验动物；
+译文: Animals to be measured: All surviving laboratory animals;
+--------------------------------------------------
+原文: 试验方案及变更、偏离
+译文: Study protocol amendments and deviations
+--------------------------------------------------
+原文: 批号： F1719015；
+译文: Batch Number: F1719015;
+--------------------------------------------------
+原文: 胃
+译文: Stomach
+--------------------------------------------------
+原文: 质量保证人员
+译文: Quality Assurance Personnel
+--------------------------------------------------
+原文: 4.	动物的饲养和管理	18
+译文: 4.	Animal Housing and Management	18
+--------------------------------------------------
+原文: （2）大体解剖、脏器称量和组织病理学检查
+译文: (2) Gross necropsy, organ weighing and histopathological examination
+--------------------------------------------------
+原文: 2.1.3. 留样及剩余给药制剂/供试品的处理
+译文: 2.1.3. Retention samples and disposal of remaining dose formulations/test articles
+--------------------------------------------------
+原文: 有效期至：开启后三年(2021-10-22)；
+译文: Expiry date: Three years after opening (2021-10-22);
+--------------------------------------------------
+原文: 提供单位：成都施贝康生物医药科技有限公司。
+译文: Supplier: Chengdu Sibicon Biomedical Technology Co., Ltd.
+--------------------------------------------------
+原文: 给药制剂在试验机构内的转移
+译文: dose formulations within test facility metastasis
+--------------------------------------------------
+原文: 阳性对照品
+译文: positive reference item
+--------------------------------------------------
+原文: 实验动物选择理由：参照《药物单次给药毒性研究技术指导原则》（原CFDA，2014年05月），化学药单次给药毒性试验应采用至少两种哺乳动物进行试验，一般应选用一种啮齿类动物和一种非啮齿类动物。前期研究表明ICR小鼠为本供试品敏感动物，因此，本试验以ICR小鼠为受试动物，且其遗传、生物学背景（包括解剖、生理、临床病理等各种数据的正常范围）比较清楚。
+译文: laboratory animals selection reasons: refer to 'medication single dose toxicity research technical guidance principles' (former CFDA, May 2014), chemical drug single dose toxicity studies should adopt at least two types of mammals for experimentation, typically choosing one rodent animal and one non-rodent animal. Preliminary research indicates that ICR mice are the sensitive animals for this test article, hence, ICR mice are used as the test animals for this assay, and their genetic, biological background (including anatomical, physiological, clinical pathology, and other data ranges) are well understood.
+--------------------------------------------------
+原文: 附件五：试验方案及变更
+译文: Appendix V: study protocol and amendments
+--------------------------------------------------
+原文: 给药体积：给药体积为20 mL/kg；
+译文: dose volume: dose volume is 20 mL/kg;
+--------------------------------------------------
+原文: 专题负责人
+译文: study director
+--------------------------------------------------
+原文: 选择理由：与临床用药途径一致；
+译文: selection reason: consistent with clinical medication route;
+--------------------------------------------------
+原文: 本试验条件下，D15时，与你溶媒对照组相比，sbk002剂量组雌性动物脑重量降低、子宫（含子宫颈）重量及脏体比降低，雄性动物肺脏和主支气管脏脑比升高，以上检测结果虽有统计学差异，但均属正常波动范围内波动，且大体解剖观察未见明显病理学改变，故认为上述改变无毒理学意义。除此之外，实验动物其余脏器重量、脏体比及脏脑比计算结果与溶媒对照组相比差异均无统计学意义（P>0.05），未见与供试品给药相关的明显异常。sbk002剂量组动物大体解剖观察未见明显病理学改变。clo剂量组死亡动物肉眼病变组织病理学检查见肺脏瘀血、胃坏死、胃色素沉积，动物直接死亡原因不能确定，3F003与3M007死亡原因可能与消化系统病变有关，肺脏的病理学改变可能与死亡后脏器瘀血有关。
+译文: Under the conditions of this assay, at D15, compared to the vehicle control group, the sbk002 dose group female animals showed decreased brain weight, decreased uterus (including cervix) weight and organ-to-body ratio, and male animals showed increased lung and main bronchus organ-to-brain ratio; although these testing results have statistical differences, they all fluctuate within the normal range, and gross necropsy observations did not reveal significant pathological changes, thus it is considered that the above changes have no toxicological significance. In addition, the remaining organ weights, organ-to-body ratios, and organ-to-brain ratios of laboratory animals compared to the vehicle control group showed no statistically significant differences (P > 0.05), and no remarkable findings related to the test article were observed. Gross necropsy observations in the sbk002 dose group animals did not reveal significant pathological changes. In the clo dose group, pathological examinations of deceased animals revealed congestion in the lungs, gastric necrosis, and gastric pigment deposition, and the exact cause of death could not be determined. The deaths of 3F003 and 3M007 may be related to digestive system lesions, and the pathological changes in the lungs may be associated with post-mortem organ congestion.
+--------------------------------------------------
+原文: 垂体
+译文: pituitary
+--------------------------------------------------
+原文: 剩余溶媒对照组给药制剂的处理
+译文: disposal of remaining vehicle control group dose formulations
+--------------------------------------------------
+原文: 生产许可证号：SCXK（浙）2018-0001；
+译文: Production license No: SCXK (Zhe) 2018-0001;
+--------------------------------------------------
+原文: 营养成分：具有许尼测试集团股份有限公司提供的批号18103213, 18113213饲料的营养成分检测报告（报告编号：GMAXKCAK40861508, GMAJKSIK27539508），检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合GB14924.3-2010；
+译文: Nutritional content: Testing report for batch numbers 18103213, 18113213 feeds provided by Xuni Testing Group Co., Ltd. (report numbers: GMAXKCAK40861508, GMAJKSIK27539508), testing parameters include moisture, crude protein, crude fat, crude fiber, crude ash, calcium, and total phosphorus. Testing results meet GB14924.3-2010 standards;
+--------------------------------------------------
+原文: 生产厂家：成都施贝康生物医药科技有限公司；
+译文: Manufacturer: Chengdu Shipribec Bio-Pharmaceutical Technology Co., Ltd.;
+--------------------------------------------------
+原文: 制造商
+译文: Manufacturer
+--------------------------------------------------
+原文: 15.1.	附件一：给药制剂分析报告	30
+译文: 15.1.	Appendix One: Dose Formulation Analysis Report	30
+--------------------------------------------------
+原文: 麻醉前待解剖小鼠禁食至少8小时，采用戊巴比妥钠腹腔注射麻醉，注射剂量为80 mg/kg，浓度为10 mg/mL，注射容积为8 mL/kg（可根据动物麻醉状态进行适当的调整），麻醉后腹主动脉放血安乐死。
+译文: Before anesthesia, fast the mice for at least 8 hours, anesthetize with intraperitoneal injection of pentobarbital sodium at a dose of 80 mg/kg, concentration of 10 mg/mL, and injection volume of 8 mL/kg (adjustments can be made according to the animal's anesthesia status), after anesthesia, perform euthanasia by exsanguination via the abdominal aorta.
+--------------------------------------------------
+原文: 解剖人员：陈勇、李佳霖、李正道、杨刚、陆彥豪、蒋发志、陈明明、陆宇锋、张海亮、刘星；
+译文: Necropsy personnel: Chen Yong, Li Jialin, Li Zhengdao, Yang Gang, Lu Ehhao, Jiang Fazhi, Chen Mingming, Lu Yufeng, Zhang Hailiang, Liu Xing;
+--------------------------------------------------
+原文: 1）《实验动物管理与使用指南》一书所列的AAALAC指导方针，美国国家研究委员会实验动物研究所编写，2011年修订；
+译文: 1) The guidelines listed in the book 'Guide for the Care and Use of Laboratory Animals' from AAALAC, compiled by the National Research Council's Institute for Laboratory Animal Research, revised in 2011;
+--------------------------------------------------
+原文:   体重
+译文:   body weight
+--------------------------------------------------
+原文: 肾脏
+译文: kidney
+--------------------------------------------------
+原文: 签名：                              日期 ：
+译文: Signature：                              Date ：
+--------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures，SOPs）。
+译文: The implementation of this study, except as specifically noted in the protocol, complies with the standard operating procedures of this facility (Standard Operating Procedures, SOPs).
+--------------------------------------------------
+原文: 成都高新区西芯大道17号
+译文: No. 17, West Core Avenue, Chengdu Hi-tech Industrial Development Zone
+--------------------------------------------------
+原文: 实验动物选择依据和数量
+译文: Selection and Justification of Laboratory Animals and Number
+--------------------------------------------------
+原文: 试验物质
+译文: Test substance
+--------------------------------------------------
+原文: 购入动物数量和性别：66只，雌、雄各半；
+译文: Purchased animal number and sex: 66, half male and half female;
+--------------------------------------------------
+原文: 对给药当天的给药制剂进行含量分析。分别从待测给药制剂上、中、下层各取2份样（溶媒对照组仅取中层），1份用于分析，另1份室温、遮光保存备用。溶媒对照组室温保存备用。分析样品编号为给药制剂成品编号-位置缩写+2位流水号（例如：181214-G1-M01）。给药制剂分析取样前用磁力搅拌器以一定转速搅拌15分钟以上（转速设置以形成明显凹陷但不产生漩涡及大量气泡为准），取样体积、处理及检测方法见“ICR小鼠灌胃给予sbk002及磷酸氢钙盐格雷海尔原料药单次给予毒性试验给药制剂分析方法（方法编号：W2018027-FA02）”。
+译文: Perform content analysis of the dose formulation on the day of dosing. Two samples are taken from the top, middle, and bottom layers of the dose formulation to be tested (the vehicle control group only takes samples from the middle layer). One sample is used for analysis, and the other is stored at room temperature, protected from light, as a backup. The vehicle control group sample is stored at room temperature as a backup. The sample code for analysis is 'dose formulation finished product number-layer abbreviation + two-digit serial number' (e.g., 181214-G1-M01). Before sampling for dose formulation analysis, stir with a magnetic stirrer at a certain speed for at least 15 minutes (the speed is set to form a noticeable depression without creating vortices and a lot of bubbles). For sampling volume, handling, and testing methods, refer to 'ICR Mouse Gavage Administration of sbk002 and Phosphate Buffered Saline Greyhound API Single Dose Toxicity Test Dose Formulation Analysis Method (Method Number: W2018027-FA02)'.
+--------------------------------------------------
+原文: 7.6.	组织固定、病理学检查	23
+译文: 7.6.	Tissue fixation, Pathological examination	23
+--------------------------------------------------
+原文: 系统
+译文: System
+--------------------------------------------------
+原文: 2.1.	供试品	12
+译文: 2.1.	Test article	12
+--------------------------------------------------
+原文: [2] 袁伯俊，廖明阳，李波. 药物毒理学实验方法与技术. 化学工业出版社，2007：200-210。
+译文: [2] Yuan Bojun, Liao Mingyang, Li Bo. Laboratory Methods and Techniques in Toxicology. Chemical Industry Press, 2007: 200-210.
+--------------------------------------------------
+原文: 留样供试品处理：本批供试品留样以供试品管理部相关记录为准，项目结束后按SOP规定进行归档，储存在本机构档案管理部留样档案室；
+译文: The retention sample of this batch of test article shall be subject to the relevant records of the Test Article Management Department. After the project ends, it shall be archived according to SOP and stored in the retention sample archive room of the archives management department of the institution;
+--------------------------------------------------
+原文: 附录项目
+译文: Appendixes
+--------------------------------------------------
+原文: 试验数据收集和/或统计分析
+译文: assay data collection and/or statistical analysis
+--------------------------------------------------
+原文: 雄性
+译文: male
+--------------------------------------------------
+原文: 4.9.	动物选择	20
+译文: 4.9.	Animal Selection	20
+--------------------------------------------------
+原文: 数据采集和分析
+译文: data acquisition and analysis
+--------------------------------------------------
+原文: 脏器重量
+译文: organ weight
+--------------------------------------------------
+原文: 环境改善
+译文: Environmental Enrichment
+--------------------------------------------------
+原文:  专题名称：ICR小鼠灌胃给予sbk002及硫酸氢氯吡格雷原料药
+译文:  Study Name: ICR mouse gavage with sbk002 and sodium bisulfite paraben raw material drug
+--------------------------------------------------
+原文: 试验目的
+译文: Study Objective
+--------------------------------------------------
+原文: 名称：
+译文: name:
+--------------------------------------------------
+原文: 给药剂量：sbk002剂量组和clo剂量组给药剂量均为5000 mg/kg；
+译文: Dosage: sbk002 dose group and clo dose group, dosage is 5000 mg/kg;
+--------------------------------------------------
+原文: 试验时间安排
+译文: assay time schedule
+--------------------------------------------------
+原文: 小肠（十二指肠）
+译文: small intestine (duodenum)
+--------------------------------------------------
+原文: 签   字   页
+译文: signature page
+--------------------------------------------------
+原文: 检查内容
+译文: Inspection Contents
+--------------------------------------------------
+原文: 体重和年龄
+译文: Body Weight and Age
+--------------------------------------------------
+原文: 一般状态观察结果列表分析。
+译文: general state observation result listing analyzed.
+--------------------------------------------------
+原文: 检测结果：
+译文: testing result:
+--------------------------------------------------
+原文:  专题负责人
+译文:  study director
+--------------------------------------------------
+原文: 配制方法：根据ICR小鼠最近一次体重、给药剂量计算所需供试品的量。根据供试品的量、配制浓度计算配制体积[体积 = (供试品量×含量) / 浓度]。在室温、避光条件下，准确称取一定量的供试品至研钵中，加入适量的溶媒充分研磨后后，完全转移至一定体积的容器内，用溶媒定至刻度，即得所需浓度的供试品给药制剂。
+译文: preparation method: according to the most recent body weight of ICR mice and the dosage to calculate the amount of test article needed. Based on the amount of test article and preparation concentration, calculate the prepared volume [volume = (amount of test article × content) / concentration]. At room temperature and protected from light, accurately weigh a certain amount of test article into a mortar, add an appropriate amount of vehicle, grind fully, then completely transfer to a container of a certain volume, and use the vehicle to make up to the required concentration of test article dose formulations.
+--------------------------------------------------
+原文: 生产厂家：成都贝斯特试剂有限公司；
+译文: Manufacturer: Chengdu Best Reagents Co., Ltd.;
+--------------------------------------------------
+原文: 含量：99.9 %； 
+译文: content: 99.9%; 
+--------------------------------------------------
+原文: 15.4.     附件四：病理学检查报告
+译文: 15.4.     Appendix IV: Pathology examination report
+--------------------------------------------------
+原文: 姓名：高婷婷；
+译文: name: Gao Yayun;
+--------------------------------------------------
+原文: 电话：
+译文: Telephone:
+--------------------------------------------------
+原文: 化学污染物：具有谱尼测试集团股份有限公司提供的批号18103213、18113213饲料的化学污染物检测报告（报告编号：GMAXKCAK40864508、GMAJKSIK27540508），检测指标包括砷、铅、镉、汞、六六六、滴滴涕、黄曲霉毒素B1。检测结果符合GB/T 14924.2-2001；
+译文: chemical pollutants: including aflatoxin, lead, cadmium, mercury, dioxins, ochratoxin A, aflatoxin B1. The test results meet the standards of GB/T 14924.2-2001;
+--------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK（苏）2018-0051；
+译文: laboratory animals use license number: SYXK (Su) 2018-0051;
+--------------------------------------------------
+原文: 7.	大体解剖、脏器称量和组织病理学检查	22
+译文: 7.	gross necropsy, organ weighing and histopathological examination	22
+--------------------------------------------------
+原文: 联系人：牟霞；
+译文: contact: Mu Yan;
+--------------------------------------------------
+原文: 1.5.	试验人员组成	10
+译文: 1.5.	Study Personnel Composition	10
+--------------------------------------------------
+原文: 若需进行统计比较的组别数≥3时，统计分析方法如下：先进行LEVENE方差齐性检验，当方差齐时（P≥0.05），采用单因素方差分析（ANOVA）进行统计学检验；当方差不齐时（P＜0.05），则采用秩合检验（Kruskal-Wallis H）进行统计分析。单因素方差分析（ANOVA）显示总体差异有统计学意义时（P≤0.05），采用Dunnett’s LSD检验对组间差异进行比较，单因素方差分析（ANOVA）显示总体差异无统计学意义时（P＞0.05），则统计分析结束。秩合检验（Kruskal-Wallis H）显示总体差异有统计学意义时（P≤0.05），采用Mann-Whitney U检验对组间差异进行比较，秩合检验（Kruskal-Wallis H）显示总体差异无统计学意义时（P＞0.05），则统计分析结束。组间比较在各剂量组和溶媒对照组间进行，Dunnett’s LSD检验P＜0.05和Mann-Whitney U检验P≤0.05时有统计学意义。
+译文: If the number of groups to be statistically compared is ≥3, the statistical analysis method is as follows: first perform LEVENE's test for homogeneity of variances. When the variances are homogeneous (P≥0.05), use a one-way ANOVA for statistical testing. When the variances are not homogeneous (P<0.05), use a Kruskal-Wallis H test for statistical analysis. When a one-way ANOVA indicates significant overall differences (P≤0.05), use Dunnett's LSD test to compare inter-group differences. When a one-way ANOVA shows no significant overall differences (P>0.05), the statistical analysis ends. When a Kruskal-Wallis H test shows significant overall differences (P≤0.05), use a Mann-Whitney U test to compare inter-group differences. When a Kruskal-Wallis H test shows no significant overall differences (P>0.05), the statistical analysis ends. Inter-group comparisons are conducted between dose groups and the vehicle control group. Dunnett's LSD test (P<0.05) and Mann-Whitney U test (P≤0.05) indicate statistical significance.
+--------------------------------------------------
+原文: 微生物指标：具有北京维通利华实验动物技术有限公司检测室和谱尼测试集团股份有限公司提供的批号18103213、18113213饲料的微生物检测报告（报告编号：BJVRL-FR-20181018C、GMABENWK32548508），检测指标包括菌落总数、大肠菌群、霉菌和酵母菌计数、沙门氏菌。检测结果符合GB/T 14924.2-2001。
+译文: Microbiological indicators: a microbiological testing report of feed batches 18103213 and 18113213 provided by Beijing Vital River Laboratory Animal Technology Co., Ltd. and Charles River Laboratories Inc. (Report IDs: BJVRL-FR-20181018C, GMABENWK32548508) includes total bacterial count, coliforms, mold and yeast counts, and Salmonella. The test results conform to GB/T 14924.2-2001.
+--------------------------------------------------
+原文: 卵巢
+译文: Ovary
+--------------------------------------------------
+原文: 气管
+译文: Trachea
+--------------------------------------------------
+原文: 版本
+译文: Version
+--------------------------------------------------
+原文: 用途
+译文: Purpose
+--------------------------------------------------
+原文: 性别和数量
+译文: Sex and Number
+--------------------------------------------------
+原文: 大体观察：景龙、田甜、栗荣霞；
+译文: Gross observation: Jinglong, Tian Tian, Li Rongxia;
+--------------------------------------------------
+原文: 结论
+译文: Conclusion
+--------------------------------------------------
+原文: 研究机构
+译文: Test Facility
+--------------------------------------------------
+原文: 批号：180803；
+译文: Batch number: 180803;
+--------------------------------------------------
+原文: 若需进行统计比较的组别数 < 3时，统计分析方法如下：先采用LEVENE进行方差齐性检验，当方差齐时（P＞ 0.05），则采用t检验进行统计学分析；当方差不齐时（P≤ 0.05），则采用近似t检验（t，检验）进行统计分析。当t检验或t，检验结果显示差异无统计学意义时（P＞ 0.05），则统计分析结束。所有检验均为双侧检验α = 0.05。
+译文: If the number of groups to be statistically compared is < 3, the statistical analysis method is as follows: first use the LEVENE method to perform the test for homogeneity of variances. When the variances are homogeneous (P > 0.05), use the t-test for statistical analysis; when the variances are not homogeneous (P ≤ 0.05 ), use the approximate t-test (t-test) for statistical analysis. When the results of the t-test or the approximate t-test show no statistically significant differences (P > 0.05 ), the statistical analysis ends. All tests are bilateral tests with α = 0.05.
+--------------------------------------------------
+原文: 本试验条件下，ICR小鼠分别单次灌胃给予sbk002和clo，给药剂量均为5000 mg/kg，给药后连续观察14天，溶媒对照组和sbk002剂量组的实验动物均存活至计划解剖，且一般状态观察、体重、摄食量均未见与供试品给药相关的明显异常。clo剂量组D1 ~ D3 期间共死亡19/20只动物（10雄、9雌），D1给药后实验动物（除3F009外）出现不同程度的流涎、仰卧、活动减少、呼吸急促、无力、抽搐、步态不稳，共济失调、肌痉挛、弓背等症状；D2时，clo剂量组雌性动物3F001、3F008仍有低体温、仰卧、活动减少、共济失调、痉挛的症状。
+译文: Under the trial conditions, ICR mice were separately and single-time gavaged with sbk002 and clo, with a dosage of 5000 mg/kg. Observations were made continuously for 14 days post-dosing. The vehicle control group and sbk002 dose group laboratory animals all survived until scheduled necropsy, with no remarkable changes in general state observation, body weight, or food consumption related to the test article. For the clo dose group, between D1 and D3, a total of 19 out of 20 animals (10 males and 9 females) died. Post-dosing on D1, laboratory animals (excluding 3F009) exhibited varying degrees of salivation, recumbency, reduced activity, rapid respiration, weakness, convulsions, unsteady gait, ataxia, muscle spasms, and arching back symptoms. On D2, female animals 3F001 and 3F008 in the clo dose group still showed symptoms of hypothermia, recumbency, reduced activity, ataxia, and spasms.
+--------------------------------------------------
+原文: 2.5.	操作/安全措施	16
+译文: 2.5.	Operation/Safety measures	16
+--------------------------------------------------
+原文: 阴道
+译文: vagina
+--------------------------------------------------
+原文: 解剖
+译文: anatomy
+--------------------------------------------------
+原文: 剩余样品的处理：分析后剩余样品返还供试品管理部，按药物/化学废弃物要求处理。
+译文: The disposal of remaining sample: Remaining samples post-analysis are returned to the Test Article Management Department and disposed of according to medication/chemical waste requirements.
+--------------------------------------------------
+原文: 阳性对照品留样：返还供试品管理部，按药物/化学废弃物要求进行处理；
+译文: Positive control item retention samples: Returned to the Test Article Management Department and disposed of according to medication/chemical waste requirements;
+--------------------------------------------------
+原文: 附件四：病理学检查报告
+译文: Appendix IV: Pathology examination report
+--------------------------------------------------
+原文: 地址：江苏省昆山市高新开发区元丰路166号；
+译文: Address: 166 Yuanfeng Road, New & Hi-tech Industrial Development Zone, Kunshan City, Jiangsu Province;
+--------------------------------------------------
+原文: 名称：成都施贝康生物医药科技有限公司；
+译文: Name: Chengdu Shibeikang Biotechnology Co., Ltd.;
+--------------------------------------------------
+原文: 接收和适应
+译文: Animal Receipt and Acclimation
+--------------------------------------------------
+原文: 《非临床安全性评价供试品检测要求的Q&A》（原CFDA，2014年05月）；
+译文: Q&A on Non-clinical Safety Evaluation test article testing Requirements (Former CFDA, May 2014);
+--------------------------------------------------
+原文: 饲料
+译文: feed
+--------------------------------------------------
+原文: 标识方法：所配置的clo剂量组给药制剂用黄色标签标识，并注明专题编号、名称、浓度、数量、配制日期、配制者、贮存条件、有效期至、成品编号；
+译文: Identification method: The clo dose group dose formulations were marked with a yellow label, indicating the study number, name, concentration, quantity, preparation date, preparer, storage conditions, expiry date, and finished product number;
+--------------------------------------------------
+原文: 给药剂量
+译文: Dosage
+--------------------------------------------------
+原文: 给药浓度
+译文: Dose Concentration
+--------------------------------------------------
+原文: 单次给药毒性试验
+译文: Single-dose toxicity studies
+--------------------------------------------------
+原文: 哈氏腺
+译文: harderian glands
+--------------------------------------------------
+原文: 准确称取0.5 g的CMC-Na粉末，用量筒量取100 mL纯水转移至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入搅拌子，用磁力搅拌器搅拌至完全溶解，即得0.5%CMC-Na溶液100 mL，分装所需量的0.5%CMC-Na溶液作为溶媒对照组给药制剂。
+译文: Accurately weigh 0.5 g of CMC-Na powder, measure 100 mL of pure water with a cylinder and transfer it to a beaker. Disperse the CMC-Na powder evenly in the beaker, add a stir bar, and use a magnetic stirrer to stir until completely dissolved, yielding 100 mL of 0.5% CMC-Na solution. Dispense the required amount of 0.5% CMC-Na solution as the vehicle control group dose formulations.
+--------------------------------------------------
+原文: 总结报告
+译文: final report
+--------------------------------------------------
+原文: 供试品管理：陈晓艳、李琳；
+译文: Test Article Management: Chen Xiaoyan, Li Lin;
+--------------------------------------------------
+原文: 附睾
+译文: epididymis
+--------------------------------------------------
+原文: 保存条件：室温；
+译文: Storage condition: room temperature;
+--------------------------------------------------
+原文: 动物数量选择理由：在满足研究目的、科学标准和法规要求的前提下，使用尽可能少的动物。本试验按 MTD 法设计，观察 sbk002 单次给药后的耐受情况，同时设 clo 给药组，动物数均为 20 只/组。为防止所购实验动物由于未知原因导致不能满足试验需求的情况发生，额外多申购 3 只/性别动物。
+译文: Justification for selection of the number of laboratory animals: Under the premise of meeting research objectives, scientific standards, and regulatory requirements, use as few animals as possible. This assay is designed according to the MTD method, observing the tolerance condition after single dose of sbk002, and simultaneously setting a clo dose group, with an average of 20 animals per group. To prevent the scenario where the purchased laboratory animals cannot meet the assay requirements due to unknown reasons, an additional 3 animals per gender are requested.
+--------------------------------------------------
+原文: 组别
+译文: group
+--------------------------------------------------
+原文: 电子邮件：gaotingting@cti-cert.com。
+译文: email: gaotingting@cti-cert.com.
+--------------------------------------------------
+原文: 测定方法：第 1 天测定每一饲养笼给饲料量，第 2 天在大致相同的时间测定剩余饲料量，二者的差为每一饲养笼动物 24 小时的总进食量，以此除以每笼动物数，计算得到每只动物的平均摄食量（根据供试品特点可以适当调整测量频率）。
+译文: Method for measurement: On the 1st day, determine the feed amount given to each cage; on the 2nd day, determine the remaining feed amount at approximately the same time. The difference between the two is the total food intake of each cage of animals over 24 hours. Dividing this by the number of animals per cage calculates the average food consumption per animal (measurement frequency can be adjusted appropriately based on the characteristics of the test article).
+--------------------------------------------------
+原文: 3.2.    性别和数量   17
+译文: 3.2.    Sex and Number   17
+--------------------------------------------------
+原文: 电子邮件：cti-btc-qa.list@cti-cert.com。
+译文: email: cti-btc-qa.list@cti-cert.com.
+--------------------------------------------------
+原文: 10.1    试验结果  25
+译文: 10.1    assay result  25
+--------------------------------------------------
+原文: 给药制剂分析：李芃、陆明敏、赵倩；
+译文: dose formulation analyzed: 李芃, 陆明敏, 赵倩;
+--------------------------------------------------
+原文: clo剂量组动物3F003胃重度坏死、中度色素沉积；3M007胃中度坏死、轻微色素沉积，肺脏轻度淤血，上述结果与大体解剖观察结果一致，3F005肝脏未见明显病理学改变。动物直接死亡原因不能确定，3F003与3M007死亡原因可能与消化系统毒性有关，肺脏的病理学改变可能与死亡后脏器淤血有关。
+译文: clo dose group animal 3F003 showed severe necrosis in the stomach with moderate pigment deposition; animal 3M007 showed moderate necrosis in the stomach with minimal pigment deposition, and mild congestion in the lungs. These results are consistent with gross necropsy observations. No significant pathological changes were observed in the liver of 3F005. The direct cause of death of the animals could not be determined. The deaths of 3F003 and 3M007 may be related to digestive system toxicity, and the pathological changes in the lungs may be related to post-mortem organ congestion.
+--------------------------------------------------
+原文:   给药制剂分析结果
+译文:   dose formulation analysis results
+--------------------------------------------------
+原文: 2.7.    其他主要试剂   16
+译文: 2.7.    Other Major Reagents   16
+--------------------------------------------------
+原文: clo剂量组D1给药后，雄性动物有不同程度的俯卧、活动减少，共济失调、呼吸急促/微弱、痉挛乏力、抽搐，步态不稳症状，雌性动物除3F009外，其它动物有不同程度的流涎，俯卧、活动减少、呼吸急促、乏力、抽搐、步态不稳，共济失调、肌震、弓背等症状；D2时，雌性动物3F001、3F008仍有身体发冷、俯卧、活动减少、共济失调、震颤的症状。D1 ~ D3 期间共死亡 19/20 只动物（10 雄、9 雌）：3M001、3M002、3M003、3M004、3M008、3M009、3F004、3F005、3F010 于 D1 发现死亡，3M005、3M006、3M007、3M010、3F002、3F003、3F006、3F007 于 D2 发现死亡，3F001、3F008 于 D3 发现死亡。
+译文: In the clo dose group, after dosing on D1, male animals exhibited varying degrees of prostration, decreased activity, ataxia, rapid/weak breathing, spasms, weakness, tic, and unsteady gait. Female animals, except for 3F009, exhibited varying degrees of salivation, prostration, decreased activity, rapid breathing, weakness, tic, unsteady gait, ataxia, muscle tremors, and a hunched back. On D2, female animals 3F001 and 3F008 continued to show symptoms of coldness, prostration, decreased activity, ataxia, and tremors. During D1 ~ D3, 19 of 20 animals (10 males, 9 females) died: 3M001, 3M002, 3M003, 3M004, 3M008, 3M009, 3F004, 3F005, 3F010 were found dead on D1. 3M005, 3M006, 3M007, 3M010, 3F002, 3F003, 3F006, 3F007 were found dead on D2. 3F001 and 3F008 were found dead on D3.
+--------------------------------------------------
+原文: 15.2.     附件二：试验结果统计汇总
+译文: 15.2.     Appendix II: assay result statistical summary
+--------------------------------------------------
+原文: 动物房的环境控制和检测
+译文: Environmental control and testing of the animal housing
+--------------------------------------------------
+原文: 体重测定结果汇总见附件二表2，个体数据见附件三表8-1、8-2。结果显示：给药前与给药后溶媒对照组及sbk002剂量组实验动物的体重均在正常波动范围内，未见与供试品给药相关的明显异常。
+译文: The results of body weight measurements are summarized in Appendix 2; individual data can be found in Appendix 3, Tables 8-1 and 8-2. Results indicate that the body weights of laboratory animals in the vehicle control group and the sbk002 dosage group were within normal fluctuation ranges before and after dosing, with no significant abnormalities related to the test article treatment.
+--------------------------------------------------
+原文: 提供单位：浙江维通利华实验动物技术有限公司；
+译文: Supplier: Zhejiang Weitonglihua Laboratory Animal Technique Co., Ltd.
+--------------------------------------------------
+原文: 肾上腺
+译文: adrenal glands
+--------------------------------------------------
+原文: 给药制剂分析
+译文: dose formulation analysis
+--------------------------------------------------
+原文: 试验期间，给药前与给药后溶媒对照组及sbk002剂量组实验动物的体重均在正常波动范围内，未见与供试品给药相关的明显异常。
+译文: During the assay period, the body weights of laboratory animals in the vehicle control group and the sbk002 dosage group were within normal fluctuation ranges before and after dosing, with no significant abnormalities related to the test article treatment.
+--------------------------------------------------
+原文: 大肠（盲肠）
+译文: large intestine (cecum)
+--------------------------------------------------
+原文: 眼球和视神经*
+译文: eye and optic nerve*
+--------------------------------------------------
+原文: 体重
+译文: body weight
+--------------------------------------------------
+原文: 来源
+译文: source
+--------------------------------------------------
+原文: 麻醉及安乐死方法
+译文: anesthesia and euthanasia method
+--------------------------------------------------
+原文: 标识方法：所配制的sbk002剂量组给药制剂用红色标签标识，并注明专题编号、名称、浓度、数量、配制日期、配制者、贮存条件、有效期至、成品编号；
+译文: Identification method: Dose formulations of the sbk002 dosage group were labeled with red labels, including study number, name, concentration, number, preparation date, preparer, storage conditions, expiry date, and finished product number.
+--------------------------------------------------
+原文: 11.	结论	28
+译文: 11.	Conclusion	28
+--------------------------------------------------
+原文: 本试验将遵循的法规及技术指导原则，包括但不限于：
+译文: This assay will comply with the regulations and technical guidelines, including but not limited to:
+--------------------------------------------------
+原文: 4.7.	垫料	19
+译文: 4.7.	bedding	19
+--------------------------------------------------
+原文: 专题名称及编号
+译文: Study name and number
+--------------------------------------------------
+原文: 温度：21.1 ~ 23.4 ℃（日温差0.6 ~ 2.2 ℃）；
+译文: temperature: 21.1 ~ 23.4 ℃ (daily temperature variation 0.6 ~ 2.2 ℃);
+--------------------------------------------------
+原文: 病理资料详细描述。
+译文: Pathological data described in detail.
+--------------------------------------------------
+原文: 地址：成都高新区西芯大道17号；
+译文: Address: 17 Xixin Avenue, Chengdu New & Hi-tech Industrial Development Zone;
+--------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司
+译文: Chengdu Shibeikang Bio-pharmaceutical Technology Co., Ltd.
+--------------------------------------------------
+原文: 10.1.5.2.脏器称量
+译文: 10.1.5.2.	Organ weighing
+--------------------------------------------------
+原文: 全自动脱水机
+译文: Fully automatic dehydration machine
+--------------------------------------------------
+原文: 7.2.	解剖动物	22
+译文: 7.2.	Animal dissection	22
+--------------------------------------------------
+原文: 第 26页 /共 35页
+译文: Page 26 of 35
+--------------------------------------------------
+原文: 2）中华人民共和国科学技术部，《实验动物管理条例》，2013年修订。
+译文: 2) Ministry of Science and Technology of the People's Republic of China, 'Regulations on Laboratory Animal Management', amended in 2013.
+--------------------------------------------------
+原文: 结论：综上所述，本试验条件下，ICR小鼠单次经口灌胃给予 sbk002 最大耐受剂量（MTD）≥5000 mg/kg，相同剂量下clo经口灌胃给药半数致死量（LD50）＜5000 mg/kg。
+译文: Conclusion: Based on the above, under the conditions of this assay, a single oral gavage administration of sbk002 at a maximum tolerated dose (MTD) of ≥5000 mg/kg in ICR mice showed a median lethal dose (LD50) <5000 mg/kg.
+--------------------------------------------------
+原文: 肺脏和主支气管
+译文: lungs and main bronchi
+--------------------------------------------------
+原文: 脾脏
+译文: spleen
+--------------------------------------------------
+原文: 具体分组信息见下表：
+译文: Detailed group assignment information can be found in the table below:
+--------------------------------------------------
+原文: 本试验对给药制剂进行了含量分析，分析结果详见附件一。结果显示：经检测，系统适应性、标准曲线线性范围、质量控制均符合分析方法要求。sbk002剂量组的准确度（检测浓度与给药制剂标志浓度的比值）在102.47% ~ 104.60之间，sbk002剂量组给药制剂上、中、下层检测浓度的相对标准偏差（RSD）为1.04%；clo剂量组的准确度（检测浓度与给药制剂标志浓度的比值）在99.61% ~ 102.44%之间，clo剂量组给药制剂上、中、下层检测浓度的相对标准偏差（RSD）为1.41%。以上分析结果表明给药制剂配制均符合要求。
+译文: This assay performed a content analysis on dose formulations. The analyzed results are detailed in Appendix One. The results showed: upon testing, system suitability, standard curve linear range, and quality control all met the analysis method requirements. The accuracy of the sbk002 dose group (the ratio of the detected concentration to the dose formulation's labeled concentration) was between 102.47% and 104.60%, and the relative standard deviation (RSD) of the detected concentration in the upper, middle, and lower layers of the sbk002 dose formulations was 1.04%. The accuracy of the clo dose group (the ratio of the detected concentration to the dose formulation's labeled concentration) was between 99.61% and 102.44%, and the relative standard deviation (RSD) of the detected concentration in the upper, middle, and lower layers of the clo dose formulations was 1.41%. The above analysis results indicate that the preparation of the dose formulations meets the requirements.
+--------------------------------------------------
+原文: 测定动物：所有存活的实验动物。
+译文: Animals to be measured: all surviving laboratory animals.
+--------------------------------------------------

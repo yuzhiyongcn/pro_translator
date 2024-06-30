@@ -28,7 +28,7 @@ class GPTWrapper:
         response = self.client.chat.completions.create(
             model=self.model,  # 使用合适的 GPT 模型
             messages=messages,
-            max_tokens=2048,  # 确定生成的响应能适配提供的标记数量
+            max_tokens=4096,  # 确定生成的响应能适配提供的标记数量
         )
 
         return response.choices[0].message.content.strip()
