@@ -1,0 +1,1604 @@
+原文: 试验方案
+
+译文: study protocol
+------------------------------------------------------------------------------------
+原文: 留样及剩余供试品的处理
+
+译文: Retention samples and disposal of remaining test article
+------------------------------------------------------------------------------------
+原文: 血样处理和血小板聚集率检测：
+
+译文: Blood sample disposal and platelet accumulation rate testing:
+------------------------------------------------------------------------------------
+原文: 供试品及对照品在室温、遮光条件下从供试品管理部转移到动物饲养间。从供试品管理部领取的供试品及对照品在不使用时贮存于室温、遮光条件。
+
+译文: The test article and reference item are transferred from the Test article management department to the Animal Housing room under room temperature and light-protected conditions. The test article and reference item retrieved from the Test article management department are stored at room temperature and protected from light when not in use.
+------------------------------------------------------------------------------------
+原文: 4.3.	动物饲养	11
+
+译文: 4.3.	Animal Housing	11
+------------------------------------------------------------------------------------
+原文: 品种/品系/级别
+
+译文: Species/strain/level
+------------------------------------------------------------------------------------
+原文: 检测动物：所有进入适应期试验动物；
+
+译文: Test animals: all animals entering the pretest phase assay;
+------------------------------------------------------------------------------------
+原文: 采样方法和采样量：四肢静脉采血约0.5 mL，至含0.5 mg TCEP和7.2 mg EDTA-K2的采血管中；
+
+译文: Sampling method and sampling volume: collect approximately 0.5 mL of blood from the limb vein into a collection vessel containing 0.5 mg TCEP and 7.2 mg EDTA-K2;
+------------------------------------------------------------------------------------
+原文: 参考前期的比格犬药代预试验，T1/2约为5 h左右，采血时间点设计为：给药前及给药后5 min、15 min、30 min、45 min、1 h、1.5 h、2 h、3 h、4 h、6 h、8 h、10 h和24 h（此时血药浓度约为Cmax的1/20）。
+
+译文: Reference beagle dog drug metabolism pre-assay, T1/2 approximately 5 h, blood sampling time design: pre-dose and after dosing at 5 min, 15 min, 30 min, 45 min, 1 h, 1.5 h, 2 h, 3 h, 4 h, 6 h, 8 h, 10 h, and 24 h (at which point the blood drug concentration is approximately 1/20 of Cmax). 
+------------------------------------------------------------------------------------
+原文: 给药途径：经口给予；
+
+译文: Route of administration: orally administered;
+------------------------------------------------------------------------------------
+原文: 保存条件：15 ~ 25 ℃；
+
+译文: Storage condition: 15 ~ 25 ℃;
+------------------------------------------------------------------------------------
+原文: 3.1.	品种/品系/级别	9
+
+译文: 3.1.	Species/strain/level	9
+------------------------------------------------------------------------------------
+原文: 2.	试验材料	8
+
+译文: 2.	Study Materials	8
+------------------------------------------------------------------------------------
+原文: 保存条件：常规；
+
+译文: Storage condition: routine;
+------------------------------------------------------------------------------------
+原文: 包括但不限于以下内容：
+
+译文: Including but not limited to the following contents:
+------------------------------------------------------------------------------------
+原文: 动力学试验
+
+译文: Kinetics assay
+------------------------------------------------------------------------------------
+原文: 生产单位：北京科澳协力饲料有限公司；
+
+译文: Manufacturer: Beijing Ke'ao Xieli Feed Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 检测项目
+
+译文: Testing items
+------------------------------------------------------------------------------------
+原文: 液质联用仪
+
+译文: Liquid chromatography-mass spectrometry
+------------------------------------------------------------------------------------
+原文: 目       录	4
+
+译文: Table of Contents	4
+------------------------------------------------------------------------------------
+原文: 采样时间：给药前及给药后30 min（± 2 min）、1 h（± 2 min）、2 h（± 2 min）、4 h（± 5 min）、8 h（± 10 min）、24 h（± 20 min）。
+
+译文: Sampling time: pre-dose and after dosing at 30 min (± 2 min), 1 h (± 2 min), 2 h (± 2 min), 4 h (± 5 min), 8 h (± 10 min), 24 h (± 20 min). 
+------------------------------------------------------------------------------------
+原文: 检测时间及样本采集方法
+
+译文: Test time and sample processing method
+------------------------------------------------------------------------------------
+原文: 本试验涉及的与动物试验相关的内容和程序都遵从实验动物使用和管理的相关法律法规和本机构实验动物使用和管理委员会（Institutional Animal Care and Use Committee，IACUC）的相关规定。动物数量、试验设计及动物的处理等都已通过本机构IACUC审批（审批号：IACUC-A2018030-K01-01），并严格按IACUC批准的内容执行。
+
+译文: All content and procedures related to animal experiments in this assay comply with the relevant laws and regulations on the use and management of laboratory animals and the related regulations of the Institution's Animal Care and Use Committee (IACUC). The number of animals, study design, and animal disposal have all been approved by the institution's IACUC (approval number: IACUC-A2018030-K01-01), and are strictly executed as per IACUC approvals.
+------------------------------------------------------------------------------------
+原文: 嗜碱性粒细胞计数（#BASO）及百分比（%BASO）
+
+译文: Basophil count (#BASO) and percentage (%BASO)
+------------------------------------------------------------------------------------
+原文: 2.4.	给药制剂在实验机构内的转移	9
+
+译文: 2.4.	Dose formulations metastasis within the research institution 9
+------------------------------------------------------------------------------------
+原文: 用途
+
+译文: Purpose
+------------------------------------------------------------------------------------
+原文: 对照品配制
+
+译文: Reference item preparation
+------------------------------------------------------------------------------------
+原文: 4.2.	接收和适应	11
+
+译文: 4.2.	Animal Receipt and Acclimation	11
+------------------------------------------------------------------------------------
+原文: （mg/只）
+
+译文:  (mg/animal)
+------------------------------------------------------------------------------------
+原文: 分析测试部生物样品的运输、交接、处理与处置
+
+译文: The transport, handover, disposal, and handling of biological samples analyzed and tested by the department
+------------------------------------------------------------------------------------
+原文: 7.3.	结果分析	16
+
+译文: 7.3.	Result analyzed	16
+------------------------------------------------------------------------------------
+原文: 12.	资料保存	18
+
+译文: 12.	Storage of Relevant Data	18
+------------------------------------------------------------------------------------
+原文: 3.2.	性别和数量	10
+
+译文: 3.2.	Sex and Number	10
+------------------------------------------------------------------------------------
+原文: 饲养密度：1只/笼。
+
+译文: Housing density: 1 animal/cage.
+------------------------------------------------------------------------------------
+原文: 注：动物编号的首位数字代表组别。第二位字母代表性别（M为雄性），后3位数字代表动物序列号。
+
+译文: Note: The first digit of the animal number represents the group. The second letter represents the sex (M for male), and the last 3 digits represent the animal sequence number.
+------------------------------------------------------------------------------------
+原文: 在浓度数据导入WinNonlin 7.0前对BLOQ（低于定量下限）进行定义：BLOQ在有数据之前定义为0，其余定义为Missing。
+
+译文: Before importing concentration data into WinNonlin 7.0, perform the following definitions for BLOQ (below the lower limit of quantification): BLOQ is defined as 0 before data is available, and others are defined as Missing.
+------------------------------------------------------------------------------------
+原文: 给药信息
+
+译文: Dosing Information
+------------------------------------------------------------------------------------
+原文: 名称/代号：sbk002片；
+
+译文: Name/Code: sbk002 tablets;
+------------------------------------------------------------------------------------
+原文: 平均红细胞血红蛋白含量（MCH）
+
+译文: Mean erythrocyte hemoglobin content (MCH)
+------------------------------------------------------------------------------------
+原文: 名称：苏州华测生物技术有限公司；
+
+译文: Name: Suzhou Huace Bio-Technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 平均红细胞体积（MCV）
+
+译文: Mean erythrocyte volume (MCV)
+------------------------------------------------------------------------------------
+原文: 检测时间：适应期测定1次；
+
+译文: Test time: pretest phase determination once;
+------------------------------------------------------------------------------------
+原文: 电子邮件：xiayuye@cti-cert.com。
+
+译文: Email: xiayuye@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: 供试品的剂量设计依据；
+
+译文: Justification for test article dose design;
+------------------------------------------------------------------------------------
+原文: 若采样误差在上述所设范围内，则按所设时间点计算药代参数；若采样误差超出上述所设范围，则按实际时间点计算药代参数；
+
+译文: If sampling errors are within the prescribed ranges, calculate the pharmacokinetic parameters based on the designated time points; if sampling errors are outside the prescribed ranges, calculate the pharmacokinetic parameters based on the actual time points;
+------------------------------------------------------------------------------------
+原文: 酶法
+
+译文: Enzymic method
+------------------------------------------------------------------------------------
+原文: 血样处理：全血样品离心前冰盒中放置，冰盒中运输，于2 ~ 8 ℃，4000 r/min，离心10 min；于冰盒中分离血浆，分装于2个贴有标签的EP 管中，EP管标签格式举例如下：
+
+译文: Blood sample disposal: whole blood samples are placed in an ice box before centrifugation, transported in the ice box, centrifuged at 4000 r/min for 10 min at 2 ~ 8 ℃, then plasma is separated in an ice box and divided into two labeled EP tubes, the EP tube label format example is as follows:
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-06；
+
+译文: Expiry date: 2020-06;
+------------------------------------------------------------------------------------
+原文: （1）试验结束后2周内，专题负责人确保所有研究资料移交至档案室归档。
+
+译文:  (1) Within 2 weeks after the end of the assay, the study director ensures all research data is transferred to the archives room for archiving.
+------------------------------------------------------------------------------------
+原文: 注：该项目对照品总留样量以供试品管理部留样相关记录为准。
+
+译文: Note: The total retention samples of the reference item for this project shall be subject to the retention samples related to the Test article management department.
+------------------------------------------------------------------------------------
+原文: 约2 mL
+
+译文: Approximately 2 mL
+------------------------------------------------------------------------------------
+原文: 观察动物：所有存活试验动物。
+
+译文: Animals to be observed: all surviving assay animals.
+------------------------------------------------------------------------------------
+原文: 专题负责人和参加试验的人员姓名和承担的工作；
+
+译文: Names and duties of the study director and personnel participating in the assay;
+------------------------------------------------------------------------------------
+原文: 电话：0512-36801688；
+
+译文: Telephone: 0512-36801688;
+------------------------------------------------------------------------------------
+原文: 品系：Beagle犬；
+
+译文: Strain: Beagle dogs;
+------------------------------------------------------------------------------------
+原文: 参考临床检验部SOP执行[血小板聚集仪（700）的使用与维护：Q/CTI WI-BTC-EQU-142]。
+
+译文: Reference Clinical Examination Department SOP [platelet accumulation instrument (700) usage and maintenance: Q/CTI WI-BTC-EQU-142]. 
+------------------------------------------------------------------------------------
+原文: 血药浓度检测
+
+译文: Blood drug concentration testing
+------------------------------------------------------------------------------------
+原文: 委托单位
+
+译文: Sponsor
+------------------------------------------------------------------------------------
+原文: 1.4.	委托单位	6
+
+译文: 1.4.	Sponsor	6
+------------------------------------------------------------------------------------
+原文: 血浆样品检测：葛明玉、张佩；
+
+译文: Plasma sample testing: Ge Mingyu, Zhang Pei;
+------------------------------------------------------------------------------------
+原文: 研究机构和委托单位的名称、地址和联系方式；
+
+译文: Name, address, and contact information of test facility and Sponsor;
+------------------------------------------------------------------------------------
+原文: 委托方签字页	3
+
+译文: Sponsor signature page	3
+------------------------------------------------------------------------------------
+原文: 饲养地点：苏州华测生物技术有限公司1号楼4楼犬房普通环境区；
+
+译文: Laboratory animal use license No.: Suzhou Huace Bio-Technology Co., Ltd. Building 1, 4th floor, ordinary environment zone of the canine room;
+------------------------------------------------------------------------------------
+原文: 血液学检查
+
+译文: Hematology examination
+------------------------------------------------------------------------------------
+原文: 江苏省昆山市高新区元丰路166号
+
+译文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone, No. 166 Yuanfeng Road
+------------------------------------------------------------------------------------
+原文: 1.5.	试验人员组成	7
+
+译文: 1.5.	Study Personnel Composition	7
+------------------------------------------------------------------------------------
+原文: 给药剂量：sbk002片和硫酸氢氯吡格雷片的剂量分别为：30 mg/只、75 mg/只；
+
+译文: Dosage: doses of sbk002 tablets and clopidogrel sulfate tablets are: 30 mg/animal, 75 mg/animal;
+------------------------------------------------------------------------------------
+原文: 样本的保存与运输
+
+译文: Sample storage and transport
+------------------------------------------------------------------------------------
+原文: 供试品留样：按公司相关SOP进行供试品留样；
+
+译文: Test article retention samples: perform test article retention samples according to the related SOPs of the company;
+------------------------------------------------------------------------------------
+原文: 温度：16 ~ 26 ℃（日温差≤ 4 ℃）；
+
+译文: Temperature: 16 ~ 26 ℃ (daily temperature variation ≤ 4 ℃);
+------------------------------------------------------------------------------------
+原文: 处理方法：凝血和血液生化样本4000 r/min，室温，离心10分钟后上机检测；血液学样本直接上机检测。
+
+译文: Treatment method: coagulation and clinical chemistry blood samples are centrifuged at 4000 r/min for 10 minutes at room temperature, and then tested on the machine; hematology samples are directly tested on the machine.
+------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏）2014-0033；
+
+译文: Institution's laboratory animal use license No.: SYXK(Su) 2014-0033;
+------------------------------------------------------------------------------------
+原文: 制造商
+
+译文: Manufacturer
+------------------------------------------------------------------------------------
+原文: 3.	试验系统	9
+
+译文: 3.	Test system	9
+------------------------------------------------------------------------------------
+原文: 肌酐（CREA）
+
+译文: Creatinine (CREA)
+------------------------------------------------------------------------------------
+原文: 5.2.	剂量设计依据	13
+
+译文: 5.2.	Justification for dose design 13
+------------------------------------------------------------------------------------
+原文: 《药物非临床研究质量管理规范》（原CFDA，2017年09月）；
+
+译文: “Medication Non-Clinical Study Good Laboratory Practices (GLPs)” (CFDA, September 2017);
+------------------------------------------------------------------------------------
+原文: 动物饲养管理：李永超；
+
+译文: Animal Housing management: Li Yongchao;
+------------------------------------------------------------------------------------
+原文: 供试品管理：陈晓艳；
+
+译文: Test article management: Chen Xiaoyan;
+------------------------------------------------------------------------------------
+原文: 淋巴细胞计数（#LYMPH）及百分比（%LYMPH）
+
+译文: Lymphocyte count (#LYMPH) and percentage (%LYMPH)
+------------------------------------------------------------------------------------
+原文: 相对湿度：40 % ~ 70 % ；
+
+译文: Relative humidity: 40% ~ 70%;
+------------------------------------------------------------------------------------
+原文: 其中“Plasma-1”为首份检测样品，分装血浆体积为150 μL，剩余血浆样品作为备份保存于“Plasma-2”管中。置于≤ -60 ℃以下保存。分析结束后剩余血浆样本于试验结束后根据委托方的授权意见销毁或移交委托方。
+
+译文: Among them, “Plasma-1” is the first test sample, the plasma volume dispensed is 150 μL, and the remaining plasma samples are stored as backups in the “Plasma-2” tube. Stored at ≤ -60 ℃. The remaining plasma samples after analysis are disposed of or transferred to the Sponsor according to the Sponsor's authorization after the end of the assay. 
+------------------------------------------------------------------------------------
+原文: 总结报告及相关资料
+
+译文: Final report and related materials
+------------------------------------------------------------------------------------
+原文: 本机构代号：W2018037；
+
+译文: Facility code: W2018037;
+------------------------------------------------------------------------------------
+原文: 《1171》字样；
+
+译文: “1171” characters;
+------------------------------------------------------------------------------------
+原文: 2.3.	操作/安全措施	9
+
+译文: 2.3.	Operations/Safety measures 9
+------------------------------------------------------------------------------------
+原文: 4.8.	动物选择	12
+
+译文: 4.8.	Animal Selection	12
+------------------------------------------------------------------------------------
+原文: 生产厂家：赛诺菲（杭州）制药有限公司；
+
+译文: Manufacturer: Sanofi (Hangzhou) Pharmaceutical Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 名称：
+
+译文: Name:
+------------------------------------------------------------------------------------
+原文: 试验时间安排
+
+译文: Assay time schedule
+------------------------------------------------------------------------------------
+原文: 5.	实验设计	12
+
+译文: 5.	Study design	12
+------------------------------------------------------------------------------------
+原文: 12.1.	归档时间及档案保存时间	18
+
+译文: 12.1.	Archiving time and archive storage time 18
+------------------------------------------------------------------------------------
+原文: 1.	基本信息	6
+
+译文: 1.	General information 6
+------------------------------------------------------------------------------------
+原文: 专题名称：Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片药代动力学试验；
+
+译文: Study Name: Beagle dogs orally administered sbk002 tablets and clopidogrel sulfate tablets pharmacokinetic assay;
+------------------------------------------------------------------------------------
+原文: 研究机构按照《职业卫生安全与防护手册》来操作。在分发供试品和对照品时，穿戴合适的个人防护设备（PPE）及护目镜。
+
+译文: The test facility follows the “Occupational Health Safety and Protection Manual” for operations. When distributing the test article and reference item, appropriate personal protective equipment (PPE) and goggles should be worn.
+------------------------------------------------------------------------------------
+原文: 未知血浆样品均用同一板上各自的标准曲线计算浓度，采用Phoenix WinNonlin7.0软件绘制浓度-时间曲线，并按非房室模型计算下列药代动力学参数：半衰期（T1/2）、最大血药浓度（Cmax）、达峰时间（Tmax）、药时曲线下面积（AUC0-t和AUC0-∞）、分布容积（Vd）、清除率（CL）、平均滞留时间（MRT）。
+
+译文: Unknown plasma samples are calculated using their respective standard curves on the same plate. The concentration-time curve is plotted using Phoenix WinNonlin 7.0 software, and the following pharmacokinetic parameters are calculated according to the non-atrioventricular model: half-life (T1/2), maximum blood drug concentration (Cmax), time to reach maximum (Tmax), area under the curve (AUC0-t and AUC0-∞), volume of distribution (Vd), clearance rate (CL), and mean residence time (MRT).
+------------------------------------------------------------------------------------
+原文: 结果分析
+
+译文: result analyzed
+------------------------------------------------------------------------------------
+原文: 片剂数量
+
+译文: Tablet number
+------------------------------------------------------------------------------------
+原文: 委托方签字页
+
+译文: Sponsor signature page
+------------------------------------------------------------------------------------
+原文: 4.5.	环境改善	11
+
+译文: 4.5. Environmental Enrichment 11
+------------------------------------------------------------------------------------
+原文: 专题名称：Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片药代
+
+译文: Study Name: Beagle dogs orally administered sbk002 tablets and clopidogrel hydrogen sulfate tablets pharmacokinetics
+------------------------------------------------------------------------------------
+原文: 重氮法
+
+译文: Diazotization method
+------------------------------------------------------------------------------------
+原文: 体重和年龄
+
+译文: Body Weight and Age
+------------------------------------------------------------------------------------
+原文: 总胆红素（TBIL）
+
+译文: Total bilirubin (TBIL)
+------------------------------------------------------------------------------------
+原文: 主要参考文献
+
+译文: mainly reference literature
+------------------------------------------------------------------------------------
+原文: 专题负责人
+
+译文: study director
+------------------------------------------------------------------------------------
+原文: 剩余动物的处理：本试验剩余实验动物于首次给药后1周内移交毒理运行部。
+
+译文: Disposal of remaining animals: The remaining laboratory animals from this assay will be transferred to the Toxicology Operations Department within one week after the first dose.
+------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：按中华人民共和国国家标准GB5749-2006的相关要求，每季度委托第三方有资质单位检测至少一次。
+
+译文: Routine water quality testing indicators: According to the relevant requirements of the National Standards of the People's Republic of China GB5749-2006, testing by a qualified third-party unit at least once per quarter.
+------------------------------------------------------------------------------------
+原文: 电话：028-62532315；
+
+译文: Telephone: 028-62532315;
+------------------------------------------------------------------------------------
+原文: 偏离的处理
+
+译文: Handling of Deviations
+------------------------------------------------------------------------------------
+原文: 联系电话：0512-36801688。
+
+译文: Contact Telephone: 0512-36801688.
+------------------------------------------------------------------------------------
+原文: 平均红细胞血红蛋白浓度（MCHC）
+
+译文: mean erythrocyte hemoglobin concentration (MCHC)
+------------------------------------------------------------------------------------
+原文: 给药制剂在实验机构内的转移
+
+译文: Dose formulations metastasis within the laboratory
+------------------------------------------------------------------------------------
+原文: 酶比色法
+
+译文: Enzymatic colorimetry
+------------------------------------------------------------------------------------
+原文: 种类：反渗透水（生活饮用水）；
+
+译文: type: reverse osmosis water (domestic drinking water);
+------------------------------------------------------------------------------------
+原文: 预定末次给药日期： 2018-12-11 。
+
+译文: Planned last dose date: 2018-12-11.
+------------------------------------------------------------------------------------
+原文: 11.2.	撰写流程	18
+
+译文: 11.2. Writing Process 18
+------------------------------------------------------------------------------------
+原文: 健康检查
+
+译文: healthy examination
+------------------------------------------------------------------------------------
+原文: 供试品的给药途径、剂量、方法、频率和给药期限；
+
+译文: test article’s route of administration, dose, method, frequency, and dosing phase limits;
+------------------------------------------------------------------------------------
+原文: 本试验选用Beagle犬作为实验动物，8只比格犬分为两组，分别经口给予sbk002片和硫酸氢氯吡格雷片，采集PK和PD血样；洗脱14天后，进行交叉给药并采集血样。分析全部PK血样中sbk002的浓度，检测全部PD血样中血小板聚集率，计算sbk002在动物体内药代动力学参数，为后续非临床及临床试验提供研究资料。
+
+译文: This assay selected Beagle dogs as laboratory animals, with 8 Beagle dogs divided into two groups and orally administered sbk002 tablets and clopidogrel hydrogen sulfate tablets, collection of PK and PD blood samples; after a 14-day washout period, perform crossover dosing and collect blood samples. Analyzed the concentration of sbk002 in all PK blood samples, tested the platelet aggregation rate in all PD blood samples, calculated the pharmacokinetic parameters of sbk002 in animals in vivo, and provided research data for subsequent non-clinical and clinical assays.
+------------------------------------------------------------------------------------
+原文: 提供单位：上海新冈实验动物场；
+
+译文: Supplier: Shanghai Xingan Laboratory Animals Co.,
+------------------------------------------------------------------------------------
+原文: 资料保存
+
+译文: Storage of Relevant Data
+------------------------------------------------------------------------------------
+原文: 饲养环境条件标准：中华人民共和国国家标准GB14925-2010；
+
+译文: Housing Environment Standard: National Standards of the People's Republic of China GB14925-2010;
+------------------------------------------------------------------------------------
+原文: 收集和报告电子数据的采集系统如下：
+
+译文: The data collection and reporting electronic system are as follows:
+------------------------------------------------------------------------------------
+原文: 研究机构
+
+译文: test facility
+------------------------------------------------------------------------------------
+原文: 动物数量选择理由：根据《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月），药代动力学试验以血药浓度-时间曲线的每个采样点一般不少于5个数据为限计算所需动物数。动物分为sbk002片组和硫酸氢氯吡格雷片组共2组，4只/组，均为雄性，进行2交叉试验。为防止所购实验动物由于未知原因导致不能满足试验需求的情形发生，额外多申购2只动物，本试验总计10只Beagle犬可满足获取足够实验数据的最低动物数目要求。
+
+译文: Justification for selection of the number of laboratory animals: According to the “Guiding Principles for Non-Clinical Pharmacokinetic Studies for Medication” (cfDA, May 2014), the number of animals required for pharmacokinetic assays is generally no less than 5 data points for each sampling point on the blood concentration-time curve. The animals are divided into two groups: sbk002 tablet group and clopidogrel hydrogen sulfate tablet group, with 4 animals per group, all male, performing 2 crossover assays. To prevent situations where purchased laboratory animals may not meet assay requirements due to unknown reasons, 2 extra animals were purchased, making a total of 10 Beagle dogs, which meets the minimum number of animals required to obtain sufficient experimental data.
+------------------------------------------------------------------------------------
+原文: 临床检验指标与方法
+
+译文: Clinical examination indicators and methods
+------------------------------------------------------------------------------------
+原文: 生产厂家：四川制药制剂有限公司（委托生产）；
+
+译文: Manufacturer: Sichuan Pharmaceutical Formulation Co., Ltd. (Contract manufacturing);
+------------------------------------------------------------------------------------
+原文: 7.2.	血药浓度检测	16
+
+译文: 7.2. Blood concentration testing 16
+------------------------------------------------------------------------------------
+原文: 对照品
+
+译文: reference item
+------------------------------------------------------------------------------------
+原文: 12.3.	保存场所与保存条件	19
+
+译文: 12.3. Storage location and condition 19
+------------------------------------------------------------------------------------
+原文: 试验结果、讨论/ 结论；
+
+译文: assay result, discussion/ Conclusion;
+------------------------------------------------------------------------------------
+原文: 试验方案签字页
+
+译文: study protocol signature page
+------------------------------------------------------------------------------------
+原文: 饮水
+
+译文: Drinking Water
+------------------------------------------------------------------------------------
+原文: 惰性分离胶促凝管
+
+译文: Inert separation gel pro-coagulant tube
+------------------------------------------------------------------------------------
+原文: 徐振兴，M.S.                                                                     日期
+
+译文: Xu Zhenxing, M.S. Date
+------------------------------------------------------------------------------------
+原文: 专题的执行流程
+
+译文: Execution procedures of the project
+------------------------------------------------------------------------------------
+原文: 8.1.	血样采集	16
+
+译文: 8.1. Blood sample collection 16
+------------------------------------------------------------------------------------
+原文: 兽医：王海洋；
+
+译文: Veterinarian: Wang Haiyang;
+------------------------------------------------------------------------------------
+原文: 样本用途，收集量和收集管类型
+
+译文: Purpose of samples, amount collected, and type of collection tubes
+------------------------------------------------------------------------------------
+原文: 研究起止日期；
+
+译文: Start and end dates of the study;
+------------------------------------------------------------------------------------
+原文: 动物饲料、饮水的种类、来源、批号等信息；
+
+译文: Information on animal feed, type of drinking water, source, batch number, etc.;
+------------------------------------------------------------------------------------
+原文: 检测方法
+
+译文: testing method
+------------------------------------------------------------------------------------
+原文: 不少于1 mL
+
+译文: no less than 1 mL
+------------------------------------------------------------------------------------
+原文: 1.2.	试验目的	6
+
+译文: 1.2. Study Objective 6
+------------------------------------------------------------------------------------
+原文: 预定首次给药日期： 2018-11-27；
+
+译文: Planned first dose date: 2018-11-27;
+------------------------------------------------------------------------------------
+原文: 总蛋白（TP）
+
+译文: Total protein (TP)
+------------------------------------------------------------------------------------
+原文: 动物管理和使用
+
+译文: Animal management and use
+------------------------------------------------------------------------------------
+原文: 按照委托方的要求，使用通过方法学验证的LC-MS/MS法检测所有PK血浆样品中sbk002的浓度。
+
+译文: According to the Sponsor's requirements, use the methodology-verified LC-MS/MS method to test all sbk002 concentrations in PK plasma samples.
+------------------------------------------------------------------------------------
+原文: 年龄：进入试验时约10 ~ 12 月，分组时约10 ~ 12 月。
+
+译文: age: approximately 10 to 12 months when entered into the assay, approximately 10 to 12 months at Group Assignment.
+------------------------------------------------------------------------------------
+原文: 数据采集和分析
+
+译文: data acquisition and analyzed
+------------------------------------------------------------------------------------
+原文: （片/只）
+
+译文: (tablets/animal)
+------------------------------------------------------------------------------------
+原文: 实验设计
+
+译文: Experimental design
+------------------------------------------------------------------------------------
+原文: [1] 魏敏吉, 赵明. 创新药物药代动力学研究与评价[M]. 北京: 北京大学医学出版社, 2008: 269-283, 411-459
+
+译文: [1] Wei Minji, Zhao Ming. Innovative Medication Pharmacokinetics Research and Evaluation [M]. Beijing: Peking University Medical Press, 2008: 269-283, 411-459
+------------------------------------------------------------------------------------
+原文: 4.1.	动物管理和使用	11
+
+译文: 4.1. Animal management and use 11
+------------------------------------------------------------------------------------
+原文: 无需配制，片剂从供试品管理部门领取后直接给药。
+
+译文: No preparation required, tablets are directly dosed after being collected from the Test article management Department.
+------------------------------------------------------------------------------------
+原文: 专题名称、编号及试验目的；
+
+译文: Study Name, Number, and Objective;
+------------------------------------------------------------------------------------
+原文: 保存条件：15 ~ 25 ℃、密闭、遮光、干燥；
+
+译文: Storage condition: 15 ~ 25 ℃, airtight, light-proof, dry;
+------------------------------------------------------------------------------------
+原文: 实验动物健康观察总则
+
+译文: General principles of laboratory animal healthy observation
+------------------------------------------------------------------------------------
+原文: 4.	动物的饲养和管理	11
+
+译文: 4. Feeding and management of animals 11
+------------------------------------------------------------------------------------
+原文: 等级：普通级。
+
+译文: Grade: Ordinary level.
+------------------------------------------------------------------------------------
+原文: 7.	PK血样采集及检测分析	15
+
+译文: 7. PK blood sample collection and testing analysis 15
+------------------------------------------------------------------------------------
+原文: 1.1.	专题名称及编号	6
+
+译文: 1.1. Study Name and Number 6
+------------------------------------------------------------------------------------
+原文: 试验方案及方案的任何变更（如果有）将以书面的形式经专题负责人签字生效；委托单位代表在签字页上签字或者发送邮件认可试验方案；方案变更（如有必要）需要委托单位代表签字或发邮件确认。偏离试验方案的情况均应记录，以书面的形式由专题负责人分析对专题研究可能产生的影响，必要时采取相应的纠错措施。
+
+译文: Any amendments to the study protocol (if any) will take effect in writing signed by the study director; the Sponsor representative signs the signature page or sends an email to approve the study protocol; protocol amendments (if necessary) require Sponsor representative signing or email confirmation. All deviations from the study protocol should be recorded, analyzed in writing by the study director for their impact on the study, and corrective measures taken if necessary.
+------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司
+
+译文: Chengdu Sbicon Bio-pharmaceutical Technology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 第一周期分组给药见下表：
+
+译文: First period Group Assignment dose see the table below:
+------------------------------------------------------------------------------------
+原文: 参考结构相似药物维卡格雷I期临床试验PD时间点，同时临床上拟用药频率为每天一次，按照委托方的要求将PD采血时间点设计为：给药前及给药后0.5 h、1 h、2 h、4 h、8 h和24 h。
+
+译文: reference similar structure medication ticagrelor Phase I clinical assay PD time points and clinically intended dosing frequency of once daily, per Sponsor's requirements the PD Blood Sampling Time points are designed as: pre-dose and after dosing 0.5 h, 1 h, 2 h, 4 h, 8 h, and 24 h.
+------------------------------------------------------------------------------------
+原文: 实验动物的采血总则
+
+译文: General principles for the collection of blood from laboratory animals
+------------------------------------------------------------------------------------
+原文: 谷草转氨酶（AST）
+
+译文: Aspartate aminotransferase (AST)
+------------------------------------------------------------------------------------
+原文: 给料方法：每天饲喂约250 g；
+
+译文: Feeding method: approximately 250 g per day;
+------------------------------------------------------------------------------------
+原文: 雄
+
+译文: male
+------------------------------------------------------------------------------------
+原文: 各种指标检测的频率和方法；
+
+译文: Frequency and methods of various indicator tests;
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-K01-01
+
+译文: Study number: A2018030-K01-01
+------------------------------------------------------------------------------------
+原文: 饲料批号：实际使用批号见原始记录及总结报告；
+
+译文: feed batch number: the actual batch number used is recorded in the raw records and final report;
+------------------------------------------------------------------------------------
+原文: 中性粒细胞计数（#NEUT）及百分比（%NEUT）
+
+译文: neutrophil count (#NEUT) and percentage (%NEUT)
+------------------------------------------------------------------------------------
+原文: 剩余对照品处理：待本项目全部专题结束后退回委托方。
+
+译文: Disposal of remaining reference items: return to the sponsor after all studies of this project are completed.
+------------------------------------------------------------------------------------
+原文: 电子邮件：779061281@qq.com。
+
+译文: Email: 779061281@qq.com.
+------------------------------------------------------------------------------------
+原文: 红细胞比积（HCT）
+
+译文: Hematocrit (HCT)
+------------------------------------------------------------------------------------
+原文: 根据研究机构的SOPs制定笼卡，每只动物通过纹身和笼卡作为动物识别标记。1号组和2号组分别用绿色和蓝色制作笼卡。
+
+译文: Cage cards are created according to the test facility's SOPs, each animal is identified through a tattoo and cage card labeled. Green and blue cage cards are used for groups 1 and 2, respectively.
+------------------------------------------------------------------------------------
+原文: 数据整理及统计分析：徐振兴、叶双双。
+
+译文: Data arrangement and statistical analysis: Xu Zhenxing, Shuangshuang Ye.
+------------------------------------------------------------------------------------
+原文: 6.2.	健康检查	14
+
+译文: 6.2. Healthy examination 14
+------------------------------------------------------------------------------------
+原文: EDTA•K2抗凝管
+
+译文: EDTA•K2 anticoagulant tube
+------------------------------------------------------------------------------------
+原文: 试验方案签字页	2
+
+译文: study protocol signature page 2
+------------------------------------------------------------------------------------
+原文: 注：该项目供试品总留样量以供试品管理部留样相关记录为准。
+
+译文: Note: The total retention samples of the test article for this project are based on the records related to retention samples by the Test article management department.
+------------------------------------------------------------------------------------
+原文: 第二周期分组给药见下表：
+
+译文: Second period Group Assignment dose see the table below:
+------------------------------------------------------------------------------------
+原文: 8.	PD血样采集及检测	16
+
+译文: 8. PD blood sample collection and testing 16
+------------------------------------------------------------------------------------
+原文: 预定使用动物数量和性别：8只，雄性；
+
+译文: Planned use animal number and sex: 8, male;
+------------------------------------------------------------------------------------
+原文: 动物选择
+
+译文: Animal Selection
+------------------------------------------------------------------------------------
+原文: 剩余供试品处理：待本项目全部专题结束后退回委托方。
+
+译文: Remaining Handling of test article: return to the sponsor after all studies of this project are completed.
+------------------------------------------------------------------------------------
+原文: 血生化指标
+
+译文: Blood chemistry indicators
+------------------------------------------------------------------------------------
+原文: 报告拟记载的主要内容
+
+译文: Main content of the report to be recorded
+------------------------------------------------------------------------------------
+原文: 报告初稿将综合参与试验的重要人员的意见，形成终稿后由专题负责人签字后交付委托方。
+
+译文: The draft report will incorporate the opinions of key personnel involved in the assay, and after finalization, it will be signed by the study director and delivered to the Sponsor.
+------------------------------------------------------------------------------------
+原文: 单核细胞计数（#MONO）及百分比（%MONO）
+
+译文: monocytes count (#MONO) and percentage (%MONO)
+------------------------------------------------------------------------------------
+原文: 主要仪器设备
+
+译文: Major Instruments
+------------------------------------------------------------------------------------
+原文: 组别
+
+译文: group
+------------------------------------------------------------------------------------
+原文: 留样供试品
+
+译文: retained test articles
+------------------------------------------------------------------------------------
+原文: 牟霞                                                                         日期
+
+译文: Mu Xia Date
+------------------------------------------------------------------------------------
+原文: 成都高新区（西区）西芯大道17号
+
+译文: Chengdu New & Hi-tech Industrial Development Zone (West Zone) Xixin Avenue 17
+------------------------------------------------------------------------------------
+原文: 2.5.	主要仪器设备	9
+
+译文: 2.5. Major Instruments 设备 9
+------------------------------------------------------------------------------------
+原文: 比色法
+
+译文: Colorimetry
+------------------------------------------------------------------------------------
+原文: 1.7.	试验时间安排	7
+
+译文: 1.7. Assay time 安排 7
+------------------------------------------------------------------------------------
+原文: 饲料
+
+译文: Feed
+------------------------------------------------------------------------------------
+原文: 批号：7A670；
+
+译文: Batch number: 7A670;
+------------------------------------------------------------------------------------
+原文: 地址：江苏省昆山市高新区元丰路166号；
+
+译文: Address: Jiangsu Province, Kunshan City, New & Hi-tech Industrial Development Zone, Yuanfeng Road 166号;
+------------------------------------------------------------------------------------
+原文: 试验原始资料（包括电子资料）
+
+译文: Assay raw资料 (including electronic data)
+------------------------------------------------------------------------------------
+原文: 试验系统
+
+译文: Test system
+------------------------------------------------------------------------------------
+原文: 采样时间：给药前及给药后5 min（± 1 min）、15 min（± 1 min）、30 min（± 2 min）、45 min（± 2 min）、1 h（± 2 min）、1.5 h（± 2 min）、2 h（± 2 min）、3 h（± 5 min）、4 h（± 5 min）、6 h（± 5 min）、8 h（± 10 min）、10 h（± 10 min）和24 h（± 20 min）。
+
+译文: 采样 Time: Pre-dose and after dosing 5 min (± 1 min), 15 min (± 1 min), 30 min (± 2 min), 45 min (± 2 min), 1 h (± 2 min), 1.5 h (± 2 min), 2 h (± 2 min), 3 h (± 5 min), 4 h (± 5 min), 6 h (± 5 min), 8 h (± 10 min), 10 h (± 10 min), and 24 h (± 20 min).
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-09-29（暂定）；
+
+译文: Expiry date: 2020-09-29 (暂定);
+------------------------------------------------------------------------------------
+原文: 6.1.	一般状态观察	14
+
+译文: 6.1. 一般 States observation 14
+------------------------------------------------------------------------------------
+原文: 氰化血红蛋白法
+
+译文: Cyanide hemoglobin法
+------------------------------------------------------------------------------------
+原文: 白蛋白（ALB）
+
+译文: Albumin (ALB)
+------------------------------------------------------------------------------------
+原文: [2] 爱德华 H. 克恩斯. 类药性质: 概念、结构设计与方法 从ADME到安全性优化[M]. 北京: 科学出版社, 2011: 128-151
+
+译文: [2] Edward H. Kerns. 类药 Nature: Concepts, Structures Design与Method 从 ADME到 Safety性优化[M]. Beijing: Science Press, 2011: 128-151
+------------------------------------------------------------------------------------
+原文: 影响研究可靠性和造成研究工作偏离试验方案的异常情况；
+
+译文: Affect研究可靠性和造成研究工作 Deviation Study Protocol的Abnormal情况;
+------------------------------------------------------------------------------------
+原文: 供试品配制
+
+译文: Preparation of Test Article
+------------------------------------------------------------------------------------
+原文: 选择理由：与临床拟用药途径一致；
+
+译文: Justification for selection: it will be consistent with the proposed clinical route of administration;
+------------------------------------------------------------------------------------
+原文: 动物饲养
+
+译文: Animal Housing
+------------------------------------------------------------------------------------
+原文: 专题名称及编号
+
+译文: Study Name及编号
+------------------------------------------------------------------------------------
+原文: 性别和数量
+
+译文: Sex and Number
+------------------------------------------------------------------------------------
+原文: LC-MS/MS检测浓度
+
+译文: LC-MS/MS Testing Concentration
+------------------------------------------------------------------------------------
+原文: 样本收集量
+
+译文: Samples collect量
+------------------------------------------------------------------------------------
+原文: 撰写流程
+
+译文: Writing Process
+------------------------------------------------------------------------------------
+原文: 6.	观察与检查	14
+
+译文: 6. Observation与 Examination 14
+------------------------------------------------------------------------------------
+原文: 动物分组和给药信息见下表：
+
+译文: Animal Group Assignment 和 Dosing Information见下表: 
+------------------------------------------------------------------------------------
+原文: 联系人：武丽；
+
+译文: 联系人: 武丽;
+------------------------------------------------------------------------------------
+原文: 肌酸激酶（CK）
+
+译文: Creatine kinase (CK)
+------------------------------------------------------------------------------------
+原文: 目       录
+
+译文: 目 录
+------------------------------------------------------------------------------------
+原文: 留样及剩余对照品的处理
+
+译文: Retention samples及剩余 Reference Item的 Disposal
+------------------------------------------------------------------------------------
+原文: 委托方负责人（或代表）
+
+译文: Sponsor负责人 (或 representative);
+------------------------------------------------------------------------------------
+原文: 红细胞计数（RBC）
+
+译文: Red blood cell count (RBC)
+------------------------------------------------------------------------------------
+原文: 实验动物的体重测定
+
+译文: Laboratory animals的Body weight determination
+------------------------------------------------------------------------------------
+原文: 地址：
+
+译文: 地址: 
+------------------------------------------------------------------------------------
+原文: 注：仪器信息若有变动以总结报告为准。
+
+译文: 注: Apparatus信息若有变动以Final Report为准。
+------------------------------------------------------------------------------------
+原文: 电子邮件：xuzhenxing@cti-cert.com。
+
+译文: Electron邮件: xuzhenxing@cti-cert.com。
+------------------------------------------------------------------------------------
+原文: 为实验动物提供玩具，作为环境改善措施。
+
+译文: 为Laboratory animals提供Toys，作为Environmental Enrichment measures。
+------------------------------------------------------------------------------------
+原文: PK血样采集及检测分析
+
+译文: PK血样 Collection及 Testing Analyzed
+------------------------------------------------------------------------------------
+原文: 11.1.	报告拟记载的主要内容	17
+
+译文: 11.1. Report拟记载的 Mainly内容 17
+------------------------------------------------------------------------------------
+原文: 饲养笼具空间：双层不锈钢冲洗式犬笼，规格（L×W×H）：80 cm × 100 cm × 100 cm；
+
+译文: Cage具 Space: Double-layer stainless steel water-flush type dog cages, size (L×W×H): 80 cm × 100 cm × 100 cm;
+------------------------------------------------------------------------------------
+原文: 硫酸氢氯吡格雷片
+
+译文: 硫酸氢氯吡格雷片
+------------------------------------------------------------------------------------
+原文: 试验记录的管理
+
+译文: Assay Record的 Management
+------------------------------------------------------------------------------------
+原文: 临床检验：李胜；
+
+译文: Clinical Examination: 李胜;
+------------------------------------------------------------------------------------
+原文: 计算：HGB/（MCV×RBC）×1000
+
+译文: Calculation: HGB/(MCV×RBC)×1000
+------------------------------------------------------------------------------------
+原文: 保存场所与保存条件
+
+译文: Storage场所与 Storage condition
+------------------------------------------------------------------------------------
+原文: 过氧化物酶染色/二维激光扫描法
+
+译文: 过氧化物酶 Stain/two-dimensional laser scan法
+------------------------------------------------------------------------------------
+原文: 4.7.	饮水	12
+
+译文: 4.7. Drinking Water 12
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: 系统
+------------------------------------------------------------------------------------
+原文: 13.	研究相关主要SOP	19
+
+译文: 13. Study-related Main SOPs 19
+------------------------------------------------------------------------------------
+原文: 供试品的名称/缩写名/代号、批号、含量等特性；
+
+译文: Test Article的Name/Abbreviated Name/Code、Batch Number、Content等 Characteristics;
+------------------------------------------------------------------------------------
+原文: 性别比例：均为雄性；
+
+译文: Sex比例: 均为male;
+------------------------------------------------------------------------------------
+原文: sbk002片
+
+译文: sbk002片
+------------------------------------------------------------------------------------
+原文: 种类：犬维持饲料；
+
+译文: Type: Dog Maintenance Feed;
+------------------------------------------------------------------------------------
+原文: 动物质量合格证号：见原始资料及总结报告。
+
+译文: Animal质量合格证号:见 Raw资料及Final Report。
+------------------------------------------------------------------------------------
+原文: 电话：
+
+译文: Telephone:
+------------------------------------------------------------------------------------
+原文: 联系人：牟霞；
+
+译文: 联系人: 牟霞;
+------------------------------------------------------------------------------------
+原文: 专题负责人任命书
+
+译文: Study Director任命书
+------------------------------------------------------------------------------------
+原文: 供试品
+
+译文: Test Article
+------------------------------------------------------------------------------------
+原文: 试验方案及方案变更（如有）
+
+译文: Study Protocol及Protocol Amendments（如有）
+------------------------------------------------------------------------------------
+原文: 血样采集
+
+译文: 血样Collection
+------------------------------------------------------------------------------------
+原文: 研究相关主要SOP
+
+译文: Study-related Main SOPs
+------------------------------------------------------------------------------------
+原文: 换气次数：每小时空气更换不少于8次。
+
+译文: Ventilation rate: 每hour air changes不少于8次。
+------------------------------------------------------------------------------------
+原文: 乳酸脱氢酶（LDH）
+
+译文: Lactate dehydrogenase (LDH)
+------------------------------------------------------------------------------------
+原文: 计算：HGB/RBC
+
+译文: Calculation: HGB/RBC
+------------------------------------------------------------------------------------
+原文: 操作/安全措施
+
+译文: 操作/Safety measures
+------------------------------------------------------------------------------------
+原文: 组别设计：8只Beagle犬4×2交叉给药；
+
+译文: Group design: 8只 Beagle dogs 4×2交叉 dose;
+------------------------------------------------------------------------------------
+原文: 适应期第1天定义为P1，动物首次给药当天定义为给药期第1天（D1）。
+
+译文: Pretest phase第1天 defined 为P1, animal first dose day defined为dosing phase第1天 (D1)。
+------------------------------------------------------------------------------------
+原文: 基本信息
+
+译文: General Information
+------------------------------------------------------------------------------------
+原文: 版本
+
+译文: 版本
+------------------------------------------------------------------------------------
+原文: 收集管类型
+
+译文: Collect管类型
+------------------------------------------------------------------------------------
+原文: 设施内的所有原始数据根据试验方案和苏州华测生物技术有限公司的SOP手动收集或用数据采集系统收集。手动收集的数据可以转录到Excel表格中用来分析和报告。
+
+译文: Facility内的 All Raw Data根据Study Protocol和苏州华测生物Technique Co., Ltd.的 SOP manually collected 或 Data Acquisition系统 collect。Manually collected的数据可以transcribed到 Excel tables中用来Analyzed和 Report。
+------------------------------------------------------------------------------------
+原文: 血液样本
+
+译文: Blood samples
+------------------------------------------------------------------------------------
+原文: 剂量设计依据
+
+译文: Dose design justification
+------------------------------------------------------------------------------------
+原文: 实验数据采集
+
+译文: 实验 Data Acquisition
+------------------------------------------------------------------------------------
+原文: 尿素（UREA）
+
+译文: Urea (UREA)
+------------------------------------------------------------------------------------
+原文: 实验动物的分组
+
+译文: Laboratory animals的 Group Assignment
+------------------------------------------------------------------------------------
+原文: 3.3.	来源	10
+
+译文: 3.3. Source 10
+------------------------------------------------------------------------------------
+原文: 传真：0512-36802288；
+
+译文: 传真: 0512-36802288;
+------------------------------------------------------------------------------------
+原文: 动物数量：4只/组，2组，共计8只；
+
+译文: Animal number: 4只/组, 2组, 共计8只;
+------------------------------------------------------------------------------------
+原文: 原始资料的保存地点。
+
+译文: Raw资料的 Storage地点。
+------------------------------------------------------------------------------------
+原文: IFCC法
+
+译文: Calculation: TP-ALB
+------------------------------------------------------------------------------------
+原文: 4.4.	饲养环境	11
+
+译文: 4.4. Housing Environment 11
+------------------------------------------------------------------------------------
+原文: 规格：75 mg/片；
+
+译文: Size: 75 mg/片;
+------------------------------------------------------------------------------------
+原文: [6] 魏伟, 吴希美, 李元建. 药理实验方法学[M]. 北京: 人民卫生出版社, 2010: 521-600
+
+译文: [6] 魏伟, 吴希美, 李元建. 药理实验 Methodology[M]. Beijing: 人民 Hygienic出版社, 2010: 521-600
+------------------------------------------------------------------------------------
+原文: 预定进入适应期动物数量和性别：10 只，雄性；
+
+译文: 预定 entered Pretest phase Animal Number和 Sex: 10 只, Male;
+------------------------------------------------------------------------------------
+原文: 饲养环境
+
+译文: Housing Environment
+------------------------------------------------------------------------------------
+原文: 联系人：夏玉叶；
+
+译文: 联系人: 夏玉叶;
+------------------------------------------------------------------------------------
+原文: 供水方法：在动物饮水盆中添加饮水，自由摄取；
+
+译文: Water supply method: 在 Animal Drinking Water盆中添加 Drinking Water, ad libitum;
+------------------------------------------------------------------------------------
+原文: 观察与检查
+
+译文: Observation与 Examination
+------------------------------------------------------------------------------------
+原文: 观察内容：包括但不限于一般表现、行为状态、眼睛、口腔、鼻口部、耳、毛发及皮肤、粪便、尿、生殖器等毒性症状；
+
+译文: Observation items: 包括但不限于General Conditions、Behavioral Status、Eyes、Oral Cavity、Muzzle、耳、Hair及 Skin、Feces、尿、Genitalia等Toxicity症状;
+------------------------------------------------------------------------------------
+原文: 生产许可证号：SCXK（沪）2017-0006；
+
+译文: Production license No: SCXK (沪) 2017-0006;
+------------------------------------------------------------------------------------
+原文: 实验动物的种、系、数量、年龄、性别、体重范围、来源、动物合格证号及发证单位、接收日期和饲养条件；
+
+译文: Laboratory Animals的种、系、Number、Age、Sex、Body Weight Range、Source、Animal合格证号及Issuing Unit、Receipt Date和 Housing Conditions;
+------------------------------------------------------------------------------------
+原文: 4.6.	饲料	11
+
+译文: 4.6. Feed 11
+------------------------------------------------------------------------------------
+原文: 禁食：给药前禁食过夜，给药后2 h喂食。
+
+译文: Fasted: Pre-dose fasted过夜, After dosing 2 h喂食。
+------------------------------------------------------------------------------------
+原文: 3.6.	实验动物选择依据和数量	10
+
+译文: 3.6. Laboratory animals selection justification和 Number 10
+------------------------------------------------------------------------------------
+原文: 采集方法：动物采集样本前禁食过夜，血液采用静脉采血；
+
+译文: Processing method: Animal Collection Samples前 fasted过夜, Blood采用Vein collect blood;
+------------------------------------------------------------------------------------
+原文: （2）本研究如用于注册申报，其档案保存期为药物上市后至少五年；本研究如不用于注册申报，其档案保存期为试验报告批准日后至少五年。
+
+译文: (2) 本研究如 for注册申报, 其 Archives Storage期为 Medication marketed后 at least五年; 本研究如 不 for注册申报, 其 Archives Storage期为 Assay Report批准日后 at least五年。
+------------------------------------------------------------------------------------
+原文: 批号：180902；
+
+译文: Batch number: 180902;
+------------------------------------------------------------------------------------
+原文: Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片药代动力学试验
+
+译文: Beagle dogs经口给予 sbk002片及硫酸氢氯吡格雷片药代动力学 Assay
+------------------------------------------------------------------------------------
+原文: 提供单位：成都施贝康生物医药科技有限公司。
+
+译文: Supplier: 成都施贝康生物医药科技Co., Ltd。
+------------------------------------------------------------------------------------
+原文: 计算：MCV×RBC
+
+译文: Calculation: MCV×RBC
+------------------------------------------------------------------------------------
+原文: 饲料检测：供应商提供饲料的质量合格证明，每年由第三方有资质的检测单位对饲料进行一次常规营养成分、化学污染物和微生物指标检测，检测结果应符合中华人民共和国国家标准（GB14924.2-2001和GB14924.3-2010）的要求。饲料中不应含有存在可能干扰实验结果及动物健康的已知污染物。
+
+译文: Feed Testing: 供应商提供 Feed的质量合格证明, Annual由 Third-party Qualified Testing单位对 Feed perform一次 Routine营养成分、Chemical pollutants和微生物指标 Testing, Testing result应 Meet中华人民共和国国家 Standards (GB14924.2-2001 和 GB14924.3-2010) 的要求。Feed中不应含有存在可能干扰实验 Result及 Animal healthy的已知污染物。
+------------------------------------------------------------------------------------
+原文: 注：以上人员如有变动，具体信息在原始记录和总结报告中如实体现。
+
+译文: 注: 以上 Personnel如有变动, 具体信息在 Raw Record 和 Final Report中如实体现。
+------------------------------------------------------------------------------------
+原文: 10.	试验方案、变更和偏离	17
+
+译文: 10. Study Protocol、Amendments和 Deviation 17
+------------------------------------------------------------------------------------
+原文: 注：若试验中用到其它批号，具体信息在原始记录及总结报告中如实记录及体现总结报告为准。
+
+译文: 注: 若 Assay中用到其他 Batch number, 具体信息在Raw Record及 Final Report中如实 Record及 体现 Final Report为准。
+------------------------------------------------------------------------------------
+原文: 试验方案、变更和偏离
+
+译文: Study Protocol、Amendments和 Deviation
+------------------------------------------------------------------------------------
+原文: 性状：类白色片；
+
+译文: Characterization: 类白色片;
+------------------------------------------------------------------------------------
+原文: 5.1.	给药信息	13
+
+译文: 5.1. Dosing Information 13
+------------------------------------------------------------------------------------
+原文: 本试验将遵循的法规及技术指导原则，包括但不限于：
+
+译文: 本 Assay将遵循的 Regulations 及 Technique指导原则, 包括但不限于:
+------------------------------------------------------------------------------------
+原文: 血液学指标
+
+译文: Hematology指标
+------------------------------------------------------------------------------------
+原文: 遵循的法规及技术指导原则
+
+译文: 遵循的 Regulations及 Technique指导原则
+------------------------------------------------------------------------------------
+原文: 过氧化物酶染色法
+
+译文: 过氧化物酶 Stain法
+------------------------------------------------------------------------------------
+原文: 动物的饲养和管理
+
+译文: Animal的饲养和 Management
+------------------------------------------------------------------------------------
+原文: 3.5.	动物标识	10
+
+译文: 3.5. Animal Identification 10
+------------------------------------------------------------------------------------
+原文: 11.	总结报告	17
+
+译文: 11. Final Report 17
+------------------------------------------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures，SOPs）。
+
+译文: 本 Assay的 Implementation除方案特殊说明外, the implementation of this study complied with standard operating procedures of testing facility（Standard Operating Procedures， SOPs）。
+------------------------------------------------------------------------------------
+原文: 归档内容
+
+译文: Archived Data
+------------------------------------------------------------------------------------
+原文: 给药频率及周期：第一周期（D1）给药后，D14检测血小板聚集率，如血小板聚集率恢复正常生理情况，则D15进行第二周期给药；
+
+译文: Frequency of administration及Period: 第一Period (D1) after dosing，D14 Testing Platelet accumulation率，如Platelet accumulation率恢复正常生理情况，则D15 perform第二 Period dose;
+------------------------------------------------------------------------------------
+原文: 药效研究结果显示，sbk002在SD大鼠中的最低有效剂量为1 mg/kg，剂量折算后比格犬的最低有效剂量约为1/3 mg/kg。sbk002的药效约为硫酸氢氯吡格雷的3倍左右，为获得类似的药效，将sbk002的剂量设为每只比格犬经口给予30 mg sbk002片（3片），按每只犬10 kg计算，约为3 mg/kg，约为最低有效剂量的9倍。
+
+译文: The potency study results show that the minimum effective dose of sbk002 in SDrats is 1 mg/kg, and the minimum effective dose in beagle dogs after dose conversion is approximately 1/3 mg/kg. The potency of sbk002 is about 3 times that of clopidogrel bisulfate. To achieve similar efficacy, the dose of sbk002 is set at 30 mg sbk002 tablets (3 tablets) per beagle dog administered orally, calculated as approximately 3 mg/kg per 10 kg dog, which is about 9 times the minimum effective dose. 
+------------------------------------------------------------------------------------
+原文: 一般状态观察
+
+译文:  General states observation 
+------------------------------------------------------------------------------------
+原文: 苏州华测生物技术有限公司
+
+译文:  Suzhou Bio-technique Testing Co., Ltd. 
+------------------------------------------------------------------------------------
+原文: 分组方法：按体重随机分组，确保各组动物齐同可比。
+
+译文:  Group assignment method: Random group assignment based on body weight to ensure animals in each group are homogeneous and comparable. 
+------------------------------------------------------------------------------------
+原文: 《药品注册管理办法》（原CFDA，2007年10月）；
+
+译文:  "Pharmaceutical Registration Management Measures" (fCFDA, October 2007); 
+------------------------------------------------------------------------------------
+原文: 邮编：610000；
+
+译文:  Zip code: 610000; 
+------------------------------------------------------------------------------------
+原文: 选择健康雄性动物作为受试动物。适应期主要对动物进行一般状态观察，检查不合格的动物不纳入试验。
+
+译文:  Selection of healthy male animals as test subjects. The pretest phase mainly involves performing general states observation of the animals, and animals that fail the examination are not included in the assay. 
+------------------------------------------------------------------------------------
+原文: 光照：人工照明，12小时明暗交替；
+
+译文:  Light: Artificial lighting, 12-hour light-dark cycle; 
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-K01-01。
+
+译文:  Study number: A2018030-K01-01. 
+------------------------------------------------------------------------------------
+原文: 嗜酸性粒细胞计数（#EOS）及百分比（%EOS）
+
+译文:  Eosinophil granulocyte count (#EOS) and percentage (%EOS) 
+------------------------------------------------------------------------------------
+原文: 本人已确认该研究方案内容并同意实施。
+
+译文:  I confirm that I have reviewed the content of the study protocol and agree to its implementation. 
+------------------------------------------------------------------------------------
+原文: 动物ID号
+
+译文:  Animal ID number 
+------------------------------------------------------------------------------------
+原文: 设备名称
+
+译文:  Equipment name 
+------------------------------------------------------------------------------------
+原文: 采样方法和采样量：四肢静脉采血约1.8 mL，收集的全血至枸橼酸钠真空采血管中，室温放置，转运至临床检验实验室；
+
+译文:  Sampling method and sampling volume: Collect approximately 1.8 mL of blood from the limb vein, collected whole blood into citric acid sodium vacuum blood collection vessel, placed at room temperature, and transported to the clinical examination laboratory; 
+------------------------------------------------------------------------------------
+原文: 留样对照品处理：项目结束后按SOP规定进行归档，储存于本机构档案管理部留样档案室；
+
+译文:  Retention samples reference item disposal: Perform archiving and storage in the retention samples archives room of the institution’s archives management department after the end of the project according to SOP regulations; 
+------------------------------------------------------------------------------------
+原文: 本人已理解该试验所依从各GLP 法规的相关要求，并已对该研究机构进行评估；确保所提供的供试品和/或 对照品的特性信息真实、准确同时也告知了该研究机构本研究供试品和/ 或对照品的相关安全信息。
+
+译文:  I understand the related requirements of GLP regulations that the assay complies with and have evaluated the test facility; ensure that the provided test article and/or reference item’s features are true and accurate while also informing the test facility about the related safety of the test article and/or reference item in this study. 
+------------------------------------------------------------------------------------
+原文: 2.1.	供试品	8
+
+译文:  2.1. Test article 8 
+------------------------------------------------------------------------------------
+原文: 其它资料
+
+译文:  Other materials 
+------------------------------------------------------------------------------------
+原文: 9.	数据采集和分析	17
+
+译文:  9. Data acquisition and analysis 17 
+------------------------------------------------------------------------------------
+原文: 规格：10 mg/片；
+
+译文:  Size: 10 mg/tablet; 
+------------------------------------------------------------------------------------
+原文: 《生物样品定量分析方法验证指导原则》（国家药典委员会，中华人民共和国药典2015年版）；
+
+译文:  "Guiding Principles for the Validation of Quantitative Analysis Methods for Biological Samples" (Chinese Pharmacopoeia Commission, Pharmacopoeia of the People's Republic of China 2015 edition); 
+------------------------------------------------------------------------------------
+原文: 姓名：徐振兴；
+
+译文:  Name: Xu Zhenxing; 
+------------------------------------------------------------------------------------
+原文: 14.	主要参考文献	19
+
+译文:  14. Mainly reference literature 19 
+------------------------------------------------------------------------------------
+原文: 12.2.	归档内容	18
+
+译文:  12.2. Archived Data 18 
+------------------------------------------------------------------------------------
+原文: 对照品留样：按公司相关SOP进行供试品留样；
+
+译文:  Reference item retention samples: Perform test article retention samples according to the company-related SOP; 
+------------------------------------------------------------------------------------
+原文: 试验目的
+
+译文:  Study Objective 
+------------------------------------------------------------------------------------
+原文: 本试验使用备库动物，实验动物纳入专题后适应环境1周。
+
+译文:  This assay uses backup animals. Laboratory animals were included after one week of acclimation. 
+------------------------------------------------------------------------------------
+原文: 动物房的环境控制和检测
+
+译文:  Environmental control and testing in the animal room 
+------------------------------------------------------------------------------------
+原文: PD血样采集及检测
+
+译文:  PD blood samples collection and testing 
+------------------------------------------------------------------------------------
+原文: 注：具体动物信息若有变动以总结报告为准。
+
+译文:  Note: Specific animal information, if changed, will be subject to the final report. 
+------------------------------------------------------------------------------------
+原文: 留样供试品处理：项目结束后按SOP规定进行归档，储存于本机构档案管理部留样档案室；
+
+译文:  Retained test articles disposal: Perform archiving and storage in the retention samples archives room of the institution’s archives management department after the end of the project according to SOP regulations; 
+------------------------------------------------------------------------------------
+原文: 二维激光扫描法
+
+译文:  Two-dimensional laser scan method 
+------------------------------------------------------------------------------------
+原文: 接收和适应
+
+译文:  Animal Receipt and Acclimation 
+------------------------------------------------------------------------------------
+原文: 含量：99.5 %；
+
+译文:  Content: 99.5 %; 
+------------------------------------------------------------------------------------
+原文: 归档时间及档案保存时间
+
+译文:  Archiving time and archives retention period 
+------------------------------------------------------------------------------------
+原文: 试验材料
+
+译文:  Study materials 
+------------------------------------------------------------------------------------
+原文: 血红蛋白（HGB）
+
+译文:  Hemoglobin (HGB) 
+------------------------------------------------------------------------------------
+原文: 2.2.	对照品	8
+
+译文:  2.2. Reference item 8 
+------------------------------------------------------------------------------------
+原文: 地址：成都高新区（西区）西芯大道17号；
+
+译文:  Address: No. 17 West Core Avenue, West District, New & Hi-tech Industrial Development Zone, Chengdu; 
+------------------------------------------------------------------------------------
+原文: [5] 魏敏吉, 李可欣. 符合法规和指南要求的生物样本分析[J]. 药物分析杂志, 2014, 34(1): 12
+
+译文:  [5] Wei Minji, Li Kexin. Analysis of biological samples meeting regulations and guideline requirements [J]. Medication analysis journal, 2014, 34(1): 12 
+------------------------------------------------------------------------------------
+原文: 饲料、饮用水检测报告复印件；动物房温湿度报告等
+
+译文:  Copies of feed and drinking water testing reports; temperature and humidity reports of the animal room 
+------------------------------------------------------------------------------------
+原文: 来源
+
+译文:  Source 
+------------------------------------------------------------------------------------
+原文: 采样动物：所有试验动物。
+
+译文:  Sampling animal: all assay animals. 
+------------------------------------------------------------------------------------
+原文: 血小板聚集仪（700）的使用与维护
+
+译文:  Usage and maintenance of platelet aggregation instrument (700) 
+------------------------------------------------------------------------------------
+原文: 环境改善
+
+译文:  Environmental Enrichment 
+------------------------------------------------------------------------------------
+原文: 对照品波立维（硫酸氢氯吡格雷片）的临床使用剂量为75 mg/人/天，考虑到完整片剂溶出曲线可能与切开片剂的溶出曲线不同，故选择硫酸氢氯吡格雷片进行整片给药，即每只比格犬经口给予75 mg波立维（1片）。
+
+译文:  The clinical use dose of Plavix (clopidogrel bisulfate tablets) is 75 mg/person/day. Considering that the dissolution curve of the intact tablet may be different from that of the cut tablet, it was decided to use the intact clopidogrel bisulfate tablets for dosage, i.e., 75 mg Plavix (1 tablet) administered orally to each beagle dog. 
+------------------------------------------------------------------------------------
+原文: 试验主要组成人员
+
+译文:  Assay personnel composition 
+------------------------------------------------------------------------------------
+原文: 饲养环境控制系统：MSEA-MVE 6.0江森动物房环境监测系统；
+
+译文:  Housing Environment control system: MSEA-MVE 6.0 Johnson animal room environment monitoring system; 
+------------------------------------------------------------------------------------
+原文: 注：若动物年龄或体重超出上述范围，经专题负责人确认后可纳入试验。
+
+译文:  Note: If the animal’s age or body weight is outside the above range, it can be included in the assay upon confirmation by the study director. 
+------------------------------------------------------------------------------------
+原文: 8.2.	血样处理和血小板聚集率检测：	17
+
+译文:  8.2. Blood sample disposal and platelet aggregation rate testing: 17 
+------------------------------------------------------------------------------------
+原文: 与试验有关的各种书面文件或报告
+
+译文:  Various writing documents and reports related to the assay 
+------------------------------------------------------------------------------------
+原文: 计算药代参数及绘制药时曲线
+
+译文:  Calculation of pharmacokinetic parameters and drawing of Concentration-Time curves 
+------------------------------------------------------------------------------------
+原文: 1.6.	遵循的法规及技术指导原则	7
+
+译文:  1.6. Followed regulations and technical guidelines 7 
+------------------------------------------------------------------------------------
+原文: 观察时间：每天上午或下午观察1次；
+
+译文:  Observation time: Observation once per day in the morning or afternoon; 
+------------------------------------------------------------------------------------
+原文: 原始数据及其保存
+
+译文:  Raw data and their storage 
+------------------------------------------------------------------------------------
+原文: 性状：粉红色，圆形双凸，薄膜包衣，一面刻有《75》，另一面刻有
+
+译文:  Characterization: Pink, round, biconvex, film-coated, one side engraved with "75," the other side engraved with 
+------------------------------------------------------------------------------------
+原文: 名称/代号：波立维/硫酸氢氯吡格雷片；
+
+译文:  Name/Code: Plavix/clopidogrel bisulfate tablets; 
+------------------------------------------------------------------------------------
+原文: 动物标识
+
+译文:  Animal Identification 
+------------------------------------------------------------------------------------
+原文: 实验动物选择依据和数量
+
+译文:  Laboratory animals selection justification and number 
+------------------------------------------------------------------------------------
+原文: 注：若试验中用到其它电子数据采集或分析系统，相关信息会在原始记录及总结报告中如实体现。必要时，可采用纸质记录进行数据记录（作为原始数据）。
+
+译文:  Note: If other electronic data acquisition or analysis systems are used in the assay, relevant information will be truthfully reflected in the raw records and final report. If necessary, paper records can be used for data recording (as raw data). 
+------------------------------------------------------------------------------------
+原文: 名称：成都施贝康生物医药科技有限公司；
+
+译文:  Name: Chengdu Sbicon Biopharmaceutical Technology Co., Ltd.; 
+------------------------------------------------------------------------------------
+原文: 《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月）；
+
+译文:  "Guiding Principles for Nonclinical Pharmacokinetic Studies of Medication" (fCFDA, May 2014); 
+------------------------------------------------------------------------------------
+原文: 型号
+
+译文:  Model 
+------------------------------------------------------------------------------------
+原文: 体重：进入试验时8 ~ 11 kg，分组时体重：8 ~ 11 kg；分组时动物个体体重差异小于平均体重的 20 %；
+
+译文:  Body weight: 8 ~ 11 kg at the time of assay entry, 8 ~ 11 kg at the time of group assignment; Individual body weight difference during group assignment is less than 20% of the mean body weight; 
+------------------------------------------------------------------------------------
+原文: 3.4.	体重和年龄	10
+
+译文:  3.4. Body weight and age 10 
+------------------------------------------------------------------------------------
+原文: 试验人员组成
+
+译文:  Study personnel composition 
+------------------------------------------------------------------------------------
+原文: 实验动物选择理由：参照《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月），非创新性药物可选用一种动物，建议首选非啮齿类动物，本试验非啮齿类动物选用Beagle犬为受试动物，其遗传、生物学背景（包括解剖、生理、临床病理等各种数据的正常范围）比较清楚。
+
+译文:  Justification for selecting laboratory animals: According to the "Guiding Principles for Nonclinical Pharmacokinetic Studies of Medication" (fCFDA, May 2014), a non-innovative medication can choose one type of animal, preferably a non-rodent animal. This assay selects Beagle dogs as test animals due to their well-known genetic and biological background (including the normal range of anatomy, physiology, and clinical pathology data). 
+------------------------------------------------------------------------------------
+原文: 总结报告
+
+译文:  Final Report 
+------------------------------------------------------------------------------------
+原文: 给药方法总论
+
+译文:  Dose method overview 
+------------------------------------------------------------------------------------
+原文: 试验操作：邵道伟、祁华荣、常磊；
+
+译文:  Assay operation: Shao Daowei, Qi Huarong, Chang Lei; 
+------------------------------------------------------------------------------------
+原文: [4] 曾苏. 药物代谢学[M]. 杭州: 浙江大学出版社, 2008: 269-283, 411-459
+
+译文:  [4] Zeng Su. Medication metabolism [M]. Hangzhou: Zhejiang University Press, 2008: 269-283, 411-459 
+------------------------------------------------------------------------------------
+原文: 血生化检查
+
+译文:  Blood chemistry examination 
+------------------------------------------------------------------------------------
+原文: Confidential                                                                                           第 13页 /共 页
+
+译文:  Confidential Page 13 of Pages 
+------------------------------------------------------------------------------------
+原文: 白细胞计数（WBC）
+
+译文:  White blood cell count (WBC) 
+------------------------------------------------------------------------------------
+原文: γ-谷氨酰转肽酶（GGT）
+
+译文:  γ-glutamyl transpeptidase (GGT) 
+------------------------------------------------------------------------------------
+原文: 碱性磷酸酶（ALP）
+
+译文:  Alkaline phosphatase (ALP) 
+------------------------------------------------------------------------------------
+原文: 生产许可证号：SCXK（京）2014-0010；
+
+译文:  Production license No: SCXK (Jing) 2014-0010; 
+------------------------------------------------------------------------------------
+原文: 7.1.	血样采集	15
+
+译文:  7.1. Blood sample collection 15 
+------------------------------------------------------------------------------------
+原文: 血小板聚集仪
+
+译文:  Platelet aggregation instrument 
+------------------------------------------------------------------------------------
+原文: 血小板计数（PLT）
+
+译文:  Platelet count (PLT) 
+------------------------------------------------------------------------------------
+原文: 1.3.	研究机构	6
+
+译文:  1.3. Test facility 6 
+------------------------------------------------------------------------------------
+原文: 保存场所：苏州华测生物技术有限公司档案管理部；
+
+译文:  Storage location: Archives management department of Suzhou Bio-technique Testing Co., Ltd.; 
+------------------------------------------------------------------------------------
+原文: 血液学和血生化样本在采集后放入样品运输箱，2 h内送检。
+
+译文:  Hematology and blood chemistry samples are placed in sample transport boxes after collection and sent for inspection within 2 hours. 
+------------------------------------------------------------------------------------
+原文: 邮编：215300；
+
+译文:  Zip code: 215300; 
+------------------------------------------------------------------------------------
+原文: 剂量
+
+译文:  Dose 
+------------------------------------------------------------------------------------
+原文: 谷丙转氨酶（ALT）
+
+译文:  Alanine aminotransferase (ALT)
+------------------------------------------------------------------------------------

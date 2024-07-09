@@ -1,0 +1,132 @@
+原文: 7. 血样 collection及 testing analyzed 14
+
+译文: 7. Blood sample collection and testing analyzed 14
+------------------------------------------------------------------------------------
+原文: 地址：成都New & Hi-tech Industrial Development Zone（西区）西芯大道17号；
+
+译文: Address: Chengdu New & Hi-tech Industrial Development Zone (West District) Xixin Avenue No. 17;
+------------------------------------------------------------------------------------
+原文: 1.6. 遵循的 regulations及technique指导原则 6
+
+译文: 1.6. Followed regulations and technical guidelines 6
+------------------------------------------------------------------------------------
+原文: Supplier：北京维通利华 laboratory animals technique Co., Ltd.；
+
+译文: Supplier: Beijing Vitonlihua Laboratory Animals Technique Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 一般states observation
+
+译文: General states observation
+------------------------------------------------------------------------------------
+原文: sbk002 dose formulations preparation method：根据SD rats most recent一次 body weight、Dosage Calculation所需 test article的量，根据test article的量、preparation concentration Calculation prepared volume[prepared volume=test article量×content（99.4%）/preparation concentration]。在room temperature、protected from excessive light条件下，准确称取一定量的test article至研钵中，加入适量的 vehicle充分研磨后，完全metastasis至一定 volume的容器内，用 vehicle定至刻度，即得所需 concentration的test article dose formulations。
+
+译文: sbk002 dose formulations preparation method: According to the most recent body weight of SD rats and the required test article amount for dosage calculation, calculate the prepared volume based on the amount of test article and the preparation concentration [prepared volume = test article amount × content (99.4%) / preparation concentration]. At room temperature, protected from excessive light conditions, accurately weigh a certain amount of test article into a mortar, add an appropriate amount of vehicle and grind thoroughly, then completely transfer to a container of a certain volume, and fill to the scale with the vehicle to get the desired concentration of test article dose formulations.
+------------------------------------------------------------------------------------
+原文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone Yuanfeng Road166号
+
+译文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone Yuanfeng Road No. 166
+------------------------------------------------------------------------------------
+原文: Pharmacokinetic assay Blood Sampling Time和 animal number见下表：
+
+译文: Pharmacokinetic assay Blood Sampling Time and animal number are shown in the table below:
+------------------------------------------------------------------------------------
+原文: 《Pharmaceuticals注册 Management办法》（fCFDA，2007年10月）；
+
+译文: Pharmaceuticals Registration Management Measures (fCFDA, October 2007);
+------------------------------------------------------------------------------------
+原文: Blood sample collection及testing analyzed
+
+译文: Blood sample collection and testing analyzed
+------------------------------------------------------------------------------------
+原文: 6.1. 一般 states observation 14
+
+译文: 6.1. General states observation 14
+------------------------------------------------------------------------------------
+原文: SD rats gavage给 sbk002及硫酸氢氯吡格雷肠道吸收实验
+
+译文: SD rats gavage sbk002 and Clopidogrel bisulfate intestinal absorption experiment
+------------------------------------------------------------------------------------
+原文: Name：苏州华测生物technique Co., Ltd.；
+
+译文: Name: Suzhou Huace Bioscience Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: System
+------------------------------------------------------------------------------------
+原文: 注：animal number的首位数字representative group（1和2分别representative sbk002 dose group和clo dose group），第二位字母F表示 female，M表示 male。后3 digits representative animal序列号。
+
+译文: Note: The first digit of the animal number represents the group (1 and 2 represent sbk002 dose group and clo dose group, respectively), the second letter F represents female, M represents male. The last 3 digits represent the animal serial number.
+------------------------------------------------------------------------------------
+原文: 江苏恒瑞医药股份 Co., Ltd.
+
+译文: Jiangsu Hengrui Medicine Co., Ltd.
+------------------------------------------------------------------------------------
+原文: Feed、bedding、饮用水 testing report复印件；animal房温湿度 report等
+
+译文: Feed, bedding, and drinking water testing report copies; animal room temperature and humidity reports, etc.
+------------------------------------------------------------------------------------
+原文: 注：该项目test article总 retention samples量以Test article management部 retention samples related record为准。
+
+译文: Note: The total retention sample volume of the test article for this project is subject to the retention sample record related to the Test Article Management Department.
+------------------------------------------------------------------------------------
+原文: Dose formulations在实验机构内的metastasis
+
+译文: Dose formulations metastasis within the test facility
+------------------------------------------------------------------------------------
+原文: 采样 method和采样量：portal vein和颈 vein各collect blood约0.4 mL，collect的 whole blood至含4 μL TCEP（100mg/mL）和EDTA-K2的anticoagulant tube中，gently mixed well；
+
+译文: Sampling method and sampling volume: Collect about 0.4 mL of blood from the portal vein and jugular vein into anticoagulant tubes containing 4 μL TCEP (100 mg/mL) and EDTA-K2, mix gently;
+------------------------------------------------------------------------------------
+原文: 注：若assay中用到其它 electron data acquisition或analyzed系统，relevant information会在raw record及final report中如实体现。必要时，可采用纸质 record perform data record（作为raw data）。
+
+译文: Note: If other electronic data acquisition or analysis systems are used in the assay, relevant information will be faithfully reflected in the raw record and final report. If necessary, paper records can be used to perform data records (as raw data).
+------------------------------------------------------------------------------------
+原文: 2.4. Major Instruments设备 10
+
+译文: 2.4. Major Instruments and Equipment 10
+------------------------------------------------------------------------------------
+原文: Storage与use：low temperature、dry、hygienic；将 sterilized的 bedding铺于rats cage bottom，以铺满整个底部为宜；
+
+译文: Storage and use: low temperature, dry, hygienic; lay sterilized bedding at the bottom of the rat cages to cover the entire bottom;
+------------------------------------------------------------------------------------
+原文: 预定use animal number 和sex：16只，雌、雄各半；
+
+译文: Predetermined number and sex of animals to be used: 16, with equal numbers of males and females;
+------------------------------------------------------------------------------------
+原文: Storage场所与Storage condition
+
+译文: Storage location and conditions
+------------------------------------------------------------------------------------
+原文: Laboratory animals selection理由：参照《Medication非临床药代动力学研究 technique指导原则》（fCFDA，May 2014），以及前期实验 data，SD rats为本实验的敏感 animal。因此，本assay也选用SD rats为受试 animal，其遗传、生物学background（包括anatomy、生理、Clinical Pathology等各种 data的正常range）比较清。
+
+译文: Reason for laboratory animals selection: Referring to the Technical Guidelines for Non-clinical Pharmacokinetic Studies of Medication (fCFDA, May 2014), and previous experimental data, SD rats are sensitive animals for this study. Therefore, SD rats are also chosen as test animals in this assay due to their clear genetic and biological background (including the normal range of various data such as anatomy, physiology, Clinical Pathology, etc.).
+------------------------------------------------------------------------------------
+原文: Test article的dose design justification；
+
+译文: Test article dose design justification;
+------------------------------------------------------------------------------------
+原文: Laboratory animals的种、系、number、age、sex、body weight range、source、animal合格证号及issuing unit、receipt date和housing conditions；
+
+译文: Species, strain, number, age, sex, body weight range, source, animal qualification certificate number, issuing unit, receipt date, and housing conditions of laboratory animals;
+------------------------------------------------------------------------------------
+原文: Preparation method example（以1000 mL example）：准确称取5.0 g的CMC-Na粉末，用量筒量取1000 mL pure water metastasis至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入 stirring子，用 magnetic stirrer stirring至完全 dissolution，即得0.5 % CMC-Na溶液1000 mL。room temperature存放，8 days内有效。
+
+译文: Preparation method example (using 1000 mL as an example): Accurately weigh 5.0 g of CMC-Na powder, measure 1000 mL of pure water with a graduated cylinder and transfer it to a beaker, evenly disperse the CMC-Na powder in the beaker, add a stirring rod, and stir with a magnetic stirrer until completely dissolved to obtain a 0.5% CMC-Na solution of 1000 mL. Store at room temperature, effective within 8 days.
+------------------------------------------------------------------------------------
+原文: Selection理由：与临床用药途径一致；
+
+译文: Selection reasons: Consistent with clinical administration route; 
+------------------------------------------------------------------------------------
+原文: Manufacturer：阿拉丁 (Aladdin）；
+
+译文: Manufacturer: 阿拉丁 (Aladdin); 
+------------------------------------------------------------------------------------
+原文: Major Instruments设备
+
+译文: Major Instruments; 
+------------------------------------------------------------------------------------
+原文: Study Personnel组成
+
+译文: Study Personnel Composition
+------------------------------------------------------------------------------------

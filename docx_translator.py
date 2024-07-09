@@ -8,9 +8,11 @@ import terms_persister as persister
 import string_utils as su
 import file_utils as fu
 
+MAX_TOKEN_LIMIT = 2500
+
 
 class DocTranslator:
-    def __init__(self, to_CN=True):
+    def __init__(self, to_CN=False):
         self.to_CN = to_CN
         terms_file = r"input\terms_en2zh.xlsx" if to_CN else r"input\terms_zh2en.xlsx"
         self.terms = persister.read_from_excel(terms_file)
@@ -27,6 +29,7 @@ class DocTranslator:
         self.translator = GPTTranslator(to_CN)
         self.excludes = ["F", "Y", "N", "-", "+"]
         self.debug_mode = True
+        self.last_to_translate_amount = 0
 
     def _translate_text(self, text):
         if text in self.excludes:
@@ -61,68 +64,56 @@ class DocTranslator:
         text = text.replace(" ", "")
         return text in self.excludes or text.isdigit()
 
-    def __preprocess(self, to_translate_dict):
-        processed = {}
-
-        processed.update(to_translate_dict)
-
-        # 将key, value中的:替换为\\: 防止json解析错误, 并去除原始的key
-        # for key, value in to_translate_dict.items():
-        #     processed[key.replace(":", "\\:")] = value.replace(":", "\\:")
-
-        # 使用术语表预处理文本, 如果术语表中有对应的翻译则直接使用, 替换结果为dict的value
-        for key in processed:
+    def __preprocess(self, text_list):
+        preprocessed_text_list = []
+        for text in text_list:
             for term_key, term_value in self.terms.items():
-                if term_key in key:
-                    processed[key] = processed[key].replace(term_key, term_value)
+                if term_key in text:
+                    text = text.replace(term_key, term_value)
+            preprocessed_text_list.append(text)
 
-        return processed
+        return preprocessed_text_list
 
-    def __split_dict_by_token_limit(self, original_dict, max_token_limit):
-        current_dict = {}
-        dicts = []
-        current_token_count = 2  # Start with 2 for '{}'
+    # def __translate_dict(self, origin_dict):
+    #     # 过滤包含待翻译文本的dict
+    #     new_dict = {}
+    #     for key, value in origin_dict.items():
+    #         if self.__is_translate_required(value):
+    #             new_dict[key] = value
+    #     if len(new_dict) == 0:
+    #         print("------------翻译已经全部完成------------")
+    #         return origin_dict
+    #     else:
+    #         to_translate_amount = len(new_dict)
+    #         if to_translate_amount == self.last_to_translate_amount:
+    #             print(
+    #                 f"------------迭代终止, 上次待翻译数量等于本次待翻译数量{self.last_to_translate_amount}------------"
+    #             )
+    #             return origin_dict
+    #         else:
+    #             self.last_to_translate_amount = to_translate_amount
 
-        for key, value in original_dict.items():
-            key_str = json.dumps({key: value})
-            key_token_count = len(key_str)
-            if current_token_count + key_token_count > max_token_limit:
-                dicts.append(current_dict)
-                current_dict = {}
-                current_token_count = 2  # Reset for '{}'
+    #     # 打印待翻译文本
+    #     print("------------打印待翻译文本------------")
+    #     print(f"待翻译文本数量: {len(new_dict)}")
+    #     for index, text in enumerate(new_dict.keys()):
+    #         print(f"{index}: {text}")
+    #     print("------------打印待翻译文本结束------------")
 
-            current_dict[key] = value
-            current_token_count += key_token_count
+    #     # 分割dict
+    #     to_translate_dicts = self.__split_dict_by_token_limit(new_dict, 8000)
+    #     print(f"分割后的dict数量: {len(to_translate_dicts)}")
+    #     count = 0
+    #     for to_translate_dict in to_translate_dicts:
+    #         to_translate_dict = self.__preprocess(to_translate_dict)
+    #         origin_dict.update(self.translator.translate(to_translate_dict))
 
-        if current_dict:
-            dicts.append(current_dict)
+    #         count += len(to_translate_dict)
+    #         print(f"已翻译: {count} / {len(origin_dict)}")
 
-        return dicts
-
-    def __translate_dict(self, origin_dict):
-        # 过滤包含待翻译文本的dict
-        new_dict = {}
-        for key, value in origin_dict.items():
-            if self.__is_translate_required(value):
-                new_dict[key] = value
-        if len(new_dict) == 0:
-            print("------------翻译已经全部完成------------")
-            return origin_dict
-
-        # 分割dict
-        to_translate_dicts = self.__split_dict_by_token_limit(new_dict, 8000)
-        print(f"分割后的dict数量: {len(to_translate_dicts)}")
-        count = 0
-        for to_translate_dict in to_translate_dicts:
-            to_translate_dict = self.__preprocess(to_translate_dict)
-            origin_dict.update(self.translator.translate(to_translate_dict))
-
-            count += len(to_translate_dict)
-            print(f"已翻译: {count} / {len(origin_dict)}")
-
-        # 迭代翻译
-        print("------------开始迭代翻译------------")
-        self.__translate_dict(origin_dict)
+    #     # 迭代翻译
+    #     print("------------开始迭代翻译------------")
+    #     return self.__translate_dict(origin_dict)
 
     def __is_translate_required(self, text):
         if not self.__is_text_skipped(text):
@@ -131,6 +122,43 @@ class DocTranslator:
             elif not self.to_CN and su.has_chinese(text):  # 翻译成英文，只翻译中文文本
                 return True
         return False
+
+    # 递归方法, 将待翻译文本列表翻译成中文, 并将翻译结果存入translated_dict
+    # to_translate_list数量为0时, 翻译结束
+    def __translate_list(self, to_translate_list, translated_dict):
+        if len(to_translate_list) == 0:
+            return
+
+        # 分割待翻译文本
+        to_translate = []
+        while (
+            len("[#]".join(to_translate)) < MAX_TOKEN_LIMIT
+            and len(to_translate_list) > 0
+        ):
+            to_translate.append(to_translate_list.pop(0))
+
+        # 翻译
+        preprocessed = self.__preprocess(to_translate)
+        to_translate_text = "[#]".join(preprocessed)
+        translated_text = self.translator.translate(to_translate_text)
+        # print(f"---------------原文----------")
+        # print(to_translate_text)
+        # print(f"---------------翻译结果----------")
+        # print(translated_text)
+        # print(f"---------------翻译结果结束----------")
+        translated_list = translated_text.split("[#]")
+        for i, text in enumerate(to_translate):
+            translated_dict[text] = translated_list[i]
+
+        print(f"本次翻译数量: {len(to_translate)}")
+        print(
+            f"已翻译: {len(translated_dict)} / {len(translated_dict)+len(to_translate_list)}"
+        )
+
+        # 递归
+        self.__translate_list(to_translate_list, translated_dict)
+
+        pass
 
     def translate(self, file):
         start = time.time()
@@ -164,15 +192,14 @@ class DocTranslator:
         # 分离中英文文本
         to_translate_texts = []
         for text in texts:
+            text = text.strip()
             if self.__is_translate_required(text):
                 to_translate_texts.append(text)
 
+        print(f"待翻译文本数量: {len(to_translate_texts)}")
+
         # 只翻译前30个
         # to_translate_texts = to_translate_texts[:30]
-
-        print(f"待翻译文本数量: {len(to_translate_texts)}")
-        for index, text in enumerate(to_translate_texts):
-            print(f"{index}: {text}")
 
         if len(to_translate_texts) == 0:
             print("------------翻译已经全部完成------------")
@@ -180,8 +207,8 @@ class DocTranslator:
 
         # 翻译
         # 初始化翻译结果
-        translated_dict = {text: text for text in to_translate_texts}
-        translated_dict = self.__translate_dict(translated_dict)
+        translated_dict = {}
+        self.__translate_list(to_translate_texts, translated_dict)
 
         # 写入log
         if self.debug_mode:
@@ -195,8 +222,9 @@ class DocTranslator:
 
         # 更新段落文本
         for paragraph in paragraphs:
-            if paragraph.text in translated_dict:
-                paragraph.text = translated_dict[paragraph.text]
+            key = paragraph.text.strip()
+            if key in translated_dict:
+                paragraph.text = paragraph.text.replace(key, translated_dict[key])
         pass
 
         # 保存文件
@@ -209,5 +237,5 @@ class DocTranslator:
 if __name__ == "__main__":
     translator = DocTranslator(False)
     translator.translate(
-        "B2019023-K09-01_SD大鼠灌胃给予sbk002及硫酸氢氯吡格雷肠道吸收实验总结报告_final_20191128-translated-translated-translated.docx"
+        "附件一 B2019023-K09-01_SD大鼠灌胃给予sbk002及硫酸氢氯吡格雷肠道吸收实验_实验方案.docx"
     )

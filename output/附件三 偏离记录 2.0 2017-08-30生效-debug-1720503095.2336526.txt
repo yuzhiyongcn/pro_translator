@@ -1,0 +1,56 @@
+原文: 徐振兴
+
+译文: Xu Zhenxing
+------------------------------------------------------------------------------------
+原文: 专题负责人
+
+译文: study director
+------------------------------------------------------------------------------------
+原文: 根据试验日程安排表要求：试验样品再分析的验证时间为2018-12-19 ~ 2018-12-25 之间；血浆样品长期冻存稳定性和储备液稳定性的验证时间为2018-12-26 ~ 2019-01-02之间。
+
+译文: According to the assay schedule: the verification time for assay sample reanalysis is between 2018-12-19 and 2018-12-25; the verification time for plasma sample long-term cryopreserved stability and stock solution stability is between 2018-12-26 and 2019-01-02.
+------------------------------------------------------------------------------------
+原文: 偏离记录
+
+译文: deviation record
+------------------------------------------------------------------------------------
+原文: 实际操作过程中，试验样品再分析验证于2019-01-01进行；血浆样品长期冻存稳定性和储备液稳定性的验证于2019-01-10进行。与试验日程安排表不符。
+
+译文: During the actual operation, the verification of the assay sample reanalysis was performed on 2019-01-01; the verification of the plasma sample long-term cryopreserved stability and stock solution stability was performed on 2019-01-10. This does not match the assay schedule.
+------------------------------------------------------------------------------------
+原文: 如实记录该偏离。
+
+译文: Record this deviation truthfully.
+------------------------------------------------------------------------------------
+原文: 偏离的描述
+
+译文: Description of the deviation
+------------------------------------------------------------------------------------
+原文: 该偏离为试验日程偏离，血浆样品长期冻存稳定性和储备液稳定性时长大于试验日程安排表规定的时间，且血浆样品长期冻存稳定性时长能覆盖实际血样冻存时间，因此该偏离不影响试验的科学性。
+
+译文: This deviation is an assay schedule deviation. The duration of the plasma sample long-term cryopreserved stability and stock solution stability is greater than the time specified in the assay schedule. Moreover, the duration of the plasma sample long-term cryopreserved stability can cover the actual cryopreserved time of the blood sample, so this deviation does not affect the scientific validity of the assay.
+------------------------------------------------------------------------------------
+原文: 签名 Signature：                           日期Date：
+
+译文: Signature：                           Date：
+------------------------------------------------------------------------------------
+原文: 偏离的处理措施及评估
+
+译文: Handling of Deviations measures and evaluation 
+------------------------------------------------------------------------------------
+原文: 偏离类型
+
+译文: Type of deviation
+------------------------------------------------------------------------------------
+原文: 专题编号
+
+译文: Study number
+------------------------------------------------------------------------------------
+原文: 备注Notes: 若偏离超出SD/PI或部门负责人能力可以评估或解决的范围时，需汇报至QAU和机构负责人. If SD/PI or department director not be able to evaluate deviations, it has to be reported to QAU and TFM.
+
+译文: Remark Notes: If the deviation is outside the range of ability of the SD/PI or department director to evaluate or resolve, it must be reported to the QAU and Test Facility Management. If the SD/PI or department director is not able to evaluate deviations, it must be reported to QAU and TFM.
+------------------------------------------------------------------------------------
+原文: 试验方案偏离Protocol Deviation            □  SOP偏离 SOP Deviation
+
+译文: Study protocol deviation Protocol Deviation            □  SOP deviation SOP Deviation
+------------------------------------------------------------------------------------

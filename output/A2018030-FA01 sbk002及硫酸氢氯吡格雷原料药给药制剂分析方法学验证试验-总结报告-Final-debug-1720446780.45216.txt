@@ -1,0 +1,8 @@
+原文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气泡15 min，即得。室温保存，有效期3天。
+
+译文: Aqueous phase (0.2% TFA aqueous solution): Measure 1000 μL of TFA, add it to 500 mL of sterile water for injection, mix well, and sonicate for degassing for 15 minutes. Store at room temperature, valid for 3 days.
+------------------------------------------------------------------------------------
+原文: Purge Wash、  Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气泡15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash, Seal Wash (10% methanol aqueous solution): Measure 900 mL of sterile water for injection, add it to 100 mL of methanol, and sonicate for degassing for 15 minutes. Store at room temperature, valid for 7 days.
+------------------------------------------------------------------------------------

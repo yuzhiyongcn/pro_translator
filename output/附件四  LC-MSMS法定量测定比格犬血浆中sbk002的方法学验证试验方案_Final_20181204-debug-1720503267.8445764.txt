@@ -1,0 +1,1324 @@
+原文: 联系人：武丽；
+
+译文: Contact person: Wu Li;
+------------------------------------------------------------------------------------
+原文: 目录
+
+译文: TABLE OF CONTENTS
+------------------------------------------------------------------------------------
+原文: 批内准确度：各浓度准确度的平均值应在85 % ~ 115 %之间（LLOQ准确度的平均值应在80 % ~ 120 %之间），每一浓度至少5个QC样品的准确度应符合上述要求。
+
+译文: In each batch, the accuracy of each concentration should have a mean value between 85% and 115% (the mean accuracy at the Lower Limit of Quantification should be between 80% and 120%), and the accuracy of at least 5 QC samples at each concentration should meet the above requirements.
+------------------------------------------------------------------------------------
+原文: 至少5个稀释样品的准确度应在85 % ~ 115 %之间，准确度的平均值应在85 % ~ 115 %之间，精密度（CV）应在15 %以内。
+
+译文: The accuracy of at least 5 diluted samples should be between 85% and 115%, the mean accuracy should be between 85% and 115%, and the precision (CV) should be within 15%.
+------------------------------------------------------------------------------------
+原文: [1] 魏敏吉, 李可欣. 符合法规和指南要求的生物样本分析[J]. 药物分析杂志, 2014, 34(1): 12
+
+译文: [1] Wei Minji, Li Kexin. Analysis of biological samples meeting regulations and guidelines[J]. Medication Analyzed Journal, 2014, 34(1): 12
+------------------------------------------------------------------------------------
+原文: 4.7.	提取回收率与基质效应	14
+
+译文: 4.7. Extraction Recovery Rate and Matrix Effect 14
+------------------------------------------------------------------------------------
+原文: 至少3次冻融循环
+
+译文: at least 3 freeze-thaw cycles
+------------------------------------------------------------------------------------
+原文: 目录	4
+
+译文: TABLE OF CONTENTS 4
+------------------------------------------------------------------------------------
+原文: 专题名称：LC-MS/MS法定量测定Beagle犬血浆中sbk002的方法学验证试验；
+
+译文: Study Name: Methodology Validation Assay for Quantitative Measurement of SBK002 in Beagle Dog Plasma by LC-MS/MS;
+------------------------------------------------------------------------------------
+原文: 电子邮件：cti-btc-qa.list@cti-cert.com。
+
+译文: Email: cti-btc-qa.list@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: [4] 张人杰, 柴逸峰, 朱臻宇, 沈晓航. LC-MS/MS 生物分析中试验样品再分析失败后的调查和解决方案[J]. 药物分析杂志, 2016, 36(4): 559-564
+
+译文: [4] Zhang Renjie, Chai Yifeng, Zhu Zhanyu, Shen Xiaohang. Investigation and Solutions for Reanalysis Failures in LC-MS/MS Biological Analyzes[J]. Medication Analyzed Journal, 2016, 36(4): 559-564
+------------------------------------------------------------------------------------
+原文: 2-丙醇
+
+译文: 2-Propanol
+------------------------------------------------------------------------------------
+原文: 分析物基质效应（Matrix effect %）=（基质样品中分析物峰面积）/（无基质样品中分析物峰面积的平均值）× 100 %；
+
+译文: Matrix Effect of Analyte (Matrix effect %) = (Peak Area of Analyte in Matrix Sample) / (Mean Peak Area of Analyte in Non-Matrix Sample) × 100 %;
+------------------------------------------------------------------------------------
+原文: 血浆样品长期冻存稳定性
+
+译文: Long-term cryopreserved stability of plasma samples
+------------------------------------------------------------------------------------
+原文: 地址：江苏省昆山市高新区元丰路166号；
+
+译文: Address: No. 166 Yuanfeng Road, New & Hi-tech Industrial Development Zone, Kunshan City, Jiangsu Province;
+------------------------------------------------------------------------------------
+原文: 本人已理解该试验所依从各GLP法规的相关要求，并已对该研究机构进行评估；确保所提供的供试品和/或对照品的特性信息真实、准确同时也告知了该研究机构本研究供试品和/或对照品的相关安全信息。
+
+译文: I have understood the requirements related to the GLP regulations followed by this assay and have evaluated the test facility's performance; ensure the provided test article and/or reference item are authentic and accurate, and inform the test facility of the test article and/or reference item's relevant safety for this study.
+------------------------------------------------------------------------------------
+原文: 生物样品色谱分析的一般原则
+
+译文: General principles of chromatographic analysis of biological samples
+------------------------------------------------------------------------------------
+原文: 选择合格的准确度和精密度验证分析批中低、中、高三个浓度的质控样品（n = 6），每个样品反复进样5次，考察一个分析批所能承载的最大样品数。
+
+译文: Selection of qualified accuracy and precision validation samples in an analytical run at low, medium, and high concentrations of Quality Control Samples (n = 6), each sample injected 5 times, to assess the maximum number of samples an analytical run can bear.
+------------------------------------------------------------------------------------
+原文: 各浓度准确度的平均值应在85 % ~ 115 %之间，精密度（CV）应在15 %以内。
+
+译文: The mean accuracy of each concentration should be between 85% and 115%, and the precision (CV) should be within 15%.
+------------------------------------------------------------------------------------
+原文: 本试验的目的是建立LC-MS/MS法定量测定Beagle犬血浆中sbk002的分析方法并对该方法进行全面方法学验证。
+
+译文: The purpose of this assay is to establish an LC-MS/MS method for the quantitative measurement of SBK002 in Beagle Dog plasma and to perform a comprehensive methodology validation for the method.
+------------------------------------------------------------------------------------
+原文: 委托方签字页
+
+译文: Sponsor signature page
+------------------------------------------------------------------------------------
+原文: 用途
+
+译文: Purpose
+------------------------------------------------------------------------------------
+原文: 3.	试验材料与方法	10
+
+译文: 3. Study Materials and Method 10
+------------------------------------------------------------------------------------
+原文: 稳定性验证应涵盖将来的实际样品在取得分析结果前的各种储存和分析条件。稳定性验证必须使用新鲜配制的标准曲线来计算回收率。如果某个稳定性测试不符合接受标准，（1）可以在2个不同的分析批中进行2次复测，如果复测仍然不能通过，需进行更短时间的稳定性考察，（2）也可以选择不做复测，而直接进行更短时间的稳定性考察。
+
+译文: Stability validation should cover all possible storage and analysis conditions before obtaining the analyzed result of future practical samples. Stability validation must use freshly prepared Standard Curve to calculate the recovery rate. If a specific stability test does not meet acceptance criteria, (1) retesting can be performed twice in two different analytical runs; if it still fails, a shorter stability test can be conducted, (2) or retesting can be omitted and a shorter stability test can be directly performed.
+------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司
+
+译文: Chengdu Sibekang Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 血浆样品处理前样品稳定性
+
+译文: Sample stability before disposal of plasma samples
+------------------------------------------------------------------------------------
+原文: 姓名：何艳；
+
+译文: Name: He Yan;
+------------------------------------------------------------------------------------
+原文: 撰写流程
+
+译文: Writing Process
+------------------------------------------------------------------------------------
+原文: 2.	验证参数说明	9
+
+译文: 2. Explanation of Verification Parameters 9
+------------------------------------------------------------------------------------
+原文: 超声波清洗机
+
+译文: Sonication cleaning machine
+------------------------------------------------------------------------------------
+原文: 质量保证部门遵照《药物非临床研究质量管理规范》（2017年09月），美国食品药品监督管理局（FDA）（21CFR58，Good Laboratory Practice For Nonclinical Laboratory Studies），经济合作与发展组织OECD（OECD Principles of Good Laboratory Practice, ENV/MC/CHEM (98)17的GLP法规及本机构SOP对试验方案、方案变更、试验过程、原始数据和总结报告进行严格的监督、调查与审阅，以保证试验过程与试验结果的可信性。
+
+译文: The quality assurance department strictly supervises, investigates, and reviews the study protocol, protocol amendments, study process, raw data, and final report in accordance with the Regulations on Good Laboratory Practices for Non-Clinical Studies (GLPs) (September 2017) of the U.S. Food and Drug Administration (FDA) (21CFR58, Good Laboratory Practice For Nonclinical Laboratory Studies), and the OECD Principles of Good Laboratory Practice (ENV/MC/CHEM (98)17), as well as the institute's SOP, to ensure the credibility of the study process and the assay results.
+------------------------------------------------------------------------------------
+原文: 准确度和精密度的验证数据应该包括所有获得的测定结果，但是明显存在失误的情况除外。
+
+译文: The validation data for accuracy and precision should include all obtained determination results, except obvious erroneous cases.
+------------------------------------------------------------------------------------
+原文: 在一个分析批内考察6份前处理后的LLOQ样品。至少5个LLOQ样品准确度应在80 % ~ 120 %之间，平均准确度应在80 % ~ 120 %之间，精密度CV（%）应在20 %以内。
+
+译文: Examine 6 pre-disposal Lower Limit of Quantification samples within one analytical run. The accuracy of at least 5 Lower Limit of Quantification samples should be between 80% and 120%, the mean accuracy should be between 80% and 120%, and the precision CV (%) should be within 20%.
+------------------------------------------------------------------------------------
+原文: 注：以上人员如有变动，具体信息在总结报告中如实体现。
+
+译文: Note: Any changes in the above personnel will be truthfully reflected in the final report.
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-BA01。
+
+译文: Study number: A2018030-BA01.
+------------------------------------------------------------------------------------
+原文: 包括但不限于以下内容：
+
+译文: Including but not limited to the following content:
+------------------------------------------------------------------------------------
+原文: 徐振兴，M.S.                                                                      日期
+
+译文: Xu Zhenxing, M.S. Date
+------------------------------------------------------------------------------------
+原文: 四川科伦药业股份有限公司
+
+译文: Sichuan Kelun Pharmaceutical Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 7.2.	撰写流程	19
+
+译文: 7.2. Writing Process 19
+------------------------------------------------------------------------------------
+原文: 研究起止日期、试验起止日期；
+
+译文: Study start and end dates, assay start and end dates;
+------------------------------------------------------------------------------------
+原文: 甲醇
+
+译文: Methanol
+------------------------------------------------------------------------------------
+原文: （2）本研究如用于注册申报，其档案保存期为药物上市后至少五年；本研究如不用于注册申报，其档案保存期为试验报告批准日后至少五年。
+
+译文: (2) If this study is for registration submission, its archive storage period shall be at least five years after the medication is marketed; if this study is not for registration submission, its archive storage period shall be at least five years after the assay report approval date.
+------------------------------------------------------------------------------------
+原文: 4.5.	选择性	13
+
+译文: 4.5. Selectivity 13
+------------------------------------------------------------------------------------
+原文: 中浓度质控（MQC）：25.0 ng/mL；
+
+译文: Medium concentration quality control (MQC): 25.0 ng/mL;
+------------------------------------------------------------------------------------
+原文: 邮编：215300；
+
+译文: Postal code: 215300;
+------------------------------------------------------------------------------------
+原文: 成都高新区（西区）西芯大道17号
+
+译文: No. 17 Xixin Avenue, Chengdu New & Hi-tech Industrial Development Zone
+------------------------------------------------------------------------------------
+原文: 8.	资料保存	19
+
+译文: 8. Storage of Relevant Data 19
+------------------------------------------------------------------------------------
+原文: 色谱柱的管理、使用与维护
+
+译文: Management, use, and maintenance of chromatographic columns
+------------------------------------------------------------------------------------
+原文: 医用低温箱
+
+译文: Medical low temperature box
+------------------------------------------------------------------------------------
+原文: 试验关键日期
+
+译文: Key dates of the assay
+------------------------------------------------------------------------------------
+原文: 试验方案签字页
+
+译文: Study protocol signature page
+------------------------------------------------------------------------------------
+原文: 回收率 = 平均实测浓度 / 理论浓度 × 100 %，分析物的回收率在85 % ~ 115 %之间视为样品稳定。
+
+译文: Recovery rate = mean measured concentration / theoretical concentration × 100%, and an analyte recovery rate between 85% and 115% is considered stable for the sample.
+------------------------------------------------------------------------------------
+原文: 名称
+
+译文: Name
+------------------------------------------------------------------------------------
+原文: 考察sbk002和内标储备液在2 ~ 8 ℃条件下的稳定性。具体操作方法：将配制好的sbk002和内标储备液2 ~ 8 ℃放置至少20天后，配制新鲜的sbk002和内标储备液，按照“无基质样品”的配制方法，用放置后的储备液和新鲜配制的储备液分别配制质控样品MQC（n ≥ 5）进行前处理，进样考察稳定性。两者的峰面积平均值的偏差在± 10  %之内视为稳定。
+
+译文: Examine the stability of SBK002 and internal standard stock solutions at 2 ~ 8 ℃. Specific operation method: The prepared SBK002 and internal standard stock solutions are placed at 2 ~ 8 ℃ for at least 20 days, then prepare fresh SBK002 and internal standard stock solutions. Following the non-matrix sample preparation method, use the stock solutions placed and the freshly prepared stock solutions to respectively prepare Quality Control Sample MQC (n ≥ 5) to conduct pre-disposal, with injections to examine stability. A deviation in the mean peak area of ± 10 % is considered stable.
+------------------------------------------------------------------------------------
+原文: 苏州华测生物技术有限公司
+
+译文: Suzhou Huace Bio-Technology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 基质样品：分别对来自6个不同来源（均雄性）的生物基质进行蛋白沉淀，提取完成后向空白基质提取物中加入sbk002和内标溶液，获得三个浓度的基质样品（M-LQC、M-MQC和M-HQC）并完成处理，每一浓度平行制备6份。此基质样品与无基质样品的理论浓度一致。
+
+译文: Matrix sample: Perform protein precipitation from biological matrices from 6 different male sources, add SBK002 and internal standard solutions to the blank matrix extract after extraction to obtain matrix samples of three concentrations (M-LQC, M-MQC, and M-HQC), and complete disposal, preparing 6 parallel samples for each concentration. The theoretical concentration of this matrix sample is consistent with that of the non-matrix sample.
+------------------------------------------------------------------------------------
+原文: 有限公司
+
+译文: Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 残留可能不影响准确度和精密度。残留的接受标准如果不能满足，可将冲洗过程或/和清洗液进行改进，也可根据具体情况评估在样品检测过程中残留对样品分析的影响（此时应注意避免待测样品排列的随意性）。
+
+译文: Residue may not affect accuracy and precision. If residue acceptance criteria are not met, the washing process or/and cleaning solution can be improved, or the impact of residue on sample testing can be evaluated based on specific conditions (at this time, attention should be paid to avoiding randomness in the arrangement of samples to be tested). 
+------------------------------------------------------------------------------------
+原文: 保存场所：苏州华测生物技术有限公司档案管理部；
+
+译文: Storage location: Archives Management Department, Suzhou Huace Bio-Technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 室温放置至少1 h
+
+译文: Placed at room temperature for at least 1 h
+------------------------------------------------------------------------------------
+原文: 将EDTA-K2抗凝、TCEP抗氧化的Beagle犬空白全血放入- 60 ℃以下冰箱中冻存至少30 min使红细胞破碎，取出全血室温融化后，4 ℃、4000 r/min条件下离心10 min，分离上层红色血浆。在空白基质中加入2 %此红色血浆，制得溶血生物基质。用此溶血生物基质制备两个浓度的质控样品（LQC和HQC）并进行前处理，每一浓度平行制备6份样品。
+
+译文: Cryopreserve EDTA-K2 anticoagulated and TCEP antioxidant Beagle dog blank whole blood at -60 ℃ or lower for at least 30 min to lyse the erythrocytes, thaw the whole blood at room temperature, centrifuge at 4 ℃ and 4000 r/min for 10 min, and separate the upper layer of red-colored plasma. Add 2% of this red-colored plasma to the blank matrix to prepare hemolysis biological matrix. Use this hemolysis biological matrix to prepare Quality Control Samples at two concentrations (LQC and HQC) and perform pre-disposal, preparing 6 parallel samples for each concentration.
+------------------------------------------------------------------------------------
+原文: 具体操作方法：制备2个浓度的质控样品（LQC和HQC）并进行前处理，2 ~ 8 ℃放置至少2天（n ≥ 5）后，进样考察稳定性（以回收率表示）。
+
+译文: Specific operational method: prepare two concentrations of Quality Control Samples (LQC and HQC) and perform pre-disposal. After being placed at 2 ~ 8 ℃ for at least 2 days (n ≥ 5), inject samples to investigate stability (expressed as recovery rate).
+------------------------------------------------------------------------------------
+原文: 数据采集和分析
+
+译文: data acquisition and analyzed
+------------------------------------------------------------------------------------
+原文: 分析物
+
+译文: analyzed substances
+------------------------------------------------------------------------------------
+原文: 4.9.	稀释回收率	15
+
+译文: 4.9. Dilution recovery rate 15
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: System
+------------------------------------------------------------------------------------
+原文: 提取回收率与基质效应
+
+译文: Extraction Recovery Rate and Matrix Effect
+------------------------------------------------------------------------------------
+原文: 性状：白色粉末；
+
+译文: Characterization: white powder;
+------------------------------------------------------------------------------------
+原文: 试验主要组成人员
+
+译文: assay mainly composed of personnel
+------------------------------------------------------------------------------------
+原文: 6个不同来源的生物基质（LQC、MQC和HQC）
+
+译文: Biological matrix from 6 different sources (LQC, MQC, and HQC)
+------------------------------------------------------------------------------------
+原文: 生产单位：Sigma-Aldrich；
+
+译文: Manufacturer: Sigma-Aldrich;
+------------------------------------------------------------------------------------
+原文: 资料保存
+
+译文: Storage of Relevant Data
+------------------------------------------------------------------------------------
+原文: 2 ~ 8 ℃放置至少20天
+
+译文: Placed at 2 ~ 8 ℃ for at least 20 days
+------------------------------------------------------------------------------------
+原文: 联系人：夏玉叶；
+
+译文: Contact person: Xia Yuye;
+------------------------------------------------------------------------------------
+原文: 邮编：610000；
+
+译文: Postal code: 610000;
+------------------------------------------------------------------------------------
+原文: 主要试剂
+
+译文: Major Reagents
+------------------------------------------------------------------------------------
+原文: 台式高速冷冻离心机的使用与维护
+
+译文: Use and maintenance of the desktop high-speed refrigerated centrifuge;
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-BA01
+
+译文: study number: A2018030-BA01
+------------------------------------------------------------------------------------
+原文: 阿拉丁
+
+译文: Aladdin
+------------------------------------------------------------------------------------
+原文: 1.5.	试验人员组成	6
+
+译文: 1.5. Study Personnel composition 6
+------------------------------------------------------------------------------------
+原文: 性状：类白色结晶性粉末；
+
+译文: Characterization: off-white crystalline powder;
+------------------------------------------------------------------------------------
+原文: 血浆样品冰盒放置稳定性
+
+译文: plasma sample placed in an ice box, stability
+------------------------------------------------------------------------------------
+原文: 注：以上人员如有变动，具体信息在原始记录和总结报告中如实体现。
+
+译文: Note: If there are any changes in the above personnel, specific information will be truthfully reflected in the raw records and final report.
+------------------------------------------------------------------------------------
+原文: 试验方案的制订及变更
+
+译文: Formulation of study protocol and amendments
+------------------------------------------------------------------------------------
+原文: 《药品注册管理办法》（原CFDA， 2007年10月）；
+
+译文: “Pharmaceutical Registration Management Measures” (fCFDA, October 2007);
+------------------------------------------------------------------------------------
+原文: 电话：0512-36801688；
+
+译文: Telephone: 0512-36801688;
+------------------------------------------------------------------------------------
+原文: 90个
+
+译文: 90 units
+------------------------------------------------------------------------------------
+原文: 与试验有关的各种书面文件或报告
+
+译文: Various writing documents or reports related to the assay
+------------------------------------------------------------------------------------
+原文: 4.4.	定量下限	13
+
+译文: 4.4. Lower limit of quantification 13
+------------------------------------------------------------------------------------
+原文: 本人已确认该研究方案内容并同意实施。
+
+译文: I have confirmed the contents of the study protocol and agreed to its implementation.
+------------------------------------------------------------------------------------
+原文: 含量：99.6 %；
+
+译文: content: 99.6 %;
+------------------------------------------------------------------------------------
+原文: 批号
+
+译文: batch number
+------------------------------------------------------------------------------------
+原文: 归档内容
+
+译文: Archived Data
+------------------------------------------------------------------------------------
+原文: 零浓度样品（Zero STD）：将6个不同来源（均雄性）的空白生物基质进行前处理后，进样分析。要求零浓度样品在sbk002保留时间处无干扰峰或干扰峰峰面积小于LLOQ样品分析物峰面积的20 %；
+
+译文: Zero concentration sample (Zero STD): Pre-dispose six blank biological matrices from different sources (all male), then inject and analyze. The zero concentration sample should have no interference peaks or interference peak peak area less than 20 % of the lower limit of quantification sample analyzed substances’ peak area at the retention time of sbk002.
+------------------------------------------------------------------------------------
+原文: 名称：
+
+译文: name:
+------------------------------------------------------------------------------------
+原文: 试验原始资料（包括电子资料）
+
+译文: assay raw data (including electronic data)
+------------------------------------------------------------------------------------
+原文: 预计试验开始日期：2018-12-05；
+
+译文: Expected assay start date: 2018-12-05;
+------------------------------------------------------------------------------------
+原文: 具体操作方法：制备2个浓度的质控样品（LQC和HQC）。分别在冰盒放置至少4 h（n ≥ 5）、室温放置至少1 h（n ≥ 5）、冻融循环（室温融化后至少冻存12 h）至少三次（n ≥ 5）、- 60 ℃以下放置至少20天（n ≥ 5），按样品前处理方法处理后，进样考察稳定性（以回收率表示）。
+
+译文: Specific operational method: prepare two concentrations of Quality Control Samples (LQC and HQC). Place them in an ice box for at least 4 h (n ≥ 5), room temperature for at least 1 h (n ≥ 5), conduct freeze-thaw cycles (melt at room temperature then cryopreserve for at least 12 h) at least three times (n ≥ 5), and place at below - 60 ℃ for at least 20 days (n ≥ 5). After pre-disposal according to sample treatment methods, inject samples to investigate stability (expressed as recovery rate).
+------------------------------------------------------------------------------------
+原文: 《药物非临床研究质量管理规范》（原CFDA，2017年09月）；；
+
+译文: “Good Laboratory Practices (GLPs) for Non-clinical Studies of Drugs” (fCFDA, September 2017);
+------------------------------------------------------------------------------------
+原文: 试剂名称
+
+译文: Reagent Name
+------------------------------------------------------------------------------------
+原文: 分析天平XSE105DU的使用和维护
+
+译文: Use and maintenance of the balance XSE105DU
+------------------------------------------------------------------------------------
+原文: GLP依从性声明和质量保证声明；
+
+译文: Statement of GLP Compliance and quality assurance statement;
+------------------------------------------------------------------------------------
+原文: 线性范围为0.5 ~ 500.0 ng/mL，浓度分别为：0.5、1.0、5.0、10.0、50.0、100.0、400.0和500.0 ng/mL。以待测物的浓度为横坐标，以待测物与内标的峰面积之比为纵坐标，用加权最小二乘法（W=1/X2）进行回归计算，求得直线回归方程，即为标准曲线，回归系数（R2）应大于0.98。
+
+译文: The linear range is 0.5 ~ 500.0 ng/mL, and the concentrations are: 0.5, 1.0, 5.0, 10.0, 50.0, 100.0, 400.0, and 500.0 ng/mL. With the concentration of the substance to be tested on the x-axis and the ratio of the peak area of the substance to be tested to the internal standard on the y-axis, perform regression calculation using the weighted least squares method (W=1/X2) to obtain the linear regression equation, which is the Standard Curve. The regression coefficient (R2) should be greater than 0.98.
+------------------------------------------------------------------------------------
+原文: 国家药典委员会《生物样品定量分析方法验证指导原则》（中华人民共和国药典2015年版）；
+
+译文: Chinese Pharmacopoeia Commission's "Guidelines for Method Validation of Quantitative Analysis of Biological Samples" (Pharmacopoeia of the People’s Republic of China 2015 edition);
+------------------------------------------------------------------------------------
+原文: 分析方法
+
+译文: analyzed method
+------------------------------------------------------------------------------------
+原文: 全血样品稳定性
+
+译文: whole blood samples stability
+------------------------------------------------------------------------------------
+原文: 考察sbk002全血样品冰盒稳定性。
+
+译文: Investigate the stability of sbk002 whole blood samples in an ice box.
+------------------------------------------------------------------------------------
+原文: 联系人：牟霞；
+
+译文: Contact person: Mu Xia;
+------------------------------------------------------------------------------------
+原文: 何艳                                                                                   日期
+
+译文: He Yan Date
+------------------------------------------------------------------------------------
+原文: 标准品信息（来源、批号、COA、稳定性和储存条件）；
+
+译文: Reference Standard information (source, batch number, COA, stability, and storage conditions);
+------------------------------------------------------------------------------------
+原文: 二甲基亚砜
+
+译文: dimethyl sulfoxide
+------------------------------------------------------------------------------------
+原文: 稳定性
+
+译文: stability
+------------------------------------------------------------------------------------
+原文: 分子量：337.82；
+
+译文: Molecular weight: 337.82;
+------------------------------------------------------------------------------------
+原文: 批间准确度：3个独立的分析批之间，各浓度准确度的平均值应在85 % ~ 115 %之间（LLOQ准确度的平均值应在80 % ~ 120 %之间）。
+
+译文: Inter-batch accuracy: The mean accuracy of each concentration from three independent analytical runs should be within 85 % ~ 115 % (the mean accuracy for the lower limit of quantification should be within 80 % ~ 120 %).
+------------------------------------------------------------------------------------
+原文: 专题名称：LC-MS/MS法定量测定Beagle犬血浆中sbk002的方法学验证试验
+
+译文: Study Name: Methodology validation assay for quantitative measurement of sbk002 in Beagle dogs plasma by LC-MS/MS
+------------------------------------------------------------------------------------
+原文: 真正样品再分析
+
+译文: Reassayed the actual sample
+------------------------------------------------------------------------------------
+原文: 1.	基本信息	6
+
+译文: 1. General Information 6
+------------------------------------------------------------------------------------
+原文: 标准曲线样品、质控样品或其他验证样品加入内标工作液和蛋白沉淀剂进行蛋白沉淀，混匀并离心后吸取上清，再对上清液进行稀释后，使用液质联用仪检测样品中sbk002的浓度。具体分析方法见“LC-MS/MS法定量测定Beagle犬血浆中sbk002的方法（分析方法编号：sbk002-BA01）”。将sbk002储备液首次配制定日期义为试验第1天（D1）。
+
+译文: Add the internal standard working solution and protein precipitant to the Standard Curve sample, Quality Control Sample, or other validation samples to perform protein precipitation, mixed well, and then centrifuged. Aspirate the supernatant and dilute it further, then use Liquid chromatography-mass spectrometry to test the concentration of sbk002 in the sample. The specific analyzed method is described in "Method for quantitative measurement of sbk002 in Beagle dogs plasma by LC-MS/MS (analyzed method number: sbk002-BA01)”. The date of first preparation of the sbk002 stock solution is defined as the first day (D1) of the assay.
+------------------------------------------------------------------------------------
+原文: 溶血评价
+
+译文: Hemolysis Evaluation
+------------------------------------------------------------------------------------
+原文: 6.	试验方案、变更和偏离	18
+
+译文: 6. Study protocol, amendments, and deviation 18
+------------------------------------------------------------------------------------
+原文: 委托方签字页	3
+
+译文: Sponsor signature page 3
+------------------------------------------------------------------------------------
+原文: 9.	主要研究相关的SOP	19
+
+译文: 9. SOP mainly related to the study 19
+------------------------------------------------------------------------------------
+原文: 稀释因子10
+
+译文: Dilution factor 10
+------------------------------------------------------------------------------------
+原文: 无基质样品：用100 mM PBS代替生物基质，制备三个浓度的质控样品（N-LQC、N-MQC和N-HQC）并进行前处理，每一浓度平行制备6份。
+
+译文: Non-matrix sample: Replace the biological matrix with 100 mM PBS to prepare three concentrations of Quality Control Samples (N-LQC, N-MQC, and N-HQC) and perform pre-disposal. Prepare 6 parallel samples for each concentration.
+------------------------------------------------------------------------------------
+原文: 批号：SLBR5486V；
+
+译文: batch number: SLBR5486V;
+------------------------------------------------------------------------------------
+原文: 委托单位
+
+译文: Sponsor
+------------------------------------------------------------------------------------
+原文: 1.4.	委托单位	6
+
+译文: 1.4. Sponsor 6
+------------------------------------------------------------------------------------
+原文: （1）试验结束后2周内，专题负责人确保所有研究资料移交至档案室归档。
+
+译文: (1) Within 2 weeks after the assay ends, the study director should ensure that all research data is transferred to the archives room for archiving.
+------------------------------------------------------------------------------------
+原文: 血浆样品冻融循环稳定性
+
+译文: Plasma sample freeze-thaw cycle stability
+------------------------------------------------------------------------------------
+原文: 注：若试验中用到其它批号，具体信息在原始记录及总结报告中如实记录及体现，以总结报告为准。
+
+译文: Note: If other batch numbers are used in the assay, specific information will be truthfully recorded and reflected in the raw records and final report, and the final report shall prevail.
+------------------------------------------------------------------------------------
+原文: 溶血样品（LQC和HQC）
+
+译文: Hemolysis sample (LQC and HQC)
+------------------------------------------------------------------------------------
+原文: 型号
+
+译文: Model
+------------------------------------------------------------------------------------
+原文: 甲酸
+
+译文: Formic acid
+------------------------------------------------------------------------------------
+原文: 4.11.	试验样品再分析	17
+
+译文: 4.11. Reassayed assay samples 17
+------------------------------------------------------------------------------------
+原文: 名称/代号：Tolbutamide；
+
+译文: Name/Code: Tolbutamide;
+------------------------------------------------------------------------------------
+原文: 试剂和溶液的管理和使用总则
+
+译文: General principles for the management and use of reagents and solutions
+------------------------------------------------------------------------------------
+原文: 同时测定几个分析物时，每个分析物都应有二条标准曲线。如果一个分析批对一个分析物可接受，但对另一个分析物不能接受，则可接受的分析物的数据可被使用，而被拒绝的分析物应重新提取并测定。
+
+译文: When determining several analyzed substances simultaneously, there should be two Standard Curves for each analyzed substance. If an analytical run is acceptable for one analyzed substance but not for another, the data of the accepted analyzed substance can be used, while the rejected analyzed substance should be re-extracted and determined again.
+------------------------------------------------------------------------------------
+原文: 试验材料与方法
+
+译文: Study Materials and method
+------------------------------------------------------------------------------------
+原文: 血浆样品处理后样品稳定性
+
+译文: Plasma sample stability after disposal
+------------------------------------------------------------------------------------
+原文: 相对回收率（Relative Recovery %）= （分析物提取回收率）/（内标提取回收率）×100 %。
+
+译文: Relative recovery rate (Relative Recovery %) = (analyzed substance Extraction Recovery Rate) / (internal standard Extraction Recovery Rate) × 100 %.
+------------------------------------------------------------------------------------
+原文: 电子邮件：xuzhenxing@cti-cert.com。
+
+译文: Email: xuzhenxing@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: 保存条件：15 ~ 25 ℃、密闭、遮光、干燥；
+
+译文: Storage condition: 15 ~ 25 ℃, airtight, dark, dry;
+------------------------------------------------------------------------------------
+原文: 具体操作方法：用新鲜采集的EDTA-K2抗凝、TCEP抗氧化的Beagle犬空白全血，制备中浓度的质控样品（MQC），轻柔混匀约10 min，冰盒放置至少4 h（n ≥ 5），放置后全血样品与新鲜配制的全血样品均在4 ℃、4000 r/min条件下离心10 min，分离上层血浆，再按样品前处理方法处理后，进样考察稳定性。稳定性全血样品的平均峰面积与新鲜全血样品平均峰面积的比值在85 % ~ 115 %之间视为稳定。
+
+译文: Specific operational method: using freshly collected EDTA-K2 anticoagulant and TCEP antioxidant Beagle dogs' blank whole blood, prepare medium concentration Quality Control Samples (MQC), gently mix for about 10 min, place in an icebox for at least 4 h (n ≥ 5). After placement, centrifuge both the placed whole blood samples and freshly prepared whole blood samples at 4 ℃, 4000 r/min for 10 min, separate the upper plasma, and then pre-dispose according to the sample treatment methods. The stability is considered as such when the mean peak area ratio of the stability whole blood samples to the freshly prepared whole blood samples is between 85 % ~ 115 %.
+------------------------------------------------------------------------------------
+原文: 1.2.	试验目的	6
+
+译文: 1.2. Study Objective 6
+------------------------------------------------------------------------------------
+原文: 提供单位：成都施贝康生物医药科技有限公司；
+
+译文: Supplier: Chengdu Shibeikang Biomedical Technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 剩余标准品处理：退回委托方。
+
+译文: Remaining Reference Standard disposal: Return to the sponsor.
+------------------------------------------------------------------------------------
+原文: 台式高速冷冻离心机
+
+译文: 台式高速冷冻centrifuged机
+------------------------------------------------------------------------------------
+原文: 注：TCEP即Tris(2-carboxyethyl)phosphine hydrochloride。
+
+译文: Note: TCEP is Tris(2-carboxyethyl)phosphine hydrochloride.
+------------------------------------------------------------------------------------
+原文: 含量：99.8 %；
+
+译文: content: 99.8 %
+------------------------------------------------------------------------------------
+原文: 货号
+
+译文: Product Number
+------------------------------------------------------------------------------------
+原文: 7.1.	总结报告记载的内容	18
+
+译文: 7.1. Content of the final report 18
+------------------------------------------------------------------------------------
+原文: 8.2.	归档内容	19
+
+译文: 8.2. Archived Data 19
+------------------------------------------------------------------------------------
+原文: 传真：0512-36802288；
+
+译文: Fax: 0512-36802288;
+------------------------------------------------------------------------------------
+原文: 1.3.	研究机构	6
+
+译文: 1.3. test facility 6
+------------------------------------------------------------------------------------
+原文: 1.6.	质量保证人员	7
+
+译文: 1.6. quality assurance personnel 7
+------------------------------------------------------------------------------------
+原文: 大容量环境实验箱
+
+译文: Large capacity environmental laboratory refrigerator
+------------------------------------------------------------------------------------
+原文: 主要参考文献
+
+译文: mainly reference literature
+------------------------------------------------------------------------------------
+原文: 注：上述药品及试剂在试验中若用到其他批号，相关信息需在原始记录及试验报告中如实记录并体现。
+
+译文: Note: For the above-mentioned pharmaceuticals and reagents, if other batch numbers are used in the assay, relevant information must be accurately recorded and reflected in the raw record and assay report.
+------------------------------------------------------------------------------------
+原文: 1.7.	遵循的法规及技术指导原则	7
+
+译文: 1.7. Regulations and technical guidelines followed 7
+------------------------------------------------------------------------------------
+原文: 种属
+
+译文: species
+------------------------------------------------------------------------------------
+原文: 试验方案及方案变更（如有）
+
+译文: study protocol and protocol amendments (if any)
+------------------------------------------------------------------------------------
+原文: 1.1.	专题名称及编号	6
+
+译文: 1.1. Study Name and Number 6
+------------------------------------------------------------------------------------
+原文: 分析批：所有分析批列表（包括失败的分析批），选择性、定量下限、残留、基质效应、稀释效应和稳定性等数据；
+
+译文: analytical run: all analytical run Listing 7.7 (including failed analytical run), Selectivity, lower limit of quantification, residue, Matrix Effect, dilution response and stability data;
+------------------------------------------------------------------------------------
+原文: 电子邮件：xiayuye@cti-cert.com。
+
+译文: email: xiayuye@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: 生物基质：使用EDTA-K2抗凝、TCEP抗氧化的Beagle犬空白血浆作为生物基质；由苏州华测生物技术有限公司自制；血液处理条件：2 ~ 8 ℃、4000 r/min条件下离心10 min，分离上层血浆；血浆保存条件：- 60 ℃以下保存。
+
+译文: biological matrix: use EDTA-K2 anticoagulant and TCEP antioxidant Beagle dogs' blank plasma as a biological matrix; self-made by Suzhou Huace Bio-technology Co., Ltd.; blood disposal conditions: centrifuged at 4000 r/min for 10 min at 2 ~ 8 ℃, separate the upper plasma; plasma Storage condition: stored below -60 ℃.
+------------------------------------------------------------------------------------
+原文: 高浓度质控（HQC）： 375.0 ng/mL。
+
+译文: High concentration quality control (HQC): 375.0 ng/mL.
+------------------------------------------------------------------------------------
+原文: 8.3.	保存场所与保存条件	19
+
+译文: 8.3. Storage location and Storage condition 19
+------------------------------------------------------------------------------------
+原文: 色谱柱
+
+译文: Chromatographic column
+------------------------------------------------------------------------------------
+原文: 地址：
+
+译文: Address:
+------------------------------------------------------------------------------------
+原文: 考察sbk002血浆样品前处理后的稳定性。
+
+译文: Evaluate stability after the disposal of sbk002 plasma samples.
+------------------------------------------------------------------------------------
+原文: 考察sbk002血浆样品的稳定性，包括：血浆样品冰盒短期放置稳定性、室温短期放置稳定性、冻融循环稳定性和长期冻存稳定性。
+
+译文: Evaluate the stability of sbk002 plasma samples, including short-term storage stability in an ice box, short-term storage stability at room temperature, freeze-thaw cycle stability, and long-term cryopreserved stability.
+------------------------------------------------------------------------------------
+原文: 3.3.	主要试剂	11
+
+译文: 3.3. Major Reagents 11
+------------------------------------------------------------------------------------
+原文: LC-MS/MS法
+
+译文: LC-MS/MS method
+------------------------------------------------------------------------------------
+原文: 空白基质样品（Matrix BLK）：将6个不同来源（均雄性）的空白生物基质进行前处理（用甲醇代替内标工作液）后，进样分析。要求空白基质样品在sbk002及内标保留时间处无干扰峰或干扰峰峰面积小于LLOQ样品分析物峰面积的20 %和内标峰面积的5 %；
+
+译文: blank matrix sample (Matrix BLK): Perform pre-disposal on blank biological matrices from 6 different sources (all male) and analyze by replacing the internal standard working solution with Methanol. The blank matrix sample should have no interfering peaks or the interfering peak's Peak Area should be less than 20% of the Lower Limit of Quantification sample analyzed Peak Area and 5% of the peak area of the internal standard at sbk002 and internal standard retention time.
+------------------------------------------------------------------------------------
+原文: 10.	主要参考文献	20
+
+译文: 10. Mainly reference literature 20
+------------------------------------------------------------------------------------
+原文: 分析测试部生物样品的运输、交接、处理与处置
+
+译文: Handling, transporting, and disposal of biological samples in the analytical testing department
+------------------------------------------------------------------------------------
+原文: 基本信息
+
+译文: General Information
+------------------------------------------------------------------------------------
+原文: 研究机构和委托单位的名称、地址和联系方式；
+
+译文: Name, address, and contact information of test facility and Sponsor;
+------------------------------------------------------------------------------------
+原文: 6个不同来源的生物基质
+
+译文: Biological matrix from 6 different sources
+------------------------------------------------------------------------------------
+原文: 3.4.	主要仪器	11
+
+译文: 3.4. Major Instruments 11
+------------------------------------------------------------------------------------
+原文: Beagle犬空白血浆
+
+译文: Beagle dogs' blank plasma
+------------------------------------------------------------------------------------
+原文: 4.3.	准确度与精密度	13
+
+译文: 4.3. Accuracy and precision 13
+------------------------------------------------------------------------------------
+原文: 标准曲线
+
+译文: Standard Curve
+------------------------------------------------------------------------------------
+原文: 防护措施：使用该供试品时按照《职业卫生与防护手册》来操作，包括穿防护衣、戴口罩、手套；
+
+译文: protection measures: The test article should be handled according to the "Occupational Health and Protection Manual," including wearing protective clothing, masks, and gloves;
+------------------------------------------------------------------------------------
+原文: 批内精密度：分析批内各浓度的QC样品的CV应在15 %以内（LLOQ的CV应在20 %以内）。
+
+译文: inter-assay precision: The CV for QC sample concentrations within analytical runs should be within 15% (CV for Lower Limit of Quantification should be within 20%).
+------------------------------------------------------------------------------------
+原文: 分析方法细节和步骤；
+
+译文: Details and steps of the analytical method;
+------------------------------------------------------------------------------------
+原文: 总结报告
+
+译文: final report
+------------------------------------------------------------------------------------
+原文: 液质联用仪（UPLC-MS/MS）的管理、使用与维护
+
+译文: Management, use, and maintenance of liquid chromatography-mass spectrometry (UPLC-MS/MS)
+------------------------------------------------------------------------------------
+原文: 委托方负责人（或代表）
+
+译文: Sponsor representative
+------------------------------------------------------------------------------------
+原文: 储备液稳定性
+
+译文: stock solution stability
+------------------------------------------------------------------------------------
+原文: 定量下限
+
+译文: lower limit of quantification
+------------------------------------------------------------------------------------
+原文: 研究机构
+
+译文: test facility
+------------------------------------------------------------------------------------
+原文: （1）配制方法：
+
+译文: (1) Preparation method:
+------------------------------------------------------------------------------------
+原文: Confidential                                                                   第 4页 /共 8页
+
+译文: Confidential Page 4 of 8
+------------------------------------------------------------------------------------
+原文: 标准曲线样品的准确度（实测值与理论值的比值）应在85 % ~ 115 %之间（定量下限的准确度应在80 % ~ 120 %之间）。至少75 %标准曲线样品，含最少6个有效浓度，应满足上述标准。如果某个校正标样结果不符合上述标准，应该拒绝这个标样（不能同时舍弃定量下限或定量上限的所有样品），并重新计算不含该标样的标准曲线，进行回归分析。在方法验证中，至少应该评价3个分析批的标准曲线。
+
+译文: Standard Curve sample's accuracy (ratio of measured value to theoretical value) should be between 85% ~ 115% (accuracy of lower limit of quantification should be between 80% ~ 120%). At least 75% of Standard Curve samples, with a minimum of 6 effective concentrations, should meet the above standards. If a calibration standard result does not meet the standards, that standard should be excluded (all samples cannot simultaneously exclude lower limit of quantification or upper limit of quantification), and the Standard Curve should be recalculated without that standard, performing regression analysis. At least 3 analytical run's Standard Curve should be evaluated during method validation.
+------------------------------------------------------------------------------------
+原文: 保存条件：遮光、室温、密闭；
+
+译文: Storage condition: protect from light, room temperature, airtight;
+------------------------------------------------------------------------------------
+原文: 电话：028-62532315；
+
+译文: Telephone: 028-62532315;
+------------------------------------------------------------------------------------
+原文: 校正标样和质控样品（基质、抗凝剂、制备日期和储存条件等）；
+
+译文: calibration standards and Quality Control Sample (matrix, anticoagulant, preparation date, and storage conditions);
+------------------------------------------------------------------------------------
+原文: 3.2.	内标	10
+
+译文: 3.2. Internal standard 10
+------------------------------------------------------------------------------------
+原文: 综合试验报告初稿，并交予QAU进行审核，形成终稿后由专题负责人和QA人员签字后交付委托方。
+
+译文: Summarize assay draft report, submit to QAU for review, and finalize after signing by study director and QA personnel, then deliver to Sponsor.
+------------------------------------------------------------------------------------
+原文: 试验记录的管理
+
+译文: Management of assay records
+------------------------------------------------------------------------------------
+原文: 定量下限（LLOQ）：0.5 ng/mL；
+
+译文: lower limit of quantification (Lower Limit of Quantification): 0.5 ng/mL;
+------------------------------------------------------------------------------------
+原文: 1.8.	质量保证	7
+
+译文: 1.8. quality assurance 7
+------------------------------------------------------------------------------------
+原文: 使用混合空白生物基质制备四个浓度的质控样品（LLOQ、LQC、MQC和HQC的浓度分别为0.5、1.5、25.0和375.0 ng/mL）并进行前处理，每一浓度平行制备6份样品，不同天重复测定至少三个独立分析批。以当批的标准曲线计算QC样品的浓度，并以此求算方法的精密度和准确度。质控样品应使用另行配制的储备液，与校正标样分开配制。
+
+译文: Use mixed blank biological matrix to prepare four concentrations of Quality Control Sample (Lower Limit of Quantification, LQC, MQC, and HQC concentrations are 0.5, 1.5, 25.0, and 375.0 ng/mL respectively) and perform pre-disposal. Each concentration should prepare 6 samples in parallel, repeat determination for at least 3 independent analytical runs on different days. Calculate the QC sample concentration using the Standard Curve of the batch and use this to determine the method's precision and accuracy. Quality Control Sample should use separately prepared stock solution, different from calibration standards.
+------------------------------------------------------------------------------------
+原文: 4.10.	稳定性	16
+
+译文: 4.10. stability 16
+------------------------------------------------------------------------------------
+原文: 低浓度质控（LQC）：1.5 ng/mL ；
+
+译文: Low concentration quality control (LQC): 1.5 ng/mL;
+------------------------------------------------------------------------------------
+原文: 试验操作：周梦佳、吴津津；
+
+译文: Assay operators: Zhou Mengjia, Wu Jinjin;
+------------------------------------------------------------------------------------
+原文: 试验方案
+
+译文: study protocol
+------------------------------------------------------------------------------------
+原文: 数显型1000 MP微孔板摇床
+
+译文: Digital display 1000 MP microplate shaker
+------------------------------------------------------------------------------------
+原文: 生物样品色谱分析的方法学验证
+
+译文: Methology Validation for biological sample chromatographic analysis
+------------------------------------------------------------------------------------
+原文: 专题名称及编号
+
+译文: Study Name and Number
+------------------------------------------------------------------------------------
+原文: 总结报告及相关资料
+
+译文: Final report and related documents
+------------------------------------------------------------------------------------
+原文: [2] 陈笑燕, 詹燕, 钟大放. 生物样品定量分析方法验证中试验样品再分析的意义和对策[J]. 中国药学杂志, 2014, 13(49): 1176
+
+译文: [2] Chen Xiaoyan, Zhan Yan, Zhong Dafang. Significance and Countermeasures of Re-analysis of Assay Samples in the Method Validation of Biological Sample Quantitative Analysis [J]. Chinese Journal of Pharmacy, 2014, 13(49): 1176
+------------------------------------------------------------------------------------
+原文: 3.1.	标准品	10
+
+译文: 3.1. Reference Standard 10
+------------------------------------------------------------------------------------
+原文: 姓名：徐振兴；
+
+译文: Name: Xu Zhenxing;
+------------------------------------------------------------------------------------
+原文: 名称：苏州华测生物技术有限公司；
+
+译文: Name: Suzhou Huace Biotechnology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 试验方案、变更和偏离
+
+译文: Study protocol, amendments, and deviations
+------------------------------------------------------------------------------------
+原文: 批号：180704；
+
+译文: batch number: 180704;
+------------------------------------------------------------------------------------
+原文: 设施内的所有原始数据根据试验方案和苏州华测生物技术有限公司的SOP手动收集或用数据采集系统收集。手动收集的数据可以转录到Excel表格中用来分析和报告。收集和报告电子数据的采集系统如下：
+
+译文: All raw data within the facility will be manually collected according to the study protocol and SOP of Suzhou Huace Biotechnology Co., Ltd., or collected using a data acquisition system. Manually collected data can be transcribed into Excel tables for analysis and reporting. The collection system for electronically collected and reported data is as follows:
+------------------------------------------------------------------------------------
+原文: 灭菌注射用水
+
+译文: Sterilized water for injection
+------------------------------------------------------------------------------------
+原文: 3.5.	分析方法	12
+
+译文: 3.5. Analytical method 12
+------------------------------------------------------------------------------------
+原文: 方法学验证
+
+译文: Methodology Validation
+------------------------------------------------------------------------------------
+原文: 标准品
+
+译文: Reference Standard
+------------------------------------------------------------------------------------
+原文: 选择性
+
+译文: Selectivity
+------------------------------------------------------------------------------------
+原文: 防护措施：使用该物质时按照《职业卫生与防护手册》来操作，包括穿防护衣、戴口罩、手套；
+
+译文: protection measures: follow the "Occupational Health and Protection Manual" when using this substance, including wearing protective clothing, masks, and gloves;
+------------------------------------------------------------------------------------
+原文: 归档时间及档案保存时间
+
+译文: Archiving Time and archives storage time
+------------------------------------------------------------------------------------
+原文: 主要仪器
+
+译文: Major Instruments
+------------------------------------------------------------------------------------
+原文: 保存条件：常规；
+
+译文: Storage condition: routine;
+------------------------------------------------------------------------------------
+原文: 宁波新芝生物科技股份
+
+译文: Ningbo Xinzhi Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 遵循的法规及技术指导原则
+
+译文: Regulations and technical guidelines followed
+------------------------------------------------------------------------------------
+原文: 分析物提取回收率（Recovery %）=（提取样品中分析物峰面积）/（基质样品中分析物峰面积的平均值）×100 %；
+
+译文: Extraction Recovery Rate of the analyzed sample (Recovery %) = (Peak Area of the analyzed sample in extraction) / (Mean Peak Area of the analyzed sample in the matrix) × 100%;
+------------------------------------------------------------------------------------
+原文: 生产厂家：成都施贝康生物医药科技有限公司；
+
+译文: Manufacturer: Chengdu Shibeikang Biotechnology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 联系电话：0512-36801688。
+
+译文: Contact Telephone: 0512-36801688.
+------------------------------------------------------------------------------------
+原文: 偏离的处理
+
+译文: Handling of Deviations
+------------------------------------------------------------------------------------
+原文: 版本
+
+译文: Version
+------------------------------------------------------------------------------------
+原文: 分析方法编号
+
+译文: Analytical method number
+------------------------------------------------------------------------------------
+原文: 试验人员组成
+
+译文: Study Personnel composition
+------------------------------------------------------------------------------------
+原文: 本试验将遵循的法规及技术指导原则为：
+
+译文: The regulations and technical guidelines followed in this assay are:
+------------------------------------------------------------------------------------
+原文: 准确度与精密度
+
+译文: Accuracy and precision
+------------------------------------------------------------------------------------
+原文: 上海智诚分析仪器制造
+
+译文: Shanghai Zhicheng Analytical Apparatus Manufacturing
+------------------------------------------------------------------------------------
+原文: 电话：
+
+译文: Telephone:
+------------------------------------------------------------------------------------
+原文: 名称/代号：sbk002-D；
+
+译文: Name/Code: sbk002-D;
+------------------------------------------------------------------------------------
+原文: 基质
+
+译文: Matrix
+------------------------------------------------------------------------------------
+原文: 基质效应接受标准：对于分析物，每个浓度6个样品的基质效应的CV应在15 %以内；对于内标，所有样品基质效应的CV应在15 %以内。归一化基质效应的CV应在15 %以内。
+
+译文: Matrix Effect acceptance criteria: For the analyzed sample, the CV of Matrix Effect at each concentration must be within 15% for 6 samples; for the internal standard, CV of Matrix Effect for all samples must be within 15%. The normalized Matrix Effect's CV must be within 15%.
+------------------------------------------------------------------------------------
+原文: 电子邮件：779061281@qq.com。
+
+译文: electron邮件：779061281@qq.com。
+------------------------------------------------------------------------------------
+原文: 试验方案签字页	2
+
+译文: study protocol signature page 2
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-08-07；
+
+译文: Expiry date：2020-08-07；
+------------------------------------------------------------------------------------
+原文: 4.12.	批最大样品数	17
+
+译文: 4.12. 批maximum sample数 17
+------------------------------------------------------------------------------------
+原文: 系统适应性
+
+译文: System Suitability
+------------------------------------------------------------------------------------
+原文: 试剂级别
+
+译文: Reagent Grade
+------------------------------------------------------------------------------------
+原文: [5] 魏敏吉, 赵明. 创新药物药代动力学研究与评价[M]. 北京: 北京大学医学出版社, 2008: 269-283, 411-459
+
+译文: [5] 魏敏吉, 赵明. 创新medication药代动力学研究与Evaluation[M]. 北京: 北京大学医学出版社, 2008: 269-283, 411-459
+------------------------------------------------------------------------------------
+原文: 《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月）；
+
+译文: 《medication非临床药代动力学研究technique指导原则》（fCFDA，May 2014）；
+------------------------------------------------------------------------------------
+原文: 分析天平
+
+译文: analyzed天平
+------------------------------------------------------------------------------------
+原文: （2）计算公式：
+
+译文: （2）Calculation公式：
+------------------------------------------------------------------------------------
+原文: 内标提取回收率（Recovery %）=（提取样品中内标峰面积）/（基质样品中内标峰面积的平均值）×100 %；
+
+译文: internal standard Extraction Recovery Rate（Recovery %）=（提取sample中peak area of internal standard）/（matrix sample中peak area of internal standard的Mean）×100 %；
+------------------------------------------------------------------------------------
+原文: 对方案、方法或SOP的偏离。
+
+译文: 对方案、method或SOP的deviation。
+------------------------------------------------------------------------------------
+原文: 使用混合空白生物基质新鲜配制含不同浓度分析物的标准曲线样品，每个浓度进行分析。在分析批的开始和最后各测一组标准曲线样品。应至少配制6 个浓度标准曲线样品，不包括空白基质样品（不含分析物和内标的基质样品）和零浓度样品（含内标的基质样品）。
+
+译文: use混合空白生物matrix新鲜preparation含不同concentration analyzed物的Standard Curve sample，每个concentration perform analyzed。在analytical run的开始和最后各测一组Standard Curve sample。应at least preparation 6 个concentration Standard Curve sample，不包括blank matrix sample（不含analyzed物和internal standard的matrix sample）和零concentration sample（含internal standard的matrix sample）。
+------------------------------------------------------------------------------------
+原文: 江苏省昆山市高新区元丰路166号
+
+译文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone Yuanfeng Road 166号
+------------------------------------------------------------------------------------
+原文: 专题负责人任命书
+
+译文: study director任命书
+------------------------------------------------------------------------------------
+原文: LC-MS/MS法定量测定Beagle犬血浆中sbk002的方法学验证试验
+
+译文: LC-MS/MS法quantitative measurement Beagle dogs plasma中sbk002的methodology验证assay
+------------------------------------------------------------------------------------
+原文: 其它资料
+
+译文: Other materials
+------------------------------------------------------------------------------------
+原文: 恒温培养振荡器
+
+译文: 恒温培养振荡器
+------------------------------------------------------------------------------------
+原文: ISR选择的样品为Cmax附近和消除相的样品，其样品数不低于待检测样品总数的10 %；如样品总数超出1000，则超出部分的重分析量不低于超出部分的5 %。至少2/3的ISR样品需满足：[(ISR测定值-首次测定值) / 两次测定值的平均值] × 100 % 的结果在 ± 20 % 内。
+
+译文: ISR selection的sample为Cmax附近和消除相的sample，其sample数不低于待testing sample总数的10 %；如sample总数outside 1000，则outside部分的Reanalysis量不低于outside部分的5 %。at least 2/3的ISR sample需满足：[(ISR determination值-first determination值) / 两次determination值的Mean] × 100 % 的result在 ± 20 % 内。
+------------------------------------------------------------------------------------
+原文: 8.1.	归档时间及档案保存时间	19
+
+译文: 8.1. Archiving Time及archivesstorage time 19
+------------------------------------------------------------------------------------
+原文: 选择性描述该分析方法区分目标分析物和内标与基质的内源性组分或样品中其他组分的能力。
+
+译文: Selectivity描述该analyzed method区分目标analyzed物和internal standard与matrix的内源性组分或sample中其他组分的能力。
+------------------------------------------------------------------------------------
+原文: 主要研究相关的SOP
+
+译文: mainly研究related的SOP
+------------------------------------------------------------------------------------
+原文: 乙腈
+
+译文: Acetonitrile
+------------------------------------------------------------------------------------
+原文: 如果验证批最大样品数的测试不符合接受标准，可减少样品数，直到确认一个分析批所能承载的最大样品数。
+
+译文: 如果验证批maximum sample数的测试不meet acceptance criteria，可减少sample数，直到确认一个analytical run所能承载的maximum sample数。
+------------------------------------------------------------------------------------
+原文: 地址：成都高新区（西区）西芯大道17号；
+
+译文: 地址：成都New & Hi-tech Industrial Development Zone（西区）西芯大道17号；
+------------------------------------------------------------------------------------
+原文: 1.9.	试验关键日期	8
+
+译文: 1.9. assay关键日期 8
+------------------------------------------------------------------------------------
+原文: 所有测定及每个计算浓度必须出现在验证报告中。
+
+译文: all determination及每个Calculation concentration必须present在验证report中。
+------------------------------------------------------------------------------------
+原文: 系统残留
+
+译文: Carry-over
+------------------------------------------------------------------------------------
+原文: 5.	数据采集和分析	18
+
+译文: 5. data acquisition和analyzed 18
+------------------------------------------------------------------------------------
+原文: sbk002样品：用6个不同来源（均雄性）的空白生物基质配制HQC样品进行前处理（用甲醇代替内标工作液）后，进样分析。要求sbk002样品在内标保留时间处无干扰峰或干扰峰峰面积小于内标峰面积的5 %。
+
+译文: sbk002 sample：用6个不同source（均male）的空白生物matrix preparation HQC sample perform前disposal（用Methanol代替internal standard工作液）后，进样analyzed。要求sbk002 sample在internal standard retention time处have no interference peaks或interfering peak Peak Area less than peak area of internal standard的5 %。
+------------------------------------------------------------------------------------
+原文: 试验样品再分析
+
+译文: assay sample再analyzed
+------------------------------------------------------------------------------------
+原文: 运行定量上限样品（ULOQ）后，再运行1个空白基质样品（Matrix BLK），至少考察3次。要求此空白基质样品（Carryover）应在sbk002及内标保留时间处无干扰峰或干扰峰峰面积分别小于等于LLOQ样品分析物峰面积的20 %和内标峰面积的5 %。
+
+译文: 运行定量upper limit sample（Upper Limit of Quantification）后，再运行1个blank matrix sample（Matrix BLK），at least考察3次。要求此blank matrix sample（Carryover）应在sbk002及internal standard retention time处have no interference peaks或interfering peak Peak Area分别less than等于Lower Limit of Quantification sample analyzed物Peak Area的20 %和peak area of internal standard的5 %。
+------------------------------------------------------------------------------------
+原文: 方法学验证中使用的标准曲线和质控样品可能无法完全模拟实际试验样品，因此，需要在试验样品测试结束后在另外一个分析批中重新分析试验样品，来评价试验样品测定的重现性。试验样品再分析（Incurred Sample Reanalysis，ISR）测定值仅作为试验样品再分析的重现性数据使用，不作为实际样品的复测数据。
+
+译文: methodology验证中use的Standard Curve和Quality Control Sample可能无法完全模拟实际assay sample，因此，需要在assay sample测试end后在另外一个analytical run中重新analyzed assay sample，来Evaluation assay sample determination的重现性。assay sample再analyzed（Incurred Sample Reanalysis，ISR）determination值仅作为assay sample再analyzed的重现性data use，不作为实际sample的retest data。
+------------------------------------------------------------------------------------
+原文: 液质联用仪
+
+译文: Liquid chromatography-mass spectrometry
+------------------------------------------------------------------------------------
+原文: 全血样品冰盒稳定性
+
+译文: whole blood samples ice box stability
+------------------------------------------------------------------------------------
+原文: LC-MS/MS检测浓度
+
+译文: LC-MS/MS testing concentration
+------------------------------------------------------------------------------------
+原文: 质量保证人员
+
+译文: quality assurance personnel
+------------------------------------------------------------------------------------
+原文: 生产厂家
+
+译文: Manufacturer
+------------------------------------------------------------------------------------
+原文: 血浆样品室温放置稳定性
+
+译文: plasma sample room temperature放置stability
+------------------------------------------------------------------------------------
+原文: 内标基质效应（Matrix effect %）=（基质样品中内标峰面积）/（无基质样品中内标峰面积的平均值）× 100 %；
+
+译文: internal standard Matrix Effect（Matrix effect %）=（matrix sample中peak area of internal standard）/（无matrix sample中peak area of internal standard的Mean）× 100 %；
+------------------------------------------------------------------------------------
+原文: 使用混合空白生物基质制备8倍定量上限浓度的高浓度样品（8-ULOQ），再用空白生物基质将8-ULOQ稀释10倍，得稀释样品（Dilution）。平行制备6份稀释样品，按前处理方法处理后进样分析。
+
+译文: use混合空白生物matrix制备8倍定量upper limit concentration的高concentration sample（8-Upper Limit of Quantification），再用空白生物matrix将8-Upper Limit of Quantification稀释10倍，得稀释sample（Dilution）。平行制备6份稀释sample，按前treatment method disposal后进样analyzed。
+------------------------------------------------------------------------------------
+原文: 批间精密度：3个独立的分析批之间，各浓度的QC样品的CV应在15 %以内（LLOQ的CV应在20 %以内）。
+
+译文: intra-assay precision：3个独立的analytical run之间，各concentration的QC sample的CV应在15 %以内（Lower Limit of Quantification的CV应在20 %以内）。
+------------------------------------------------------------------------------------
+原文: 分析批的接受标准；
+
+译文: analytical run的acceptance criteria；
+------------------------------------------------------------------------------------
+原文: 4.1.	系统适应性	12
+
+译文: 4.1. System Suitability 12
+------------------------------------------------------------------------------------
+原文: 预计试验结束日期：2019-01-02。
+
+译文: 预计assay end日期：2019-01-02。
+------------------------------------------------------------------------------------
+原文: 数据整理及统计分析：徐振兴、叶双双；
+
+译文: data整理及statistical analysis：徐振兴、Shuangshuang Ye；
+------------------------------------------------------------------------------------
+原文: 回收率 = 平均实测浓度/理论浓度 × 100 %，分析物的回收率在85 % ~ 115 %之间视为样品稳定。
+
+译文: 回收率 = mean 实测concentration/理论concentration × 100 %，analyzed物的回收率在85 % ~ 115 %之间视为sample稳定。
+------------------------------------------------------------------------------------
+原文: 专题负责人
+
+译文: study director
+------------------------------------------------------------------------------------
+原文: 内标（IS）
+
+译文: internal standard（IS）
+------------------------------------------------------------------------------------
+原文: 归一化基质效应（IS-normalised Matrix effect%）= （分析物基质效应 ）/（内标基质效应）×100 %。
+
+译文: 归一化Matrix Effect（IS-normalised Matrix effect %）=（analyzed物Matrix Effect）/（internal standard Matrix Effect）×100 %。
+------------------------------------------------------------------------------------
+原文: Beagle犬
+
+译文: Beagle dogs
+------------------------------------------------------------------------------------
+原文: 冰盒放置至少4 h
+
+译文: ice box放置at least 4 h
+------------------------------------------------------------------------------------
+原文: 验证结果概要；
+
+译文: 验证result概要；
+------------------------------------------------------------------------------------
+原文: 分析测试部标准物质的接收、保存、取用及处置
+
+译文: analyzed测试部Reference Standard的reception、Storage、取用及handling
+------------------------------------------------------------------------------------
+原文: 处理后2 ~ 8 ℃放置至少2天
+
+译文: disposal后2 ~ 8 ℃放置at least 2天
+------------------------------------------------------------------------------------
+原文: 试验目的
+
+译文: Study Objective
+------------------------------------------------------------------------------------
+原文: 专题名称、编号及试验目的；
+
+译文: Study Name、编号及Study Objective；
+------------------------------------------------------------------------------------
+原文: 4.	方法学验证	12
+
+译文: 4. methodology验证 12
+------------------------------------------------------------------------------------
+原文: 稀释回收率
+
+译文: 稀释回收率
+------------------------------------------------------------------------------------
+原文: 要求每一浓度的至少5个溶血QC样品的准确度应在85 % ~ 115 %之间，每一浓度的溶血QC样品的CV应不大于15 %。
+
+译文: 要求每一concentration的at least 5个hemolysis QC sample的accuracy应在85 % ~ 115 %之间，每一concentration的hemolysis QC sample的CV应不Greater than 15 %。
+------------------------------------------------------------------------------------
+原文: 4.2.	标准曲线	12
+
+译文: 4.2. Standard Curve 12
+------------------------------------------------------------------------------------
+原文: - 60 ℃以下放置至少20天
+
+译文: - 60 ℃以下放置at least 20天
+------------------------------------------------------------------------------------
+原文: 有效期至：2019-06-08；
+
+译文: Expiry date：2019-06-08；
+------------------------------------------------------------------------------------
+原文: 试验方案及方案的任何变更（如果有）将以书面的形式经专题负责人、QA人员签字；委托单位代表在签字页上签字或者发送邮件认可试验方案；方案变更（如有必要）需要委托单位代表签字或发邮件确认。偏离试验方案的情况均应记录，以书面形式由专题负责人签字，并分析对专题研究可能产生的影响。
+
+译文: study protocol及方案的任何amendments（如果有）将以writing的形式经study director、QA personnel signed；Sponsor representative在signature page上signed或者send an email approve study protocol；protocol amendments（如有必要）需要Sponsor representative signed或发邮件确认。deviation study protocol的情况均应record，以writing形式由study director signed，并analyzed对专题研究可能产生的affect。
+------------------------------------------------------------------------------------
+原文: 保存场所与保存条件
+
+译文: Storage场所与Storage condition
+------------------------------------------------------------------------------------
+原文: 准确度描述该分析方法实测浓度与理论浓度的接近程度，以（实测浓度/理论浓度）× 100 % 表示。精密度描述分析物重复测定的接近程度，以变异系数（CV）表示。
+
+译文: accuracy描述该analyzed method实测concentration与理论concentration的接近extent，以（实测concentration/理论concentration）× 100 % 表示。precision描述analyzed物重复determination的接近extent，以Coefficient of variation（CV）表示。
+------------------------------------------------------------------------------------
+原文: 使用空白生物基质单独制备中浓度质控样品（MQC）一份并前处理，在每个分析批前连续进样至少6针。要求最后6次的sbk002与内标峰面积之比及保留时间的CV（变异系数，标准偏差/平均值×100 %）小于10 %。
+
+译文: use空白生物matrix单独制备中concentration Quality Control Sample（MQC）一份并前disposal，在每个analytical run前连续进样at least 6针。要求最后6次的sbk002与peak area of internal standard之比及retention time的CV（Coefficient of variation，Standards deviation/Mean×100 %）less than 10 %。
+------------------------------------------------------------------------------------
+原文: 提取回收率接受标准：对于分析物，每个浓度6个样品的回收率的CV应在15 %以内；对于内标，所有样品回收率的CV应在15 %以内。相对回收率的CV应在15 %以内。
+
+译文: Extraction Recovery Rate acceptance criteria：对于analyzed物，每个concentration 6个sample的回收率的CV应在15 %以内；对于internal standard，all sample回收率的CV应在15 %以内。relative回收率的CV应在15 %以内。
+------------------------------------------------------------------------------------
+原文: 注：若试验中用到其它仪器设备，相关信息（名称、型号、生产厂家等）需在原始记录及总结报告中如实体现。
+
+译文: 注：若assay中用到其它apparatus设备，relevant information（name、Model、Manufacturer等）需在raw record及final report中如实体现。
+------------------------------------------------------------------------------------
+原文: 4.8.	溶血评价	15
+
+译文: 4.8. Hemolysis Evaluation 15
+------------------------------------------------------------------------------------
+原文: [3] 刘斌, 张印兵, 岑小波. 生物分析方法验证在药物非临床安全性评价中的应用[J]. 中国药理学与毒理学杂志, 2013, 27(3): 480
+
+译文: [3] 刘斌, 张印兵, 岑小波. 生物analyzed method验证在medication非临床Safety性Evaluation中的应用[J]. 中国pharmacology与toxicology杂志, 2013, 27(3): 480
+------------------------------------------------------------------------------------
+原文: 牟霞                                                                         日期
+
+译文: 牟霞 日期
+------------------------------------------------------------------------------------
+原文: （3）接受标准：
+
+译文: (3)验收标准：
+------------------------------------------------------------------------------------
+原文: 质量保证
+
+译文: 质量保证
+------------------------------------------------------------------------------------
+原文: 总结报告记载的内容
+
+译文: 最终报告记载的内容
+------------------------------------------------------------------------------------
+原文: 稀释回收率 = 实测浓度/理论浓度×100 %（实测浓度为回算浓度乘以稀释倍数）。
+
+译文: 稀释回收率 = 实测concentration/理论concentration×100 %（实测concentration为回算concentration乘以稀释倍数）。
+------------------------------------------------------------------------------------
+原文: 名称：成都施贝康生物医药科技有限公司；
+
+译文: 名称：成都施贝康生物医药科技Co., Ltd.；
+------------------------------------------------------------------------------------
+原文: 4.6.	系统残留	14
+
+译文: 4.6. 交叉污染 14
+------------------------------------------------------------------------------------
+原文: 7.	总结报告	18
+
+译文: 7. 最终报告 18
+------------------------------------------------------------------------------------
+原文: 标准曲线范围
+
+译文: 标准曲线范围
+------------------------------------------------------------------------------------
+原文: 内标
+
+译文: 内标
+------------------------------------------------------------------------------------
+原文: 批最大样品数
+
+译文: 批最大样本数
+------------------------------------------------------------------------------------
+原文: 验证参数说明
+
+译文: 验证参数说明
+------------------------------------------------------------------------------------
+原文: 分子量：270.35；
+
+译文: 分子量：270.35；
+------------------------------------------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures：SOPs）。
+
+译文: 本检测的实施除方案特殊说明外，研究的实施符合检测设施标准操作程序（Standard Operating Procedures：SOPs）。
+------------------------------------------------------------------------------------
+原文: 漩涡振荡器
+
+译文: 漩涡振荡器
+------------------------------------------------------------------------------------
+原文: 提取样品：分别用6个不同来源（均雄性）的生物基质，制备三个浓度的质控样品（R-LQC、R-MQC和R-HQC）并进行前处理，每一浓度平行制备6份。
+
+译文: 提取样本：分别用6个不同来源（均为male）的生物基质，制备三个浓度的质量控制样品（R-LQC、R-MQC和R-HQC）并进行预处理，每一浓度平行制备6份。
+------------------------------------------------------------------------------------

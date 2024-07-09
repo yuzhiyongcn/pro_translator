@@ -1,0 +1,2248 @@
+原文: 1.1.	专题名称及编号	10
+
+译文: 1.1.	Study Name and Number 	10
+------------------------------------------------------------------------------------
+原文: 参考品
+
+译文: reference product
+------------------------------------------------------------------------------------
+原文: 本试验建立的sbk002和clo给药制剂分析方法在5.0 ~ 15.0 μg/mL浓度范围内线性均良好，系统适应性、储备液对比、质量控制、专属性、系统残留、定量下限、准确度与精密度均符合制剂分析的要求，可用于sbk002和clo给药制剂的分析检测。sbk002给药制剂（浓度：250.0 mg/mL）在室温遮光条件下4 h内稳定性良好，给药制剂经处理后在室温遮光条件下1天内稳定性良好。clo给药制剂（浓度：250.0 mg/mL）在室温遮光条件下4 h内稳定性良好，给药制剂处理后在室温遮光条件下1天内稳定性良好。
+
+译文: The assay established for sbk002 and clo dose formulations' analysis method showed good linearity in the concentration range of 5.0 ~ 15.0 μg/mL, meeting the requirements of system suitability, stock solution comparison, quality control, specificity, carry-over, lower limit of quantification, accuracy, and precision for formulation analysis. It can be used for the analysis and testing of sbk002 and clo dose formulations. Sbk002 dose formulations (concentration: 250.0 mg/mL) showed good stability at room temperature under light-shielded conditions for 4h, and retained good stability at room temperature under light-shielded conditions for 1 day after treatment. Clo dose formulations (concentration: 250.0 mg/mL) showed good stability at room temperature under light-shielded conditions for 4h, and retained good stability at room temperature under light-shielded conditions for 1 day after treatment.
+------------------------------------------------------------------------------------
+原文: 稀释液1（乙腈）：分取400 mL 乙腈，即得。室温保存，有效期1个月。
+
+译文: Diluent 1 (Acetonitrile): Measure 400 mL of Acetonitrile. Store at room temperature. Valid for 1 month.
+------------------------------------------------------------------------------------
+原文: 电子天平
+
+译文: Electronic balance
+------------------------------------------------------------------------------------
+原文: 主要仪器
+
+译文: Major Instruments
+------------------------------------------------------------------------------------
+原文: 表2-2 储备液对比（clo）
+
+译文: Table 2-2 Stock Solution Comparison (clo)
+------------------------------------------------------------------------------------
+原文: 给药 制剂(μL)
+
+译文: Dose formulation (μL)
+------------------------------------------------------------------------------------
+原文: 称取10.37 mg clo（纯度：99.75 %），以稀释液1溶解并定容至10 mL，配制成一定浓度的标曲储备液（浓度 = 称取量 × 纯度/体积）。命名为：181204-ST1-clo。
+
+译文: Weigh 10.37 mg clo (purity: 99.75%), dissolve and dilute to volume with Diluent 1 to 10 mL, to prepare a stock solution of a specified concentration (concentration = weighed amount × purity/volume). Named: 181204-ST1-clo.
+------------------------------------------------------------------------------------
+原文: 给药制剂的配制
+
+译文: Preparation of dose formulations
+------------------------------------------------------------------------------------
+原文: 运行时间：3 min（sbk002运行时间）；1.5 min（clo运行时间）
+
+译文: Run time: 3 min (sbk002 run time); 1.5 min (clo run time)
+------------------------------------------------------------------------------------
+原文: 储备液对比（clo）：质控样品QC与标准曲线样品STD3峰面积的比值在99.65 % ~ 100.02 % 之间。
+
+译文: Stock Solution Comparison (clo): Ratio of QC (quality control sample) to STD3 (standard curve sample) peak areas between 99.65% ~ 100.02%.
+------------------------------------------------------------------------------------
+原文: 准确度与精密度（clo）：准确度在98.65 % ~ 106.66 % 之间，批内精密度的RSD在1.23  % ~ 1.98 % 之间，批间精密度的RSD为2.59 %。
+
+译文: Accuracy and precision (clo): Accuracy between 98.65% ~ 106.66%, intra-assay precision RSD between 1.23% ~ 1.98%, and inter-assay precision RSD at 2.59%.
+------------------------------------------------------------------------------------
+原文: 称取10.38 mg sbk002-D（含量：99.6 %），以稀释液1溶解并定容至10 mL，配制成一定浓度的质控储备液（浓度 = 称取量 × 含量/体积）。命名为：181204-ST2-sbk。
+
+译文: Weigh 10.38 mg sbk002-D (content: 99.6%), dissolve and dilute to volume with Diluent 1 to 10 mL, to prepare a quality control stock solution of a specified concentration (concentration = weighed amount × content/volume). Named: 181204-ST2-sbk.
+------------------------------------------------------------------------------------
+原文: 吸取上述储备液（181204-ST1-clo）967 μL，用稀释液2定容至10 mL，得浓度为100 μg/mL的标曲工作溶液，命名为：181204-WS1-clo。
+
+译文: Aspirate 967 μL from the above stock solution (181204-ST1-clo), dilute to volume with Diluent 2 to 10 mL, to obtain a standard working solution with a concentration of 100 μg/mL. Named: 181204-WS1-clo.
+------------------------------------------------------------------------------------
+原文: 注：检测浓度 = 实测浓度 × 稀释倍数。
+
+译文: Note: Testing concentration = actual measured concentration × diluent factor.
+------------------------------------------------------------------------------------
+原文: 规格：51.8 g/袋；
+
+译文: Specification: 51.8 g/bag;
+------------------------------------------------------------------------------------
+原文: 剩余参考品处理：退回委托方。
+
+译文: Disposal of remaining reference products: Return to the sponsor.
+------------------------------------------------------------------------------------
+原文: 含量：99.8 %；
+
+译文: Content: 99.8%;
+------------------------------------------------------------------------------------
+原文: 分析检测样品配制
+
+译文: Preparation of samples for analysis and testing
+------------------------------------------------------------------------------------
+原文: 条件
+
+译文: Conditions
+------------------------------------------------------------------------------------
+原文: 系统残留（clo）：空白溶剂样品在clo保留时间处无干扰峰。
+
+译文: Carry-over (clo): Blank solvent samples at the retention time of clo show no interference peaks.
+------------------------------------------------------------------------------------
+原文: 羧甲基纤维素钠/CMC-Na
+
+译文: Carboxymethyl cellulose sodium/CMC-Na
+------------------------------------------------------------------------------------
+原文: 8.1.	归档时间	22
+
+译文: 8.1.	Archiving Time	22
+------------------------------------------------------------------------------------
+原文: 总结报告
+
+译文: Final Report
+------------------------------------------------------------------------------------
+原文: 吸取上述储备液（181204-ST1-sbk）946 μL，用稀释液2定容至10 mL，得浓度为100 μg/mL的标曲工作溶液，命名为：181204-WS1-sbk。
+
+译文: Aspirate the above stock solution (181204-ST1-sbk) 946 μL, make up to volume with diluent 2 to 10 mL, obtain a standard curve working solution with a concentration of 100 μg/mL, named 181204-WS1-sbk.
+------------------------------------------------------------------------------------
+原文: 设施内的所有原始数据根据试验方案和苏州华测生物技术有限公司的SOPs手动收集和数据采集系统收集。手动收集的数据转录到Excel表格中用来分析和报告。收集和报告电子数据的采集系统如下：
+
+译文: All raw data within the facility are manually collected based on the study protocol and SOPs of Suzhou Huace Bioscience & Technology Co., Ltd., and collected by data acquisition systems. Manually collected data are transcribed into Excel tables for analysis and reporting. The electronic data collection systems for collecting and reporting are as follows:
+------------------------------------------------------------------------------------
+原文: 以稀释液2作为空白溶剂样品，命名为：Select_S；以溶媒配制空白溶媒专属性样品，命名为：Select_V；以AP_A_1和AP_B_1作为供试品专属性样品，分别命名为：Select_sbk和Select_clo。
+
+译文: Use Diluent 2 as the blank solvent sample, named: Select_S; Use the solvent preparation blank solvent specificity sample, named: Select_V; Use AP_A_1 and AP_B_1 as test article specificity samples, named: Select_sbk and Select_clo respectively.
+------------------------------------------------------------------------------------
+原文: 表7-1  精密度（sbk002）
+
+译文: Summary 7-1 Precision (sbk002)
+------------------------------------------------------------------------------------
+原文: 基本信息
+
+译文: General Information
+------------------------------------------------------------------------------------
+原文: 第三步稀释（S3）
+
+译文: Step 3 Dilution (S3)
+------------------------------------------------------------------------------------
+原文: 标准曲线线性范围（clo）：标准曲线的回归系数（R2）在0.9986 ~ 0.9998之间，标准曲线线性各浓度准确度在98.61 % ~ 102.84 %之间。
+
+译文: Standard Curve linear range (clo): The regression coefficient (R2) of the standard curve is between 0.9986 ~ 0.9998, and the accuracy of each concentration of the standard curve linearity is between 98.61 % ~ 102.84 %.
+------------------------------------------------------------------------------------
+原文: 6.2.	储备液对比	20
+
+译文: 6.2.	Stock Solution Comparison	20
+------------------------------------------------------------------------------------
+原文: 峰面积和保留时间的RSD ≤ 2 %；
+
+译文: The RSD of peak area and retention time ≤ 2 %;
+------------------------------------------------------------------------------------
+原文: 检测波长：220 nm；
+
+译文: Detection wavelength: 220 nm;
+------------------------------------------------------------------------------------
+原文: 色谱柱：ACQUITY UPLC® BEH C18 1.7 μm 2.1 mm × 50 mm；
+
+译文: Chromatographic column: ACQUITY UPLC® BEH C18 1.7 μm 2.1 mm × 50 mm;
+------------------------------------------------------------------------------------
+原文: QA声明	4
+
+译文: QA Statement	4
+------------------------------------------------------------------------------------
+原文: 标准曲线线性范围：5.0 μg/mL ~ 15.0 μg/mL。以对应化合物的标准曲线设计浓度为横坐标，以对应化合物的峰面积为纵坐标，求得直线回归方程。命名为：LR_STD1_X ~ LR_STD5_X。
+
+译文: Standard Curve linear range: 5.0 μg/mL ~ 15.0 μg/mL. Design the standard curve concentration of the corresponding compound as the x-axis, and the peak area of the corresponding compound as the y-axis to obtain the linear regression equation. Named: LR_STD1_X ~ LR_STD5_X.
+------------------------------------------------------------------------------------
+原文: 地址：
+
+译文: Address:
+------------------------------------------------------------------------------------
+原文: 研究起止日期：2018-12-03 ~ 2019-01-21
+
+译文: Study start and end dates: 2018-12-03 ~ 2019-01-21
+------------------------------------------------------------------------------------
+原文: 专题负责人：李萍
+
+译文: Study Director: Li Ping
+------------------------------------------------------------------------------------
+原文: 质量控制
+
+译文: Quality Control
+------------------------------------------------------------------------------------
+原文: 参数
+
+译文: Parameter
+------------------------------------------------------------------------------------
+原文: Wash：灭菌注射用水 : 甲醇 = 10 : 90；
+
+译文: Wash: Sterilized Water for Injection: Methanol = 10 : 90;
+------------------------------------------------------------------------------------
+原文: 检测浓度/标示浓度(%)
+
+译文: Testing concentration/Label concentration(%)
+------------------------------------------------------------------------------------
+原文: 准确度均应在95 % ~ 105 %之间，精密度RSD ≤ 5 %（n ≥ 3时需求算RSD）。
+
+译文: Accuracy should be in the range of 95% ~ 105%, with a precision RSD ≤ 5% (when n ≥ 3, RSD is required).
+------------------------------------------------------------------------------------
+原文: 2.	试验材料与方法	11
+
+译文: 2.	Study Materials and Methods	11
+------------------------------------------------------------------------------------
+原文: 表2-2  储备液对比（clo）
+
+译文: Section 2-2 Stock Solution Comparison (clo)
+------------------------------------------------------------------------------------
+原文: 剩余样品处理：待检测合格后剩余给药制剂返还供试品管理部，按药物/化学废弃物进行处理。
+
+译文: Remaining sample disposal: After passing the test, return the remaining dose formulations to the test article management department for disposal as medication/chemical waste.
+------------------------------------------------------------------------------------
+原文: 图3-1 系统残留（sbk002）
+
+译文: Figure 3-1 Carry-over (sbk002)
+------------------------------------------------------------------------------------
+原文: 结果
+
+译文: Results
+------------------------------------------------------------------------------------
+原文: 冷冻离心机
+
+译文: Refrigerated Centrifuge
+------------------------------------------------------------------------------------
+原文: 10.	附录项目	23
+
+译文: 10.	Appendixes	23
+------------------------------------------------------------------------------------
+原文: 名称
+
+译文: Name
+------------------------------------------------------------------------------------
+原文: 保存条件：常规；
+
+译文: Storage condition: Routine;
+------------------------------------------------------------------------------------
+原文: 保存场所：苏州华测生物技术有限公司档案管理部；
+
+译文: Storage location: Archives Management Department, Suzhou Huace Bioscience & Technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 等度洗脱，水相 : 有机相 = 55: 45；
+
+译文: Isocratic elution, Aqueous phase: Organic phase = 55: 45;
+------------------------------------------------------------------------------------
+原文: SSC_QC_clo 峰面积(A1)
+
+译文: SSC_QC_clo Peak Area(A1)
+------------------------------------------------------------------------------------
+原文: 批号：20171201；
+
+译文: Batch number: 20171201;
+------------------------------------------------------------------------------------
+原文: 邮编：215300；
+
+译文: Postal code: 215300;
+------------------------------------------------------------------------------------
+原文: 注：准确度 = 检测浓度 / 给药制剂标示浓度，检测浓度 = 实测浓度 × 稀释倍数。表7-1 精密度（sbk002）
+
+译文: Note: Accuracy = Testing concentration / Label concentration of dose formulation, Testing concentration = Measured concentration × Dilution factor. Table 7-1 Precision (sbk002)
+------------------------------------------------------------------------------------
+原文: 剩余供试品处理：退回委托方。
+
+译文: Remaining test article handling: Return to the sponsor.
+------------------------------------------------------------------------------------
+原文: 用途
+
+译文: Use
+------------------------------------------------------------------------------------
+原文: 1.2.	试验目的	10
+
+译文: 1.2.	Study Objective	10
+------------------------------------------------------------------------------------
+原文: sbk002及硫酸氢氯吡格雷原料药
+
+译文: sbk002 and sodium fluorescein raw material
+------------------------------------------------------------------------------------
+原文: 稀释液2（40 %乙腈水溶液）：量取400 mL 乙腈加至600 mL灭菌注射用水中，混匀即得。室温保存，有效期1个月。
+
+译文: Diluent 2 (40% acetonitrile aqueous solution): Measure 400 mL of acetonitrile and add to 600 mL of sterilized injection water, mix well. Store at room temperature, valid for 1 month.
+------------------------------------------------------------------------------------
+原文: 配制方法
+
+译文: Preparation Method
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-08-07；
+
+译文: Expiry date: 2020-08-07;
+------------------------------------------------------------------------------------
+原文: 注：“X”代表“sbk或clo”。
+
+译文: Note: “X” indicates “sbk or clo”.
+------------------------------------------------------------------------------------
+原文: 6.	结果	20
+
+译文: 6.	Result	20
+------------------------------------------------------------------------------------
+原文: UPLC检测浓度
+
+译文: UPLC testing concentration
+------------------------------------------------------------------------------------
+原文: 图2-1 标准曲线线性范围（sbk002）
+
+译文: Figure 2-1 Standard Curve linear range (sbk002)
+------------------------------------------------------------------------------------
+原文: 表5-2  定量下限（clo）
+
+译文: Table 5-2  Lower Limit of Quantification (clo)
+------------------------------------------------------------------------------------
+原文: 相关溶液配制
+
+译文: Related Solution Preparation
+------------------------------------------------------------------------------------
+原文: 表6-1  准确度（sbk002）
+
+译文: Summary 6-1 Accuracy (sbk002)
+------------------------------------------------------------------------------------
+原文: 试剂名称
+
+译文: Reagent Name
+------------------------------------------------------------------------------------
+原文: 各溶液根据实际需要和相应配制比例调整称取量和配制体积。未注明有效期的溶液等（除给药制剂外）均为现配现用。将首次配制标准曲线样品的日期定义为第一天（Day1/D1），以此类推至第n 天（Day n/Dn）。
+
+译文: Each solution should be prepared and adjusted according to the required ratio and volume. Solutions without a specified expiry date (except for dose formulations) should be used immediately upon preparation. The preparation date of the first standard curve sample is defined as Day 1 (Day1/D1), and subsequent dates follow as Day n (Day n/Dn).
+------------------------------------------------------------------------------------
+原文: 规格：2 g/袋；
+
+译文: Specification: 2 g/bag;
+------------------------------------------------------------------------------------
+原文: 实测浓度（μg/mL）
+
+译文: Measured Concentration (μg/mL)
+------------------------------------------------------------------------------------
+原文: 上海梅颖浦仪器仪表制造有限公司
+
+译文: Shanghai Meiyingpu Instrument & Meter Manufacturing Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 各组准确度均应在85 % ~ 115 %之间，批内及批间精密度RSD ≤ 10 %。
+
+译文: Each group's accuracy should be in the range of 85% ~ 115%, with intra- and inter-assay precision RSD ≤ 10%.
+------------------------------------------------------------------------------------
+原文: 灭菌注射用水
+
+译文: Sterilized Injection Water
+------------------------------------------------------------------------------------
+原文: 电子邮件：liping@cti-cert.com。
+
+译文: Email: liping@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: 以稀释液2配制标准曲线样品。
+
+译文: Prepare standard curve samples using diluent 2.
+------------------------------------------------------------------------------------
+原文: 对A2018030项目中测定供试品浓度的分析方法进行验证，并对给药制剂的配制方法及稳定性进行考察，确保供试品的质量和配制准确性，为临床前安全评价中发现的问题（如毒性与剂量关系等）提供可靠的科学参考。
+
+译文: Verify the analytical methods for determining the test article concentration in project A2018030, and investigate the preparation method and stability of dose formulations to ensure the quality and preparation accuracy of the test article, providing reliable scientific references for issues identified in preclinical safety evaluations (e.g., toxicity and dose relationships).
+------------------------------------------------------------------------------------
+原文: 名称：
+
+译文: Name:
+------------------------------------------------------------------------------------
+原文: 试验材料与方法
+
+译文: Study Materials and Methods
+------------------------------------------------------------------------------------
+原文: 试验过程中没有发生任何已知的可能影响数据完整性的事件。
+
+译文: No known events occurred during the study process that could affect data integrity.
+------------------------------------------------------------------------------------
+原文: 附件一：附表
+
+译文: Appendix One: Appendix Tables
+------------------------------------------------------------------------------------
+原文: 表6-2  准确度（clo）
+
+译文: Summary 6-2 Accuracy (clo)
+------------------------------------------------------------------------------------
+原文: 三氟乙酸/ TFA
+
+译文: Trifluoroacetic acid / TFA
+------------------------------------------------------------------------------------
+原文: 1.4.	委托单位	10
+
+译文: 1.4.	Sponsor	10
+------------------------------------------------------------------------------------
+原文: 将待测制剂按给药制剂取样和处理方法进行处理后，进样分析。不同天重复测定三个分析批，以当批的标准曲线计算样品的浓度，并以此求算方法的准确度和精密度。命名为： AP_A_1 ~ AP_A_6和AP_B_1 ~  AP_B_6。
+
+译文: After processing the test formulations according to the sampling and processing methods of the dose formulations, the samples are analyzed. Different days will have three repeated analytical runs, using the standard curve to calculate the sample concentrations of each batch to determine the accuracy and precision of the method. Named: AP_A_1 ~ AP_A_6 and AP_B_1 ~ AP_B_6.
+------------------------------------------------------------------------------------
+原文: 给药制剂标示浓度(mg/mL)
+
+译文: Dose formulations marked concentration (mg/mL)
+------------------------------------------------------------------------------------
+原文: 邮编：611731；
+
+译文: Zip Code: 611731;
+------------------------------------------------------------------------------------
+原文: 超高效液相色谱仪
+
+译文: Ultra-High Performance Liquid Chromatograph
+------------------------------------------------------------------------------------
+原文: 供试品管理：陈晓艳、李琪；
+
+译文: Test article management: Xiaochen Chen, Li Ran;
+------------------------------------------------------------------------------------
+原文: 批号
+
+译文: Batch Number
+------------------------------------------------------------------------------------
+原文: 专题名称：sbk002及硫酸氢氯吡格雷原料药给药制剂分析方法学验证试验；
+
+译文: Study Name: sbk002 and Clozifloxacin raw material formulations analysis method validation test;
+------------------------------------------------------------------------------------
+原文: 接受标准
+
+译文: Acceptance Criteria
+------------------------------------------------------------------------------------
+原文: 3.1 方法学验证内容列表	18
+
+译文: 3.1 Methodology Validation Content List	18
+------------------------------------------------------------------------------------
+原文: 联系电话：0512-36801688。
+
+译文: Contact Telephone：0512-36801688。
+------------------------------------------------------------------------------------
+原文: 稀释液配制
+
+译文: diluent preparation
+------------------------------------------------------------------------------------
+原文: 试验操作：丁伟芳、王晓彤、陆明敏；
+
+译文: Assay operation: Wei Fang Ding, Xiaoxue Wang, Mingmin Lu;
+------------------------------------------------------------------------------------
+原文: 流速：0.3 mL/min；
+
+译文: flow rate: 0.3 mL/min；
+------------------------------------------------------------------------------------
+原文: 纯度：99.75 %；
+
+译文: Purity：99.75 %；
+------------------------------------------------------------------------------------
+原文: 试验方案
+
+译文: study protocol
+------------------------------------------------------------------------------------
+原文: 2.1.	参考品	11
+
+译文: 2.1.	reference standard	11
+------------------------------------------------------------------------------------
+原文: 准确称取12.5313 g的clo至研钵中，用0.5 % CMC-Na溶液充分研磨后，完全转移至标定体积（50 mL）的容器中，用0.5 % CMC-Na定至刻度，即得250.0 mg/mL的clo组给药制剂。
+
+译文: Accurately weigh 12.5313 g clo into a mortar, grind fully with 0.5 % CMC-Na solution, and completely transfer to a volumetric flask (50 mL), fill to the mark with 0.5 % CMC-Na, obtaining clo dose formulation of 250.0 mg/mL。
+------------------------------------------------------------------------------------
+原文: 表6-1 准确度（sbk002）
+
+译文: Table 6-1 Accuracy（sbk002）
+------------------------------------------------------------------------------------
+原文: 名称/代号：sbk002；
+
+译文: Name/Code：sbk002；
+------------------------------------------------------------------------------------
+原文: 联系人：牟霞；
+
+译文: Contact：Mu Xia；
+------------------------------------------------------------------------------------
+原文: clo质控样品配制
+
+译文: clo quality control sample preparation
+------------------------------------------------------------------------------------
+原文: 给药制剂
+
+译文: dose formulations
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表6-1、表6-2和表7-1、表7-2。准确度与精密度（sbk002）：准确度在89.53 % ~ 104.95 % 之间，批内精密度的RSD在0.71 % ~ 5.54 % 之间，批间精密度的RSD为4.25 %；准确度与精密度（clo）：准确度在98.65 % ~ 106.66 % 之间，批内精密度的RSD在1.23  % ~ 1.98 % 之间，批间精密度的RSD为2.59 %。
+
+译文: Assay results are shown in Appendix Table 6-1, Table 6-2, and Table 7-1, Table 7-2. Accuracy and precision (sbk002): Accuracy is between 89.53 % and 104.95 %, intra-assay precision RSD is between 0.71 % and 5.54 %, inter-assay precision RSD is 4.25 %; Accuracy and precision (clo): Accuracy is between 98.65 % and 106.66 %, intra-assay precision RSD is between 1.23 % and 1.98 %, inter-assay precision RSD is 2.59 %。
+------------------------------------------------------------------------------------
+原文: 图2-2 标准曲线线性范围（clo）
+
+译文: Figure 2-2 Standard Curve linear range (clo)
+------------------------------------------------------------------------------------
+原文: 以溶媒（0.5 % CMC-Na）配制空白溶媒专属性样品：吸取400 μL 溶媒，用稀释液1定容至10 mL，离心（10000 r/min，5 min，20 ℃），吸取上清液20 μL，用稀释液2定容至20 mL，即得空白溶媒专属性样品，命名为：Select_V。
+
+译文: Prepare blank solvent specific sample using vehicle (0.5 % CMC-Na): aspirate 400 μL of vehicle, dilute to volume with diluent 1 to 10 mL, centrifuge (10000 r/min, 5 min, 20 ℃), aspirate 20 μL of the supernatant, dilute to volume with diluent 2 to 20 mL, obtaining blank vehicle specific sample, named: Select_V。
+------------------------------------------------------------------------------------
+原文: 1）2017年09月01日生效的中国国家食品药品监督管理总局（原CFDA）《药物非临床研究质量管理规范》（局令第34号）。
+
+译文: 1. The non-clinical research quality management regulations (Order No. 34) issued by the China Food and Drug Administration (formerly CFDA) effective as of September 1, 2017.
+------------------------------------------------------------------------------------
+原文: 配制方法：准确称取一定量的CMC-Na粉末，用量筒量取一定体积的纯水转移至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入搅拌子，用磁力搅拌器搅拌至完全溶解，即得0.5 % CMC-Na溶液。
+
+译文: Preparation method: Accurately weigh a certain amount of CMC-Na powder, measure a certain volume of pure water with a measuring cylinder, transfer to a beaker, uniformly disperse the CMC-Na powder into the beaker, add a stirring bar, stir with a magnetic stirrer until completely dissolved, thus obtaining 0.5 % CMC-Na solution。
+------------------------------------------------------------------------------------
+原文: 吸取溶液
+
+译文: aspirate solution
+------------------------------------------------------------------------------------
+原文: [5] 苏敏, 王京昆. 影响药物非临床安全性评价的供试品相关问题[J]. 中国药事, 2015, 29(2): 141-146.
+
+译文: [5] Su Min, Wang Jingkun. Issues related to test articles affecting non-clinical safety evaluation of drugs[J]. China Pharmacy, 2015, 29(2): 141-146.
+------------------------------------------------------------------------------------
+原文: 8.2.	保存场所与保存条件	22
+
+译文: 8.2.	Storage place and storage conditions	22
+------------------------------------------------------------------------------------
+原文: 电话：0512-36801688；
+
+译文: Telephone：0512-36801688；
+------------------------------------------------------------------------------------
+原文: 目  录
+
+译文: Table of Contents
+------------------------------------------------------------------------------------
+原文: 试验主要组成人员
+
+译文: main personnel
+------------------------------------------------------------------------------------
+原文: 电话：
+
+译文: Telephone：
+------------------------------------------------------------------------------------
+原文: 给药制剂取样和处理方法
+
+译文: dose formulations sampling and processing methods
+------------------------------------------------------------------------------------
+原文: 防护措施：按照《职业卫生安全与防护手册》操作，穿戴合适的个人防护设备（PPE）；
+
+译文: Protection measures: Operate according to the《Occupational Health Safety and Protection Manual》, wear appropriate personal protective equipment (PPE)；
+------------------------------------------------------------------------------------
+原文: 名称：苏州华测生物技术有限公司；
+
+译文: Name: Suzhou Huace Bio-tech Co., Ltd.；
+------------------------------------------------------------------------------------
+原文: 专题QA：何艳
+
+译文: Special QA: He Yan
+------------------------------------------------------------------------------------
+原文: 称取10.61 mg sbk002-D（含量：99.6 %），以稀释液1溶解并定容至10 mL，配制成一定浓度的标曲储备液（浓度 = 称取量 × 含量/体积）。命名为：181204-ST1-sbk。
+
+译文: Weigh 10.61 mg sbk002-D (content: 99.6%), dissolve it in a small amount of dissolution solvent and dilute to volume to 10 mL to prepare a standard curve stock solution of a certain concentration (concentration = weight × content/volume). Named: 181204-ST1-sbk.
+------------------------------------------------------------------------------------
+原文: 表8-2  给药制剂处理后稳定性（clo）
+
+译文: Summary 8-2 Dose Formulations Post-treatment Stability (clo)
+------------------------------------------------------------------------------------
+原文: 柱温：35 ℃；
+
+译文: Column temperature: 35 ℃；
+------------------------------------------------------------------------------------
+原文: sbk002质控样品配制
+
+译文: sbk002 Quality Control Sample preparation
+------------------------------------------------------------------------------------
+原文: 传真：0512-36802288；
+
+译文: Fax: 0512-36802288；
+------------------------------------------------------------------------------------
+原文: 宁波新芝生物科技股份有限公司
+
+译文: Ningbo Xinzhi Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 成都高新区（西区）西芯大道17号
+
+译文: Chengdu High-tech Zone (Western District) Xixin Avenue No. 17
+------------------------------------------------------------------------------------
+原文: 表8-2 给药制剂处理后稳定性（clo）
+
+译文: Summary 8-2 Dose Formulations Post-treatment Stability (clo)
+------------------------------------------------------------------------------------
+原文: 性状：类白色结晶性粉末；
+
+译文: Characterization: off-white crystalline powder;
+------------------------------------------------------------------------------------
+原文: 表8-1 给药制剂处理后稳定性（sbk002）
+
+译文: Summary 8-1 Dose Formulations Post-treatment Stability (sbk002)
+------------------------------------------------------------------------------------
+原文: GLP法规：
+
+译文: GLP regulations:
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表5-1和表5-2。定量下限（sbk002）：信噪比S/N 在83 ~ 242之间，准确度在100.70 % ~ 102.06 %之间，精密度RSD为0.70 %；定量下限（clo）：信噪比S/N 在35 ~ 138之间，准确度在98.96 % ~ 100.38 %之间，密度RSD为0.72 %。
+
+译文: The test results are shown in Appendix 1, Table 5-1 and Table 5-2. Lower limit of quantification (sbk002): S/N ratio between 83 ~ 242, accuracy between 100.70 % ~ 102.06 %, precision RSD of 0.70 %; Lower limit of quantification (clo): S/N ratio between 35 ~ 138, accuracy between 98.96 % ~ 100.38 %, density RSD of 0.72 %。
+------------------------------------------------------------------------------------
+原文: 检查日期
+
+译文: Inspection Date
+------------------------------------------------------------------------------------
+原文: 地址：成都高新区（西区）西芯大道17号；
+
+译文: Address: Chengdu High-tech Zone (Western District) Xixin Avenue No.17；
+------------------------------------------------------------------------------------
+原文: 本机构代号：W2018027；
+
+译文: Facility code: W2018027；
+------------------------------------------------------------------------------------
+原文: 联系人：武丽；
+
+译文: Contact person: Wu Li；
+------------------------------------------------------------------------------------
+原文: 1.3.	研究机构	10
+
+译文: 1.3.	Test Facility	10
+------------------------------------------------------------------------------------
+原文: 稳定性
+
+译文: Stability
+------------------------------------------------------------------------------------
+原文: 试验关键日期
+
+译文: Key dates of the assay
+------------------------------------------------------------------------------------
+原文: 梅特勒-托利多
+
+译文: Mettler-Toledo
+------------------------------------------------------------------------------------
+原文: 8.	资料保存	22
+
+译文: 8.	Storage of Relevant Data	22
+------------------------------------------------------------------------------------
+原文: 姓名：何艳；
+
+译文: Name: He Yan；
+------------------------------------------------------------------------------------
+原文: 遵循的法规及技术指导原则
+
+译文: Compliant regulations and technical guidelines
+------------------------------------------------------------------------------------
+原文: GLP依从性声明	3
+
+译文: Statement of GLP Compliance	3
+------------------------------------------------------------------------------------
+原文: 拖尾因子              (T)
+
+译文: Tailing factor              (T)
+------------------------------------------------------------------------------------
+原文: 专题名称及编号
+
+译文: Study Name and Number
+------------------------------------------------------------------------------------
+原文: 系统适应性
+
+译文: System Suitability
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-FA01
+
+译文: Study number: A2018030-FA01
+------------------------------------------------------------------------------------
+原文: 以稀释液2配制质控样品。
+
+译文: Prepare Quality Control Sample with Diluent 2.
+------------------------------------------------------------------------------------
+原文: 试验方案及变更、偏离
+
+译文: Study protocol, amendments, and deviations
+------------------------------------------------------------------------------------
+原文:  理论浓度
+
+译文:  Theoretical Concentration
+------------------------------------------------------------------------------------
+原文: 地址：江苏省昆山市高新区元丰路166号；
+
+译文: Address: Jiangsu Province Kunshan City High-tech Zone Yuanfeng Road No.166；
+------------------------------------------------------------------------------------
+原文: 准确度与      精密度
+
+译文: Accuracy and      Precision
+------------------------------------------------------------------------------------
+原文: 图3-2 系统残留（clo）
+
+译文: Figure 3-2 Carry-over (clo)
+------------------------------------------------------------------------------------
+原文: 平行配制3份QCL_X作为定量下限样品。命名为：LOQ_QCL_X_1 ~ LOQ_QCL_X_3。
+
+译文: Parallel preparation of 3 QCL_X as the lower limit of quantification samples. Named: LOQ_QCL_X_1 ~ LOQ_QCL_X_3.
+------------------------------------------------------------------------------------
+原文: 签名：                                                              日期：
+
+译文: Signature:                                                              Date：
+------------------------------------------------------------------------------------
+原文: 线性方程
+
+译文: Linear equation
+------------------------------------------------------------------------------------
+原文: 专题名称：sbk002及硫酸氢氯吡格雷原料药给药制剂分析方法学验证试验
+
+译文: Study Name: sbk002 and sodium fluorescein raw material dose formulations analytical methodology validation study
+------------------------------------------------------------------------------------
+原文: 储备液对比（sbk002）：质控样品QC与标准曲线样品STD3峰面积的比值在96.71 % ~ 100.76 % 之间。
+
+译文: Stock solution comparison (sbk002): Ratio of peak area of Quality Control Sample QC and standard curve sample STD3 is between 96.71 % ~ 100.76 %.
+------------------------------------------------------------------------------------
+原文: 此外，质量保证部依据SOPs实施每季度的过程检查及每年的机构检查。
+
+译文: In addition, the Quality Assurance Department conducts quarterly process inspections and annual institutional inspections in accordance with SOPs.
+------------------------------------------------------------------------------------
+原文: 表9-1 给药制剂稳定性（sbk002）
+
+译文: Table 9-1 Dose formulations stability (sbk002)
+------------------------------------------------------------------------------------
+原文: 姓名：李萍；
+
+译文: Name: Li Ping；
+------------------------------------------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures，SOPs）。
+
+译文: The implementation of this assay, except for special instructions in the protocol, complied with the standard operating procedures of the testing facility (Standard Operating Procedures, SOPs).
+------------------------------------------------------------------------------------
+原文: 电话：028-62532315；
+
+译文: Telephone: 028-62532315；
+------------------------------------------------------------------------------------
+原文: 1.8.	遵循的法规及技术指导原则	11
+
+译文: 1.8.	Compliant regulations and technical guidelines	11
+------------------------------------------------------------------------------------
+原文: 标示浓度
+
+译文: Labeled Concentration
+------------------------------------------------------------------------------------
+原文: 准确度          （%）
+
+译文: accuracy          （%）
+------------------------------------------------------------------------------------
+原文: 2.3.	对照品	12
+
+译文: 2.3.	reference item	12
+------------------------------------------------------------------------------------
+原文: 摘要
+
+译文: ABSTRACT
+------------------------------------------------------------------------------------
+原文: 表2-1 储备液对比（sbk002）
+
+译文: Table 2-1 Comparison of Stock Solution (sbk002)
+------------------------------------------------------------------------------------
+原文: 流动相配制 
+
+译文: Preparation of the mobile phase 
+------------------------------------------------------------------------------------
+原文: 准确度          (%)
+
+译文: accuracy          (%)
+------------------------------------------------------------------------------------
+原文: 2.5.	主要试剂	13
+
+译文: 2.5.	Major Reagents	13
+------------------------------------------------------------------------------------
+原文: 稀释倍数
+
+译文: dilution factor
+------------------------------------------------------------------------------------
+原文: 标示浓度（mg/mL）
+
+译文: labeled concentration（mg/mL）
+------------------------------------------------------------------------------------
+原文: 初始浓度(mg/mL)
+
+译文: initial concentration(mg/mL)
+------------------------------------------------------------------------------------
+原文: 峰面积               (Area)
+
+译文: Peak Area               (Area)
+------------------------------------------------------------------------------------
+原文: 生产厂家
+
+译文: Manufacturer
+------------------------------------------------------------------------------------
+原文: 版本
+
+译文: Version
+------------------------------------------------------------------------------------
+原文: clo给药制剂室温遮光稳定性：将D1配制的clo组给药制剂室温遮光放置4 h后，再从给药制剂的上、中、下层各取1份样，按给药制剂处理方法进行处理后，进样分析。命名为：STA(Pre_4h)_B_1 、 STA(Pre_4h)_B_3和STA(Pre_4h)_B_5。
+
+译文: Room temperature light protection stability of clo dose formulations: Place the D1 prepared clo group dose formulations at room temperature with light protection for 4 hours, then take one sample each from the upper, middle, and lower layers of the dose formulations. Process according to the dose formulations treatment method and then analyze the sample. Named: STA(Pre_4h)_B_1, STA(Pre_4h)_B_3, and STA(Pre_4h)_B_5.
+------------------------------------------------------------------------------------
+原文: 准确度与精密度（sbk002）：准确度在89.53 % ~ 104.95 % 之间，批内精密度的RSD在0.71 % ~ 5.54 % 之间，批间精密度的RSD为4.25 %。
+
+译文: accuracy and precision（sbk002）: accuracy ranges between 89.53 % ~ 104.95 %, intra-assay precision RSD ranges between 0.71 % ~ 5.54 %, inter-assay precision RSD is 4.25 %.
+------------------------------------------------------------------------------------
+原文: 定量下限（sbk002）：信噪比S/N 在83 ~ 242之间，准确度在100.70 % ~ 102.06 %之间，精密度RSD为0.70 %。
+
+译文: lower limit of quantification（sbk002）: signal-to-noise ratio S/N ranges between 83 ~ 242, accuracy ranges between 100.70 % ~ 102.06 %, precision RSD is 0.70 %.
+------------------------------------------------------------------------------------
+原文: 信噪比S/N ≥ 10，准确度均应在95 % ~ 105 %之间， RSD ≤ 5 %。
+
+译文: signal-to-noise ratio S/N ≥ 10, accuracy should be between 95 % ~ 105 %, RSD ≤ 5 %.
+------------------------------------------------------------------------------------
+原文: GLP依从性声明
+
+译文: Statement of GLP Compliance
+------------------------------------------------------------------------------------
+原文: 4.	数据采集和分析	20
+
+译文: 4.	data acquisition and analysis	20
+------------------------------------------------------------------------------------
+原文: 结论：本试验建立的sbk002和clo给药制剂分析方法在5.0 ~ 15.0 μg/mL浓度范围内线性均良好，系统适应性、储备液对比、质量控制、专属性、系统残留、定量下限、准确度与精密度均符合制剂分析的要求，可用于sbk002和clo给药制剂的分析检测。sbk002给药制剂（浓度：250.0 mg/mL）在室温遮光条件下4 h内稳定性良好，给药制剂经处理后在室温遮光条件下1天内稳定性良好；clo给药制剂（浓度：250.0 mg/mL）在室温遮光条件下4 h内稳定性良好，给药制剂处理后在室温遮光条件下1天内稳定性良好。
+
+译文: Conclusion: The sbk002 and clo formulations analysis method established in this experiment exhibits good linearity within the concentration range of 5.0 ~ 15.0 μg/mL. System suitability, stock solution comparison, quality control, specificity, carry-over, lower limit of quantification, accuracy and precision meet the requirements for formulation analysis, making it suitable for the analysis and testing of sbk002 and clo formulations. The sbk002 formulations (concentration: 250.0 mg/mL) exhibit good stability under room temperature and light-protected conditions for 4 hours, and the formulations remain stable under the same conditions for 1 day after treatment; clo formulations (concentration: 250.0 mg/mL) also exhibit good stability under room temperature and light-protected conditions for 4 hours, and remain stable under the same conditions for 1 day after treatment.
+------------------------------------------------------------------------------------
+原文: 6.6.	系统残留	21
+
+译文: 6.6.	Carry-over	21
+------------------------------------------------------------------------------------
+原文: 汇报日期（SD/机构负责人）
+
+译文: Date of Report（SD/Test Facility Management）
+------------------------------------------------------------------------------------
+原文: 选择质控样品QC_X和标准曲线STD3_X作为储备液对比样品。命名为：SSC_QC_X和SSC_STD3_X。
+
+译文: selection Quality Control Sample QC_X and Standard Curve STD3_X as Stock Solution Comparison samples. Named: SSC_QC_X and SSC_STD3_X.
+------------------------------------------------------------------------------------
+原文: 取样方法：取样前用磁力搅拌器以一定转速搅拌15 min及以上，转速设定以形成明显凹陷但不产生漩涡及大量气泡为准。从待测给药制剂的上、中、下层各取2份样，6份样均按下表进行处理。
+
+译文: Sampling method: Prior to sampling, use a magnetic stirrer at a certain speed to stir for 15 min or longer. The speed should create a visible depression but not cause vortexing or large bubbles. Take 2 samples from the top, middle, and bottom layers of the test formulations for a total of 6 samples, and process them as per the table below.
+------------------------------------------------------------------------------------
+原文: 纯水仪
+
+译文: pure water instrument
+------------------------------------------------------------------------------------
+原文: 签   字   页
+
+译文: signature page
+------------------------------------------------------------------------------------
+原文: 9.	主要参考文献	23
+
+译文: 9.	main references	23
+------------------------------------------------------------------------------------
+原文: 附件二：附图
+
+译文: Appendix 2: Figures
+------------------------------------------------------------------------------------
+原文: 线性范围
+
+译文: linear range
+------------------------------------------------------------------------------------
+原文: 准确称取12.5251 g的sbk002至研钵中，用0.5 % CMC-Na溶液充分研磨后，完全转移至标定体积（50 mL）的容器中，用0.5 % CMC-Na定至刻度，即得250.0 mg/mL的sbk002组给药制剂。
+
+译文: Accurately weigh 12.5251 g of sbk002 into a mortar, grind thoroughly with 0.5 % CMC-Na solution, then completely transfer to a volumetric container (50 mL). Dilute to the mark with 0.5 % CMC-Na to obtain sbk002 dose formulations of 250.0 mg/mL.
+------------------------------------------------------------------------------------
+原文: 处理方法：按下表体积取待测给药制剂，第一步用稀释液1定容后，离心（10000 r/min，5 min，20 ℃），取上清液进行第二步稀释。第二步和第三步用稀释液2定容后，上机分析。
+
+译文: Treatment method: Take the volume of dose formulations to be tested according to the table, dilute to volume with diluent 1 in the first step, centrifuge (10000 r/min, 5 min, 20 ℃), take the supernatant to perform the second step of dilution. After diluting to volume with diluent 2 in the second and third steps, analyze it on the machine.
+------------------------------------------------------------------------------------
+原文: 目  录	5
+
+译文: Table of Contents	5
+------------------------------------------------------------------------------------
+原文: 拖尾因子               (T)
+
+译文: Tail Factor               (T)
+------------------------------------------------------------------------------------
+原文: SSC_STD3_clo 峰面积(A2)
+
+译文: SSC_STD3_clo Peak Area(A2)
+------------------------------------------------------------------------------------
+原文: 规格：38 g/袋；
+
+译文: Specification: 38 g/bag;
+------------------------------------------------------------------------------------
+原文: 图2-2标准曲线线性范围（clo）
+
+译文: Figure 2-2 Standard Curve Linear Range (clo)
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表4-1、表4-2和附件二图2-1、图2-2。标准曲线线性范围（sbk002）：标准曲线的回归系数（R2）在0.9964 ~ 0.9993之间，标准曲线线性各浓度准确度在98.26 % ~ 103.30 %之间；标准曲线线性范围（clo）：标准曲线的回归系数（R2）在0.9986 ~ 0.9998之间，标准曲线线性各浓度准确度在98.61 % ~ 102.84 %之间。
+
+译文: Assay results are shown in Appendix 1 Table 4-1, Table 4-2 and Appendix 2 Figures 2-1, 2-2. Standard Curve Linear Range (sbk002): The regression coefficient (R2) of the standard curve is between 0.9964 and 0.9993, with accuracy for each concentration between 98.26 % and 103.30 %; Standard Curve Linear Range (clo): The regression coefficient (R2) of the standard curve is between 0.9986 and 0.9998, with accuracy for each concentration between 98.61 % and 102.84 %.
+------------------------------------------------------------------------------------
+原文: 标准曲线样品配制
+
+译文: Standard Curve Sample Preparation
+------------------------------------------------------------------------------------
+原文: 标准曲线
+
+译文: Standard Curve
+------------------------------------------------------------------------------------
+原文: 空白溶剂样品在sbk002/clo保留时间处无干扰峰或干扰峰峰面积≤ 定量下限峰面积的10 %。
+
+译文: Blank solvent samples have no interference peaks or interfering peak areas at the retention time of sbk002/clo, or the interfering peak area is ≤10 % of the lower limit of quantification peak area.
+------------------------------------------------------------------------------------
+原文: 3.1 方法学验证内容列表
+
+译文: 3.1 Methodology Validation Content List
+------------------------------------------------------------------------------------
+原文: 称取10.38 mg clo（纯度：99.75 %），以稀释液1溶解并定容至10 mL，配制成一定浓度的质控储备液（浓度 = 称取量 × 纯度/体积）。命名为：181204-ST2-clo。
+
+译文: Weigh 10.38 mg of clo (Purity: 99.75 %), dissolve with diluent 1 and dilute to volume up to 10 mL, preparing a quality control stock solution of a certain concentration (concentration = weighed amount × purity/volume). Named: 181204-ST2-clo.
+------------------------------------------------------------------------------------
+原文: 苏州华测生物技术有限公司
+
+译文: Suzhou Huace Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-FA01 表1-1系统适应性（sbk002）
+
+译文: Study Number: A2018030-FA01 Table 1-1 System Suitability (sbk002)
+------------------------------------------------------------------------------------
+原文: 吸取量
+
+译文: Aspirating Volume
+------------------------------------------------------------------------------------
+原文: 李萍                                                                                     日期
+
+译文: Li Peng                                                                                     Date
+------------------------------------------------------------------------------------
+原文: 系统适应性（sbk002）：峰面积的RSD在0.22 % ~ 0.50 %之间，保留时间的RSD在0.06 % ~ 0.08 %之间，拖尾因子在1.17 ~ 1.39之间。
+
+译文: System Suitability (sbk002): The RSD of peak area is between 0.22 % and 0.50 %, the RSD of retention time is between 0.06 % and 0.08 %, and the tailing factor is between 1.17 and 1.39.
+------------------------------------------------------------------------------------
+原文: 生产厂家：浙江车头制药股份有限公司；
+
+译文: Manufacturer: Zhejiang Cheto Pharmaceutical Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 准确度与精密度                                                                    
+
+译文: Accuracy and Precision                                                                    
+------------------------------------------------------------------------------------
+原文: 拖尾因子（T）：T ≤ 2。
+
+译文: Tail Factor (T): T ≤ 2.
+------------------------------------------------------------------------------------
+原文: 表7-2 精密度（clo）
+
+译文: Table 7-2 Precision (clo)
+------------------------------------------------------------------------------------
+原文: 《药品注册管理办法》（原CFDA， 2007年10月）；
+
+译文: Pharmaceuticals Registration Management Measures (Original CFDA, October 2007);
+------------------------------------------------------------------------------------
+原文: 分析方法
+
+译文: Analyzed Method
+------------------------------------------------------------------------------------
+原文: sbk002标准曲线样品配制
+
+译文: sbk002 Standard Curve Sample Preparation
+------------------------------------------------------------------------------------
+原文: 定量下限（clo）：信噪比S/N 在35 ~ 138之间，准确度在98.96 % ~ 100.38 %之间，精密度RSD为0.72 %。
+
+译文: Lower Limit of Quantification (clo): The signal-to-noise ratio S/N is between 35 and 138, with accuracy between 98.96 % and 100.38 %, and precision RSD of 0.72 %.
+------------------------------------------------------------------------------------
+原文: 专题负责人
+
+译文: Study Director
+------------------------------------------------------------------------------------
+原文: 6.7.	定量下限	21
+
+译文: 6.7.	Lower Limit of Quantification	21
+------------------------------------------------------------------------------------
+原文: 检查内容
+
+译文: Inspection Contents
+------------------------------------------------------------------------------------
+原文: 有机相（乙腈）：乙腈，超声脱气泡15 min，即得。室温保存，有效期1个月。
+
+译文: Organic phase (Acetonitrile): Acetonitrile, sonicate to remove bubbles for 15 min, then ready for use. Store at room temperature, with a validity period of 1 month.
+------------------------------------------------------------------------------------
+原文: 有效期至：2019-11-30；
+
+译文: Expiry date: 2019-11-30；
+------------------------------------------------------------------------------------
+原文: 定量下限
+
+译文: lower limit of quantification
+------------------------------------------------------------------------------------
+原文: Wash（90 % 甲醇水溶液）：量取900 mL甲醇加至100 mL灭菌注射用水中，超声脱气泡15 min，即得。室温保存，有效期1个月。
+
+译文: Wash (90% Methanol solution): Measure 900 mL Methanol and add to 100 mL sterilized injection water, sonicate to remove bubbles for 15 min, then ready for use. Store at room temperature, with a validity period of 1 month.
+------------------------------------------------------------------------------------
+原文: 委托单位
+
+译文: Sponsor
+------------------------------------------------------------------------------------
+原文: 电子邮件：779061281@qq.com。
+
+译文: Email: 779061281@qq.com。
+------------------------------------------------------------------------------------
+原文: [4] 李耀庭, 梁金强, 黄芝瑛. 药物安全性评价研究中供试品的检测与分析[J]. 药物评价研究, 2014, 37(6): 541-543.
+
+译文: [4] Li Yaoting, Liang Jinqiang, Huang Zhiying. Detection and analysis of test articles in the drug safety evaluation study [J]. Drug Evaluation Research, 2014, 37(6): 541-543.
+------------------------------------------------------------------------------------
+原文: 2.2.	供试品	12
+
+译文: 2.2.	Test Article	12
+------------------------------------------------------------------------------------
+原文: 运行定量上限样品（STD5_X）后，运行1个空白溶剂样品（稀释液2）。命名为：Carryover_X。
+
+译文: After running the upper limit of quantification sample (STD5_X), run 1 blank solvent sample (Diluent 2). Named: Carryover_X.
+------------------------------------------------------------------------------------
+原文: 表2-1  储备液对比（sbk002）
+
+译文: Table 2-1  Stock Solution Comparison (sbk002)
+------------------------------------------------------------------------------------
+原文: 注：准确度 = 检测浓度 / 给药制剂标示浓度，检测浓度 = 实测浓度 × 稀释倍数。表6-2 准确度（clo）
+
+译文: Note: Accuracy = Detected concentration / dosing formulation labeled concentration, Detected concentration = Measured concentration × Dilution factor. Table 6-2 Accuracy (clo)
+------------------------------------------------------------------------------------
+原文: 稀释     倍数
+
+译文: Dilution     Factor
+------------------------------------------------------------------------------------
+原文: 3.	方法学验证	18
+
+译文: 3.	Methodology Validation	18
+------------------------------------------------------------------------------------
+原文: （B组）
+
+译文: (Group B)
+------------------------------------------------------------------------------------
+原文: 84-1（六）
+
+译文: 84-1(Six)
+------------------------------------------------------------------------------------
+原文: clo标准曲线样品配制
+
+译文: clo Standard Curve Sample Preparation
+------------------------------------------------------------------------------------
+原文: 吸取上述储备液（181204-ST2-clo）966 μL，用稀释液2定容至10 mL，得浓度为100 μg/mL的质控工作溶液，命名为：181204-WS2-clo。
+
+译文: Aspirate 966 μL of the above stock solution (181204-ST2-clo), dilute to 10 mL with diluent 2, to obtain a quality control working solution of 100 μg/mL, named: 181204-WS2-clo.
+------------------------------------------------------------------------------------
+原文: 批号：180704；
+
+译文: Batch number: 180704；
+------------------------------------------------------------------------------------
+原文: 给药制剂室温遮光放置4h
+
+译文: Dosing formulation stored at room temperature, protected from light for 4h
+------------------------------------------------------------------------------------
+原文: 系统适应性（clo）：峰面积的RSD在0.25 % ~ 0.48 %之间，保留时间的RSD在0.00 % ~ 0.08 %之间，拖尾因子在1.32 ~ 1.45之间。
+
+译文: System suitability (clo): The RSD of peak area is between 0.25% ~ 0.48%, the RSD of retention time is between 0.00% ~ 0.08%, and the tailing factor is between 1.32 ~ 1.45.
+------------------------------------------------------------------------------------
+原文: 表1-2系统适应性（clo）
+
+译文: Table 1-2 System Suitability (clo)
+------------------------------------------------------------------------------------
+原文: 附件三：试验方案
+
+译文: Appendix 3: Study Protocol
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-08-20（暂定）；
+
+译文: Expiry date: 2020-08-20 (tentative)；
+------------------------------------------------------------------------------------
+原文: 表3-1 质量控制（sbk002）
+
+译文: Table 3-1 Quality Control (sbk002)
+------------------------------------------------------------------------------------
+原文: 表3-2  质量控制（clo）
+
+译文: Table 3-2  Quality Control (clo)
+------------------------------------------------------------------------------------
+原文: 空白溶剂和空白溶媒样品在sbk002/clo保留时间处均无干扰峰或干扰峰峰面积 ≤ 定量下限峰面积的10 %。
+
+译文: Blank solvent and blank vehicle samples have no interference peaks at sbk002/clo retention time or the interference peak area is ≤ 10% of the lower limit of quantification peak area.
+------------------------------------------------------------------------------------
+原文: 保留时间
+
+译文: Retention Time
+------------------------------------------------------------------------------------
+原文: 江苏省昆山市高新区元丰路166号
+
+译文: Jiangsu Province, Kunshan City, New & Hi-tech Industrial Development Zone, Yuanfeng Road, 166
+------------------------------------------------------------------------------------
+原文: 本试验在苏州华测生物技术有限公司（研究机构）所完成的所有部份均遵守试验方案和研究机构的标准操作规程（SOPs），本试验遵从下列药物非临床研究质量管理规范（GLP）。
+
+译文: This assay was completed at Suzhou Huace Biological Technology Co., Ltd. (test facility), and all parts of the study adhere to the study protocol and the test facility's standard operating procedures (SOPs). This assay complies with the following medication non-clinical study Good Laboratory Practices (GLPs).
+------------------------------------------------------------------------------------
+原文: 方法：使用超高效液相色谱仪对配制的给药制剂浓度及稳定性进行考察，在220 nm波长条件下，用UPLC®BEH C18色谱柱、等度洗脱对sbk002和硫酸氢氯吡格雷（clo）进行检测，并对液相色谱分析方法的系统适应性、储备液对比、质量控制、专属性、标准曲线线性范围、系统残留、定量下限、准确度与精密度、给药制剂处理后稳定性、给药制剂稳定性进行验证。
+
+译文: Method: Use an ultra-high performance liquid chromatography (UHPLC) system to analyze the concentration and stability of the prepared dose formulations under the conditions of 220 nm wavelength. Test sbk002 and Clodifloxin (clo) using a UPLC® BEH C18 column with an appropriate washing degree. Validate the method's system suitability, stock solution comparison, quality control, specificity, linear range of the standard curve, carry-over, lower limit of quantification, accuracy, and precision. Validate the stability of dose formulations after disposal and the stability of dose formulations.
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表3-1和表3-2。质量控制（sbk002）：质控样品QC的准确度在96.57 % ~ 98.90 % 之间，精密度RSD为0.48 %和0.50 % ；质量控制（clo）：质控样品QC的准确度在98.39 % ~ 99.61 % 之间，精密度RSD为0.47 %和0.12 %。
+
+译文: The assay results are shown in Appendix 3-1 and 3-2. Quality Control (sbk002): The accuracy of the Quality Control sample QC ranges between 96.57% and 98.90%, with precision RSD of 0.48% and 0.50%; Quality Control (clo): The accuracy of the Quality Control sample QC ranges between 98.39% and 99.61%, with precision RSD of 0.47% and 0.12%.
+------------------------------------------------------------------------------------
+原文: Purge Wash、Seal Wash：灭菌注射用水 : 甲醇 = 90 : 10。
+
+译文: Purge Wash, Seal Wash: Sterilized Injection Water : Methanol = 90 : 10.
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-FA01。
+
+译文: Study Number: A2018030-FA01。
+------------------------------------------------------------------------------------
+原文:  [2] 顾利强, 辛艳飞, 高海燕,李峰, 等. GLP机构供试品分析相关问题的探讨[J]. 毒理学杂志, 2012, 26(5): 388-390.
+
+译文:  [2] Gu Liqiang, Xin Yanfei, Gao Haiyan, Li Feng, et al. Discussion on issues related to the analysis of test articles in GLP institutions [J]. Toxicology Journal, 2012, 26(5): 388-390.
+------------------------------------------------------------------------------------
+原文: 电子邮件：xiayuye@cti-cert.com。
+
+译文: Email: xiayuye@cti-cert.com。
+------------------------------------------------------------------------------------
+原文: 检测浓度/初始浓度(%)
+
+译文: Testing Concentration/Initial Concentration(%)
+------------------------------------------------------------------------------------
+原文: 回归系数（R2） ≥ 0.99，标准曲线线性各浓度回读准确度均应在90 % ~ 110 % 之间。
+
+译文: Regression coefficient (R2) ≥ 0.99, the standard curve linearity for each concentration readback accuracy should be between 90% and 110%.
+------------------------------------------------------------------------------------
+原文: 1.5.	试验人员组成	10
+
+译文: 1.5.	Study Personnel Composition	10
+------------------------------------------------------------------------------------
+原文: 实测浓度(μg/mL)
+
+译文: Measured concentration (μg/mL)
+------------------------------------------------------------------------------------
+原文: 试验方法
+
+译文: Assay Method
+------------------------------------------------------------------------------------
+原文: 定容   体积(mL)
+
+译文: Dilute to Volume   Volume(mL)
+------------------------------------------------------------------------------------
+原文: 《药物非临床研究质量管理规范》（原CFDA，2017年09月）；
+
+译文: Good Laboratory Practices (GLPs) for Non-Clinical Studies of Drugs (Former CFDA, September 2017);
+------------------------------------------------------------------------------------
+原文: 供试品
+
+译文: Test Article
+------------------------------------------------------------------------------------
+原文: 给药制剂稳定性
+
+译文: Dose Formulations Stability
+------------------------------------------------------------------------------------
+原文: 理论浓度（μg/mL）
+
+译文: Theoretical Concentration (μg/mL)
+------------------------------------------------------------------------------------
+原文: 结论
+
+译文: Conclusion
+------------------------------------------------------------------------------------
+原文: 标准曲线线性范围
+
+译文: Standard Curve Linear Range
+------------------------------------------------------------------------------------
+原文: 表3-1  质量控制（sbk002）
+
+译文: Table 3-1  Quality Control (sbk002)
+------------------------------------------------------------------------------------
+原文: 2.7.	分析方法	18
+
+译文: 2.7.	Analyzed Method	18
+------------------------------------------------------------------------------------
+原文: 1.7.	试验关键日期	11
+
+译文: 1.7.	Key Dates for Assay	11
+------------------------------------------------------------------------------------
+原文: 进样体积：1 μL；
+
+译文: Injection Volume: 1 μL;
+------------------------------------------------------------------------------------
+原文:  第一步稀释（S1）
+
+译文:  First Step Dilution (S1)
+------------------------------------------------------------------------------------
+原文: 专属性：空白溶剂和空白溶媒专属性样品在sbk002/clo保留时间处均无干扰峰。
+
+译文: Specificity: Blank solvent and blank vehicle specificity samples show no interference peaks at the retention times for sbk002/clo.
+------------------------------------------------------------------------------------
+原文: 选择质控样品QC_X作为质量控制样品，均匀分布于分析批中重复测定。分别命名为：PCS_QC_X_n（n表示在该分析批中第n次测定）。
+
+译文: Select QC samples QC_X as quality control samples, distribute evenly in the analytical run for repeated determination. Designated as: PCS_QC_X_n (n represents the nth determination in that analytical run).
+------------------------------------------------------------------------------------
+原文: 图1 专属性
+
+译文: Figure 1 Specificity
+------------------------------------------------------------------------------------
+原文: sbk002组
+
+译文: sbk002 Group
+------------------------------------------------------------------------------------
+原文: 性状：白色结晶性粉末；
+
+译文: Characterization: White crystalline powder;
+------------------------------------------------------------------------------------
+原文: 溶液名称
+
+译文: Solution Name
+------------------------------------------------------------------------------------
+原文: 6.1.	系统适应性	20
+
+译文: 6.1.	System Suitability	20
+------------------------------------------------------------------------------------
+原文: 批间精密度
+
+译文: Inter-assay Precision
+------------------------------------------------------------------------------------
+原文: 何艳                                                                                    日期
+
+译文: He Yan                                                                                    Date
+------------------------------------------------------------------------------------
+原文: 配制方法：准确称取2.000 g的CMC-Na粉末，用量筒量取400 mL纯水转移至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入搅拌子，用磁力搅拌器搅拌至完全溶解，即得0.5 % CMC-Na溶液400 mL。室温存放，7天内有效。
+
+译文: Preparation method: Accurately weigh 2.000 g of CMC-Na powder, measure 400 mL of pure water using a graduated cylinder, and transfer it to a beaker. Evenly disperse the CMC-Na powder into the beaker, add a stir bar, and stir with a magnetic stirrer until completely dissolved, resulting in a 0.5 % CMC-Na solution of 400 mL. Store at room temperature, effective within 7 days.
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表8-1和表8-2。给药制剂处理后室温遮光放置1天稳定性（sbk002）：稳定性样品的检测浓度与初始浓度比值在96.68 % ~ 99.88 %之间，检测浓度与标示浓度比值在100.38 % ~ 104.51 %之间，RSD为2.10 % ；给药制剂处理后室温遮光放置1天稳定性（clo）：稳定性样品的检测浓度与初始浓度比值在102.90 % ~ 105.99 %之间，检测浓度与标示浓度比值在103.96 % ~ 104.56 %之间， RSD为0.30 %。
+
+译文: Assay results seen in Appendix 8-1 and 8-2. Post-dose formulation processing room temperature light-shaded placement for 1-day stability (sbk002): The ratio of detected concentration to initial concentration for the stability samples ranged from 96.68 % to 99.88 %, and the ratio of detected concentration to nominal concentration ranged from 100.38 % to 104.51 %, with an RSD of 2.10 %; Post-dose formulation processing room temperature light-shaded placement for 1-day stability (clo): The ratio of detected concentration to initial concentration for the stability samples ranged from 102.90 % to 105.99 %, and the ratio of detected concentration to nominal concentration ranged from 103.96 % to 104.56 %, with an RSD of 0.30 %. 
+------------------------------------------------------------------------------------
+原文: 给药制剂稳定性（clo）：给药制剂室温遮光4 h稳定性：稳定性样品的检测浓度与初始浓度比值在98.05 % ~ 101.78 %之间，检测浓度与标示浓度比值在99.51 % ~ 100.99 %之间，RSD为0.74 %。
+
+译文: Dose formulations stability (clo): Dose formulations room temperature light-shaded placement for 4-hour stability: The ratio of detected concentration to initial concentration for the stability samples ranged from 98.05 % to 101.78 %, and the ratio of detected concentration to nominal concentration ranged from 99.51 % to 100.99 %, with an RSD of 0.74 %. 
+------------------------------------------------------------------------------------
+原文: 试验结果见附件二图1。专属性：空白溶剂和空白溶媒专属性样品在sbk002/clo保留时间处均无干扰峰。
+
+译文: Assay results seen in Appendix Figure 1. Specificity: Placebo solution and placebo vehicle specificity samples in sbk002/clo retention time show no interference peaks. 
+------------------------------------------------------------------------------------
+原文: 6.8.	准确度与精密度	21
+
+译文: 6.8.	Accuracy and Precision	21
+------------------------------------------------------------------------------------
+原文: 表1-2  系统适应性（clo）
+
+译文: Table 1-2  System Suitability（clo）
+------------------------------------------------------------------------------------
+原文: 质控样品配制 
+
+译文: Quality Control Sample preparation 
+------------------------------------------------------------------------------------
+原文: 7.	结论	22
+
+译文: 7.	Conclusion	22
+------------------------------------------------------------------------------------
+原文: 给药制剂室温遮光放置2h
+
+译文: Dose formulations room temperature light-shaded placement for 2h
+------------------------------------------------------------------------------------
+原文: 《非临床安全性评价供试品检测要求的Q&A》（原CFDA，2014年05月）；
+
+译文: 《Non-clinical Safety Evaluation test article testing requirements Q&A》 (original CFDA, May 2014);
+------------------------------------------------------------------------------------
+原文: 处理后样品室温遮光放置1天
+
+译文: Post-processing sample room temperature light-shaded placement for 1 day
+------------------------------------------------------------------------------------
+原文: 选择质控样品QC_X作为系统适应性样品，于分析批前连续重复测定6次来考察系统适应性，以这6次的数值进行统计分析。命名为：SST_QC_X。
+
+译文: Select Quality Control Sample QC_X as the System Suitability sample, conduct 6 continuous repeated determinations before the analytical run to assess System Suitability, and statistically analyze the values of these 6 measurements. Named as: SST_QC_X.
+------------------------------------------------------------------------------------
+原文: 定容体积
+
+译文: Dilute to volume volume
+------------------------------------------------------------------------------------
+原文: 附件一：附表	25
+
+译文: Appendix One: Appendix Tables	25
+------------------------------------------------------------------------------------
+原文:                                                                          专题编号：A2018030-FA01
+
+译文:                                                                           Study number: A2018030-FA01
+------------------------------------------------------------------------------------
+原文: 检测浓度(mg/mL)
+
+译文: Testing concentration (mg/mL)
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表9-1和表9-2。 
+
+译文: Assay results seen in Appendix 9-1 and 9-2. 
+------------------------------------------------------------------------------------
+原文: 准确度（%）
+
+译文: Accuracy (%）
+------------------------------------------------------------------------------------
+原文: 检测浓度（mg/mL）
+
+译文: Testing concentration (mg/mL）
+------------------------------------------------------------------------------------
+原文: 名称：sbk002-D；
+
+译文: Name: sbk002-D；
+------------------------------------------------------------------------------------
+原文: 给药制剂处理后稳定性（clo）：稳定性样品的检测浓度与初始浓度比值在102.90 % ~ 105.99 %之间，检测浓度与标示浓度比值在103.96 % ~ 104.56 %之间， RSD为0.30 %。
+
+译文: Dose formulations post-processing stability (clo): The ratio of detected concentration to initial concentration for the stability samples ranged from 102.90 % to 105.99 %, and the ratio of detected concentration to nominal concentration ranged from 103.96 % to 104.56 %, with an RSD of 0.30 %.
+------------------------------------------------------------------------------------
+原文: 试验结束后，专题负责人在专题结束后2周内将试验资料移交档案管理部归档。纸质资料至少保存至药品上市后五年，电子文档永久保存。
+
+译文: After the completion of the test, the study director shall transfer the test materials to the archives management department within 2 weeks after the completion of the study for filing. Paper materials shall be kept for at least five years after the drug is marketed, and electronic documents shall be preserved permanently.
+------------------------------------------------------------------------------------
+原文: 试验结果见附件二图3-1和图3-2。系统残留：空白溶剂样品在sbk002/clo保留时间处均无干扰峰。
+
+译文: The assay results can be seen in Appendix II, Figures 3-1 and 3-2. System carry-over: The blank solvent samples have no interference peaks at the retention time of sbk002/clo.
+------------------------------------------------------------------------------------
+原文: clo组
+
+译文: clo group
+------------------------------------------------------------------------------------
+原文: 摘要	7
+
+译文: ABSTRACT	7
+------------------------------------------------------------------------------------
+原文: 表4-2  标准曲线线性范围（clo）
+
+译文: Table 4-2  Standard Curve linear range (clo)
+------------------------------------------------------------------------------------
+原文: 试验方案详见附件三。本试验未产生试验方案的变更记录和偏离记录。
+
+译文: The study protocol is detailed in Appendix III. This assay did not produce any amendments or deviations to the study protocol.
+------------------------------------------------------------------------------------
+原文: 保存场所与保存条件
+
+译文: Storage location and conditions
+------------------------------------------------------------------------------------
+原文: SSC_STD3_sbk 峰面积(A2)
+
+译文: SSC_STD3_sbk Peak Area (A2)
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: System
+------------------------------------------------------------------------------------
+原文: USP级
+
+译文: USP grade
+------------------------------------------------------------------------------------
+原文: 专属性
+
+译文: Specificity
+------------------------------------------------------------------------------------
+原文: 质量控制（clo）：质控样品QC的准确度在98.39 % ~ 99.61 % 之间，精密度RSD为0.47 %和0.12 %。
+
+译文: Quality Control (clo): The accuracy of QC samples ranged from 98.39 % to 99.61 %, with a precision (RSD) of 0.47 % and 0.12 %.
+------------------------------------------------------------------------------------
+原文: 表5-1  定量下限（sbk002）
+
+译文: Table 5-1  Lower limit of quantification (sbk002)
+------------------------------------------------------------------------------------
+原文: 主要参考文献
+
+译文: Main references
+------------------------------------------------------------------------------------
+原文: 表9-1  给药制剂稳定性（sbk002）
+
+译文: Table 9-1  Dose formulation stability (sbk002)
+------------------------------------------------------------------------------------
+原文: 甲醇
+
+译文: Methanol
+------------------------------------------------------------------------------------
+原文: 生产厂家：成都施贝康生物医药科技有限公司；
+
+译文: Manufacturer: Chengdu Shibeikang Biotechnology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 表8-1  给药制剂处理后稳定性（sbk002）
+
+译文: Table 8-1  Dose formulation stability after disposal (sbk002)
+------------------------------------------------------------------------------------
+原文: 理论浓度
+
+译文: Nominal concentration
+------------------------------------------------------------------------------------
+原文: 数显加热磁力搅拌器
+
+译文: Digital heating magnetic stirrer
+------------------------------------------------------------------------------------
+原文: 标识方法：sbk002组和clo组给药制剂分别用绿色和蓝色标签标识，注明专题编号、名称、浓度、数量、配制日期、配制者和成品编号；
+
+译文: Identification method: Dose formulations for the sbk002 group and clo group are labeled with green and blue tags, respectively, indicating the study number, name, concentration, quantity, preparation date, preparer, and finished product number;
+------------------------------------------------------------------------------------
+原文: 1.	基本信息	10
+
+译文: 1.	General Information	10
+------------------------------------------------------------------------------------
+原文: 附录项目
+
+译文: Appendixes
+------------------------------------------------------------------------------------
+原文: 名称/代号：硫酸氢氯吡格雷/clo；
+
+译文: Name/Code: Clopidogrel(Clo);
+------------------------------------------------------------------------------------
+原文: 表9-2  给药制剂稳定性（clo）
+
+译文: Table 9-2  Dose formulation stability (clo)
+------------------------------------------------------------------------------------
+原文: 日期
+
+译文: Date
+------------------------------------------------------------------------------------
+原文: 资料保存
+
+译文: Storage of relevant data
+------------------------------------------------------------------------------------
+原文: 研究机构
+
+译文: Test facility
+------------------------------------------------------------------------------------
+原文: 试剂级别
+
+译文: Reagent grade
+------------------------------------------------------------------------------------
+原文: 质量控制（sbk002）：质控样品QC的准确度在96.57 % ~ 98.90 % 之间，精密度RSD为0.48 %和0.50 % 。
+
+译文: Quality Control (sbk002): The accuracy of QC samples ranged from 96.57 % to 98.90 %, with a precision (RSD) of 0.48 % and 0.50 %.
+------------------------------------------------------------------------------------
+原文: sbk002给药制剂室温遮光稳定性：将D1配制的sbk002组给药制剂室温遮光放置2 h和4 h后，再从给药制剂的上、中、下层各取1份样，按给药制剂处理方法进行处理后，进样分析。命名为：STA(Pre_2h)_A_1 、 STA(Pre_2h)_A_3、STA(Pre_2h)_A_5、STA(Pre_4h)_A_1、STA(Pre_4h)_A_3和STA(Pre_4h)_A_5。
+
+译文: sbk002 dose formulations room temperature light-shielded stability: The D1 prepared sbk002 dose formulations were placed in room temperature light-shielded conditions for 2 h and 4 h, then sampled from the top, middle, and bottom layers, and treated according to the dose formulations treatment method before analysis. They are named: STA(Pre_2h)_A_1, STA(Pre_2h)_A_3, STA(Pre_2h)_A_5, STA(Pre_4h)_A_1, STA(Pre_4h)_A_3, and STA(Pre_4h)_A_5.
+------------------------------------------------------------------------------------
+原文:  峰面积                           (Area)
+
+译文:  Peak Area                           (Area)
+------------------------------------------------------------------------------------
+原文: 超声波清洗机
+
+译文: Ultrasonic cleaner
+------------------------------------------------------------------------------------
+原文: 峰面积的比值在95 % ~ 105 % 之间。
+
+译文: The ratio of peak area is between 95 % and 105 %.
+------------------------------------------------------------------------------------
+原文: SSC_QC_sbk 峰面积(A1)
+
+译文: SSC_QC_sbk Peak Area (A1)
+------------------------------------------------------------------------------------
+原文: 对照品
+
+译文: Reference item
+------------------------------------------------------------------------------------
+原文: 运输条件：室温、遮光。
+
+译文: Transported under the conditions: room temperature, and light shielding.
+------------------------------------------------------------------------------------
+原文: 单道可调移液器
+
+译文: Single-channel adjustable pipette
+------------------------------------------------------------------------------------
+原文: 表4-1  标准曲线线性范围（sbk002）
+
+译文: Table 4-1  Standard Curve linear range (sbk002)
+------------------------------------------------------------------------------------
+原文: 给药制剂处理后稳定性（sbk002）：稳定性样品的检测浓度与初始浓度比值在96.68 % ~ 99.88 %之间，检测浓度与标示浓度比值在100.38 % ~ 104.51 %之间，RSD为2.10 % 。
+
+译文: Post-dosing formulation stability (sbk002): The ratio of testing concentration of stability samples to initial concentration ranges from 96.68% to 99.88%, the ratio of testing concentration to labeled concentration ranges from 100.38% to 104.51%, and RSD is 2.10%.
+------------------------------------------------------------------------------------
+原文: 型号
+
+译文: Model
+------------------------------------------------------------------------------------
+原文: 依据2017年9月1日生效的原食品药品监督管理总局《药物非临床研究质量管理规范》（局令第34号），经济合作和发展组织OECD Principles of good laboratory practice(as revised in 1997)ENV/MC/CHEM(98)17，美国食品药品监督管理局Good laboratory practice for nonclinical laboratory studies(21CFR Part 58)，试验方案和标准操作规程（SOPs）进行检查，以及列出将检查报告汇报给专题负责人和机构负责人的日期。此外，本声明确认该总结报告准确反映了试验的原始数据。
+
+译文: According to the General Administration of Food and Drug Supervision and Administration's 'Good Laboratory Practice Regulations for Non-clinical Research of Drugs' (Order No. 34), effective from September 1, 2017, OECD Principles of Good Laboratory Practice (as revised in 1997) ENV/MC/CHEM(98)17, and the U.S. Food and Drug Administration's Good Laboratory Practice for Nonclinical Laboratory Studies (21CFR Part 58), an inspection will be conducted on experimental protocols and standard operating procedures (SOPs), and the inspection report will list the dates when the report is submitted to the study directors and institutional heads. Additionally, this statement confirms that the final report accurately reflects the original experimental data.
+------------------------------------------------------------------------------------
+原文: 供试品代号：sbk002
+
+译文: Test article code: sbk002
+------------------------------------------------------------------------------------
+原文: 纯水
+
+译文: pure water
+------------------------------------------------------------------------------------
+原文: 目的：对A2018030项目中测定供试品浓度的分析方法进行验证，并对给药制剂的配制方法及稳定性进行考察，确保供试品的质量和配制准确性，为临床前安全评价中发现的问题（如毒性与剂量关系等）提供可靠的科学参考。
+
+译文: Purpose: To validate the analytical method for determining the concentration of the test article in project A2018030, and to review the preparation method and stability of the dose formulations, ensuring the quality and accuracy of the test article and preparation, providing reliable scientific references for issues found in pre-clinical safety evaluations (e.g., toxicity and dose relationships).
+------------------------------------------------------------------------------------
+原文: 配制方法：根据给药制剂浓度和配制体积等计算所需供试品量（sbk002给药制剂浓度 = 称取量 × 含量/体积；clo给药制剂浓度 = 称取量 × 纯度/体积）。在室温避光环境下，准确称取一定量的供试品至研钵中，加适量0.5 % CMC-Na溶液充分研磨后，完全转移至标定体积的容器中，用0.5 % CMC-Na定至刻度，即得所需浓度的给药制剂。
+
+译文: Preparation method: Based on the concentration of the dose formulations and the required volume, calculate the amount of test article needed (sbk002 dose formulations concentration = amount taken × content/volume; clo dose formulations concentration = amount taken × purity/volume). In a room temperature environment protected from light, accurately weigh a specific amount of test article into a mortar, add an appropriate amount of 0.5% CMC-Na solution, grind thoroughly, then completely transfer to a volumetric container, adjust to volume with 0.5% CMC-Na to obtain the desired concentration of dose formulations.
+------------------------------------------------------------------------------------
+原文: 试验人员组成
+
+译文: Study Personnel composition
+------------------------------------------------------------------------------------
+原文: 溶媒（0.5 %CMC-Na）的配制
+
+译文: Preparation of vehicle (0.5% CMC-Na)
+------------------------------------------------------------------------------------
+原文: 表1-1  系统适应性（sbk002）
+
+译文: Table 1-1 System Suitability (sbk002)
+------------------------------------------------------------------------------------
+原文: 配制方法举例：以配制50 mL为例。
+
+译文: Preparation method example: Take the preparation of 50 mL as an example.
+------------------------------------------------------------------------------------
+原文: Purge Wash、  Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气泡15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash、  Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气泡15 min，即得。室温保存，有效期7天。
+------------------------------------------------------------------------------------
+原文: 附件三：试验方案	48
+
+译文: Appendix Three: Study protocol	48
+------------------------------------------------------------------------------------
+原文: 数据整理及统计分析：李萍、王晓彤、赵倩。
+
+译文: Data collation and statistical analysis: Li Peng, Wang Xiaoxiao, Zhao Qing.
+------------------------------------------------------------------------------------
+原文: 标准曲线线性范围（sbk002）：标准曲线的回归系数（R2）在0.9964 ~ 0.9993之间，标准曲线线性各浓度准确度在98.26 % ~ 103.30 %之间。
+
+译文: Standard Curve Linear Range (sbk002): The regression coefficient (R2) of the standard curve ranges from 0.9964 to 0.9993, and the accuracy for all concentrations in the standard curve ranges from 98.26% to 103.30%.
+------------------------------------------------------------------------------------
+原文: 本试验将遵循的法规及技术指导原则为，包括但不限于：
+
+译文: The regulations and technical guidance principles that this assay will adhere to include, but are not limited to:
+------------------------------------------------------------------------------------
+原文: 其它溶液的配制
+
+译文: Preparation of other solutions
+------------------------------------------------------------------------------------
+原文: 电子邮件：cti-btc-qa.list@cti-cert.com。
+
+译文: Email: cti-btc-qa.list@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: 5.	试验方案及变更、偏离	20
+
+译文: 5.	Study protocol and amendments, deviations	20
+------------------------------------------------------------------------------------
+原文: 储备液对比
+
+译文: Stock Solution Comparison
+------------------------------------------------------------------------------------
+原文: 给药制剂标示浓度（mg/mL）
+
+译文: Dose formulations labeled concentration (mg/mL)
+------------------------------------------------------------------------------------
+原文: 组别
+
+译文: Group
+------------------------------------------------------------------------------------
+原文: 供试品配制：石鑫鑫、刘露露；
+
+译文: Preparation of test article: Shi Wenwen, Liu Lulu.
+------------------------------------------------------------------------------------
+原文: 提供单位：成都施贝康生物医药科技有限公司；
+
+译文: Supplier：Chengdu Sibekang Biological Technology Co., Ltd.；
+------------------------------------------------------------------------------------
+原文: 保存条件：15 ~ 25 ℃、密闭、遮光、干燥；
+
+译文: Storage condition: 15 ~ 25 ℃, airtight, protected from light, dry;
+------------------------------------------------------------------------------------
+原文: 试验目的
+
+译文: Study Objective
+------------------------------------------------------------------------------------
+原文: 在第二个分析批中运行第一个分析批的sbk002组和clo组给药制剂配制的其中3份准确度与精密度样品（室温遮光放置1天）。命名为：STA(Post)_A_1 、 STA(Post)_A_3、STA(Post)_A_5、STA(Post)_B_1 ~ STA(Post)_B_3和STA(Post)_B_5。
+
+译文: Run the sbk002 group and clo group dose formulations prepared in the first analytical batch in the second analytical batch, with 3 samples for accuracy and precision (stored at room temperature, protected from light for 1 day). Named as: STA(Post)_A_1, STA(Post)_A_3, STA(Post)_A_5, STA(Post)_B_1 ~ STA(Post)_B_3, and STA(Post)_B_5.
+------------------------------------------------------------------------------------
+原文: 名称：成都施贝康生物医药科技有限公司；
+
+译文: Name：Chengdu Sibekang Biological Technology Co., Ltd.；
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表1-1和表1-2。系统适应性（sbk002）：峰面积的RSD在0.22 % ~ 0.50 %之间，保留时间的RSD在0.06 % ~ 0.08 %之间，拖尾因子在1.17 ~ 1.39之间；系统适应性（clo）：峰面积的RSD在0.25 % ~ 0.48 %之间，保留时间的RSD在0.00 % ~ 0.08 %之间，拖尾因子在1.32 ~ 1.45之间。
+
+译文: Assay results are in Appendix Table 1-1 and Table 1-2. System suitability (sbk002): peak area RSD between 0.22 % ~ 0.50 %, retention time RSD between 0.06 % ~ 0.08 %, tailing factor between 1.17 ~ 1.39; System suitability (clo): peak area RSD between 0.25 % ~ 0.48 %, retention time RSD between 0.00 % ~ 0.08 %, tailing factor between 1.32 ~ 1.45.
+------------------------------------------------------------------------------------
+原文: 磁力搅拌器
+
+译文: Magnetic stirrer
+------------------------------------------------------------------------------------
+原文: 2.4.	主要仪器	13
+
+译文: 2.4.	Major Instruments	13
+------------------------------------------------------------------------------------
+原文: 批号：180802；
+
+译文: Batch number: 180802;
+------------------------------------------------------------------------------------
+原文: 超高效液相色谱仪：ACQUITY UPLC H-Class，Waters；
+
+译文: Ultra-High Performance Liquid Chromatograph: ACQUITY UPLC H-Class, Waters;
+------------------------------------------------------------------------------------
+原文: 6.4.	专属性	20
+
+译文: 6.4.	Specificity	20
+------------------------------------------------------------------------------------
+原文: 稀释    倍数
+
+译文: Dilution    multiple
+------------------------------------------------------------------------------------
+原文: 方法学验证
+
+译文: Method validation
+------------------------------------------------------------------------------------
+原文: 配制条件：室温、避光环境下；
+
+译文: Preparation condition: room temperature, protected from excessive light;
+------------------------------------------------------------------------------------
+原文: 联系人：夏玉叶；
+
+译文: Contact person: Xia Yuye;
+------------------------------------------------------------------------------------
+原文: 2.6.	相关溶液配制	14
+
+译文: 2.6.	Related solution preparation	14
+------------------------------------------------------------------------------------
+原文: 进样盘温度：OFF； 
+
+译文: Sample tray temperature: OFF;
+------------------------------------------------------------------------------------
+原文: 结果：
+
+译文: Result:
+------------------------------------------------------------------------------------
+原文: 定容  体积(mL)
+
+译文: Dilute to volume  Volume (mL)
+------------------------------------------------------------------------------------
+原文: QA声明
+
+译文: QA Statement
+------------------------------------------------------------------------------------
+原文: sbk002组（A组）
+
+译文: sbk002 group (Group A)
+------------------------------------------------------------------------------------
+原文: 给药制剂分析方法学验证试验
+
+译文: Dose formulation analysis methodology validation assay
+------------------------------------------------------------------------------------
+原文: 数据采集和分析
+
+译文: Data acquisition and analysis
+------------------------------------------------------------------------------------
+原文: 归档时间
+
+译文: Archiving time
+------------------------------------------------------------------------------------
+原文: 6.10.	给药制剂稳定性	21
+
+译文: 6.10.	Dose formulations stability	21
+------------------------------------------------------------------------------------
+原文: 主要试剂
+
+译文: Major Reagents
+------------------------------------------------------------------------------------
+原文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气泡15 min，即得。室温保存，有效期3天。
+
+译文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气泡15 min，即得。室温保存，有效期3天。
+------------------------------------------------------------------------------------
+原文: 6.3.	质量控制	20
+
+译文: 6.3.	Quality control	20
+------------------------------------------------------------------------------------
+原文: [3] 孟祥, 李莹, 潘琦, 姜娟, 等. 供试品检测在GLP研究中的意义及规范化要求[J]. 毒理学杂志, 2011, 25(6): 471-473.
+
+译文: [3] Meng Xiang, Li Qian, Pan Xuan, Jiang Ting, et al. The significance and standardization requirements of test article testing in GLP research [J]. Toxicology Journal, 2011, 25(6): 471-473.
+------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司
+
+译文: Chengdu Sibekang Biological Technology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 签   字   页	2
+
+译文: Signature   page	2
+------------------------------------------------------------------------------------
+原文: 含量：99.6 %；
+
+译文: Content: 99.6 %;
+------------------------------------------------------------------------------------
+原文: 1.6.	质量保证人员	11
+
+译文: 1.6.	Quality assurance personnel	11
+------------------------------------------------------------------------------------
+原文: 日期 
+
+译文: Date 
+------------------------------------------------------------------------------------
+原文: 附件二：附图	39
+
+译文: Appendix 2: Appendix Figures	39
+------------------------------------------------------------------------------------
+原文: 原始资料
+
+译文: Raw data
+------------------------------------------------------------------------------------
+原文: 6.9.	给药制剂处理后稳定性	21
+
+译文: 6.9.	Dose formulations post-treatment stability	21
+------------------------------------------------------------------------------------
+原文: 给药制剂稳定性（sbk002）：给药制剂室温遮光2 h稳定性：稳定性样品的检测浓度与初始浓度比值在96.19 % ~ 99.70 %之间，检测浓度与标示浓度比值在100.65 % ~ 102.21 %之间，RSD为0.81 %；给药制剂室温遮光4 h稳定性：稳定性样品的检测浓度与初始浓度比值在96.11 % ~ 98.45 %之间，检测浓度与标示浓度比值在100.87 % ~ 102.42 %之间， RSD为0.87 %。
+
+译文: Dose formulation stability (sbk002): Dose formulation room temperature covered for 2 h stability: The ratio of the concentrations of the stability sample to the initial concentration is between 96.19 % ~ 99.70 %, the ratio of the testing concentration to the labeled concentration is between 100.65 % ~ 102.21 %, RSD is 0.81 %; Dose formulation room temperature covered for 4 h stability: The ratio of the concentrations of the stability sample to the initial concentration is between 96.11 % ~ 98.45 %, the ratio of the testing concentration to the labeled concentration is between 100.87 % ~ 102.42 %, RSD is 0.87 %.
+------------------------------------------------------------------------------------
+原文: 色谱分析
+
+译文: Chromatography analysis
+------------------------------------------------------------------------------------
+原文: 表7-2  精密度（clo）
+
+译文: Table 7-2  Precision (clo)
+------------------------------------------------------------------------------------
+原文: 图2-1标准曲线线性范围（sbk002）
+
+译文: Figure 2-1 Standard Curve Linear Range (sbk002)
+------------------------------------------------------------------------------------
+原文: 各组稳定性样品的检测浓度与标示浓度比值在85 % ~ 115 % 之间，检测浓度与初始浓度比值在90 % ~ 110 %之间，稳定性样品RSD ≤ 10 %。
+
+译文: The ratio of the testing concentration of stability samples to the labeled concentration for different groups is between 85 % ~ 115 %, and the ratio of the testing concentration to the initial concentration is between 90 % ~ 110 %, with an RSD of stability samples ≤ 10 %.
+------------------------------------------------------------------------------------
+原文: 质量保证人员
+
+译文: Quality Assurance Personnel
+------------------------------------------------------------------------------------
+原文: 试验开始日期：2018-12-04；
+
+译文: Assay start date: 2018-12-04;
+------------------------------------------------------------------------------------
+原文: 表9-2 给药制剂稳定性（clo）
+
+译文: Table 9-2 Dose formulations stability (clo)
+------------------------------------------------------------------------------------
+原文: 专属性样品配制
+
+译文: Specificity Sample Preparation
+------------------------------------------------------------------------------------
+原文: 分析天平
+
+译文: Analytical balance
+------------------------------------------------------------------------------------
+原文: 系统残留
+
+译文: Carry-over
+------------------------------------------------------------------------------------
+原文: 系统残留（sbk002）：空白溶剂样品在sbk002保留时间处无干扰峰。
+
+译文: Carry-over (sbk002): No interference peaks at the retention time of sbk002 in blank solvent samples.
+------------------------------------------------------------------------------------
+原文: Confidential                                                                             第 40页 /共 48页
+
+译文: Confidential                                                                             Page 40 / Total 48
+------------------------------------------------------------------------------------
+原文: 第二步稀释（S2）
+
+译文: Second dilution (S2)
+------------------------------------------------------------------------------------
+原文: 6.5.	标准曲线线性范围	21
+
+译文: 6.5.	Standard Curvelinear range	21
+------------------------------------------------------------------------------------
+原文: 表3-2 质量控制（clo）
+
+译文: Table 3-2 Quality Control (clo)
+------------------------------------------------------------------------------------
+原文: 四川科伦药业股份有限公司
+
+译文: Sichuan Kelun Pharmaceutical Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 给药制剂处理后稳定性
+
+译文: Stability after dose formulations disposal
+------------------------------------------------------------------------------------
+原文: 吸取上述储备液（181204-ST2-sbk）967 μL，用稀释液定容至10 mL，得浓度为100 μg/mL的质控工作溶液，命名为：181204-WS2-sbk。
+
+译文: Aspirate the above stock solution (181204-ST2-sbk) 967 μL, dilute to volume with diluent to 10 mL, obtain a quality control working solution with a concentration of 100 μg/mL, named: 181204-WS2-sbk.
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表2-1和表2-2。储备液对比（sbk002）：质控样品QC与标准曲线样品STD3峰面积的比值在96.71 % ~ 100.76 % 之间；储备液对比（clo）：质控样品QC与标准曲线样品STD3峰面积的比值在99.65 % ~ 100.02 % 之间。
+
+译文: Assay results are shown in Appendix Table 2-1 and Table 2-2. Stock Solution Comparison (sbk002): The ratio of the peak area of quality control sample QC to standard curve sample STD3 is between 96.71 % ~ 100.76 %; Stock Solution Comparison (clo): The ratio of the peak area of quality control sample QC to standard curve sample STD3 is between 99.65 % ~ 100.02 %.
+------------------------------------------------------------------------------------
+原文: 试验结束日期：2018-12-06。
+
+译文: Assay end date: 2018-12-06.
+------------------------------------------------------------------------------------
+原文: 乙腈
+
+译文: Acetonitrile
+------------------------------------------------------------------------------------
+原文: 吸取上述储备液（181204-ST1-sbk）946 μL，用稀释液2定容至10 mL，得浓度为100 μg/mL的标准弯曲工作溶液，命名为：181204-WS1-sbk。
+
+译文: Aspirate the aforementioned stock solution (181204-ST1-sbk) 946 μL, dilute to volume with Diluent 2 to 10 mL to obtain a standard curve working solution with a concentration of 100 μg/mL, named: 181204-WS1-sbk.
+------------------------------------------------------------------------------------
+原文: 表7-1 精密度（sbk002）
+
+译文: Table 7-1 Precision (sbk002)
+------------------------------------------------------------------------------------
+原文: 专题负责人：李艳
+
+译文: Study Director: Li Yan
+------------------------------------------------------------------------------------
+原文: 准确度均应在95 % ~ 105 %之间，精密度RSD ≤ 5 %（n ≥ 3时需计算RSD）。
+
+译文: The accuracy should be between 95 % ~ 105 %, and the precision RSD ≤ 5 % (RSD needs to be calculated when n ≥ 3).
+------------------------------------------------------------------------------------
+原文: 剩余样品处理：待检测合格后剩余给予剂制剂返还供试品管理部，按药物/化学废弃物进行处理。
+
+译文: Remaining sample disposal: After passing the test, the remaining dose formulations will be returned to the test article management department and disposed of as medication/chemical waste.
+------------------------------------------------------------------------------------
+原文: SSC_QC_clo峰面积(A1)
+
+译文: SSC_QC_clo Peak Area (A1)
+------------------------------------------------------------------------------------
+原文: sbk002及磷酸氢二钾（钠格雷原料药）
+
+译文: sbk002 and Dibasic potassium (sodium glycopyrrolate API)
+------------------------------------------------------------------------------------
+原文: 表6-1  精确度（sbk002）
+
+译文: Table 6-1  Accuracy (sbk002)
+------------------------------------------------------------------------------------
+原文: 各溶液根据实际需要和相应配制比例调整称取量和配制体积。未注明有效期的溶液等（除给药制剂外）均为现配现用。将首次配制标准曲线样品的日期定义为第一天（Day1/D1），以此类推至第n天（Day n/Dn）。
+
+译文: Adjust the weight and preparation volume of each solution according to actual needs and corresponding preparation proportions. Solutions without indicated expiry dates (except dose formulations) are prepared and used as needed. Define the date of the first preparation of the standard curve sample as the first day (Day1/D1), and so on until the nth day (Day n/Dn).
+------------------------------------------------------------------------------------
+原文: 各组精确度均应在85% ~ 115%之间，批内及批间精密度RSD ≤ 10%。
+
+译文: The accuracy of each group should be between 85% and 115%, with intra-assay and inter-assay precision RSD ≤ 10%.
+------------------------------------------------------------------------------------
+原文: 表6-2  精确度（clo）
+
+译文: Table 6-2  Accuracy (clo)
+------------------------------------------------------------------------------------
+原文: 将待测制剂按给药制剂取样和处理方法进行处理后，进样分析。不同天重复测定三个分析批，以当前批的标准曲线计算样品的浓度，并以此求算方法的精确度和精密度。命名为：AP_A_1 ~ AP_A_6和AP_B_1 ~  AP_B_6。
+
+译文: Handle the formulation to be tested according to the sample collection and processing method for dose formulations, followed by injection analysis. Repeat the determination in three analytical batches on different days, calculating the sample concentration using the standard curve of the current batch, and determining the method's accuracy and precision. Named as: AP_A_1 ~ AP_A_6 and AP_B_1 ~  AP_B_6.
+------------------------------------------------------------------------------------
+原文: 供试品管理：陈晓艳、李瑶；
+
+译文: Test article management: Chen Xiaoyan, Li Yao;
+------------------------------------------------------------------------------------
+原文: 专题名称：sbk002及磷酸氢二钾（钠格雷原料药）给药制剂分析方法学验证试验；
+
+译文: Study Name: sbk002 and Dibasic potassium (sodium glycopyrrolate API) dose formulations analytical methodology validation test;
+------------------------------------------------------------------------------------
+原文: 试验操作：丁伟芳、王晓昱、陆明敏；
+
+译文: assay operations: Ding Weifang, Wang Xiaoyu, Lu Mingmin；
+------------------------------------------------------------------------------------
+原文: 1（2017年09月01日生效的中国国家食品药品监督管理总局（原CFDA）《药物非临床研究质量管理规范》（局令第34号）。
+
+译文: 1 (Effective on September 1, 2017, China's National Medical Products Administration (formerly CFDA)《Good Laboratory Practices for Non-clinical Studies》(Order No. 34))。
+------------------------------------------------------------------------------------
+原文: 称取10.61 mg sbk002-D（含量：99.6 %），以稀释液1溶解并定容至10 mL，配制成一定浓度的标准储备液（浓度 = 称取量 × 含量/体积）。命名为：181204-ST1-sbk。
+
+译文: Weigh 10.61 mg sbk002-D (content: 99.6 %), dissolve in Diluent 1 and dilute to 10 mL, prepare a standard stock solution of a certain concentration (concentration = weighed amount × content / volume). Named: 181204-ST1-sbk。
+------------------------------------------------------------------------------------
+原文: 崩8-2  给药制剂处理后稳定性（clo）
+
+译文: Study 8-2: Dose Formulation Stability After Processing (clo)
+------------------------------------------------------------------------------------
+原文: 崩8-2 给药制剂处理后稳定性（clo）
+
+译文: Study 8-2: Dose Formulation Stability After Processing (clo)
+------------------------------------------------------------------------------------
+原文: 崩8-1 给药制剂处理后稳定性（sbk002）
+
+译文: Study 8-1: Dose Formulation Stability After Processing (sbk002)
+------------------------------------------------------------------------------------
+原文: 实验结果见附件一崩5-1和崩5-2。定量下限（sbk002）：信噪比S/N 在83 ~ 242之间，准确度在100.70 % ~ 102.06 %之间，精密度RSD为0.70 %；定量下限（clo）：信噪比S/N 在35 ~ 138之间，准确度在98.96 % ~ 100.38 %之间，密度RSD为0.72 %。
+
+译文: The assay results are shown in Appendix 5-1 and 5-2. Lower limit of quantification (sbk002): Signal-to-noise ratio (S/N) between 83 and 242, accuracy between 100.70% and 102.06%, precision RSD is 0.70%; Lower limit of quantification (clo): Signal-to-noise ratio (S/N) between 35 and 138, accuracy between 98.96% and 100.38%, precision RSD is 0.72%.
+------------------------------------------------------------------------------------
+原文: 实验关键日期
+
+译文: Assay Key Date
+------------------------------------------------------------------------------------
+原文: 8.	资料保管	22
+
+译文: 8.	Storage of Relevant Data	22
+------------------------------------------------------------------------------------
+原文: 实验方案及变更、偏离
+
+译文: Study protocol, amendments, deviations
+------------------------------------------------------------------------------------
+原文: 专题名称：sbk002及氯酸氢磷氟噻罗格原料药给药制剂分析方法学验证实验
+
+译文: Study Name: Validation study of analytical methods for sbk002 and chlorate phosphorofluoride thiazoline active pharmaceutical ingredient dose formulations
+------------------------------------------------------------------------------------
+原文: 崩9-1 给药制剂稳定性（sbk002）
+
+译文: Study 9-1: Dose Formulation Stability (sbk002)
+------------------------------------------------------------------------------------
+原文: 本实验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures，SOPs）。
+
+译文: The implementation of the assay, except for the special instructions in the protocol, follows the standard operating procedures (Standard Operating Procedures, SOPs) of the facility.
+------------------------------------------------------------------------------------
+原文: 谱图2-1 储备液对比（sbk002）
+
+译文: Figure 2-1 Stock Solution Comparison（sbk002）
+------------------------------------------------------------------------------------
+原文: 流动相配置 
+
+译文: mobile phase preparation 
+------------------------------------------------------------------------------------
+原文: clo给药制剂室温遮光稳定性：将D1配置的clo组给药制剂室温遮光放置4 h后，再从给药制剂的上、中、下层各取1份样，按给药制剂处理方法进行处理后，进样分析。命名为：STA(Pre_4h)_B_1 、 STA(Pre_4h)_B_3和STA(Pre_4h)_B_5。
+
+译文: clo formulations room temperature light-protected stability: After placing the D1 prepared clo group formulations at room temperature and light-protected for 4 hours, sample the upper, middle, and lower layers separately, treat as per formulation treatment method, and analyze. Named as: STA(Pre_4h)_B_1, STA(Pre_4h)_B_3, and STA(Pre_4h)_B_5.
+------------------------------------------------------------------------------------
+原文: 取样方法：取样前用磁力搅拌器以一定转速搅拌15 min及以上，转速设定以形成明显凹陷但不产生涡流及大量气泡为准。从待测给药制剂的上、中、下层各取2份样，6份样均按下表进行处理。
+
+译文: sampling method: Before sampling, use a magnetic stirrer to stir at a certain speed for 15 minutes or more. The stirring speed should be set to create a noticeable depression without causing vortices or producing many bubbles. Draw two samples each from the upper, middle, and lower layers of the test formulations, and process the 6 samples according to the table below.
+------------------------------------------------------------------------------------
+原文: 准确称取12.5251 g的sbk002至研钵中，用0.5 % CMC-Na溶液充分研磨后，完全转移至标定体积（50 mL）的容器中，用0.5 % CMC-Na定容至刻度，即得250.0 mg/mL的sbk002组给药制剂。
+
+译文: Accurately weigh 12.5251 g of sbk002 into a mortar, grind it thoroughly with 0.5 % CMC-Na solution, then completely transfer it to a container with a calibrated volume (50 mL), dilute to the mark with 0.5 % CMC-Na, to obtain 250.0 mg/mL sbk002 dosage formulations.
+------------------------------------------------------------------------------------
+原文: 目录	5
+
+译文: Table of Contents	5
+------------------------------------------------------------------------------------
+原文: 李蓉                                                                                     日期
+
+译文: Li Rong                                                                                     Date
+------------------------------------------------------------------------------------
+原文: 有机相（乙腈）：乙腈，超声脱气15 min，即得。室温保存，有效期1个月。
+
+译文: Organic phase (Acetonitrile): Acetonitrile, sonicate to degas for 15 minutes, ready to use. Store at room temperature; the expiry date is 1 month.
+------------------------------------------------------------------------------------
+原文: Wash（90 % 甲醇水溶液）：量取900 mL甲醇加至100 mL灭菌注射用水中，超声脱气15 min，即得。室温保存，有效期1个月。
+
+译文: Wash (90% methanol-aqueous solution): Measure 900 mL of methanol and add it to 100 mL of sterilized injection water, sonicate to remove bubbles for 15 min, and it is ready. Store at room temperature, valid for 1 month.
+------------------------------------------------------------------------------------
+原文: 2.2. 供试品 12
+
+译文: 2.2. Test article 12
+------------------------------------------------------------------------------------
+原文: 3. 方法学验证 18
+
+译文: 3. Method Validation 18
+------------------------------------------------------------------------------------
+原文: 吸取上述储备液(181204-ST2-clo) 966 μL，用稀释液2定容至10 mL，得浓度为100 μg/mL的质控工作溶液，命名为：181204-WS2-clo。
+
+译文: Aspirate the above stock solution (181204-ST2-clo) 966 μL, dilute to volume to 10 mL with Diluent 2, obtaining quality control working solution with concentration of 100 μg/mL, named: 181204-WS2-clo.
+------------------------------------------------------------------------------------
+原文: 本试验在苏州华测生物技术有限公司（研究机构）所完成的所有部分均遵守试验方案和研究机构的标准操作规程（SOPs），本试验遵从下列药物非临床研究质量管理规范（GLP）。
+
+译文: This assay was conducted at Suzhou Huace Biotechnology Co., Ltd. (test facility). All parts comply with the study protocol and the test facility's standard operating procedures (SOPs). This assay adheres to the following medication non-clinical study Good Laboratory Practices (GLPs).
+------------------------------------------------------------------------------------
+原文: 方法：使用超高效液相色谱仪对配制的给药制剂浓度及稳定性进行考察，在220 nm波长条件下，用UPLC®BEH C18色谱柱、梯度洗脱对sbk002和氯酸盐氯（clo）进行检测，并对液相色谱分析方法的系统适应性、储备液对比、质量控制、专属性、标准曲线线性范围、系统残留、定量下限、准确度与精密度、给药制剂处理后稳定性、给药制剂稳定性进行验证。
+
+译文: Method: Use ultra-high-performance liquid chromatography to investigate the concentration and stability of prepared dose formulations. Detection is carried out at a wavelength of 220 nm using a UPLC® BEH C18 chromatographic column, gradient elution for sbk002 and chlorate chloride (clo). Verification is conducted for the system suitability, stock solution comparison, quality control, specificity, standard curve linear range, carry-over, lower limit of quantification, accuracy and precision, post-treatment stability of dose formulations, and dose formulations stability.
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表3-1和表3-2。质量控制（sbk002）：质控样品QC的准确度在96.57% ~ 98.90%之间，精密度RSD为0.48%和0.50%；质量控制（clo）：质控样品QC的准确度在98.39% ~ 99.61%之间，精密度RSD为0.47%和0.12%。
+
+译文: Assay results are shown in Appendix Table 3-1 and Table 3-2. Quality control (sbk002): The accuracy of the QC samples ranges between 96.57% and 98.90%, with a precision RSD of 0.48% and 0.50%; Quality control (clo): The accuracy of the QC samples ranges between 98.39% and 99.61%, with a precision RSD of 0.47% and 0.12%.
+------------------------------------------------------------------------------------
+原文: 回归系数（R2） ≥ 0.99，标准曲线线性的各浓度回读准确度均应在90% ~ 110%之间。
+
+译文: Regression Coefficient (R2) ≥ 0.99, the back-calculated accuracy of each concentration in the standard curve linearity should be between 90% and 110%.
+------------------------------------------------------------------------------------
+原文: 实践浓度(μg/mL)
+
+译文: Actual Concentration(μg/mL)
+------------------------------------------------------------------------------------
+原文: 质量控制（clo）：质控样品QC的准确度在98.39% ~ 99.61%之间，精密度RSD为0.47%和0.12%。
+
+译文: Quality control (clo): The accuracy of Quality Control Samples (QC) is between 98.39% and 99.61%, and the precision RSD is 0.47% and 0.12%.
+------------------------------------------------------------------------------------
+原文: 名称/代号：磺酸氯丙咪嗪/clo；
+
+译文: Name/Code: Sulfate chlorimipramine/clo;
+------------------------------------------------------------------------------------
+原文: 质量控制（sbk002）：质控样品QC的准确度在96.57% ~ 98.90%之间，精密度RSD为0.48%和0.50%。
+
+译文: Quality control (sbk002): The accuracy of Quality Control Samples (QC) is between 96.57% and 98.90%, and the precision RSD is 0.48% and 0.50%.
+------------------------------------------------------------------------------------
+原文: sbk002给药制剂室温遮光稳定性：将D1配制的sbk002组给药制剂室温遮光放置2h和4h后，再从给药制剂的上、中、下层各取1份样，按给药制剂处理方法进行处理后，进样分析。命名为：STA(Pre_2h)_A_1、STA(Pre_2h)_A_3、STA(Pre_2h)_A_5、STA(Pre_4h)_A_1、STA(Pre_4h)_A_3和STA(Pre_4h)_A_5。
+
+译文: The room temperature light-shielding stability of sbk002 dose formulations: After placing the dose formulations of the sbk002 group prepared by D1 at room temperature with light shielding for 2 h and 4 h, samples were taken respectively from the upper, middle, and lower layers of the dose formulations. The samples were then processed according to the dose formulation treatment method and analyzed. They are named as follows: STA(Pre_2h)_A_1, STA(Pre_2h)_A_3, STA(Pre_2h)_A_5, STA(Pre_4h)_A_1, STA(Pre_4h)_A_3, and STA(Pre_4h)_A_5.
+------------------------------------------------------------------------------------
+原文: 峰面积的比值在95% ~ 105%之间。
+
+译文: The ratio of Peak Area is between 95% and 105%.
+------------------------------------------------------------------------------------
+原文: 给药制剂处理后稳定性（sbk002）：稳定性样品的检测浓度与初始浓度比值在96.68% ~ 99.88%之间，检测浓度与标示浓度比值在100.38% ~ 104.51%之间，RSD为2.10%。
+
+译文: Post-disposal stability of dose formulations (sbk002): The ratio of testing concentration to initial concentration of stability samples is between 96.68% and 99.88%, the ratio of testing concentration to labeled concentration is between 100.38% and 104.51%, and the RSD is 2.10%.
+------------------------------------------------------------------------------------
+原文: 溶媒（0.5% CMC-Na）的配制
+
+译文: Preparation of vehicle (0.5% CMC-Na)
+------------------------------------------------------------------------------------
+原文: Purge Wash、  Seal Wash（10% 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气泡15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash, Seal Wash (10% Methanol solution): Take 900 mL of sterilized injection water, add it to 100 mL of Methanol, sonicate to remove bubbles for 15 minutes, and it's ready. Store at room temperature, valid for 7 days.
+------------------------------------------------------------------------------------
+原文: 标准曲线线性范围（sbk002）：标准曲线的回归系数（R2）在0.9964 ~ 0.9993之间，标准曲线线性各浓度准确度在98.26% ~ 103.30%之间。
+
+译文: Standard curve linear range (sbk002): The regression coefficient (R2) of the standard curve is between 0.9964 and 0.9993, and the accuracy of each concentration in the standard curve linearity is between 98.26% and 103.30%.
+------------------------------------------------------------------------------------
+原文: 提供单位：成都市贝康生物医药科技有限公司；
+
+译文: Supplier: Chengdu Biokang Biotechnology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 名称：成都市贝康生物医药科技有限公司；
+
+译文: Name: Chengdu Biokang Biotechnology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加入500 mL灭菌注射用水中，混匀后，超声脱气15 min，即得。室温保存，有效期3天。
+
+译文: Aqueous phase (0.2 % TFA aqueous solution): Measure 1000 μL TFA added to 500 mL sterilized injection water, mixed well, sonicated to degass for 15 min, ready. Store at room temperature, valid for 3 days.
+------------------------------------------------------------------------------------
+原文: [3] 孟祥, 李莉, 潘瑶, 姜婷, 等. 供试品检测在GLP研究中的意义及规范化要求[J]. 毒理学杂志, 2011, 25(6): 471-473.
+
+译文: [3] Meng Xiang, Li Li, Pan Yao, Jiang Ting, et al. Significance and standardization requirements for test article testing in GLP research [J]. Toxicology Journal, 2011, 25(6): 471-473.
+------------------------------------------------------------------------------------
+原文: 成都市贝康生物医药科技有限公司
+
+译文: Chengdu Biokang Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 给药制剂稳定性（sbk002）：给药制剂室温遮光2 h稳定性：稳定性样品的检测浓度与初始浓度比值在96.19 % ~ 99.70 %之间，检测浓度与标示浓度比值在100.65 % ~ 102.21 %之间，RSD为0.81 %；给药制剂室温遮光4 h稳定性：稳定性样品的检测浓度与初始浓度比值在96.11 % ~ 98.45 %之间，检测浓度与标示浓度比值在100.87 % ~ 102.42 %之间，RSD为0.87 %。
+
+译文: Dose formulations stability (sbk002): Dose formulations stability at room temperature and light protection for 2 h: The ratio of the testing concentration of stability samples to the initial concentration is between 96.19 % ~ 99.70 %, the ratio of the testing concentration to the labeled concentration is between 100.65 % ~ 102.21 %, with an RSD of 0.81 %; Dose formulations stability at room temperature and light protection for 4 h: The ratio of the testing concentration of stability samples to the initial concentration is between 96.11 % ~ 98.45 %, the ratio of the testing concentration to the labeled concentration is between 100.87 % ~ 102.42 %, with an RSD of 0.87 %.
+------------------------------------------------------------------------------------
+原文: 6.5. 标准曲线线性范围    21
+
+译文: 6.5. Standard Curve Linear Range    21
+------------------------------------------------------------------------------------
+原文: 吸取上述储备液（181204-ST2-sbk）967 µL，用稀释液定容至10 mL，得浓度为100 µg/mL的质控工作溶液，命名为：181204-WS2-sbk。
+
+译文: Aspirate 967 µL of the above stock solution (181204-ST2-sbk), dilute to volume with diluent to 10 mL, obtaining a quality control working solution with a concentration of 100 µg/mL, named: 181204-WS2-sbk.
+------------------------------------------------------------------------------------
+原文: 备注7-1  精密度（sbk002）
+
+译文: Remark 7-1  Precision (sbk002)
+------------------------------------------------------------------------------------
+原文: 准确度均应在95% ~ 105%之间，精密度RSD ≤ 5%（n ≥ 3时要求算RSD）。
+
+译文: Accuracy should be between 95% ~ 105%, Precision RSD ≤ 5% (RSD required when n ≥ 3).
+------------------------------------------------------------------------------------
+原文: 备注2-2  储备液对比（clo）
+
+译文: Remark 2-2  Stock Solution Comparison (clo)
+------------------------------------------------------------------------------------
+原文: sbk002及磷酸氢二钾格雷原料药
+
+译文: sbk002 and Dipotassium Phosphate Gre raw materials
+------------------------------------------------------------------------------------
+原文: 备注6-1  准确度（sbk002）
+
+译文: Remark 6-1  Accuracy (sbk002)
+------------------------------------------------------------------------------------
+原文: 各溶液根据实际需要和相应配制比例调整称取量和配制体积。未注明有效期的溶液等（除给药制剂外）均为现配现用。将首次配制标曲样品的日期定义为第一天（Day1/D1），以此类推至第n天（Day n/Dn）。
+
+译文: Each solution's amount and preparation volume should be adjusted based on actual needs and corresponding preparation ratios. Solutions without specified expiry dates (except dose formulations) should be prepared and used immediately. The date when the standard curve samples are first prepared is defined as Day 1 (Day1/D1), and so on up to the nth day (Day n/Dn).
+------------------------------------------------------------------------------------
+原文: 各组准确度均应在85% ~ 115%之间，批内及批间精密度RSD ≤ 10%。
+
+译文: Accuracy for each group should be between 85% ~ 115%, intra-assay and inter-assay Precision RSD ≤ 10%.
+------------------------------------------------------------------------------------
+原文: 备注6-2  准确度（clo）
+
+译文: Remark 6-2  Accuracy (clo)
+------------------------------------------------------------------------------------
+原文: 将待测试制剂按给药制剂取样和处理方法进行处理后，进样分析。不同天重复测定三个分析批，以当批的标准曲线计算样品的浓度，并以此求算方法的准确度和精密度。命名为： AP_A_1 ~ AP_A_6和AP_B_1 ~  AP_B_6。
+
+译文: After processing the formulations to be tested according to the sampling and treatment methods of the dose formulations, perform sample analysis. Repeat determination on different days for three analytical runs, calculate the concentration of samples based on the standard curve of that batch, and thus calculate the method's accuracy and precision. Named as: AP_A_1 ~ AP_A_6 and AP_B_1 ~ AP_B_6.
+------------------------------------------------------------------------------------
+原文: 专题名称：sbk002及磷酸氢二钾格雷原料药给药制剂分方法学验证试验；
+
+译文: Study Name: Methodology Validation of sbk002 and Dipotassium Phosphate Gre raw materials in dose formulations;
+------------------------------------------------------------------------------------
+原文: 试验操作：丁伟芳、王晓炜、陆明敏；
+
+译文: Assay operation: Ding Weifang, Wang Xiaowei, Lu Mingmin;
+------------------------------------------------------------------------------------
+原文: 1）2017年09月01日生效的中国国家食品药品监管总局（原CFDA）《药物非临床研究质量管理规范》（局令第34号）。
+
+译文: 1）China National Medical Products Administration (formerly CFDA) effective September 1, 2017, Good Laboratory Practices (GLPs) for Non-clinical Studies (Order No. 34).
+------------------------------------------------------------------------------------
+原文: 称取10.61 mg sbk002-D（含量：99.6%），以稀释液1溶解并定容至10 mL，配制成一定浓度的标曲储备液（浓度 = 称取量 × 含量/体积）。命名为：181204-ST1-sbk。
+
+译文: Weigh 10.61 mg sbk002-D (content: 99.6%), dissolve with diluent 1 and dilute to 10 mL to prepare a standard curve stock solution of a certain concentration (concentration = weighed amount × content/volume). Named as: 181204-ST1-sbk.
+------------------------------------------------------------------------------------
+原文: 备注8-2  给药制剂处理后稳定性（clo）
+
+译文: Remark 8-2  Dose Formulations Post-Treatment Stability (clo)
+------------------------------------------------------------------------------------
+原文: 备注8-2 给药制剂处理后稳定性（clo）
+
+译文: Remark 8-2 Dose Formulations Post-Treatment Stability (clo)
+------------------------------------------------------------------------------------
+原文: 备注8-1 给药制剂处理后稳定性（sbk002）
+
+译文: Remark 8-1 Dose Formulations Post-Treatment Stability (sbk002)
+------------------------------------------------------------------------------------
+原文: 专题名称：sbk002及磷酸氯苯胺格雷原料药给药制剂分析方法学验证试验
+
+译文: Study Name: Methodology validation assay for the analysis of sbk002 and Clofazimine Phosphate active pharmaceutical ingredients in dose formulations
+------------------------------------------------------------------------------------
+原文: 取样方法：取样前用磁力搅拌器以一定转速搅拌15 min及以上，转速设定以形成明显凹陷但不产生湍流及大量气泡为准。从待测给药制剂的上、中、下层各取2份样，6份样均按下表进行处理。
+
+译文: Sampling method: Before sampling, use a magnetic stirrer to stir at a certain speed for 15 minutes or more. The stirring speed should create a clear depression without causing turbulence or a large number of bubbles. Take two samples each from the upper, middle, and lower layers of the dose formulations to be tested. Process all six samples according to the table below.
+------------------------------------------------------------------------------------
+原文: 李苹                                                                                     日期
+
+译文: Li Ping                                                                                     Date
+------------------------------------------------------------------------------------
+原文: 方法：使用超高效液相色谱仪对配制的给药制剂浓度及稳定性进行考察，在220 nm波长条件下，用UPLC® BEH C18色谱柱，等度洗脱对sbk002和氯酸氮酚格雷（clo）进行检测，并对液相色谱分析方法的系统适应性、储备液对比、质量控制、专属性、标准曲线线性范围、系统残留、定量下限、准确度与精密度、给药制剂处理后稳定性、给药制剂稳定性进行验证。
+
+译文: Method: Use ultra-high-performance liquid chromatography to examine the concentration and stability of prepared dose formulations at 220 nm wavelength, employing an UPLC® BEH C18 chromatographic column, with isocratic elution to test for sbk002 and chloroxonofluorogrey (clo). The method also includes validation for system suitability, stock solution comparison, quality control, specificity, standard curve linear range, carry-over, lower limit of quantification, accuracy and precision, stability after dose formulations disposal, and dose formulations stability.
+------------------------------------------------------------------------------------
+原文: 实验结果见附件一表3-1和表3-2。质量控制（sbk002）：质控样品QC的准确度在96.57 % ~ 98.90 % 之间，精密度RSD为0.48 %和0.50 % ；质量控制（clo）：质控样品QC的准确度在98.39 % ~ 99.61 % 之间，精密度RSD为0.47 %和0.12 %。
+
+译文: The assay result is shown in Appendix One, Table 3-1 and Table 3-2. Quality Control (sbk002): The accuracy of QC samples ranged from 96.57 % to 98.90 %, with a precision (RSD) of 0.48 % and 0.50 %; Quality Control (clo): The accuracy of QC samples ranged from 98.39 % to 99.61 %, with a precision (RSD) of 0.47 % and 0.12 %.
+------------------------------------------------------------------------------------
+原文: 回归系数（R2） ≥ 0.99，标准曲线线性各浓度回读准确度均应在90 % ~ 110 %之间。
+
+译文: Regression coefficient (R2) ≥ 0.99, the re-reading accuracy for all concentrations in the standard curve should be between 90% and 110%.
+------------------------------------------------------------------------------------
+原文: 名称/代号：氯酸氮酚格雷/clo；
+
+译文: Name/Code: Chloroxonofluorogrey/clo;
+------------------------------------------------------------------------------------
+原文: 给药制剂处理后稳定性(sbk002)：稳定性样品的检测浓度与初始浓度比值在96.68 % ~ 99.88 %之间，检测浓度与标示浓度比值在100.38 % ~ 104.51 %之间，RSD为2.10 % 。
+
+译文: Dose formulations post-disposal stability (sbk002): The ratio of detected concentration to initial concentration is between 96.68 % and 99.88 %, and the ratio of detected concentration to labeled concentration is between 100.38 % and 104.51 %, with an RSD of 2.10 %.
+------------------------------------------------------------------------------------
+原文: 溶媒(0.5 % CMC-Na)的配制
+
+译文: Preparation of solvent (0.5 % CMC-Na)
+------------------------------------------------------------------------------------
+原文: Purge Wash、 Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加入至100 mL甲醇中，超声脱气15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash, Seal Wash (10 % methanol aqueous solution): Measure 900 mL of sterilized injection water into 100 mL methanol, sonicate to degas for 15 min, and obtain the solution. Store at room temperature, valid for 7 days.
+------------------------------------------------------------------------------------
+原文: 标准曲线线性范围（sbk002）：标准曲线的回归系数（R²）在0.9964 ~ 0.9993之间，标准曲线线性各浓度准确度在98.26 % ~ 103.30 %之间。
+
+译文: Standard Curvelinear range (sbk002)：The regression coefficient (R²) of the standard curve is between 0.9964 ~ 0.9993, and the accuracy of various concentrations of the standard curve is between 98.26 % ~ 103.30 %。
+------------------------------------------------------------------------------------
+原文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加入至500 mL灭菌注射用水中，混匀后，超声脱气15 min，即得。室温保存，有效期3天。
+
+译文: Water phase (0.2 % TFA aqueous solution)：Measure 1000 μL TFA and add to 500 mL sterilized water for injection, mix well, sonicate to remove bubbles for 15 min, and it is ready. Store at room temperature, valid for 3 days.
+------------------------------------------------------------------------------------
+原文: [3] 孟祥, 李莉, 潘琼, 姜婷, 等. 供试品检测在GLP研究中的意义及规范化要求[J]. 毒理学杂志, 2011, 25(6): 471-473.
+
+译文: [3] Meng Xiang, Li Li, Pan Qiong, Jiang Ting, et al. Significance and Standardization Requirements of Test Article Testing in GLP Research[J]. Journal of Toxicology, 2011, 25(6): 471-473.
+------------------------------------------------------------------------------------
+原文: 给药制剂稳定性（sbk002）：给药制剂室温遮光2 h稳定性：稳定性样品的检测浓度与初始浓度比值在96.19 % ~ 99.70 %之间，检测浓度与标示浓度比值在100.65 % ~ 102.21 %之间, RSD为0.81 %；给药制剂室温遮光4 h稳定性：稳定性样品的检测浓度与初始浓度比值在96.11 % ~ 98.45 %之间，检测浓度与标示浓度比值在100.87 % ~ 102.42 %之间, RSD为0.87 %。
+
+译文: Dose formulations stability (sbk002)：Dose formulations room temperature shading 2 h stability: The ratio of test concentration of stability sample to initial concentration is between 96.19 % ~ 99.70 %, the ratio of test concentration to labeled concentration is between 100.65 % ~ 102.21 %, RSD is 0.81 %; Dose formulations room temperature shading 4 h stability: The ratio of test concentration of stability sample to initial concentration is between 96.11 % ~ 98.45 %, the ratio of test concentration to labeled concentration is between 100.87 % ~ 102.42 %, RSD is 0.87 %. 
+------------------------------------------------------------------------------------
+原文: 表9-2  给药制剂处理后稳定性（clo）
+
+译文: Table 9-2 Dose formulations stability after disposal (clo)
+------------------------------------------------------------------------------------
+原文: 表9-2 给药制剂处理后稳定性（clo）
+
+译文: Table 9-2 Dose formulations stability after disposal (clo)
+------------------------------------------------------------------------------------
+原文: 表9-1 给药制剂处理后稳定性（sbk002）
+
+译文: Table 9-1 Dose formulations stability after disposal (sbk002)
+------------------------------------------------------------------------------------
+原文: 实验结果见附件一表5-1和表5-2。定量下限（sbk002）：信噪比S/N 在83 ~ 242之间，准确度在100.70 % ~ 102.06 %之间，精密度RSD为0.70 %；定量下限（clo）：信噪比S/N 在35 ~ 138之间，准确度在98.96 % ~ 100.38 %之间，精密度RSD为0.72 %。
+
+译文: Assay results see Appendix Table 5-1 and Table 5-2. Lower limit of quantification (sbk002): signal-to-noise ratio S/N between 83 ~ 242, accuracy between 100.70 % ~ 102.06 %, precision RSD is 0.70 %; Lower limit of quantification (clo): signal-to-noise ratio S/N between 35 ~ 138, accuracy between 98.96 % ~ 100.38 %, precision RSD is 0.72 %.
+------------------------------------------------------------------------------------
+原文: 准确度均应在95 ～ 105 之间，精密度 RSD ≤ 5 （n ≥ 3 时 需求 算 RSD）。
+
+译文: Accuracy should be between 95% to 105%, and precision RSD should be ≤ 5% (n ≥ 3 when calculating RSD).
+------------------------------------------------------------------------------------
+原文: 各组准确度均应在85 ～ 115 之间，批内及批间精密度 RSD ≤ 10 。
+
+译文: Accuracy for each group should be between 85% to 115%, and intra-assay precision RSD should be ≤ 10%.
+------------------------------------------------------------------------------------
+原文: 将待测制剂按给药制剂取样和处理方法进行处理后，进样分析。不同天重复测定三个分析批，以当批的标准曲线计算样品的浓度，并以此求算方法的准确度和精密度。命名为： AP_A_1 ~ AP_A_6和AP_B_1 ～  AP_B_6。
+
+译文: Test formulations should be sampled and processed according to the specified sampling and treatment methods, and then analyzed. On different days, three analytical runs should be repeated, using the standard curve of each run to calculate the sample concentration, and evaluate the accuracy and precision of the method. They are named as: AP_A_1 ~ AP_A_6 and AP_B_1 ~ AP_B_6.
+------------------------------------------------------------------------------------
+原文: 专题名称： sbk002及硫酸氢氯吡格雷原料药给药制剂分析方法学验证试验；
+
+译文: Study Name: sbk002 and sodium fluorescein raw material dose formulations analytical methodology validation study;
+------------------------------------------------------------------------------------
+原文: 称取10.61 mg sbk002-D（含量：99.6 %），以稀释液 1溶解并定容至 10 mL，配制成一定浓度的标曲储备液（ 浓度 = 称取量 × 含量 / 体积 ）。命名为：181204-ST1-sbk。
+
+译文: Weigh 10.61 mg of sbk002-D (content: 99.6%), dissolve in 1 mL of diluent, and dilute to a volume of 10 mL to prepare a standard stock solution with a specific concentration (concentration = weighed amount × content / volume). Named: 181204-ST1-sbk.
+------------------------------------------------------------------------------------
+原文: 取样方法：取样前用磁力搅拌器以一定转速搅拌 15 min 及以上，转速设定以形成明显凹陷但不产生漩涡及大量气泡为准。从待测给药制剂的上、中、下层各取 2 份样， 6 份样均按下表进行处理。
+
+译文: Sampling Method: Prior to sampling, use a magnetic stirrer to stir at a certain speed for 15 minutes or longer. The stirring speed should create a noticeable depression without vortexing or generating excessive bubbles. Sample 2 portions each from the top, middle, and bottom layers of the formulation to be tested, and process the 6 samples according to the table below.
+------------------------------------------------------------------------------------
+原文: 有机相（乙腈）：乙腈，超声脱气泡 15 min，即得。室温保存，有效期 1 个月。
+
+译文: Organic Phase (Acetonitrile): Acetonitrile, ultrasonicate to remove bubbles for 15 minutes, then ready for use. Store at room temperature; shelf-life of 1 month.
+------------------------------------------------------------------------------------
+原文: 方法：使用超高效液相色谱仪对配制的给药制剂浓度及稳定性进行考察，在220 nm波长条件下，用UPLC®BEH C18色谱柱、等级洗脱对sbk002和硫酸铟（clo）进行检测，并对液相色谱分析方法的系统适应性、储备液对比、质量控制、专属性、标准曲线线性范围、系统残留、定量下限、准确度与精密度、给药制剂处理后稳定性、给药制剂稳定性进行验证。
+
+译文: Method: Use ultra-high-performance liquid chromatography (UHPLC) to examine the concentration and stability of the prepared dose formulations. Under conditions of 220 nm wavelength, use a UPLC® BEH C18 chromatographic column for gradient elution to test sbk002 and indium sulfate (clo), and validate the liquid chromatography analysis method for system suitability, stock solution comparison, quality control, specificity, standard curve linear range, carry-over, lower limit of quantification, accuracy and precision, post-disposal stability of dose formulations, and stability of dose formulations.
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一第3-1和第3-2。质量控制（sbk002）：质控样品QC的准确度在96.57% ~ 98.90%之间，精密度RSD为0.48%和0.50%；质量控制（clo）：质控样品QC的准确度在98.39% ~ 99.61%之间，精密度RSD为0.47%和0.12%。
+
+译文: Assay results are shown in Appendix 1, Tables 3-1 and 3-2. Quality Control (sbk002): The accuracy of QC samples is between 96.57% and 98.90%, and the precision RSD is 0.48% and 0.50%; Quality Control (clo): The accuracy of QC samples is between 98.39% and 99.61%, and the precision RSD is 0.47% and 0.12%.
+------------------------------------------------------------------------------------
+原文: 回归系数（R2） ≥ 0.99，标准曲线线性各浓度回读准确度均应在90% ~ 110%之间。
+
+译文: Regression coefficient (R2) ≥ 0.99, the accuracy of the readback for all concentrations in the standard curve linearity should be between 90% and 110%.
+------------------------------------------------------------------------------------
+原文: 名称/代号：硫酸铟/clo；
+
+译文: Name/Code: indium sulfate/clo;
+------------------------------------------------------------------------------------
+原文: Purge Wash、 Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash, Seal Wash (10% methanol-aqueous solution): Measure 900 mL of sterilized injection water and add it to 100 mL of methanol, sonicate to remove bubbles for 15 min, and it is ready. Store at room temperature, valid for 7 days.
+------------------------------------------------------------------------------------
+原文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气15 min，即得。室温保存，有效期3天。
+
+译文: Aqueous phase (0.2% TFA aqueous solution): Measure 1000 μL of TFA and add it to 500 mL of sterilized injection water, mix well, sonicate to remove bubbles for 15 min, and it is ready. Store at room temperature, valid for 3 days.
+------------------------------------------------------------------------------------
+原文: [3] 孟祥, 李莉, 潘琼, 姜帅, 等. 供试品检测在GLP研究中的意义及规范化要求[J]. 毒理学杂志, 2011, 25(6): 471-473.
+
+译文: [3] Xiang Meng, Li Li, Qiong Pan, Shuai Jiang, et al. The significance and standardization requirements of test article testing in GLP research [J]. Journal of Toxicology, 2011, 25(6): 471-473.
+------------------------------------------------------------------------------------
+原文: 试验结果见附件一表3-1和表3-2。质量控制（sbk002）：质控样品QC的准确度在96.57 % ~ 98.90 %之间，精密度RSD为0.48 %和0.50 % ；质量控制（clo）：质控样品QC的准确度在98.39 % ~ 99.61 %之间，精密度RSD为0.47 %和0.12 %。
+
+译文: The test results are shown in Appendix Table 3-1 and Table 3-2. Quality Control (sbk002): The accuracy of QC samples ranges from 96.57% to 98.90%, with a precision RSD of 0.48% and 0.50%; Quality Control (clo): The accuracy of QC samples ranges from 98.39% to 99.61%, with a precision RSD of 0.47% and 0.12%.
+------------------------------------------------------------------------------------
+原文: 名称/代号：硫酸镉谷雷/clo；
+
+译文: Name/Code: Cadmium Sulfate Gulray/clo;
+------------------------------------------------------------------------------------
+原文: Purge Wash、 Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气显15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash, Seal Wash (10% methanol aqueous solution): Measure 900 mL of sterilized water for injection and add to 100 mL of methanol, sonicate to degas for 15 min, and obtain. Store at room temperature, valid for 7 days.
+------------------------------------------------------------------------------------
+原文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气显15 min，即得。室温保存，有效期3天。
+
+译文: Aqueous phase (0.2% TFA aqueous solution): Measure 1000 μL of TFA and add to 500 mL of sterilized water for injection, mix well, sonicate to degas for 15 min, and obtain. Store at room temperature, valid for 3 days.
+------------------------------------------------------------------------------------
+原文: [3] 孟祥, 李芬, 潘璟, 姜娟, 等. 供试品检测在GLP研究中的意义及规范化要求[J]. 毒理学杂志, 2011, 25(6): 471-473.
+
+译文: [3] Meng Xiang, Li Fen, Pan Jing, Jiang Juan, et al. The significance and standardization requirements of test article testing in GLP studies [J]. Journal of Toxicology, 2011, 25(6): 471-473.
+------------------------------------------------------------------------------------
+原文: 丘雅, 杨婷, 王莉, 等. 供试品检测在非临床研究中的应用及研究价值[J]. 毒理学杂志, 2015, 29(2): 162-164.
+
+译文: [2] Qiu Ya, Yang Ting, Wang Li, et al. Application and research value of test article testing in non-clinical studies [J]. Journal of Toxicology, 2015, 29(2): 162-164.
+------------------------------------------------------------------------------------
+原文: 丘雅, 杨婷, 王莉, 等. 大鼠亚慢性毒性试验中的几个问题的分析[J]. 中国药理学通报, 2018, 34(5): 691-693.
+
+译文: [1] Qiu Ya, Yang Ting, Wang Li, et al. Analysis of several issues in rat subchronic toxicity test [J]. Chinese Pharmacology Bulletin, 2018, 34(5): 691-693.
+------------------------------------------------------------------------------------
+原文: 丘雅, 杨婷, 王莉, 等. 喹诺酮类抗菌药在兽药中的应用与现状[J]. 中国药理学通报, 2017, 33(10): 1343-1346.
+
+译文: [2] Qiu Ya, Yang Ting, Wang Li, et al. Application and current status of quinolone antibiotics in veterinary medicine [J]. Chinese Pharmacology Bulletin, 2017, 33(10): 1343-1346.
+------------------------------------------------------------------------------------
+原文: 5d298-2 给药制剂处理后稳定性（clo）
+
+译文: 5d298-2 dose formulation disposal after stability (clo)
+------------------------------------------------------------------------------------
+原文: 5d298-1 给药制剂处理后稳定性（sbk002）
+
+译文: 5d298-1 dose formulation disposal after stability (sbk002)
+------------------------------------------------------------------------------------
+原文: 实验结果见附件一5d295-1和5d295-2。定量下限（sbk002）：信噪比S/N在83 ~ 242之间，准确度在100.70 % ~ 102.06 %之间，精密度RSD为0.70 % ；定量下限（clo）：信噪比S/N在35 ~ 138之间，准确度在98.96 % ~ 100.38 %之间，精密度RSD为0.72 %。
+
+译文: The experimental results are shown in Appendix 5d295-1 and 5d295-2. Lower limit of quantification (sbk002): Signal-to-noise ratio S/N between 83 ~ 242, accuracy between 100.70% ~ 102.06%, precision RSD is 0.70%; Lower limit of quantification (clo): Signal-to-noise ratio S/N between 35 ~ 138, accuracy between 98.96% ~ 100.38%, precision RSD is 0.72%.
+------------------------------------------------------------------------------------
+原文: 5d299-1 给药制剂稳定性（sbk002）
+
+译文: 5d299-1 dose formulation stability (sbk002)
+------------------------------------------------------------------------------------
+原文: Purge Wash 、  Seal Wash （10 % 甲醇水溶液）：量 取 900 mL 灭菌注射用水 加至 100 mL 甲醇中，超声脱气泡 15 min，即得。室温保存，有效期 7 天。
+
+译文: Purge Wash , Seal Wash (10% Methanol water solution): Take 900 mL sterilized injection water and add it to 100 mL of Methanol, sonicate to remove bubbles for 15 min, and it is ready for use. Store at room temperature, expiry date is 7 days.
+------------------------------------------------------------------------------------
+原文: 水相（ 0.2 % TFA水溶液）：量 取 1000 μL TFA 加至 500 mL 灭菌注射用水 中，混合 后，超声脱气泡 15 min，即得。室温保存，有效期 3 天。
+
+译文: Aqueous phase (0.2% TFA water solution): Take 1000 μL of TFA and add it to 500 mL of sterilized injection water, mix well, sonicate to remove bubbles for 15 min, and it is ready for use. Store at room temperature, expiry date is 3 days.
+------------------------------------------------------------------------------------
+原文: Purge Wash、 Seal Wash（10% 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash、 Seal Wash（10% Methanol aqueous solution）：measure 900 mL sterilized injection water add to 100 mL Methanol, sonicate to remove bubbles for 15 min, and it is ready. Store at room temperature, valid for 7 days.
+------------------------------------------------------------------------------------
+原文: 水相（0.2% TFA水溶液）：量取1000 µL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气15 min，即得。室温保存，有效期3天。
+
+译文: Aqueous Phase（0.2% TFA aqueous solution）：measure 1000 µL TFA add to 500 mL sterilized injection water, mixed well, sonicate to remove bubbles for 15 min, and it is ready. Store at room temperature, valid for 3 days.
+------------------------------------------------------------------------------------

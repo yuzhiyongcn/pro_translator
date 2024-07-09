@@ -1,0 +1,320 @@
+原文: 13. 附录 27
+
+译文: 13. Appendix 27 
+------------------------------------------------------------------------------------
+原文: 垫料批次号：AWR-20190408;
+
+译文:  bedding batch number: AWR-20190408; 
+------------------------------------------------------------------------------------
+原文: 会议记录
+
+译文:  meeting record 
+------------------------------------------------------------------------------------
+原文: 联系人：武丽；
+
+译文:  contact person: Wu Li; 
+------------------------------------------------------------------------------------
+原文: 推测H4和SM3为活性代谢产物和进一步代谢的甲基化产物。
+
+译文:  It is speculated that H4 and SM3 are active metabolic products and further methylated metabolites of metabolism. 
+------------------------------------------------------------------------------------
+原文: 7.2. 血药浓度检测 17
+
+译文:  7.2. Blood drug concentration testing 17 
+------------------------------------------------------------------------------------
+原文: 3.2. 性别与数量 11
+
+译文:  3.2. sex and number 11 
+------------------------------------------------------------------------------------
+原文: 动物选择
+
+译文:  Animal Selection 
+------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002后代谢产物SM3门静脉平均质谱响应/颈静脉平均质谱响应相对比率为0.85；SD大鼠灌胃给予clo后代谢产物SM3门静脉平均质谱响应/颈静脉平均质谱响应比率为1.12。
+
+译文:  The relative ratio of the mean mass spectrometry response of the portal vein to the mean mass spectrometry response of the cervical vein for the metabolism product SM3 in SD rats gavage-administered with sbk002 was 0.85; the relative ratio for those gavage-administered with clo was 1.12. 
+------------------------------------------------------------------------------------
+原文: 待测动物：所有存活的试验动物。
+
+译文:  to be tested animal: all surviving assay animals. 
+------------------------------------------------------------------------------------
+原文: 目的：SD大鼠灌胃分别给予sbk002和硫酸氢氯吡格雷（clo），测定sbk002血药浓度，定性确定活性代谢产物的有无[进行半定量研究（即活性代谢产物与sbk002的质谱信号比率）]，另计算大鼠sbk002及代谢产物门静脉/颈静脉的血药浓度比率。
+
+译文:  Objective: To gavage SD rats with sbk002 and clopidogrel sulfate (clo), determine the sbk002 blood drug concentration, qualitatively determine the presence of active metabolic products [conduct semi-quantitative studies (i.e., the mass spectrometry signal ratio of active metabolic products to sbk002)], and Calculate the blood drug concentration ratio of sbk002 and its metabolic products between the portal vein and the cervical vein. 
+------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司；
+
+译文:  Chengdu Shibeikang Biomedicine Technology Co., Ltd.; 
+------------------------------------------------------------------------------------
+原文: sbk002剂量组门静脉血浆样本典型图谱见图1-1，颈静脉血浆样本典型图谱见图1-2；clo剂量组门静脉血浆样本典型图谱见图1-3，clo剂量组颈静脉血浆样本典型图谱见图1-4。
+
+译文:  Typical spectra of sbk002 dose group portal vein plasma samples are shown in Figure 1-1, typical spectra of cervical vein plasma samples are shown in Figure 1-2; typical spectra of clo dose group portal vein plasma samples are shown in Figure 1-3, typical spectra of cervical vein plasma samples in the clo dose group are shown in Figure 1-4. 
+------------------------------------------------------------------------------------
+原文: 剂量制剂在实验机构内的转移
+
+译文:  dose formulation metastasis within the test institution 
+------------------------------------------------------------------------------------
+原文: 通风率：每小时空气更换不少于15次。
+
+译文:  Ventilation rate: no less than 15 air changes per hour. 
+------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测技术有限公司提供的检测报告（报告编号：A20190208613101）检测项目包括：pH值、色度、浑浊度、臭和味、肉眼可见物、总硬度、耗氧量、溶解性总固体、阴离子合成洗涤剂、挥发酚类、氰化物、六价铬、硫酸盐、氯化物、氟化物、硝酸盐氮、氯酸盐、亚氯酸盐、溴酸盐、总大肠菌群、耐热大肠菌群、大肠埃希氏菌、菌落总数、铝、铁、锰、铜、锌、砷、镉、铅、硒、汞、甲醛、氯仿（三氯甲烷）、四氯化碳、总α放射性、总β放射性，检测结果符合国标。
+
+译文:  Testing of routine indicators of water quality: Testing report provided by Jiangsu Huaceping Standard Testing Technology Co., Ltd. (report number: A20190208613101) includes: pH, chroma, turbidity, odor and taste, visible substances, total hardness, oxygen consumption, total dissolved solids, anionic synthetic detergents, volatile phenols, cyanide, hexavalent chromium, sulfate, chloride, fluoride, nitrate nitrogen, chlorate, chlorite, bromate, total coliform group, thermotolerant coliform group, Escherichia coli, total bacteria count, aluminum, iron, manganese, copper, zinc, arsenic, cadmium, lead, selenium, mercury, formaldehyde, chloroform (trichloromethane), carbon tetrachloride, total alpha radioactivity, total beta radioactivity, testing results meet national standards. 
+------------------------------------------------------------------------------------
+原文: (2) SD大鼠灌胃剂量clo后，在门静脉（推测肠道会代谢）会产生代谢产物H4，门静脉和颈静脉的质谱响应比较，无明显差异；
+
+译文:  (2) After SD rats were gavage-administered with clo, it is speculated that the intestinal metabolism will produce the metabolic product H4. Comparison of mass spectrometry responses between the portal vein and the cervical vein showed no significant difference. 
+------------------------------------------------------------------------------------
+原文: 相对偏差
+
+译文:  relative deviation 
+------------------------------------------------------------------------------------
+原文: 大鼠灌胃sbk002及clo后的门静脉和颈静脉血药浓度比较
+
+译文:  Comparison of blood drug concentrations between the portal vein and cervical vein in rats gavage-administered with sbk002 and clo 
+------------------------------------------------------------------------------------
+原文: 12.3. 存储场所与存储条件 26
+
+译文:  12.3. Storage locations and storage conditions 26 
+------------------------------------------------------------------------------------
+原文: 有效期：2021-06-24（复检日期）；
+
+译文:  expiry date: 2021-06-24 (reinspection date); 
+------------------------------------------------------------------------------------
+原文: 制造商：苏州安威尔康实验动物用品有限公司；
+
+译文:  Manufacturer: Suzhou Anweike Laboratory Animals Supplies Co., Ltd.; 
+------------------------------------------------------------------------------------
+原文: 2.2. 操作/安全措施 11
+
+译文:  2.2. Operational/Safety measures 11 
+------------------------------------------------------------------------------------
+原文: (3) 门静脉/颈静脉的平均血药浓度比sbk002剂量组为1.82，clo组为1.40，两者比较无明显差异。
+
+译文:  (3) The mean blood drug concentration ratio of portal vein/cervical vein for the sbk002 dose group was 1.82, and for the clo group, it was 1.40. The comparison between the two showed no significant difference. 
+------------------------------------------------------------------------------------
+原文: 性别与数量
+
+译文:  sex and number 
+------------------------------------------------------------------------------------
+原文: 饲养环境条件标准：中华人民共和国国家标准GB14925-2010；
+
+译文:  Housing Environment Conditions Standards: National Standards of the People's Republic of China GB14925-2010; 
+------------------------------------------------------------------------------------
+原文: 为实验动物提供玩具，作为环境丰富措施。
+
+译文:  To provide toys for laboratory animals as a measure of environmental enrichment. 
+------------------------------------------------------------------------------------
+原文: 地址：成都高新区（西区）西芯大道17号；
+
+译文:  Address: No. 17, Xixin Avenue, New & Hi-tech Industrial Development Zone (West Zone), Chengdu; 
+------------------------------------------------------------------------------------
+原文: 5. 研究设计 15
+
+译文:  5. Research design 15 
+------------------------------------------------------------------------------------
+原文: 给药前对已进入预试验阶段的所有大鼠进行一般状态观察，检查不合格的动物不纳入试验。
+
+译文:  Pre-dose general state observation was performed on all rats that entered the pre-assay phase, animals that do not pass the examination were not included in the assay. 
+------------------------------------------------------------------------------------
+原文: 3. 检测系统 11
+
+译文:  3. testing system 11 
+------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及硫酸氢氯吡格雷肠道吸收试验
+
+译文:  Intestinal absorption assay of SD rats gavage-administered with sbk002 and clopidogrel sulfate 
+------------------------------------------------------------------------------------
+原文: 载体一般信息
+
+译文:  Carrier general information 
+------------------------------------------------------------------------------------
+原文: 5.2. 试验方法 16
+
+译文:  5.2. assay method 16 
+------------------------------------------------------------------------------------
+原文: 操作/安全措施
+
+译文:  Operational/Safety measures 
+------------------------------------------------------------------------------------
+原文: 微克每毫升
+
+译文:  Micrograms per milliliter 
+------------------------------------------------------------------------------------
+原文: 剂量容积：单次剂量容积均为1 mL/kg。每只动物的剂量根据最近一次测量的体重进行调整；
+
+译文:  Dose volume: The single dose volume is 1 mL/kg. The dose for each animal was adjusted based on the most recent body weight measurement. 
+------------------------------------------------------------------------------------
+原文: 测量时间：给药前确定1次。
+
+译文:  Measurement time: Determined once pre-dose. 
+------------------------------------------------------------------------------------
+原文: 动物管理和使用
+
+译文:  animal management and use 
+------------------------------------------------------------------------------------
+原文: 采样方法和采样量：门静脉和颈静脉各采集血液约0.4 mL，采集的全血至含EDTA-K2的抗凝管中，轻轻混匀；
+
+译文:  Sampling method and sampling volume: Approximately 0.4 mL of blood was collected from both the portal vein and the cervical vein, and the whole blood collected was put into an EDTA-K2 anticoagulant tube and gently mixed well. 
+------------------------------------------------------------------------------------
+原文: 动物接收和适应
+
+译文:  animal Animal Receipt and Acclimation 
+------------------------------------------------------------------------------------
+原文: 不适用
+
+译文:  Not Applicable 
+------------------------------------------------------------------------------------
+原文: 研究名称及编号
+
+译文:  Study name and number 
+------------------------------------------------------------------------------------
+原文: 12.2. 存档数据 25
+
+译文:  12.2. Archiving of data 25 
+------------------------------------------------------------------------------------
+原文: 试验时间安排
+
+译文:  Assay time arrangement 
+------------------------------------------------------------------------------------
+原文: 垫料
+
+译文:  bedding 
+------------------------------------------------------------------------------------
+原文: 批号：C1814029；
+
+译文:  batch number: C1814029; 
+------------------------------------------------------------------------------------
+原文: 冷明红，M.S. 日期
+
+译文:  Leng Minghong, M.S. date 
+------------------------------------------------------------------------------------
+原文: (1)最终报告签署后2周内，研究负责人确保所有研究资料转移至档案室归档。
+
+译文:  (1) Within two weeks after the final report is signed, the study director ensures that all study materials are transferred to the archives room for archiving. 
+------------------------------------------------------------------------------------
+原文: 表1-2 SD大鼠灌胃给予sbk002及clo后血浆中sbk002平均血药浓度（ng/mL，n = 8）
+
+译文:  Table 1-2 shows the mean blood drug concentrations of sbk002 in plasma (ng/mL, n = 8) after SD rats were gavage-administered with sbk002 and clo. 
+------------------------------------------------------------------------------------
+原文: 性别比例：雌、雄各半；
+
+译文:  sex ratio: 50% male, 50% female; 
+------------------------------------------------------------------------------------
+原文: 设施内的所有原始数据根据研究方案和苏州华测生物技术有限公司的SOP手动收集或用数据采集系统收集。手动收集的数据转录到Excel表格中用于分析和报告。
+
+译文:  All raw data within the facility is manually collected according to the study protocol and the SOP of Suzhou Huace Biological Technology Co., Ltd., or collected using a data acquisition system. Manually collected data are transcribed to Excel tables for analysis and reporting. 
+------------------------------------------------------------------------------------
+原文: 垫料检测：苏州安威尔康实验动物用品有限公司提供的垫料，具有谱尼测试提供垫料的检测报告（报告编号：BNAY0TLL8I072508），检测指标包括砷、铅、镉、汞、六六六、滴滴涕、黄曲霉毒素B1。检测结果符合要求。
+
+译文:  Bedding testing: Suzhou Anweike Laboratory Animals Supplies Co., Ltd. provided bedding, with testing report provided by Pony Testing International Group (report number: BNAY0TLL8I072508), testing items include arsenic, lead, cadmium, mercury, hexachlorocyclohexane, DDT, aflatoxin B1. Testing results meet the requirements. 
+------------------------------------------------------------------------------------
+原文: 数据整理及统计分析：冷明红、Shuangshuang Ye、葛明玉。
+
+译文:  Data collation and statistical analysis: Leng Minghong, Shuangshuang Ye, Ge Mingyu. 
+------------------------------------------------------------------------------------
+原文: 剩余试验物品处理：待本项目所有研究结束后退还给赞助商。
+
+译文:  Disposal of remaining assay materials: The remaining research materials will be returned to the sponsor after the completion of this project. 
+------------------------------------------------------------------------------------
+原文: 代谢产物H4门静脉/颈静脉的平均质谱信号比率：SD大鼠灌胃给予sbk002后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应比率为0.91；SD大鼠灌胃给予clo后代谢产物H4门静脉平均质谱响应/颈静脉平均质谱响应比率为1.16，两剂量组比较无明显差异。
+
+译文:  Mean mass spectrometry signal ratio of H4 portal vein/cervical vein metabolic products: The mean mass spectrometry response ratio of H4 portal vein/cervical vein metabolic products after SD rats gavage-administered with sbk002 was 0.91; the mean mass spectrometry response ratio after gavage-administered with clo was 1.16. There was no significant difference between the two dose groups. 
+------------------------------------------------------------------------------------
+原文: 地址：
+
+译文:  Address: 
+------------------------------------------------------------------------------------
+原文: 雄
+
+译文:  Male 
+------------------------------------------------------------------------------------
+原文: 名称：成都施贝康生物医药科技有限公司。
+
+译文:  Name: Chengdu Shibeikang Biomedicine Technology Co., Ltd. 
+------------------------------------------------------------------------------------
+原文: 传真：0512-36802288；
+
+译文:  Fax: 0512-36802288; 
+------------------------------------------------------------------------------------
+原文: 半衰期
+
+译文:  Half-life 
+------------------------------------------------------------------------------------
+原文: 图1-1 sbk002剂量组1M001门静脉血浆样本典型图
+
+译文:  Figure 1-1 Typical spectrum of portal vein plasma samples from sbk002 dose group 1M001 
+------------------------------------------------------------------------------------
+原文: 有效期：2022-03-14；
+
+译文:  expiry date: 2022-03-14; 
+------------------------------------------------------------------------------------
+原文: 品系：SD大鼠；
+
+译文:  Strain: SD rats; 
+------------------------------------------------------------------------------------
+原文: 附录
+
+译文:  Appendix 
+------------------------------------------------------------------------------------
+原文: 1.6. 遵循的法规及技术指南 7
+
+译文:  1.6. Regulations and technical guidelines followed 7 
+------------------------------------------------------------------------------------
+原文: SD大鼠灌胃给予sbk002及clo后，sbk002和clo分别门静脉和颈静脉血药浓度见表1-1，sbk002和clo的门静脉和颈静脉平均血药浓度见表1-2。
+
+译文:  After SD rats were gavage-administered with sbk002 and clo, the sbk002 and clo blood drug concentrations in the portal vein and cervical vein can be seen in Table 1-1, and the mean blood drug concentrations of sbk002 and clo in the portal vein and cervical vein can be seen in Table 1-2. 
+------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司
+
+译文:  Chengdu Shibeikang Biomedicine Technology Co., Ltd. 
+------------------------------------------------------------------------------------
+原文: 动物组分配及剂量信息见下表：
+
+译文:  Animal group allocation and dose information are shown in the following table: 
+------------------------------------------------------------------------------------
+原文: sbk002剂量组
+
+译文:  sbk002 dose group 
+------------------------------------------------------------------------------------
+原文: 3.4. 体重与年龄 12
+
+译文:  3.4. body weight and age 12 
+------------------------------------------------------------------------------------
+原文: 平均滞留时间
+
+译文:  Mean residence time 
+------------------------------------------------------------------------------------
+原文: 研究负责人
+
+译文:  Study director 
+------------------------------------------------------------------------------------
+原文: 垫料类型：玉米芯；
+
+译文:  Bedding type: Corncob 
+------------------------------------------------------------------------------------
+原文: 制备方法：以制备1000 mL载体为例：准确称取5.0 g的CMC-Na粉末，用量筒量取1000 mL纯水转移至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入搅拌子，用磁力搅拌器搅拌至完全溶解，即得0.5 % CMC-Na溶液1000 mL。室温存放，8天内有效。
+
+译文:  Preparation method: For example, to prepare 1000 mL of carrier: Accurately weigh 5.0 g of CMC-Na powder, measure 1000 mL of pure water with a graduated cylinder, transfer to a beaker, uniformly disperse the CMC-Na powder in the beaker, add a stirring bar, and stir with a magnetic stirrer until fully dissolved to obtain 0.5% CMC-Na solution 1000 mL. Store at room temperature, effective within 8 days. 
+------------------------------------------------------------------------------------
+原文: 组分配方法：按性别按体重随机分组。
+
+译文:  Group allocation method: Randomly group by body weight and sex. 
+------------------------------------------------------------------------------------
+原文: 8. 数据采集和分析 17
+
+译文:  8. Data acquisition and analysis 17 
+------------------------------------------------------------------------------------
+原文: 小时
+
+译文:  hour 
+------------------------------------------------------------------------------------
+原文: 1.2. 研究目的 6
+
+译文:  1.2. Research objective 6 
+------------------------------------------------------------------------------------
+原文: 氯吡格雷的人体代谢产物及代谢途径：
+
+译文:  Human metabolic products and metabolic pathways of clopidogrel:
+------------------------------------------------------------------------------------

@@ -1,0 +1,272 @@
+原文: intra-assay precision：3个独立的analytical run之间，各concentration的QC sample的CV应在15 %以内（Lower Limit of Quantification的CV应在20 %以内）。
+
+译文: Intra-assay precision: The CV of each concentration QC sample among 3 independent analytical runs should be within 15% (CV of the Lower Limit of Quantification should be within 20%).
+------------------------------------------------------------------------------------
+原文: 5. data acquisition和analyzed 18
+
+译文: 5. Data acquisition and analyzed 18
+------------------------------------------------------------------------------------
+原文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone Yuanfeng Road 166号
+
+译文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone, No. 166 Yuanfeng Road
+------------------------------------------------------------------------------------
+原文: 质量保证
+
+译文: Quality assurance
+------------------------------------------------------------------------------------
+原文: Selectivity描述该analyzed method区分目标analyzed物和internal standard与matrix的内源性组分或sample中其他组分的能力。
+
+译文: Selectivity describes the ability of the analyzed method to distinguish the target analytes and internal standard from endogenous components of the matrix or other components in the sample.
+------------------------------------------------------------------------------------
+原文: 地址：成都New & Hi-tech Industrial Development Zone（西区）西芯大道17号；
+
+译文: Address: No. 17 Xixin Avenue, New & Hi-tech Industrial Development Zone (West District), Chengdu
+------------------------------------------------------------------------------------
+原文: 内标
+
+译文: Internal standard
+------------------------------------------------------------------------------------
+原文: 运行定量upper limit sample（Upper Limit of Quantification）后，再运行1个blank matrix sample（Matrix BLK），at least考察3次。要求此blank matrix sample（Carryover）应在sbk002及internal standard retention time处have no interference peaks或interfering peak Peak Area分别less than等于Lower Limit of Quantification sample analyzed物Peak Area的20 %和peak area of internal standard的5 %。
+
+译文: After running the upper limit sample of quantification (Upper Limit of Quantification), run a blank matrix sample (Matrix BLK) at least 3 times to investigate. The interference peaks or interfering peak areas at sbk002 and internal standard retention times in this blank matrix sample (Carryover) should be less than or equal to 20% of the Peak Area of the Lower Limit of Quantification sample analyte and 5% of the peak area of the internal standard.
+------------------------------------------------------------------------------------
+原文: （2）Calculation公式：
+
+译文: (2) Calculation formula:
+------------------------------------------------------------------------------------
+原文: ice box放置at least 4 h
+
+译文: Place in ice box for at least 4 h
+------------------------------------------------------------------------------------
+原文: use混合空白生物matrix制备8倍定量upper limit concentration的高concentration sample（8-Upper Limit of Quantification），再用空白生物matrix将8-Upper Limit of Quantification稀释10倍，得稀释sample（Dilution）。平行制备6份稀释sample，按前treatment method disposal后进样analyzed。
+
+译文: Use mixed blank biological matrix to prepare a high concentration sample (8-Upper Limit of Quantification) 8 times the upper limit of quantification concentration, then dilute the 8-Upper Limit of Quantification with blank biological matrix 10 times to obtain the dilution sample (Dilution). Prepare 6 parallel dilution samples and analyze according to the pre-treatment method after disposal.
+------------------------------------------------------------------------------------
+原文: 批最大样本数
+
+译文: Batch maximum number of samples
+------------------------------------------------------------------------------------
+原文: 最终报告记载的内容
+
+译文: Content recorded in the final report
+------------------------------------------------------------------------------------
+原文: 稀释回收率 = 实测concentration/理论concentration×100 %（实测concentration为回算concentration乘以稀释倍数）。
+
+译文: Dilution recovery rate = Measured concentration / Theoretical concentration × 100% (Measured concentration is the back-calculated concentration multiplied by the dilution factor).
+------------------------------------------------------------------------------------
+原文: 4. methodology验证 12
+
+译文: 4. Methodology validation 12
+------------------------------------------------------------------------------------
+原文: 回收率 = mean 实测concentration/理论concentration × 100 %，analyzed物的回收率在85 % ~ 115 %之间视为sample稳定。
+
+译文: Recovery rate = Mean Measured concentration / Theoretical concentration × 100%, the recovery rate of the analyte is considered stable between 85% and 115%.
+------------------------------------------------------------------------------------
+原文: ISR selection的sample为Cmax附近和消除相的sample，其sample数不低于待testing sample总数的10 %；如sample总数outside 1000，则outside部分的Reanalysis量不低于outside部分的5 %。at least 2/3的ISR sample需满足：[(ISR determination值-first determination值) / 两次determination值的Mean] × 100 % 的result在 ± 20 % 内。
+
+译文: The samples selected for ISR are from around Cmax and the elimination phase, and the number of samples shall be not less than 10% of the total number of samples to be tested; if the total number of samples is more than 1000, the amount of Reanalysis for the excess part shall be not less than 5% of the excess part. At least 2/3 of the ISR samples need to meet: [(ISR determination value - first determination value) / Mean of two determinations] × 100% result within ± 20%.
+------------------------------------------------------------------------------------
+原文: sbk002 sample：用6个不同source（均male）的空白生物matrix preparation HQC sample perform前disposal（用Methanol代替internal standard工作液）后，进样analyzed。要求sbk002 sample在internal standard retention time处have no interference peaks或interfering peak Peak Area less than peak area of internal standard的5 %。
+
+译文: Sbk002 sample: Prepare HQC sample from blank biological matrix of 6 different sources (all male), perform pre-disposal (replace internal standard working solution with Methanol), then inject and analyze. The sbk002 sample should have no interference peaks at the internal standard retention time or interfering peak areas less than 5% of the peak area of the internal standard.
+------------------------------------------------------------------------------------
+原文: 注：若assay中用到其它apparatus设备，relevant information（name、Model、Manufacturer等）需在raw record及final report中如实体现。
+
+译文: Note: If other apparatus are used in the assay, relevant information (name, model, manufacturer, etc.) must be truthfully reflected in the raw record and final report.
+------------------------------------------------------------------------------------
+原文: 8.1. Archiving Time及archivesstorage time 19
+
+译文: 8.1. Archiving Time and archive storage time 19
+------------------------------------------------------------------------------------
+原文: LC-MS/MS法quantitative measurement Beagle dogs plasma中sbk002的methodology验证assay
+
+译文: LC-MS/MS quantitative measurement methodology validation assay of sbk002 in Beagle dogs plasma
+------------------------------------------------------------------------------------
+原文: data整理及statistical analysis：徐振兴、Shuangshuang Ye；
+
+译文: Data collation and statistical analysis: Xuzhen Xing, Shuangshuang Ye;
+------------------------------------------------------------------------------------
+原文: 《medication非临床药代动力学研究technique指导原则》（fCFDA，May 2014）；
+
+译文: Guidelines for non-clinical pharmacokinetic studies of medications (fCFDA, May 2014);
+------------------------------------------------------------------------------------
+原文: 7. 最终报告 18
+
+译文: 7. Final report 18
+------------------------------------------------------------------------------------
+原文: mainly研究related的SOP
+
+译文: Mainly related SOPs under study
+------------------------------------------------------------------------------------
+原文: use空白生物matrix单独制备中concentration Quality Control Sample（MQC）一份并前disposal，在每个analytical run前连续进样at least 6针。要求最后6次的sbk002与peak area of internal standard之比及retention time的CV（Coefficient of variation，Standards deviation/Mean×100 %）less than 10 %。
+
+译文: Use blank biological matrix to separately prepare one medium concentration Quality Control Sample (MQC) and perform pre-disposal, then continuously inject at least 6 needles before each analytical run. The ratio of sbk002 to peak area of the internal standard and retention time CV (Coefficient of variation, Standard Deviation / Mean × 100%) of the last 6 injections should be less than 10%.
+------------------------------------------------------------------------------------
+原文: 4.12. 批maximum sample数 17
+
+译文: 4.12. Batch maximum sample number 17
+------------------------------------------------------------------------------------
+原文: disposal后2 ~ 8 ℃放置at least 2天
+
+译文: Store at 2 ~ 8 ℃ after disposal for at least 2 days
+------------------------------------------------------------------------------------
+原文: (3)验收标准：
+
+译文: (3) Acceptance Standards:
+------------------------------------------------------------------------------------
+原文: 1.9. assay关键日期 8
+
+译文: 1.9. Assay key dates 8
+------------------------------------------------------------------------------------
+原文: 验证参数说明
+
+译文: Verification parameter description
+------------------------------------------------------------------------------------
+原文: electron邮件：779061281@qq.com。
+
+译文: Electron mail: 779061281@qq.com.
+------------------------------------------------------------------------------------
+原文: 名称：成都施贝康生物医药科技Co., Ltd.；
+
+译文: Name: Chengdu Shimpekon Biomedical Technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 本检测的实施除方案特殊说明外，研究的实施符合检测设施标准操作程序（Standard Operating Procedures：SOPs）。
+
+译文: The implementation of this testing meets the testing facility Standards operating procedures (Standard Operating Procedures: SOPs) except for specific instructions in the protocol.
+------------------------------------------------------------------------------------
+原文: 对方案、method或SOP的deviation。
+
+译文: Deviation of the protocol, method, or SOP.
+------------------------------------------------------------------------------------
+原文: analyzed测试部Reference Standard的reception、Storage、取用及handling
+
+译文: Analyzed testing department Reference Standard's reception, storage, retrieval, and handling
+------------------------------------------------------------------------------------
+原文: internal standard Matrix Effect（Matrix effect %）=（matrix sample中peak area of internal standard）/（无matrix sample中peak area of internal standard的Mean）× 100 %；
+
+译文: Internal standard Matrix Effect (Matrix effect %) = (peak area of internal standard in matrix sample) / (mean peak area of internal standard in non-matrix sample) × 100%;
+------------------------------------------------------------------------------------
+原文: 恒温培养振荡器
+
+译文: Constant-temperature shaking incubator
+------------------------------------------------------------------------------------
+原文: 台式高速冷冻centrifuged机
+
+译文: Bench-top high-speed refrigerated centrifuge
+------------------------------------------------------------------------------------
+原文: Extraction Recovery Rate acceptance criteria：对于analyzed物，每个concentration 6个sample的回收率的CV应在15 %以内；对于internal standard，all sample回收率的CV应在15 %以内。relative回收率的CV应在15 %以内。
+
+译文: Extraction Recovery Rate acceptance criteria: For the analyzed substance, the CV of the recovery rate for each concentration of 6 samples should be within 15%; for the internal standard, the CV of the recovery rate for all samples should be within 15%. The CV of the relative recovery rate should be within 15%.
+------------------------------------------------------------------------------------
+原文: assay sample再analyzed
+
+译文: Assay sample reanalyzed
+------------------------------------------------------------------------------------
+原文: all determination及每个Calculation concentration必须present在验证report中。
+
+译文: All determinations and each calculated concentration must be presented in the verification report.
+------------------------------------------------------------------------------------
+原文: 预计assay end日期：2019-01-02。
+
+译文: Expected assay end date: 2019-01-02.
+------------------------------------------------------------------------------------
+原文: 提取样本：分别用6个不同来源（均为male）的生物基质，制备三个浓度的质量控制样品（R-LQC、R-MQC和R-HQC）并进行预处理，每一浓度平行制备6份。
+
+译文: Extraction samples: prepare quality control samples of three concentrations (R-LQC, R-MQC, and R-HQC) with biological matrices from 6 different sources (all male), perform pre-disposal, and prepare 6 samples in parallel for each concentration.
+------------------------------------------------------------------------------------
+原文: accuracy描述该analyzed method实测concentration与理论concentration的接近extent，以（实测concentration/理论concentration）× 100 % 表示。precision描述analyzed物重复determination的接近extent，以Coefficient of variation（CV）表示。
+
+译文: Accuracy describes the extent to which the measured concentration of the analyzed method approaches the theoretical concentration, expressed as (measured concentration / theoretical concentration) × 100%. Precision describes the extent to which repeated determinations of the analyzed substance approach each other, expressed as the Coefficient of Variation (CV).
+------------------------------------------------------------------------------------
+原文: internal standard Extraction Recovery Rate（Recovery %）=（提取sample中peak area of internal standard）/（matrix sample中peak area of internal standard的Mean）×100 %；
+
+译文: Internal standard Extraction Recovery Rate (Recovery %) = (peak area of internal standard in extracted sample) / (mean peak area of internal standard in matrix sample) × 100%;
+------------------------------------------------------------------------------------
+原文: 验证result概要；
+
+译文: Verification result summary;
+------------------------------------------------------------------------------------
+原文: study protocol及方案的任何amendments（如果有）将以writing的形式经study director、QA personnel signed；Sponsor representative在signature page上signed或者send an email approve study protocol；protocol amendments（如有必要）需要Sponsor representative signed或发邮件确认。deviation study protocol的情况均应record，以writing形式由study director signed，并analyzed对专题研究可能产生的affect。
+
+译文: Any amendments to the study protocol and plan (if any) will be signed in written form by the study director and QA personnel; the Sponsor representative will sign on the signature page or send an email to approve the study protocol; protocol amendments (if necessary) require the Sponsor representative's signature or email confirmation. Situations of deviation from the study protocol should be recorded and signed in writing by the study director, and analyzed for potential impacts on the study.
+------------------------------------------------------------------------------------
+原文: study director任命书
+
+译文: Study director appointment letter
+------------------------------------------------------------------------------------
+原文: [3] 刘斌, 张印兵, 岑小波. 生物analyzed method验证在medication非临床Safety性Evaluation中的应用[J]. 中国pharmacology与toxicology杂志, 2013, 27(3): 480
+
+译文: [3] Liu Bin, Zhang Yinbing, Cen Xiaobo. Application of biological analyzed method verification in medication non-clinical safety evaluation[J]. Chinese Journal of Pharmacology and Toxicology, 2013, 27(3): 480
+------------------------------------------------------------------------------------
+原文: Study Name、编号及Study Objective；
+
+译文: Study Name, number, and Study Objective;
+------------------------------------------------------------------------------------
+原文: Storage场所与Storage condition
+
+译文: Storage location and Storage condition
+------------------------------------------------------------------------------------
+原文: analyzed天平
+
+译文: Analyzed balance
+------------------------------------------------------------------------------------
+原文: 漩涡振荡器
+
+译文: Vortex mixer
+------------------------------------------------------------------------------------
+原文: 归一化Matrix Effect（IS-normalised Matrix effect %）=（analyzed物Matrix Effect）/（internal standard Matrix Effect）×100 %。
+
+译文: Normalized Matrix Effect (IS-normalized Matrix effect %) = (Matrix Effect of analyzed substance) / (Matrix Effect of internal standard) × 100%.
+------------------------------------------------------------------------------------
+原文: 4.6. 交叉污染 14
+
+译文: 4.6. Cross-contamination 14
+------------------------------------------------------------------------------------
+原文: [5] 魏敏吉, 赵明. 创新medication药代动力学研究与Evaluation[M]. 北京: 北京大学医学出版社, 2008: 269-283, 411-459
+
+译文: [5] Wei Minji, Zhao Ming. Innovative medication Pharmacokinetics Research and Evaluation[M]. Beijing: Peking University Medical Press, 2008: 269-283, 411-459
+------------------------------------------------------------------------------------
+原文: 牟霞 日期
+
+译文: Mu Xia Date
+------------------------------------------------------------------------------------
+原文: 要求每一concentration的at least 5个hemolysis QC sample的accuracy应在85 % ~ 115 %之间，每一concentration的hemolysis QC sample的CV应不Greater than 15 %。
+
+译文: The accuracy of at least 5 hemolysis QC samples per concentration should be between 85% and 115%, and the CV of hemolysis QC samples per concentration should not be Greater than 15%.
+------------------------------------------------------------------------------------
+原文: 稀释回收率
+
+译文: Dilution Recovery Rate
+------------------------------------------------------------------------------------
+原文: 如果验证批maximum sample数的测试不meet acceptance criteria，可减少sample数，直到确认一个analytical run所能承载的maximum sample数。
+
+译文: If the testing of the maximum number of samples in the verification batch does not meet the acceptance criteria, the number of samples can be reduced until confirming the maximum number of samples an analytical run can hold.
+------------------------------------------------------------------------------------
+原文: 标准曲线范围
+
+译文: Standard Curve range
+------------------------------------------------------------------------------------
+原文: - 60 ℃以下放置at least 20天
+
+译文: Placed below -60 ℃ for at least 20 days
+------------------------------------------------------------------------------------
+原文: methodology验证中use的Standard Curve和Quality Control Sample可能无法完全模拟实际assay sample，因此，需要在assay sample测试end后在另外一个analytical run中重新analyzed assay sample，来Evaluation assay sample determination的重现性。assay sample再analyzed（Incurred Sample Reanalysis，ISR）determination值仅作为assay sample再analyzed的重现性data use，不作为实际sample的retest data。
+
+译文: The standard curve and quality control sample used in methodology verification may not fully simulate actual assay samples, therefore, it is necessary to reanalyze assay samples in another analytical run after the assay sample test ends to evaluate the reproducibility of the assay sample determinations. Assay sample reanalyzed (Incurred Sample Reanalysis, ISR) determination values are used only as reproducibility data for assay sample reanalysis, not as retest data for actual samples.
+------------------------------------------------------------------------------------
+原文: analytical run的acceptance criteria；
+
+译文: analytical run的acceptance criteria；
+------------------------------------------------------------------------------------
+原文: 分子量：270.35；
+
+译文: Molecular weight：270.35；
+------------------------------------------------------------------------------------
+原文: use混合空白生物matrix新鲜preparation含不同concentration analyzed物的Standard Curve sample，每个concentration perform analyzed。在analytical run的开始和最后各测一组Standard Curve sample。应at least preparation 6 个concentration Standard Curve sample，不包括blank matrix sample（不含analyzed物和internal standard的matrix sample）和零concentration sample（含internal standard的matrix sample）。
+
+译文: 使用混合空白生物matrix新鲜preparation含不同concentration analyzed物的Standard Curve sample，每个concentration perform analyzed。在analytical run的开始和最后各测一组Standard Curve sample。应至少preparation 6个concentration Standard Curve sample，不包括blank matrix sample（不含analyzed物和internal standard的matrix sample）和零concentration sample（含internal standard的matrix sample）。
+------------------------------------------------------------------------------------
+原文: plasma sample room temperature放置stability
+
+译文: plasma sample room temperature放置stability
+------------------------------------------------------------------------------------

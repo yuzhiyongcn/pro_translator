@@ -1,0 +1,1854 @@
+原文: 联系人：牟霞；
+
+译文: Contact person: Mou Xia
+------------------------------------------------------------------------------------
+原文: 专题负责人
+
+译文: study director
+------------------------------------------------------------------------------------
+原文: sbk002片组
+30mg/只
+
+译文: sbk002 tablet group
+30mg each
+------------------------------------------------------------------------------------
+原文: 附表6 Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片后个体血小板聚集率
+
+译文: Appendix Tables6 Beagle dogs were given sbk002 tablets and clopidogrel sulfate tablets orally individualplateletaccumulation rate
+------------------------------------------------------------------------------------
+原文: 名称/代号：sbk002片；
+
+译文: Name/Code: sbk002 tablets;
+------------------------------------------------------------------------------------
+原文: 附件二：附图	31
+
+译文: Appendix Two: Appendix Figures	31
+------------------------------------------------------------------------------------
+原文: 结果：
+
+译文: result:
+------------------------------------------------------------------------------------
+原文: 实验动物选择理由：参照《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月），建议首选非啮齿类动物，本试验非啮齿类动物选用Beagle犬为受试动物，其遗传、生物学背景（包括解剖、生理、临床病理等各种数据的正常范围）比较清楚。
+
+译文: Reason for laboratory animal selection: Referencing the "Non-clinical Pharmacokinetic Study Guidance for Medication" (fCFDA, May 2014), non-rodent animals are recommended as the first choice. This assay uses Beagle dogs as the non-rodent test animals due to their clear genetic, biological background (including a clear normal range of various data such as anatomy, physiology, and Clinical Pathology). 
+------------------------------------------------------------------------------------
+原文: 3.4.	体重和年龄	12
+
+译文: 3.4. Body Weight and Age 12
+------------------------------------------------------------------------------------
+原文: 平均值
+
+译文: Mean
+------------------------------------------------------------------------------------
+原文: 总结报告
+
+译文: final report
+------------------------------------------------------------------------------------
+原文: 归档时间
+
+译文: Archiving Time
+------------------------------------------------------------------------------------
+原文: 给药前对所有进入试验的比格犬进行血液学和血生化检查，检查均合格。
+
+译文: pre-dose All entered assay Beagle dogs performed hematology and blood chemistry examination, all examinations were qualified.
+------------------------------------------------------------------------------------
+原文: 标准操作规程
+
+译文: standard operating procedures
+------------------------------------------------------------------------------------
+原文: 13.1.	归档时间	23
+
+译文: 13.1. Archiving Time 23
+------------------------------------------------------------------------------------
+原文: sbk002片组
+（30mg/只）
+
+译文: sbk002 tablet group
+(30mg each)
+------------------------------------------------------------------------------------
+原文: 从药效动力学曲线可见，给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，两者具有近似的药效动力学；双侧T检验结果显示， sbk002片和硫酸氢氯吡格雷片给药前和给药后各时间点血小板聚集率均无显著性差异（P > 0.05）。
+
+译文: From the pharmacodynamics curve, it can be seen that after giving 30 mg each of sbk002 tablets and 75 mg each of clopidogrel sulfate tablets, both show similar pharmacodynamics; bilateral T test results indicate that sbk002 tablets and clopidogrel sulfate tablets show no significant difference in platelet accumulation rates at each time point before and after dosing (P > 0.05).
+------------------------------------------------------------------------------------
+原文: 4.4.	饲养环境	13
+
+译文: 4.4. Housing Environment 13
+------------------------------------------------------------------------------------
+原文: 7.3.	结果分析	18
+
+译文: 7.3. result analyzeds 18
+------------------------------------------------------------------------------------
+原文: 设备名称
+
+译文: Equipment name
+------------------------------------------------------------------------------------
+原文: 选择理由：与临床拟用药途径一致；
+
+译文: Justification for selection: it will be consistent with the proposed clinical route of administration;
+------------------------------------------------------------------------------------
+原文: 7.	PK血样采集及检测分析	17
+
+译文: 7. PK blood sample collection and testing analyzed 17
+------------------------------------------------------------------------------------
+原文: 2.1.	供试品	9
+
+译文: 2.1. test article 9
+------------------------------------------------------------------------------------
+原文: 毫升每分钟
+
+译文: Milliliter per Minute
+------------------------------------------------------------------------------------
+原文: 邮编：610000；
+
+译文: Postal Code: 610000;
+------------------------------------------------------------------------------------
+原文: 动物数量选择理由：根据《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月），药代动力学试验以血药浓度-时间曲线的每个采样点一般不少于5个数据为限计算所需动物数。动物分为sbk002片组和硫酸氢氯吡格雷片组共2组，4只/组，均为雄性，进行2交叉试验。为防止所购实验动物由于未知原因导致不能满足试验需求的情形发生，额外多申购2只动物，本试验总计10只Beagle犬可满足获取足够试验数据的最低动物数目要求。
+
+译文: Justification for the selection of the number of laboratory animals: According to the "Non-clinical Pharmacokinetic Study Guidance for Medication" (fCFDA, May 2014), the pharmacokinetic assay requires at least 5 data points for each sampling point in the blood concentration-time curve. Animals are divided into sbk002 tablet group and clopidogrel sulfate tablet group, with 4 animals each, all male, performing a 2-cross assay. In order to prevent any situation where laboratory animals may not meet assay requirements due to unknown reasons, an additional 2 animals were procured, making the total number of 10 Beagle dogs sufficient to meet the minimum number of animals required for adequate assay data. 
+------------------------------------------------------------------------------------
+原文: 第一周期分组给药见下表：
+
+译文: First period Group Assignment dose is shown in the table below: 
+------------------------------------------------------------------------------------
+原文: 微升
+
+译文: Microliter
+------------------------------------------------------------------------------------
+原文: Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片
+
+译文: Beagle dogs were given sbk002 tablets and clopidogrel sulfate tablets orally 
+------------------------------------------------------------------------------------
+原文: 10.3.	药效动力学结果	21
+
+译文: 10.3. pharmacodynamics result 21
+------------------------------------------------------------------------------------
+原文: 剂量
+
+译文: dosage 
+------------------------------------------------------------------------------------
+原文: 注：动物编号的首位数字代表组别。第二位字母代表性别（M为雄性），后3位数字代表动物序列号。
+
+译文: Note: The first digit of the animal number represents the group. The second letter represents the sex (M for male), and the last 3 digits represent the animal sequence number.
+------------------------------------------------------------------------------------
+原文: 个体血小板聚集率-时间曲线见附件一附表6。
+
+译文: Individual platelet accumulation rate-time curve can be seen in Appendix One Appendix Tables 6.
+------------------------------------------------------------------------------------
+原文: 6.2.1.2样本用途，收集量和收集管类型
+
+译文: 6.2.1.2 Sample purposes, collection volume, and type of collection tube 
+------------------------------------------------------------------------------------
+原文: 达峰时间
+
+译文: Time to reach maximum 
+------------------------------------------------------------------------------------
+原文: 饲养密度：1只/笼，2 笼/架。
+
+译文: Housing density: 1 per cage, 2 cages per rack. 
+------------------------------------------------------------------------------------
+原文: 采样方法：四肢静脉采血约0.5 mL，至含0.5 mg TCEP和7.2 mg EDTA-K2的采血管中；
+
+译文: Sampling method: Collect about 0.5 mL of blood from limb veins into a vascular container containing 0.5 mg TCEP and 7.2 mg EDTA-K2;
+------------------------------------------------------------------------------------
+原文: 《药物非临床药代动力学研究技术指导原则》（原CFDA，2014年05月）；
+
+译文:  "Non-clinical Pharmacokinetic Study Guidance for Medication" (fCFDA, May 2014);
+------------------------------------------------------------------------------------
+原文: 组别
+
+译文: Group 
+------------------------------------------------------------------------------------
+原文: 表1比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后sbk002平均血药浓度（ng/mL，n = 8）
+
+译文: Table 1 The Beagle dogs were given 30 mg sbk002 tablets and 75 mg clopidogrel sulfate tablets orally, with sbk002 mean plasma concentration (ng/mL, n=8)
+------------------------------------------------------------------------------------
+原文: 血红蛋白（HGB）
+
+译文: Hemoglobin (HGB)
+------------------------------------------------------------------------------------
+原文: 药效研究结果显示，sbk002在SD大鼠中的最低有效剂量为1 mg/kg，剂量折算后比格犬的最低有效剂量约为1/3 mg/kg。sbk002的药效约为硫酸氢氯吡格雷的3倍左右，为获得类似的药效，将sbk002的剂量设为每只比格犬经口给予30 mg sbk002片（3片），按每只犬10 kg计算，约为3 mg/kg，约为最低有效剂量的9倍。
+
+译文: Pharmacodynamics study results show that the minimum effective dose of sbk002 in SD rats is 1 mg/kg, which converts to approximately 1/3 mg/kg for Beagle dogs. The efficacy of sbk002 is about 3 times that of clopidogrel sulfate, so to achieve similar efficacy, the dose of sbk002 was set to 30 mg for each Beagle dog (3 tablets), which is approximately 3 mg/kg for a 10 kg dog, or about 9 times the minimum effective dose.
+------------------------------------------------------------------------------------
+原文: 为实验动物提供玩具，作为环境改善措施。
+
+译文: Provide toys for laboratory animals as Environmental Enrichment measures.
+------------------------------------------------------------------------------------
+原文: 2.	试验材料	9
+
+译文: 2. Study Materials 9
+------------------------------------------------------------------------------------
+原文: 对照品波立维（硫酸氢氯吡格雷片）的临床使用剂量为75 mg/人/天，考虑到完整片剂溶出曲线可能与切开片剂的溶出曲线不同，故选择硫酸氢氯吡格雷片进行整片给药，即每只比格犬经口给予75 mg波立维（1片）。
+
+译文: Reference item Plavix (clopidogrel sulfate tablets) clinical use dose is 75 mg/person/day. Considering that the dissolution curve of whole tablets may differ from that of broken tablets, clopidogrel sulfate tablets were selected to perform whole tablet dosing, i.e., 75 mg per Beagle dog orally.
+------------------------------------------------------------------------------------
+原文: 图3比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后平均血小板聚集率-时间曲线图（n = 8）
+
+译文: Figure 3 Beagle dogs were given 30 mg sbk002 tablets and 75 mg clopidogrel sulfate tablets orally, showing the mean platelet accumulation rate-time curve (n=8)
+------------------------------------------------------------------------------------
+原文: 13.2.	保存场所与保存条件	23
+
+译文: 13.2. Storage location and storage condition 23
+------------------------------------------------------------------------------------
+原文: 联系电话：0512-36801688-8024。
+
+译文: Contact Telephone: 0512-36801688-8024.
+------------------------------------------------------------------------------------
+原文: 3.5.	动物标识	12
+
+译文: 3.5. Animal Identification 12
+------------------------------------------------------------------------------------
+原文: LC-MS/MS检测浓度
+
+译文: LC-MS/MS testing concentration 
+------------------------------------------------------------------------------------
+原文: 标准偏差
+
+译文: Standard deviation 
+------------------------------------------------------------------------------------
+原文: 样本的保存与运输
+
+译文: Storage and transport of samples 
+------------------------------------------------------------------------------------
+原文: 2.2.	对照品	10
+
+译文: 2.2. Reference item 10
+------------------------------------------------------------------------------------
+原文: 试验操作：邵道伟、祁华荣、常磊；
+
+译文: Assay operators: Shao Daowei, Qi Huarong, Chang Lei;
+------------------------------------------------------------------------------------
+原文: 从上述结果可见，比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后，血浆中sbk002具有类似的吸收、分布和代谢曲线。给予sbk002片的Cmax小于给予硫酸氢氯吡格雷片的Cmax，但无显著性差异（P > 0.05）；给予sbk002片和硫酸氢氯吡格雷片后两者Tmax、Cmax、AUC0-24h、T1/2均近似且无显著性差异（P > 0.05）。
+
+译文: As can be seen from the above results, Beagle dogs were given 30 mg sbk002 tablets and 75 mg clopidogrel sulfate tablets orally, sbk002 shows a similar absorption, distribution, and metabolism curve in plasma. The Cmax of sbk002 tablets is less than that of clopidogrel sulfate tablets, but the difference is not significant (P > 0.05); Tmax, Cmax, AUC0-24h, and T1/2 of sbk002 tablets and clopidogrel sulfate tablets are similar without significant difference (P > 0.05). 
+------------------------------------------------------------------------------------
+原文: 表2 Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片后sbk002平均药代动力学参数（n = 8）
+
+译文: Table 2 Beagle dogs were given sbk002 tablets and clopidogrel sulfate tablets orally showing sbk002 mean pharmacokinetic parameters (n=8)
+------------------------------------------------------------------------------------
+原文: 电子邮件：779061281@qq.com。
+
+译文: Email: 779061281@qq.com.
+------------------------------------------------------------------------------------
+原文: 毫克
+
+译文: Milligram
+------------------------------------------------------------------------------------
+原文: 使用通过方法学验证的分析方法[LC-MS/MS法定量测定比格犬血浆中sbk002的方法学验证试验（专题编号A2018030-BA01）]检测sbk002和硫酸氢氯吡格雷PK血浆样品中sbk002的浓度。使用血小板聚集仪检测PD血样中血小板聚集率。采用WinNonlin 7.0软件计算药代动力学参数、绘制血药浓度-时间曲线，分析sbk002在比格犬体内的药代动力学行为特征。
+
+译文: Use methodology-validated analyzed method (LC-MS/MS quantitative measurement method for sbk002 in Beagle dog plasma assay (study number A2018030-BA01)) to test sbk002 and clopidogrel PK plasma samples for sbk002 concentration. Use platelet aggregation analyzer to test PD blood samples for platelet accumulation rates. Using WinNonlin 7.0 software, calculate pharmacokinetic parameters, plot blood concentration-time curves, and analyze the in-vivo pharmacokinetic characteristics of sbk002 in Beagle dogs.
+------------------------------------------------------------------------------------
+原文: 留样及剩余对照品的处理
+
+译文: Retention samples and disposal of remaining reference items 
+------------------------------------------------------------------------------------
+原文: 毫克每毫升
+
+译文: Milligram per Milliliter
+------------------------------------------------------------------------------------
+原文: 供水方法：饮水瓶盛装，自由摄取；
+
+译文: Water supply method: Bottled Drinking Water provided, ad libitum; 
+------------------------------------------------------------------------------------
+原文: 采样时间：给药前及给药后5 min（± 1 min）、15 min（± 1 min）、30 min（± 2 min）、45 min（± 2 min）、1 h（± 2 min）、1.5 h（± 2 min）、2 h（± 2 min）、3 h（± 5 min）、4 h（± 5 min）、6 h（± 5 min）、8 h（± 10 min）、10 h（± 10 min）和24 h（± 20 min）。
+
+译文: Sampling times: pre-dose and 5 min (± 1 min), 15 min (± 1 min), 30 min (± 2 min), 45 min (± 2 min), 1 h (± 2 min), 1.5 h (± 2 min), 2 h (± 2 min), 3 h (± 5 min), 4 h (± 5 min), 6 h (± 5 min), 8 h (± 10 min), 10 h (± 10 min), and 24 h (± 20 min) after dosing. 
+------------------------------------------------------------------------------------
+原文: 尿素（UREA）
+
+译文: Urea (UREA)
+------------------------------------------------------------------------------------
+原文: 检测项目
+
+译文: Testing project 
+------------------------------------------------------------------------------------
+原文: 4.6.	饲料	13
+
+译文: 4.6. Feed 13
+------------------------------------------------------------------------------------
+原文: 本试验使用备库动物，实验动物纳入专题后适应环境1周。
+
+译文: This assay used reserved animals, and laboratory animals were acclimated for 1 week after inclusion in the study. 
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-09-29（暂定）；
+
+译文: Expiry date: 2020-09-29 (tentative); 
+------------------------------------------------------------------------------------
+原文: 地址：成都高新区西芯大道17号；
+
+译文: Address: 17 West Core Avenue, New & Hi-tech Industrial Development Zone, Chengdu; 
+------------------------------------------------------------------------------------
+原文: 规格：75 mg/片；
+
+译文: Size: 75 mg per tablet;
+------------------------------------------------------------------------------------
+原文: （75 mg/只）
+
+译文: (75 mg/each)
+------------------------------------------------------------------------------------
+原文: 10.1.2.	健康检查及洗脱期血小板聚集率	19
+
+译文: 10.1.2. Healthy examination and washout periods platelet accumulation rate 19
+------------------------------------------------------------------------------------
+原文: 末次给药日期：2018-12-11；
+
+译文: Last dose date: 2018-12-11;
+------------------------------------------------------------------------------------
+原文: IFCC法
+
+译文: Calculation: TP-ALB
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，血小板聚集率变化趋势一致，给药后血小板聚集率快速下降，绝大多数动物在2 ~ 4小时达到最低血小板聚集率，并维持到最后一个采血点（24 h）。给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，两者具有近似的药效动力学曲线；双侧T检验结果显示， sbk002片和硫酸氢氯吡格雷片给药前和给药后各时间点血小板聚集率均无显著性差异（P > 0.05）。
+
+译文: Beagle dogs were orally administered with 30 mg/each SBK002 tablets and 75 mg/each clopidogrel hydrogen sulfate tablets, respectively. The trend of the platelet accumulation rate was consistent after dosing, with a rapid decrease in platelet accumulation rate, reaching the lowest platelet accumulation rate in most animals within 2 to 4 hours, and maintaining this rate until the last blood collection point (24 h). The pharmacodynamics curves of the two doses were similar; the bilateral T-test results showed no significant differences in the platelet accumulation rates at each time point before and after dosing for both SBK002 tablets and clopidogrel hydrogen sulfate tablets (P > 0.05).
+------------------------------------------------------------------------------------
+原文: 饲养环境控制系统：MSEA-MVE 6.0江森动物房环境监测系统；
+
+译文: Housing Environment Control System: MSEA-MVE 6.0 Johnson Animal Housing Environment Monitoring System;
+------------------------------------------------------------------------------------
+原文: 生产许可证号：SCXK（京） 2014-0010；
+
+译文: Production license No.: SCXK (Beijing) 2014-0010;
+------------------------------------------------------------------------------------
+原文: 从0 h到最后可测浓度的血药浓度-时间曲线下面积
+
+译文: From 0 h to the last measurable concentration blood drug concentration-time area under the curve 
+------------------------------------------------------------------------------------
+原文: 采集方法：动物采集样本前禁食过夜，血液采用静脉采血；
+
+译文: Processing method: Animals fasted overnight before sample collection, with blood collected from the vein;
+------------------------------------------------------------------------------------
+原文: 采样方法和采样量：四肢静脉采血约1.8 mL，收集的全血至枸橼酸钠真空采血管中，室温放置，转运至临床检验实验室。
+
+译文: Sampling method and sample volume: Approximately 1.8 mL of whole blood was collected from the limb vein into a sodium citrate vacuum tube, kept at room temperature, and transported to the Clinical Examination Laboratory.
+------------------------------------------------------------------------------------
+原文: 专题编号A2018030-K01-01
+
+译文: study number A2018030-K01-01
+------------------------------------------------------------------------------------
+原文: 1.	基本信息	8
+
+译文: 1. General Information 8
+------------------------------------------------------------------------------------
+原文: （30 mg/只）
+
+译文: (30 mg/each)
+------------------------------------------------------------------------------------
+原文: 兽医：王海洋；
+
+译文: Veterinarian: Wang Haiyang;
+------------------------------------------------------------------------------------
+原文: PK参数
+
+译文: PK parameter
+------------------------------------------------------------------------------------
+原文: 摘   要
+
+译文: Abstract
+------------------------------------------------------------------------------------
+原文: 性状：类白色片；
+
+译文: Characterization: Off-white tablets;
+------------------------------------------------------------------------------------
+原文: 成都高新区西芯大道17号
+
+译文: Chengdu New & Hi-tech Industrial Development Zone, Xixin Avenue No. 17
+------------------------------------------------------------------------------------
+原文: 饲料
+
+译文: Feed
+------------------------------------------------------------------------------------
+原文: 3.2.	性别和数量	11
+
+译文: 3.2. Sex and Number 11
+------------------------------------------------------------------------------------
+原文: 参考临床检验部SOP执行[血小板聚集仪（700）的使用与维护：Q/CTI WI-BTC-EQU-142]。
+
+译文: Reference Clinical Examination Department SOP execution [platelet accumulation instrument (700) usage and maintenance: Q/CTI WI-BTC-EQU-142].
+------------------------------------------------------------------------------------
+原文: 附件二：附图
+
+译文: Appendix II: Appendix Figures
+------------------------------------------------------------------------------------
+原文: 定量下限
+
+译文: Lower limit of quantification
+------------------------------------------------------------------------------------
+原文: 试验目的
+
+译文: Study Objective
+------------------------------------------------------------------------------------
+原文: 血样处理：全血样品离心前冰盒中放置，冰盒中运输，于2 ~ 8 ℃，4000 r/min，离心10 min；于冰盒中分离血浆，分装于2个贴有标签的EP 管中，EP管标签格式举例如下：
+
+译文: Blood sample disposal: Whole blood samples were placed in an ice box before centrifugation, transported in an ice box, centrifuged at 2 to 8 ℃, 4000 r/min, for 10 min; plasma was separated in the ice box and aliquoted into two labeled EP tubes. The EP tube label format is as follows:
+------------------------------------------------------------------------------------
+原文: 计算：MCV×RBC
+
+译文: Calculation: MCV×RBC
+------------------------------------------------------------------------------------
+原文: 4.	动物的饲养和管理	12
+
+译文: 4. Animal housing and management 12
+------------------------------------------------------------------------------------
+原文: 给药制剂在试验机构内的转移
+
+译文: Dose formulations metastasized within the test facility
+------------------------------------------------------------------------------------
+原文: 平均红细胞血红蛋白含量（MCH）
+
+译文: Mean erythrocyte hemoglobin content (MCH)
+------------------------------------------------------------------------------------
+原文: 周期
+
+译文: Period
+------------------------------------------------------------------------------------
+原文: 氰化血红蛋白法
+
+译文: Cyanide hemoglobin method
+------------------------------------------------------------------------------------
+原文: 5.	试验设计	14
+
+译文: 5. Study design 14
+------------------------------------------------------------------------------------
+原文: 一般状态观察
+
+译文: General status observation
+------------------------------------------------------------------------------------
+原文: 10.	结果	19
+
+译文: 10. Results 19
+------------------------------------------------------------------------------------
+原文: 供试品管理：陈晓艳；
+
+译文: Test article management: Chen Xiaoyan;
+------------------------------------------------------------------------------------
+原文: 收集和报告电子数据的采集系统如下：
+
+译文: The data collection system for collecting and reporting electronic data is as follows:
+------------------------------------------------------------------------------------
+原文: 微克每毫升
+
+译文: Micrograms per milliliter
+------------------------------------------------------------------------------------
+原文: 保存条件：15 ~ 25 ℃、密闭、遮光、干燥；
+
+译文: Storage condition: 15 ~ 25 ℃, airtight, lightproof, dry;
+------------------------------------------------------------------------------------
+原文: 生产厂家：四川制药制剂有限公司（委托生产）；
+
+译文: Manufacturer: Sichuan Pharmaceutical Formulation Co., Ltd. (commissioned production);
+------------------------------------------------------------------------------------
+原文: 观察时间：每天上午或下午观察1次；
+
+译文: Observation time: Observed once every morning or afternoon;
+------------------------------------------------------------------------------------
+原文: 4.2.	检疫和适应	12
+
+译文: 4.2. Quarantine and adaptation 12
+------------------------------------------------------------------------------------
+原文: 种类：反渗透水；
+
+译文: Type: Reverse osmosis water;
+------------------------------------------------------------------------------------
+原文: 14.	附录项目	24
+
+译文: 14. Appendixes 24
+------------------------------------------------------------------------------------
+原文: 1.5.	试验人员组成	8
+
+译文: 1.5. Study Personnel Composition 8
+------------------------------------------------------------------------------------
+原文: 委托单位
+
+译文: Sponsor
+------------------------------------------------------------------------------------
+原文: 1.2.	试验目的	8
+
+译文: 1.2. Study Objective 8
+------------------------------------------------------------------------------------
+原文: 6.2.3.	样本的保存与运输	17
+
+译文: 6.2.3. Samples storage and transportation 17
+------------------------------------------------------------------------------------
+原文: 附表2 健康检查血生化指标统计汇总表
+
+译文: Appendix Tables 2: Healthy examination blood chemistry index summary table
+------------------------------------------------------------------------------------
+原文: 名称：成都施贝康生物医药科技有限公司；
+
+译文: Name: Chengdu Sibekang Biomedical Technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 12.	试验方案、偏离和变更	23
+
+译文: 12. Study protocol, deviation, and amendments 23
+------------------------------------------------------------------------------------
+原文: 无需配制，片剂从供试品管理部门领取后直接给药。
+
+译文: No preparation needed, tablets were directly dosed after being obtained from the Test Article Management Department.
+------------------------------------------------------------------------------------
+原文: 酶比色法
+
+译文: Enzymatic colorimetry
+------------------------------------------------------------------------------------
+原文: 体重：分组时体重：8.47 ~ 10.09 kg；分组时动物个体体重差异小于平均体重的 20 %；
+
+译文: Body weight: Body weight at Group Assignment: 8.47 ~ 10.09 kg; the individual body weight differences of animals at Group Assignment were less than 20% of the mean body weight;
+------------------------------------------------------------------------------------
+原文: 总蛋白（TP）
+
+译文: Total protein (TP)
+------------------------------------------------------------------------------------
+原文: 附件四：试验方案	34
+
+译文: Appendix IV: Study protocol 34
+------------------------------------------------------------------------------------
+原文: 10.1.1.	一般状态观察	19
+
+译文: 10.1.1. General status observation 19
+------------------------------------------------------------------------------------
+原文: 药代动力学结果
+
+译文: Pharmacokinetics result
+------------------------------------------------------------------------------------
+原文: 专题名称：
+
+译文: Study Name:
+------------------------------------------------------------------------------------
+原文: 血药浓度检测
+
+译文: Blood drug concentration testing
+------------------------------------------------------------------------------------
+原文: 水质常规指标的检测：具有江苏华测品标检测认证技术有限公司提供的检测报告，报告编号： A2180219731101和A2180219731102b，检测项目包括：砷、镉、铬（六价）、铅、汞、硒、铝、铁、锰、铜、锌、氰化物、氟化物、硝酸盐（以N计）、色度、浑浊度、臭和味、肉眼可见物、pH值、氯化物、硫酸盐、溶解性总固体、总硬度（以CaCO3计）、耗氧量、挥发酚、阴离子合成洗涤剂、三氯甲烷、四氯化碳、总大肠菌群、菌落总数、耐热大肠菌、大肠埃希氏菌、溴酸盐、甲醛、氯酸盐、亚氯酸盐、总α放射性、总β放射性。检测结果符合GB/T 5750-2006。
+
+译文: Water quality routine index testing: With testing reports provided by Jiangsu Huace Standard Testing Technology Co., Ltd., report numbers: A2180219731101 and A2180219731102b. The testing items included: arsenic, cadmium, chromium (VI), lead, mercury, selenium, aluminum, iron, manganese, copper, zinc, cyanide, fluoride, nitrate (calculated as N), chromaticity, turbidity, odor and taste, visible substances, pH value, chloride, sulfate, total dissolved solids, total hardness (calculated as CaCO3), oxygen consumption, volatile phenols, anionic synthetic detergents, chloroform, carbon tetrachloride, total coliforms, total bacterial count, heat-resistant coliforms, Escherichia coli, bromate, formaldehyde, chlorate, chlorite, total α-radioactivity, and total β-radioactivity. The testing results met the GB/T 5750-2006 standard.
+------------------------------------------------------------------------------------
+原文: 研究机构
+
+译文: Test facility
+------------------------------------------------------------------------------------
+原文: 结果分析
+
+译文: Result analyzed
+------------------------------------------------------------------------------------
+原文: 小时
+
+译文: Hour
+------------------------------------------------------------------------------------
+原文: 附图1 比格犬经口给予sbk002片后sbk002血药浓度-时间曲线（n = 8）
+
+译文: Appendix Figures 1: Blood drug concentration-time curve of Beagle dogs after oral administration of SBK002 tablet (n = 8)
+------------------------------------------------------------------------------------
+原文: 8.2.	血样处理和血小板聚集率检测	18
+
+译文: 8.2. Blood sample disposal and platelet accumulation rate testing 18
+------------------------------------------------------------------------------------
+原文: （片/只）
+
+译文: (Tablets/each)
+------------------------------------------------------------------------------------
+原文: 计算药代参数及绘制药时曲线
+
+译文: Calculation of pharmacokinetic parameters and drawing of concentration-time curves
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，与体内暴露量相关的参数Cmax分别为39.60 ± 18.66 ng/mL和75.65 ± 46.61 ng/mL（Cmax之比为1.00 : 1.91），AUC0-24h分别为127.90 ± 53.28 h*ng/mL和139.23 ± 60.21 h*ng/mL（AUC0-24h 之比为1.00 : 1.09），达峰时间Tmax分别为0.75 ± 0.35 h和0.63 ± 0.40 h，T1/2分别为8.47 ± 2.59 h和7.53 ± 2.71 h。
+
+译文: Beagle dogs were orally administered with 30 mg/each SBK002 tablets and 75 mg/each clopidogrel hydrogen sulfate tablets, respectively. The parameters related to in vivo exposure were as follows: Cmax was 39.60 ± 18.66 ng/mL and 75.65 ± 46.61 ng/mL (Cmax ratio was 1.00:1.91), AUC0-24h was 127.90 ± 53.28 h*ng/mL and 139.23 ± 60.21 h*ng/mL (AUC0-24h ratio was 1.00:1.09), time to reach maximum Tmax was 0.75 ± 0.35 h and 0.63 ± 0.40 h, and T1/2 was 8.47 ± 2.59 h and 7.53 ± 2.71 h, respectively.
+------------------------------------------------------------------------------------
+原文: 相对湿度：42.3 % ~ 71.9 %；
+
+译文: Relative humidity: 42.3% ~ 71.9%;
+------------------------------------------------------------------------------------
+原文: PD血样采集及检测
+
+译文: PD blood sample collection and testing
+------------------------------------------------------------------------------------
+原文: 5.1.	给药信息	15
+
+译文: 5.1. Dosing Information 15
+------------------------------------------------------------------------------------
+原文: 换气次数：每小时空气更换不少于8次。
+
+译文: Ventilation rate: Air changes of no less than 8 times per hour.
+------------------------------------------------------------------------------------
+原文: 剩余动物的处理：本试验剩余实验动物于首次给药后1周内移交毒理运行部。
+
+译文: Disposal of remaining animals: The remaining laboratory animals from this assay were transferred to the Toxicology Operations Department within one week after the first dose.
+------------------------------------------------------------------------------------
+原文: 6.1.	一般状态观察	15
+
+译文: 6.1. General status observation 15
+------------------------------------------------------------------------------------
+原文: 6.2.1.	检测时间及样本采集方法	16
+
+译文: 6.2.1. Test time and sample processing method 16
+------------------------------------------------------------------------------------
+原文: 血小板聚集仪
+
+译文: Platelet accumulation instrument
+------------------------------------------------------------------------------------
+原文: 营养成分：具有谱尼测试提供的营养成分检测报告，报告编号：GMAEALJK35425508，检测指标包括水分、粗蛋白、粗脂肪、粗纤维、粗灰分、钙、总磷。检测结果符合GB14924.3-2010；
+
+译文: Nutrient content: With nutrient content testing reports provided by Pony Testing International Group, report number: GMAEALJK35425508. The testing items included moisture, crude protein, crude fat, crude fiber, crude ash, calcium, and total phosphorus. The testing results met GB14924.3-2010.
+------------------------------------------------------------------------------------
+原文: 3.1.	品种/品系/级别	11
+
+译文: 3.1. Breed/strain/grade 11
+------------------------------------------------------------------------------------
+原文: 淋巴细胞计数（#LYMPH）及百分比（%LYMPH）
+
+译文: Lymphocyte count (#LYMPH) and percentage (%LYMPH)
+------------------------------------------------------------------------------------
+原文: 缩略词表
+
+译文: ABBREVIATION INDEX
+------------------------------------------------------------------------------------
+原文: 注：表中列出的未见供试品相关异常症状动物数/检查动物总数，n = 4。
+
+译文: Note: The table lists the number of animals showing no test article-related abnormal symptoms/examination in total number of animals, n = 4.
+------------------------------------------------------------------------------------
+原文: 第二周期分组给药见下表：
+
+译文: The second period Group Assignment dose is shown in the table below:
+------------------------------------------------------------------------------------
+原文: 试验设计
+
+译文: Study design
+------------------------------------------------------------------------------------
+原文: 组别设计：8只Beagle犬4×2交叉给药；
+
+译文: Group design: 8 Beagle dogs 4×2 cross dose;
+------------------------------------------------------------------------------------
+原文: 4.5.	环境改善	13
+
+译文: 4.5. Environmental Enrichment 13
+------------------------------------------------------------------------------------
+原文: 温度：18.6 ~ 23.7 ℃；
+
+译文: Temperature: 18.6 ~ 23.7 ℃;
+------------------------------------------------------------------------------------
+原文: 遵循的法规及技术指导原则
+
+译文: Followed regulations and technical guidelines
+------------------------------------------------------------------------------------
+原文: 半衰期
+
+译文: Half-life
+------------------------------------------------------------------------------------
+原文: 液质联用仪
+
+译文: Liquid chromatography-mass spectrometry
+------------------------------------------------------------------------------------
+原文: 来源
+
+译文: Source
+------------------------------------------------------------------------------------
+原文: 供试品及对照品在室温、遮光条件下从供试品管理部转移到动物饲养间。从供试品管理部领取的供试品及对照品在不使用时贮存于室温、遮光条件。
+
+译文: Test article and reference item were metastasized from Test Article Management Department to the Animal Housing room under room temperature and lightproof conditions. The test article and reference item obtained from the Test Article Management Department were stored at room temperature and lightproof conditions when not in use.
+------------------------------------------------------------------------------------
+原文: 结论：比格犬分别经口给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，血浆中sbk002具有类似的吸收、分布和代谢曲线。给予sbk002片的Cmax小于给予硫酸氢氯吡格雷片的Cmax，但无显著性差异（P > 0.05）；给予sbk002片和硫酸氢氯吡格雷片后两者Tmax、AUC0-24h、T1/2均近似且无显著性差异（P > 0.05）。
+
+译文: Conclusion: Beagle dogs were given sbk002 tablets at 30 mg/each and clopidogrel bisulfate tablets at 75 mg/each orally, and sbk002 in plasma exhibited similar absorption, distribution, and metabolism curves. The Cmax for sbk002 tablets was less than the Cmax for clopidogrel bisulfate tablets, but there was no significant difference (P > 0.05); after administering sbk002 tablets and clopidogrel bisulfate tablets, their Tmax, AUC0-24h, and T1/2 were similar without significant differences (P > 0.05). 
+------------------------------------------------------------------------------------
+原文: 按照委托方的要求，使用通过方法学验证的LC-MS/MS法仅检测所有PK血浆样品中sbk002的浓度。
+
+译文:  According to the Sponsor’s requirements, the concentration of sbk002 in all PK plasma samples was tested using the LC-MS/MS method validated through methodology. 
+------------------------------------------------------------------------------------
+原文: 附件一：附表
+
+译文:  Appendix One: Appendix Tables 
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，血浆中sbk002具有类似的吸收、分布和代谢曲线。给予sbk002片的Cmax小于给予硫酸氢氯吡格雷片的Cmax，但无显著性差异（P > 0.05）；给予sbk002片和硫酸氢氯吡格雷片后两者Tmax、AUC0-24h、T1/2均近似且无显著性差异（P > 0.05）。
+
+译文:  Beagle dogs were given sbk002 tablets at 30 mg/each and clopidogrel bisulfate tablets at 75 mg/each orally, and sbk002 in plasma exhibited similar absorption, distribution, and metabolism curves. The Cmax for sbk002 tablets was less than the Cmax for clopidogrel bisulfate tablets, but there was no significant difference (P > 0.05); after administering sbk002 tablets and clopidogrel bisulfate tablets, their Tmax, AUC0-24h, and T1/2 were similar without significant differences (P > 0.05). 
+------------------------------------------------------------------------------------
+原文: 本试验遵循的法规及技术指导原则为：
+
+译文:  The regulations and technical guidelines followed in this assay are: 
+------------------------------------------------------------------------------------
+原文: 生产许可证号：SCXK（沪）2017-0006；
+
+译文:  Production license No.: SCXK (沪) 2017-0006; 
+------------------------------------------------------------------------------------
+原文: 留样及剩余给药制剂/供试品的处理
+
+译文:  Retention samples and disposal of remaining dose formulations/test articles 
+------------------------------------------------------------------------------------
+原文: 提供单位：成都施贝康生物医药科技有限公司。
+
+译文:  Supplier: Chengdu Sbikang Biomedical Technology Co., Ltd. 
+------------------------------------------------------------------------------------
+原文: 低于定量下限
+
+译文:  Below the lower limit of quantification 
+------------------------------------------------------------------------------------
+原文: 《生物样品定量分析方法验证指导原则》（国家药典委员会，中华人民共和国药典2015年版）。
+
+译文:  "Guidelines for Validation of Bioanalytical Quantitative Methods" (Chinese Pharmacopoeia Commission, Pharmacopoeia of the People’s Republic of China 2015 edition). 
+------------------------------------------------------------------------------------
+原文: 硫酸氢氯吡格雷片
+
+译文:  Clopidogrel Bisulfate Tablets 
+------------------------------------------------------------------------------------
+原文: 观察与检查
+
+译文:  Observation and examination 
+------------------------------------------------------------------------------------
+原文: （mg/只）
+
+译文:  (mg/each) 
+------------------------------------------------------------------------------------
+原文: 专题名称及编号
+
+译文:  Study Name and Number 
+------------------------------------------------------------------------------------
+原文: 本试验的实施除方案特殊说明外，均遵循本机构标准操作规程（Standard Operating Procedures，SOPs）。
+
+译文:  The implementation of this assay, unless specifically stated otherwise in the protocol, complied with the standard operating procedures of the testing facility (Standard Operating Procedures, SOPs). 
+------------------------------------------------------------------------------------
+原文: 参考前期的比格犬药代预试验，T1/2约为5 h左右，采血时间点设计为：给药前及给药后5 min、15 min、30 min、45 min、1 h、1.5 h、2 h、3 h、4 h、6 h、8 h、10 h和24 h（此时血药浓度约为Cmax的1/20）。
+
+译文:  Referring to the preliminary assay of beagle dogs, T1/2 is approximately 5 h, and the blood sampling time points were designed as: pre-dose and after dosing 5 min, 15 min, 30 min, 45 min, 1 h, 1.5 h, 2 h, 3 h, 4 h, 6 h, 8 h, 10 h, and 24 h (at this time the blood concentration is approximately 1/20 of Cmax). 
+------------------------------------------------------------------------------------
+原文: 平均红细胞血红蛋白浓度（MCHC）
+
+译文:  Mean erythrocyte hemoglobin concentration (MCHC) 
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-06；
+
+译文:  Expiry date: 2020-06; 
+------------------------------------------------------------------------------------
+原文: 平均滞留时间
+
+译文:  Mean retention time 
+------------------------------------------------------------------------------------
+原文: 给药途径：经口给予；
+
+译文:  Route of administration: orally; 
+------------------------------------------------------------------------------------
+原文: 动物管理和使用
+
+译文:  Animal management and use 
+------------------------------------------------------------------------------------
+原文: 保存场所：苏州华测生物技术有限公司档案管理部；
+
+译文:  Storage location: Suzhou Huace Biological Technology Co., Ltd. archives management department; 
+------------------------------------------------------------------------------------
+原文: 结果提示，30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片具有近似的药效动力学曲线，且各时间点拮抗血小板聚集作用相当。
+
+译文:  Results indicate that 30 mg/each sbk002 tablets and 75 mg/each clopidogrel bisulfate tablets have similar pharmacodynamics curves, and both exhibit comparable anti-platelet aggregation at each time point. 
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-K01-01。
+
+译文:  Study number: A2018030-K01-01. 
+------------------------------------------------------------------------------------
+原文: 动物ID号
+
+译文:  Animal ID number 
+------------------------------------------------------------------------------------
+原文: 根据研究机构的SOPs制定笼卡，每只动物通过纹身和笼卡作为动物识别标记。1号组和2号组分别用绿色和蓝色制作笼卡。
+
+译文:  According to the test facility's SOPs, a cage card is created for each animal, and each animal is labeled with a tattoo and a cage card. Group 1 and Group 2 cage cards are produced in green and blue, respectively. 
+------------------------------------------------------------------------------------
+原文: 光照：人工照明，12小时明暗交替；
+
+译文:  Lighting: Artificial lighting, 12-hour light-dark cycle; 
+------------------------------------------------------------------------------------
+原文: sbk002片
+
+译文:  Sbk002 tablets 
+------------------------------------------------------------------------------------
+原文: 计算：HGB/（MCV×RBC）×1000
+
+译文:  Calculation: HGB/(MCV×RBC)×1000 
+------------------------------------------------------------------------------------
+原文: 目录
+
+译文:  TABLE OF CONTENTS 
+------------------------------------------------------------------------------------
+原文: 徐振兴，M.S.                                                                     日期
+
+译文:  Xu Zhenxing, M.S. Date 
+------------------------------------------------------------------------------------
+原文: 给药频率及周期：两周期给药，每周期给药一次；第一周期（D1）给药后，D14检测血小板聚集率，若血小板聚集率恢复正常，则D15进行第二周期给药。
+
+译文:  Frequency of administration and period: Two periods dose, one dose per period; after the first period (D1) dosing, D14 testing platelet accumulation rate, if the platelet accumulation rate recovers normally, then perform the second period dose on D15. 
+------------------------------------------------------------------------------------
+原文: 13.	资料保存	23
+
+译文:  13. Storage of Relevant Data 23 
+------------------------------------------------------------------------------------
+原文: 血液学检查
+
+译文:  Hematology examination 
+------------------------------------------------------------------------------------
+原文: 设施内的所有原始数据根据试验方案和苏州华测生物技术有限公司的SOP手动收集或用数据采集系统收集。手动收集的数据转录到Excel表格中进行分析和报告。
+
+译文:  All raw data within the facility were manually collected or collected using a data acquisition system according to the study protocol and SOPs of Suzhou Huace Biological Technology Co., Ltd. Manually collected data were transcribed into Excel tables for analysis and reporting. 
+------------------------------------------------------------------------------------
+原文: 采样时间：给药前及给药后30 min（± 2 min）、1 h（± 2 min）、2 h（± 2 min）、4 h（± 5 min）、8 h（± 10 min）、24 h（± 20 min）。
+
+译文:  Sampling time: pre-dose and after dosing 30 min (± 2 min), 1 h (± 2 min), 2 h (± 2 min), 4 h (± 5 min), 8 h (± 10 min), 24 h (± 20 min). 
+------------------------------------------------------------------------------------
+原文: 未知血浆样品均用同一板上各自的标准曲线计算浓度，采用Phoenix WinNonlin7.0软件绘制浓度-时间曲线，并按非房室模型计算下列药代动力学参数：半衰期（T1/2）、最大血药浓度（Cmax）、达峰时间（Tmax）、药时曲线下面积（AUC0-t和AUC0-∞）、分布容积（Vd）、清除率（CL）、平均滞留时间（MRT）。
+
+译文:  Unknown plasma samples were all calculated using the standard curve on each respective plate, and the Phoenix WinNonlin7.0 software was used to plot the concentration-time curve. The following pharmacokinetic parameters were calculated using a non-atrioventricular model: half-life (T1/2), maximum blood concentration (Cmax), time to reach maximum (Tmax), area under the concentration-time curve (AUC0-t and AUC0-∞), distribution volume (Vd), clearance rate (CL), mean retention time (MRT). 
+------------------------------------------------------------------------------------
+原文: 性别和数量
+
+译文:  Sex and Number 
+------------------------------------------------------------------------------------
+原文: 对照品留样：按公司相关SOP进行供试品留样；
+
+译文:  Retention samples of reference items: perform retention samples of test articles according to the related SOPs of the company; 
+------------------------------------------------------------------------------------
+原文: 专题编号  A2018030-K01-01
+
+译文:  Study number A2018030-K01-01 
+------------------------------------------------------------------------------------
+原文: 健康检查及洗脱期血小板聚集率
+
+译文:  Healthy examination and washout periods platelet accumulation rate 
+------------------------------------------------------------------------------------
+原文: 《1171》字样；
+
+译文:  "1171" characters; 
+------------------------------------------------------------------------------------
+原文: 约2 mL
+
+译文:  About 2 mL 
+------------------------------------------------------------------------------------
+原文: 3.	试验系统	11
+
+译文:  3. Test system 11 
+------------------------------------------------------------------------------------
+原文: 本机构实验动物使用许可证号：SYXK(苏）2014-0033。
+
+译文:  Laboratory animal use permit number of this institution: SYXK(苏) 2014-0033. 
+------------------------------------------------------------------------------------
+原文: 二维激光扫描法
+
+译文:  Two-dimensional laser scan method 
+------------------------------------------------------------------------------------
+原文: 检疫和适应
+
+译文:  Quarantine and acclimatization 
+------------------------------------------------------------------------------------
+原文: 试验期间，第一周期和第二周期的所有组别动物均未见与供试品相关异常临床症状。
+
+译文:  During the assay, no abnormal clinical symptoms related to the test article were observed in all group animals during the first period and second period. 
+------------------------------------------------------------------------------------
+原文: 邮编：215300；
+
+译文:  Postal code: 215300; 
+------------------------------------------------------------------------------------
+原文: 试验材料
+
+译文:  Study Materials 
+------------------------------------------------------------------------------------
+原文: 动物的饲养和管理
+
+译文:  Animal feeding and management 
+------------------------------------------------------------------------------------
+原文: 目的：硫酸氢氯吡格雷是前体药物，sbk002系硫酸氢氯吡格雷的代谢中间体，进一步代谢成活性代谢产物。本试验选用Beagle犬作为实验动物，8只比格犬分为两组，分别经口给予sbk002片和硫酸氢氯吡格雷片，采集PK和PD血样；洗脱14天后，进行交叉给药并采集血样。分析全部PK血样中sbk002的浓度，检测全部PD血样中血小板聚集率，计算sbk002在动物体内药代动力学参数，为后续非临床及临床试验提供研究资料。
+
+译文:  Objective: Clopidogrel bisulfate is a precursor medication, while sbk002 is its metabolic intermediate, which further metabolizes into active metabolites. This assay selected Beagle dogs as laboratory animals, dividing 8 Beagle dogs into two groups, administering sbk002 tablets and clopidogrel bisulfate tablets orally, collecting PK and PD blood samples; after a washout of 14 days, cross-dosing was performed, and blood samples were collected. The concentration of sbk002 in all PK blood samples was analyzed, and the platelet aggregation rate in all PD blood samples was tested, calculating the pharmacokinetic parameters of sbk002 in vivo in animals, providing research data for subsequent non-clinical and clinical assays. 
+------------------------------------------------------------------------------------
+原文: 资料保存
+
+译文:  Storage of Relevant Data 
+------------------------------------------------------------------------------------
+原文: 药代动力学试验
+
+译文:  Pharmacokinetic assay 
+------------------------------------------------------------------------------------
+原文: 化学污染物：具有谱尼测试提供的化学污染物检测报告，报告编号：GMAUSNJK21532508，检测指标包括砷、铅、镉、汞、六六六、滴滴涕、黄曲霉毒素B1。检测结果符合GB14924.2-2001。
+
+译文:  Chemical pollutants: have a chemical pollutants testing report provided by Pony Testing International Group, report number: GMAUSNJK21532508. Testing indicators include arsenic, lead, cadmium, mercury, HCH, DDT, aflatoxin B1. The testing result meets GB14924.2-2001. 
+------------------------------------------------------------------------------------
+原文: 11.	结论	23
+
+译文:  11. Conclusion 23 
+------------------------------------------------------------------------------------
+原文: 检测时间及样本采集方法
+
+译文:  Test time and samples processing method 
+------------------------------------------------------------------------------------
+原文: 雄
+
+译文:  Male 
+------------------------------------------------------------------------------------
+原文: 动物标识
+
+译文:  Animal Identification 
+------------------------------------------------------------------------------------
+原文: PK血样采集时间：第一周期和第二周期给药前及给药后5 min、15 min、30 min、45 min、1 h、1.5 h、2 h、3 h、4 h、6 h、8 h、10 h和24 h。PD血样采集时间：第一周期和第二周期给药前及给药后0.5 h、1 h、2 h、4 h、8 h和24 h。
+
+译文:  PK blood sample collection time: during the first period and second period, pre-dose and after dosing 5 min, 15 min, 30 min, 45 min, 1 h, 1.5 h, 2 h, 3 h, 4 h, 6 h, 8 h, 10 h, and 24 h. PD blood sample collection time: during the first period and second period, pre-dose and after dosing 0.5 h, 1 h, 2 h, 4 h, 8 h and 24 h. 
+------------------------------------------------------------------------------------
+原文: 签   字   页
+
+译文:  Signature Page 
+------------------------------------------------------------------------------------
+原文: 血样处理和血小板聚集率检测
+
+译文:  Blood sample disposal and platelet aggregation rate testing 
+------------------------------------------------------------------------------------
+原文: 10.2.2.	药代动力学参数	21
+
+译文:  10.2.2. Pharmacokinetic parameters 21 
+------------------------------------------------------------------------------------
+原文: 专题名称：Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片药代动力学试验；
+
+译文:  Study Name: Pharmacokinetic assay of orally administered sbk002 tablets and clopidogrel bisulfate tablets in Beagle dogs; 
+------------------------------------------------------------------------------------
+原文: 使用动物数量和性别：8只，雄性；
+
+译文:  Use animal number and sex: 8, male;
+------------------------------------------------------------------------------------
+原文: 用途
+
+译文: 用途
+------------------------------------------------------------------------------------
+原文: 数据整理及统计分析：徐振兴、叶双双。
+
+译文: data sorting and statistical analysis: Xu Zhenxing, Shuangshuang Ye.
+------------------------------------------------------------------------------------
+原文: 片剂数量
+
+译文: Tablet number
+------------------------------------------------------------------------------------
+原文: 3.6.	实验动物选择依据和数量	12
+
+译文: 3.6.	Laboratory animals selection justification and number	12
+------------------------------------------------------------------------------------
+原文: 2、药效动力学
+
+译文: 2. Pharmacodynamics 
+------------------------------------------------------------------------------------
+原文: 饲料批号：18107221；
+
+译文: Feed batch number: 18107221;
+------------------------------------------------------------------------------------
+原文: 附件三：血浆样品中sbk002测试分析报告
+
+译文: Appendix 3: Plasma sample SBK002 test analyzed report
+------------------------------------------------------------------------------------
+原文: 10.2.1.	血药浓度	19
+
+译文: 10.2.1. Blood concentration 19
+------------------------------------------------------------------------------------
+原文: 6.2.2.1血液学指标
+
+译文: 6.2.2.1 Hematology indicators
+------------------------------------------------------------------------------------
+原文: 研究起止日期：2018-11-23 ~ 2019-01-19
+
+译文: Study start and end dates: 2018-11-23 ~ 2019-01-19
+------------------------------------------------------------------------------------
+原文: 保存条件：常规；
+
+译文: Storage condition: routine;
+------------------------------------------------------------------------------------
+原文: 检测方法
+
+译文: Testing method
+------------------------------------------------------------------------------------
+原文: 变异系数
+
+译文: Coefficient of variation
+------------------------------------------------------------------------------------
+原文: 品系：Beagle犬；
+
+译文: Strain: Beagle dogs;
+------------------------------------------------------------------------------------
+原文: 成都施贝康生物医药科技有限公司
+
+译文: Chengdu Shibeikang Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 专题编号：A2018030-K01-01
+
+译文: Study number: A2018030-K01-01
+------------------------------------------------------------------------------------
+原文: 电话：0512-36801688；
+
+译文: Telephone: 0512-36801688;
+------------------------------------------------------------------------------------
+原文: 相对偏差
+
+译文: Relative deviation
+------------------------------------------------------------------------------------
+原文: 不少于1 mL
+
+译文: Not less than 1 mL
+------------------------------------------------------------------------------------
+原文: 动物号
+
+译文: Animal number
+------------------------------------------------------------------------------------
+原文: 第二周期
+
+译文: Second period
+------------------------------------------------------------------------------------
+原文: 谷草转氨酶（AST）
+
+译文: Aspartate aminotransferase (AST)
+------------------------------------------------------------------------------------
+原文: 饲养环境条件标准：中华人民共和国国家标准GB14925-2010；
+
+译文: Housing environment conditions standards: National Standards of the People's Republic of China GB14925-2010;
+------------------------------------------------------------------------------------
+原文: 饲养环境
+
+译文: Housing environment
+------------------------------------------------------------------------------------
+原文: 电话：028-62532315；
+
+译文: Telephone: 028-62532315;
+------------------------------------------------------------------------------------
+原文: 健康检查汇总数据见附件一附表2 和附表3。
+
+译文: Healthy examination summary data see Appendix 1 Appendix Tables 2 and Appendix Tables 3.
+------------------------------------------------------------------------------------
+原文: 性别比例：均为雄性；
+
+译文: Sex ratio: all male;
+------------------------------------------------------------------------------------
+原文: 试验主要组成人员
+
+译文: Assay primary personnel
+------------------------------------------------------------------------------------
+原文: 1.7.	遵循的法规及技术指导原则	9
+
+译文: 1.7. Followed regulations and technical guidelines 9
+------------------------------------------------------------------------------------
+原文: 结论
+
+译文: Conclusion
+------------------------------------------------------------------------------------
+原文: 试验人员组成
+
+译文: Study personnel composition
+------------------------------------------------------------------------------------
+原文: 摄氏度
+
+译文: Degree Celsius
+------------------------------------------------------------------------------------
+原文: 附件一：附表	25
+
+译文: Appendix 1: Appendix Tables 25
+------------------------------------------------------------------------------------
+原文: 图1 比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后sbk002平均血药浓度-时间曲线图（n = 8）
+
+译文: Figure 1 Mean blood concentration-time curve of SBK002 and clopidogrel hydrogen sulfate tablets (n = 8) after oral administration of 30 mg SBK002 tablet and 75 mg clopidogrel hydrogen sulfate tablet to Beagle dogs
+------------------------------------------------------------------------------------
+原文: 药效动力学结果
+
+译文: Pharmacodynamics result
+------------------------------------------------------------------------------------
+原文: 1.4.	委托单位	8
+
+译文: 1.4. Sponsor 8
+------------------------------------------------------------------------------------
+原文: 表3 Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片后平均血小板聚集率（n = 8）
+
+译文: Table 3 Mean platelet accumulation rate of Beagle dogs (n = 8) after oral administration of SBK002 tablet and clopidogrel hydrogen sulfate tablet
+------------------------------------------------------------------------------------
+原文: 中性粒细胞计数（#NEUT）及百分比（%NEUT）
+
+译文: Neutrophil count (#NEUT) and percentage (%NEUT)
+------------------------------------------------------------------------------------
+原文: 2.4.	给药制剂在试验机构内的转移	11
+
+译文: 2.4. Dose formulations metastasis within the test facility 11
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: System
+------------------------------------------------------------------------------------
+原文: 重氮法
+
+译文: Diazotization method
+------------------------------------------------------------------------------------
+原文: 基本信息
+
+译文: General Information
+------------------------------------------------------------------------------------
+原文: 本试验未产生偏离试验方案的情况。本试验无试验方案的变更，试验方案见附件四。
+
+译文: This assay did not generate deviations from the study protocol. This assay had no amendments to the study protocol, which can be found in Appendix 4.
+------------------------------------------------------------------------------------
+原文: 硫酸氢氯吡格雷片组
+（75mg/只）
+
+译文: Clopidogrel hydrogen sulfate tablet group (75 mg each)
+------------------------------------------------------------------------------------
+原文: 给药剂量：sbk002片和硫酸氢氯吡格雷片的剂量分别为：30 mg/只、75 mg/只；
+
+译文: Dosage: The dosage of SBK002 tablet and clopidogrel hydrogen sulfate tablet were 30 mg each, 75 mg each respectively;
+------------------------------------------------------------------------------------
+原文: sbk002系硫酸氢氯吡格雷的起主要药效作用的代谢产物。本试验选用Beagle犬作为实验动物，8只比格犬分为两组，分别经口给予sbk002片和硫酸氢氯吡格雷片，采集PK和PD血样；洗脱14天后，进行交叉给药并采集血样。分析全部PK血样中sbk002的浓度，检测全部PD血样中血小板聚集率，计算sbk002在动物体内药代动力学参数，为后续非临床及临床试验提供研究资料。
+
+译文: SBK002 is mainly the metabolite with pharmacological effects of clopidogrel hydrogen sulfate. This assay selected Beagle dogs as laboratory animals, dividing 8 Beagle dogs into two groups, orally administering SBK002 tablets and clopidogrel hydrogen sulfate tablets, collecting PK and PD blood samples. After a 14-day washout period, perform a crossover dose and collect blood samples. Analyzed the concentration of SBK002 in all PK blood samples and tested the platelet accumulation rate in all PD blood samples, Calculated the pharmacokinetic parameters of SBK002 in vivo for animals, providing research data for subsequent non-clinical and clinical assays.
+------------------------------------------------------------------------------------
+原文: 规格：10 mg/片；
+
+译文: Size: 10 mg/tablet;
+------------------------------------------------------------------------------------
+原文: 采样动物：所有试验动物。
+
+译文: Sampling animals: all assay animals.
+------------------------------------------------------------------------------------
+原文: 版本
+
+译文: Version
+------------------------------------------------------------------------------------
+原文: 苏州华测生物技术有限公司
+
+译文: Suzhou Huace Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 10.2.	药代动力学结果	19
+
+译文: 10.2. Pharmacokinetic result 19
+------------------------------------------------------------------------------------
+原文: 动物
+
+译文: Animal
+------------------------------------------------------------------------------------
+原文: 试验方案、偏离和变更
+
+译文: Study protocol, deviations, and amendments
+------------------------------------------------------------------------------------
+原文: 肌酸激酶（CK）
+
+译文: Creatine kinase (CK)
+------------------------------------------------------------------------------------
+原文: 8.	PD血样采集及检测	18
+
+译文: 8. Collection and testing of PD blood samples 18
+------------------------------------------------------------------------------------
+原文: 乳酸脱氢酶（LDH）
+
+译文: Lactate dehydrogenase (LDH)
+------------------------------------------------------------------------------------
+原文: 实验动物选择依据和数量
+
+译文: Laboratory animals selection justification and number
+------------------------------------------------------------------------------------
+原文: 5.2.	剂量设计依据	15
+
+译文: 5.2. Dose design justification 15
+------------------------------------------------------------------------------------
+原文: 10.1.	观察与检查结果	19
+
+译文: 10.1. Observation and examination result 19
+------------------------------------------------------------------------------------
+原文: 血生化检查
+
+译文: Blood chemistry examination
+------------------------------------------------------------------------------------
+原文: 饲养地点：苏州华测生物技术有限公司1号楼4楼犬房普通环境区；
+
+译文: Laboratory animal use license No.: Suzhou Huace Biotechnology Co., Ltd. Building 1, Floor 4, Dog House Common Environment Area;
+------------------------------------------------------------------------------------
+原文: 收集管类型
+
+译文: Type of collection tube
+------------------------------------------------------------------------------------
+原文: 1、药代动力学
+
+译文: 1. Pharmacokinetics
+------------------------------------------------------------------------------------
+原文: 供试品
+
+译文: Test article
+------------------------------------------------------------------------------------
+原文: 动物选择
+
+译文: Animal Selection
+------------------------------------------------------------------------------------
+原文: 分钟
+
+译文: Minute
+------------------------------------------------------------------------------------
+原文: 动物质量合格证号：311619100000181。
+
+译文: Animal quality certification number: 311619100000181.
+------------------------------------------------------------------------------------
+原文: 电子邮件：xuzhenxing@cti-cert.com。
+
+译文: Email: xuzhenxing@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: 动物房的环境控制和检测
+
+译文: Environmental control and testing of animal housing
+------------------------------------------------------------------------------------
+原文: 1.3.	研究机构	8
+
+译文: 1.3. Test facility 8
+------------------------------------------------------------------------------------
+原文: 地址：
+
+译文: Address:
+------------------------------------------------------------------------------------
+原文: 过氧化物酶染色法
+
+译文: Peroxidase stain method
+------------------------------------------------------------------------------------
+原文: 观察内容：包括但不限于一般表现、行为状态、眼睛、口腔、鼻口部、耳、毛发及皮肤、粪便、尿、生殖器等毒性症状；
+
+译文: Observation items: include but are not limited to  general conditions, behavioral status, eyes, oral cavity, muzzle, ears, hair and skin, feces, urine, genitalia, and other toxicity symptoms;
+------------------------------------------------------------------------------------
+原文: 检测时间：适应期测定1次；
+
+译文: Test time: pretest phase determination once;
+------------------------------------------------------------------------------------
+原文: 嗜碱性粒细胞计数（#BASO）及百分比（%BASO）
+
+译文: Basophil granulocyte count (#BASO) and percentage (%BASO)
+------------------------------------------------------------------------------------
+原文: 6.2.1.1血液样本
+
+译文: 6.2.1.1 Blood samples
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后，sbk002平均血药浓度见表1，sbk002平均血药浓度-时间曲线见图1 和图2。研究结果显示，比格犬分别经口给予sbk002片和硫酸氢氯吡格雷片后，sbk002的血药浓度变化趋势一致，峰浓度随着给药剂量的增加而增加，达峰之后血药浓度随时间逐渐下降，至给药后24 h下降至定量下限附近。sbk002个体药时曲线见附件二附图1 ~ 附图2，sbk002个体血药浓度见附件三附表9和附表10。
+
+译文: Mean blood concentration of SBK002 after oral administration of 30 mg SBK002 tablet and 75 mg clopidogrel hydrogen sulfate tablet to Beagle dogs is shown in Table 1, and the mean blood concentration-time curve of SBK002 is shown in Figure 1 and Figure 2. The study results showed that the trend of blood concentration changes of SBK002 was consistent between the oral administration of SBK002 tablets and clopidogrel hydrogen sulfate tablets to Beagle dogs. The peak concentration increased with dosage, and after reaching the peak, the blood concentration gradually decreased with time, reaching the lower limit of quantification 24 hours after dosing. The individual concentration-time curve of SBK002 can be found in Appendix 2, Appendix Figures 1 to Appendix Figures 2, and the individual blood concentration of SBK002 is shown in Appendix 3, Appendix Tables 9 and Appendix Tables 10.
+------------------------------------------------------------------------------------
+原文: 白细胞计数（WBC）
+
+译文: White blood cell count (WBC)
+------------------------------------------------------------------------------------
+原文: 制造商
+
+译文: Manufacturer
+------------------------------------------------------------------------------------
+原文: sbk002片组
+
+译文: SBK002 tablet group
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，sbk002片和硫酸氢氯吡格雷片的代谢中间体sbk002的血药浓度变化趋势一致，峰浓度随着给药剂量的增加而增加，达峰之后血药浓度随时间逐渐下降，至给药后24 h下降至定量下限附近。
+
+译文: After oral administration of 30 mg/tablet SBK002 and 75 mg/tablet clopidogrel hydrogen sulfate to Beagle dogs, the trend of blood concentration changes of SBK002, which is an intermediate metabolite in the metabolism of SBK002 and clopidogrel hydrogen sulfate, was consistent. The peak concentration increased with dosage, and after reaching the peak, the blood concentration gradually decreased with time, reaching the lower limit of quantification 24 hours after dosing.
+------------------------------------------------------------------------------------
+原文: 数据采集和分析
+
+译文: Data acquisition and analyzed
+------------------------------------------------------------------------------------
+原文: 剩余供试品处理：待本项目全部专题结束后退回委托方。
+
+译文: Remaining handling of test article: Return to the sponsor after all studies for this project end.
+------------------------------------------------------------------------------------
+原文: 联系人：武丽；
+
+译文: Contact: Wu Li;
+------------------------------------------------------------------------------------
+原文: 肌酐（CREA）
+
+译文: Creatinine (CREA)
+------------------------------------------------------------------------------------
+原文: 4.3.	动物饲养	12
+
+译文: 4.3. Animal Housing 12
+------------------------------------------------------------------------------------
+原文: 单核细胞计数（#MONO）及百分比（%MONO）
+
+译文: Monocyte count (#MONO) and percentage (%MONO)
+------------------------------------------------------------------------------------
+原文: PK血样采集及检测分析
+
+译文: PK blood sample collection and testing analyzed
+------------------------------------------------------------------------------------
+原文: 试验数据采集
+
+译文: Assay data acquisition
+------------------------------------------------------------------------------------
+原文: 其中“Plasma-1”为首份检测样品，分装血浆体积为150 μL，剩余血浆样品作为备份保存于“Plasma-2”管中。置于≤ -60 ℃保存。分析结束后剩余血浆样本于试验结束后根据委托方的授权意见销毁或移交委托方。
+
+译文: Among them, "Plasma-1" was the first testing sample, with a divided plasma volume of 150 μL, and the remaining plasma sample was stored as backup in the "Plasma-2" tube. Stored at ≤ -60 ℃. After the analysis, the remaining plasma samples will be destroyed or transferred to the sponsor based on the sponsor's authorization opinion after the assay ended.
+------------------------------------------------------------------------------------
+原文: 进入适应期动物数量和性别：10只，雄性；
+
+译文: Entered pretest phase animal number and sex: 10, male;
+------------------------------------------------------------------------------------
+原文: 比色法
+
+译文: Colorimetry
+------------------------------------------------------------------------------------
+原文: 附表5 Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片后sbk002个体药代动力学参数
+
+译文: Appendix Tables 5 Pharmacokinetic parameters of SBK002 after oral administration of SBK002 and clopidogrel hydrogen sulfate to Beagle dogs
+------------------------------------------------------------------------------------
+原文: 血液学和血生化样本在采集后放入样品运输箱，2 h内送检。
+
+译文: Hematology and blood chemistry samples placed in the sample transport box after collection and sent for inspection within 2 hours.
+------------------------------------------------------------------------------------
+原文: 清除率
+
+译文: Clearance rate
+------------------------------------------------------------------------------------
+原文: 时间（h）
+
+译文: Time (h)
+------------------------------------------------------------------------------------
+原文: 药代动力学参数
+
+译文: Pharmacokinetic parameters
+------------------------------------------------------------------------------------
+原文: 提供单位：上海新冈实验动物场；
+
+译文: Supplier: Shanghai Xingang Laboratory Animal Farm;
+------------------------------------------------------------------------------------
+原文: 给药信息
+
+译文: Dosing Information
+------------------------------------------------------------------------------------
+原文: 从0 h 到无限时间的血药浓度-时间曲线下面积
+
+译文: Area under the curve of blood concentration-time from 0 h to infinite time 
+------------------------------------------------------------------------------------
+原文: 6.	观察与检查	15
+
+译文: 6. Observation and examination 15
+------------------------------------------------------------------------------------
+原文: 4.8.	动物选择	14
+
+译文: 4.8. Animal Selection 14
+------------------------------------------------------------------------------------
+原文: 姓名：徐振兴；
+
+译文: Name: Xu Zhenxing;
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后，与体内暴露量相关的参数Cmax分别为39.60 ± 18.66 ng/mL和75.65 ± 46.61 ng/mL（Cmax之比为1.00 : 1.91），AUC0-24h分别为127.90 ±53.28 h*ng/mL和139.23 ± 60.21 h*ng/mL（AUC0-24h 之比为1.00 : 1.09），给予sbk002片的Cmax小于给予硫酸氢氯吡格雷片的Cmax，给予sbk002片和硫酸氢氯吡格雷片后两者的AUC0-24h近似；达峰时间Tmax分别为0.75 ± 0.35 h和0.63 ± 0.40 h（见表2），给予sbk002片和硫酸氢氯吡格雷片后两者达峰时间近似；T1/2分别为8.47 ± 2.59 h和7.53 ± 2.71 h，给予sbk002片和硫酸氢氯吡格雷片后两者的T1/2近似（见表2）。
+
+译文: After oral administration of 30 mg SBK002 tablet and 75 mg clopidogrel hydrogen sulfate tablet to Beagle dogs, the parameter Cmax related to in vivo exposure were 39.60 ± 18.66 ng/mL and 75.65 ± 46.61 ng/mL respectively (the ratio of Cmax was 1.00: 1.91), AUC0-24h were 127.90 ± 53.28 h*ng/mL and 139.23 ± 60.21 h*ng/mL respectively (the ratio of AUC0-24h was 1.00: 1.09). The Cmax for SBK002 tablet was less than that for clopidogrel hydrogen sulfate tablet, while the AUC0-24h for both SBK002 and clopidogrel hydrogen sulfate tablets were similar; the time to reach maximum Tmax were 0.75 ± 0.35 h and 0.63 ± 0.40 h respectively (see Table 2), the Tmax for both tablets were similar; T1/2 were 8.47 ± 2.59 h and 7.53 ± 2.71 h respectively, the T1/2 for both tablets were similar (see Table 2).
+------------------------------------------------------------------------------------
+原文: Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片药代动力学试验
+
+译文: Beagle dogs administered sbk002 tablets and clopidogrel hydrogen sulfate tablets orally for pharmacokinetic assay
+------------------------------------------------------------------------------------
+原文: 饲料检测：供应商提供饲料的质量合格证明，合格证号：1112621800001047；
+
+译文: feed testing: The supplier provides a feed quality conformance certificate, certificate number: 1112621800001047;
+------------------------------------------------------------------------------------
+原文: 第一周期
+
+译文: first period
+------------------------------------------------------------------------------------
+原文: 毫升
+
+译文: Milliliter
+------------------------------------------------------------------------------------
+原文: 缩略词表	3
+
+译文: ABBREVIATION INDEX 3
+------------------------------------------------------------------------------------
+原文: 观察动物：所有存活试验动物。
+
+译文: Animals to be observed: all surviving assay animals.
+------------------------------------------------------------------------------------
+原文: 分组方法：按体重随机分组，确保各组动物齐同可比。
+
+译文: Group Assignment method: Randomly group assignment based on body weight, ensuring that each group's animals are homogeneous and comparable.
+------------------------------------------------------------------------------------
+原文: 血小板计数（PLT）
+
+译文: platelet count (PLT)
+------------------------------------------------------------------------------------
+原文: 未见异常症状
+
+译文: No abnormal symptoms were observed
+------------------------------------------------------------------------------------
+原文: 碱性磷酸酶（ALP）
+
+译文: alkaline phosphatase (ALP)
+------------------------------------------------------------------------------------
+原文: 种类：犬维持饲料；
+
+译文: type: dog maintenance feed;
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片具有近似的药效动力学曲线，且各时间点拮抗血小板聚集作用相当。
+
+译文: Beagle dogs respectively administered 30 mg sbk002 tablets and 75 mg clopidogrel hydrogen sulfate tablets orally show similar pharmacodynamics curves, and the platelet aggregation inhibition effect at each time point is comparable.
+------------------------------------------------------------------------------------
+原文: 体重和年龄
+
+译文: Body Weight and Age
+------------------------------------------------------------------------------------
+原文: 对照品
+
+译文: reference item
+------------------------------------------------------------------------------------
+原文: 附件三：血浆样品中sbk002测试分析报告	33
+
+译文: Appendix 3: Analysis report of sbk002 in plasma sample 33
+------------------------------------------------------------------------------------
+原文: 时间
+（h）
+
+译文: time (h)
+------------------------------------------------------------------------------------
+原文: 结果
+
+译文: result
+------------------------------------------------------------------------------------
+原文: 回归系数
+
+译文: regression coefficient
+------------------------------------------------------------------------------------
+原文: 嗜酸性粒细胞计数（#EOS）及百分比（%EOS）
+
+译文: eosinophil count (#EOS) and percentage (%EOS)
+------------------------------------------------------------------------------------
+原文: 批号：180902；
+
+译文: batch number: 180902;
+------------------------------------------------------------------------------------
+原文: 生产厂家：赛诺菲（杭州）制药有限公司；
+
+译文: Manufacturer: Sanofi (Hangzhou) Pharmaceutical Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 4.7.	饮水	13
+
+译文: 4.7. Drinking Water 13
+------------------------------------------------------------------------------------
+原文: 选择健康雄性动物作为受试动物。适应期主要对动物进行一般状态观察。
+
+译文: Selecting healthy male animals as test animals. The pretest phase mainly involves general state observations of the animals.
+------------------------------------------------------------------------------------
+原文: 剩余对照品处理：待本项目全部专题结束后退回委托方。
+
+译文: Remaining reference item disposal: To be returned to the sponsor after all studies for the project have ended.
+------------------------------------------------------------------------------------
+原文: 研究机构按照《职业卫生安全与防护手册》来操作。在试验操作时，穿戴合适的个人防护设备（PPE）及护目镜。
+
+译文: The test facility operates according to the “Occupational Health Safety and Protection Manual”. During the assay operations, appropriate personal protective equipment (PPE) and goggles must be worn.
+------------------------------------------------------------------------------------
+原文: 专题结束2周内，专题负责人将试验资料移交档案管理部归档。纸质资料至少保存至药品上市后五年，电子文档永久保存。
+
+译文: Within 2 weeks of the special project ending, the study director will transfer the assay data to the archives management department for archiving. Paper documents will be stored for at least five years after the pharmaceuticals are marketed and electronic documents will be stored permanently.
+------------------------------------------------------------------------------------
+原文: 1.1.	专题名称及编号	8
+
+译文: 1.1. Study Name and number 8
+------------------------------------------------------------------------------------
+原文: 摘   要	6
+
+译文: Summary 6
+------------------------------------------------------------------------------------
+原文: 饲养笼具空间：双层不锈钢冲洗式犬笼，规格（L×W×H）: 80 cm × 100 cm × 100 cm；
+
+译文: The cage has space: double-layer stainless steel water-flush type dog cages, size (L×W×H): 80 cm × 100 cm × 100 cm;
+------------------------------------------------------------------------------------
+原文: γ-谷氨酰转肽酶（GGT）
+
+译文: γ-glutamyl transpeptidase (GGT)
+------------------------------------------------------------------------------------
+原文: 对照品配制
+
+译文: reference item preparation
+------------------------------------------------------------------------------------
+原文: 英文缩写
+
+译文: Abbreviation
+------------------------------------------------------------------------------------
+原文: 保存场所与保存条件
+
+译文: Storage site and Storage condition
+------------------------------------------------------------------------------------
+原文: 血样采集
+
+译文: blood sample collection
+------------------------------------------------------------------------------------
+原文: 首次给药当天定义为试验第1天（day 1，D1）。
+
+译文: The first dose day defined as assay day 1 (day 1, D1).
+------------------------------------------------------------------------------------
+原文: 7.2.	血药浓度检测	18
+
+译文: 7.2. Blood drug concentration testing 18
+------------------------------------------------------------------------------------
+原文: 动物饲养
+
+译文: Animal Housing
+------------------------------------------------------------------------------------
+原文: 谷丙转氨酶（ALT）
+
+译文: Alanine aminotransferase (ALT)
+------------------------------------------------------------------------------------
+原文: 6.2.2.	临床检验指标与方法	16
+
+译文: 6.2.2. Clinical examination indicators and method 16
+------------------------------------------------------------------------------------
+原文: 方法：8只雄性比格犬按体重随机分为两组，每组4只，分两周期给药，第一周期1号组和2号组分别经口给予sbk002片和硫酸氢氯吡格雷片，剂量分别为30 mg/只和75 mg/只，采集PK和PD血样；洗脱14天后，第二周期1号组和2号组分别经口给予硫酸氢氯吡格雷片和sbk002片，剂量分别为75 mg/只和30 mg/只，采集PK和PD血样。
+
+译文: method: 8 male beagle dogs are randomly divided into two groups based on body weight, with 4 in each group, dosing in two periods. In the first period, groups 1 and 2 respectively receive sbk002 tablets and clopidogrel hydrogen sulfate tablets orally, with doses of 30 mg and 75 mg per dog, collecting PK and PD blood samples; after a washout period of 14 days, in the second period, groups 1 and 2 respectively receive clopidogrel hydrogen sulfate tablets and sbk002 tablets orally, with doses of 75 mg and 30 mg per dog, collecting PK and PD blood samples.
+------------------------------------------------------------------------------------
+原文: 生产单位：北京科澳协力饲料有限公司；
+
+译文: Manufacturer: Beijing Keao Xieli Feed Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 1.6.	试验关键日期	9
+
+译文: 1.6. Assay key dates 9
+------------------------------------------------------------------------------------
+原文: 含量：99.5 %；
+
+译文: content: 99.5 %;
+------------------------------------------------------------------------------------
+原文: 附表3 健康检查血液学指标统计汇总表
+
+译文: Appendix Tables 3: Summary table of hematology indicators from healthy examination
+------------------------------------------------------------------------------------
+原文: 表观分布容积
+
+译文: Apparent volume of distribution
+------------------------------------------------------------------------------------
+原文: 白蛋白（ALB）
+
+译文: albumin (ALB)
+------------------------------------------------------------------------------------
+原文: 2.3.	操作/安全措施	11
+
+译文: 2.3. Operations / Safety measures 11
+------------------------------------------------------------------------------------
+原文: 图2比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后sbk002平均对数血药浓度-时间曲线图（n = 8）
+
+译文: Figure 2: Mean logarithmic blood concentration-time curve of sbk002 after beagle dogs respectively administered 30 mg sbk002 tablets and 75 mg clopidogrel hydrogen sulfate tablets (n = 8)
+------------------------------------------------------------------------------------
+原文: 在浓度数据导入WinNonlin 7.0前对BLOQ（低于定量下限）进行定义：BLOQ在有数据之前定义为0，其余定义为Missing。
+
+译文: Before importing concentration data into WinNonlin 7.0, perform the following definition for BLOQ (Below the Lower Limit of Quantification): BLOQ before data is defined as 0, others defined as Missing.
+------------------------------------------------------------------------------------
+原文: 酶法
+
+译文: Enzymic method
+------------------------------------------------------------------------------------
+原文: 试验关键日期
+
+译文: Assay key dates
+------------------------------------------------------------------------------------
+原文: 计算：HGB/RBC
+
+译文: Calculation: HGB/RBC
+------------------------------------------------------------------------------------
+原文: 附录项目
+
+译文: Appendixes
+------------------------------------------------------------------------------------
+原文: 年龄：分组时约10 ~ 11月。
+
+译文: age: About 10 ~ 11 months at the time of group assignment.
+------------------------------------------------------------------------------------
+原文: 本试验涉及的与动物试验相关的内容和程序都遵从实验动物使用和管理的相关法律法规和本机构实验动物使用和管理委员会（Institutional Animal Care and Use Committee，IACUC）的相关规定。动物数量、试验设计及动物的处理等都已通过本机构IACUC审批（审批号：IACUC-A2018030-K01-01），并严格按IACUC批准的内容执行。
+
+译文: The content and procedures involved in this assay related to animal experiments comply with the related laws and regulations on the use and management of laboratory animals, and the related regulations of the Institutional Animal Care and Use Committee (IACUC) of this institution. The number of animals, study design, and disposal of animals have all been approved by the IACUC of this institution (approval batch number: IACUC-A2018030-K01-01) and are strictly implemented according to the approved content.
+------------------------------------------------------------------------------------
+原文: 本机构代号：W2018037；
+
+译文: Facility code: W2018037;
+------------------------------------------------------------------------------------
+原文: 健康检查
+
+译文: healthy examination
+------------------------------------------------------------------------------------
+原文: 给料方法：每天饲喂约250 g；
+
+译文: Feeding method: about 250 g daily;
+------------------------------------------------------------------------------------
+原文: 7.1.	血样采集	17
+
+译文: 7.1. Blood sample collection 17
+------------------------------------------------------------------------------------
+原文: 电话：
+
+译文: Telephone:
+------------------------------------------------------------------------------------
+原文: 《药品注册管理办法》（原CFDA，2007年10月）；
+
+译文: Pharmaceuticals Registration Management Measures (fCFDA, October 2007);
+------------------------------------------------------------------------------------
+原文: 目录	4
+
+译文: TABLE OF CONTENTS 4
+------------------------------------------------------------------------------------
+原文: 结果说明，30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片具有近似的药效动力学曲线，且各时间点拮抗血小板聚集作用相当。
+
+译文: The results indicate that sbk002 tablets 30 mg per dog and clopidogrel hydrogen sulfate tablets 75 mg per dog have similar pharmacodynamics curves, and the platelet aggregation inhibition effect at each time point is comparable.
+------------------------------------------------------------------------------------
+原文: 若采样误差在上述所设范围内，则按所设时间点计算药代参数。若采样误差超出上述所设范围，则按实际时间点计算药代参数；
+
+译文: If sampling errors are within the set range above, calculate the pharmacokinetic parameters according to the set time points. If sampling errors are outside the set range above, calculate the pharmacokinetic parameters according to the actual time points.
+------------------------------------------------------------------------------------
+原文: 等级：普通级。
+
+译文: Grade: ordinary.
+------------------------------------------------------------------------------------
+原文: 4.1.	动物管理和使用	12
+
+译文: 4.1. Animal management and use 12
+------------------------------------------------------------------------------------
+原文: 一般状态观察汇总数据见附件一附表1。
+
+译文: Summary data of general state observation are seen in Appendix 1 Appendix Tables 1.
+------------------------------------------------------------------------------------
+原文: 动物分组和给药信息见下表：
+
+译文: Animal Group Assignment and Dosing Information are shown in the table below:
+------------------------------------------------------------------------------------
+原文: 硫酸氢氯吡格雷片组
+
+译文: Clopidogrel hydrogen sulfate tablet group
+------------------------------------------------------------------------------------
+原文: 联系人：夏玉叶；
+
+译文: Contact person: Xia Yuye;
+------------------------------------------------------------------------------------
+原文: 品种/品系/级别
+
+译文: Breed/strain/level
+------------------------------------------------------------------------------------
+原文: 动物饲养管理：纵响；
+
+译文: Animal Housing management: Zong Xiang;
+------------------------------------------------------------------------------------
+原文: 惰性分离胶促凝管
+
+译文: Inert separating gel pro-coagulant tube
+------------------------------------------------------------------------------------
+原文: 签   字   页	2
+
+译文: Signature Page 2
+------------------------------------------------------------------------------------
+原文: 留样供试品处理：项目结束后按SOP规定进行归档，储存于本机构档案管理部留样档案室；
+
+译文: Retained test articles disposal: At the end of the project, archive in accordance with SOP regulations, stored in the retention sample archives room of the institution's archives management department.
+------------------------------------------------------------------------------------
+原文: 临床检验指标与方法
+
+译文: Clinical examination indicators and methods
+------------------------------------------------------------------------------------
+原文: 供试品配制
+
+译文: Preparation of test article
+------------------------------------------------------------------------------------
+原文: 动物数量：4只/组，2组，共计8只；
+
+译文: Number of animals: 4 per group, 2 groups, a total of 8.
+------------------------------------------------------------------------------------
+原文: EDTA•K2抗凝管
+
+译文: EDTA•K2 anticoagulant tube
+------------------------------------------------------------------------------------
+原文: 6.2.2.2血生化指标
+
+译文: 6.2.2.2 blood chemistry indicators
+------------------------------------------------------------------------------------
+原文: 主要仪器设备
+
+译文: Major Instruments equipment
+------------------------------------------------------------------------------------
+原文: 3.3.	来源	11
+
+译文: 3.3. Source 11
+------------------------------------------------------------------------------------
+原文: 附件四：试验方案
+
+译文: Appendix 4: study protocol
+------------------------------------------------------------------------------------
+原文: 适应期，各给药组的血液学和血生化指标均在正常值范围内波动。第一周期（D1）给药后，D14的血小板聚集率恢复正常，详见附件一附表4。
+
+译文: In the pretest phase, hematology and blood chemistry indicators of each dose group fluctuate within the normal range. After dosing on the first period (D1), D14 platelet aggregation rate recovered to normal, detailed in Appendix 1 Appendix Tables 4.
+------------------------------------------------------------------------------------
+原文: 供试品留样：按公司相关SOP进行供试品留样；
+
+译文: Retained test article samples: follow the company's related SOPs to retain samples;
+------------------------------------------------------------------------------------
+原文: 中文名称
+
+译文: Definition
+------------------------------------------------------------------------------------
+原文: 过氧化物酶染色/二维激光扫描法
+
+译文: Peroxidase stain/two-dimensional laser scan method
+------------------------------------------------------------------------------------
+原文: 平均红细胞体积（MCV）
+
+译文: Mean erythrocyte volume (MCV)
+------------------------------------------------------------------------------------
+原文: 个体药代动力学参数见附件一附表5。
+
+译文: Individual pharmacokinetic parameters are shown in Appendix 1 Appendix Tables 5.
+------------------------------------------------------------------------------------
+原文: 首次给药日期：2018-11-27；
+
+译文: First dose date: 2018-11-27;
+------------------------------------------------------------------------------------
+原文: 注：该项目供试品总留样量以供试品管理部留样相关记录为准。
+
+译文: Note: The total retention sample amount for this project’s test article is based on the related record of the Test Article Management Department's retention samples.
+------------------------------------------------------------------------------------
+原文: 名称：
+
+译文: Name:
+------------------------------------------------------------------------------------
+原文: 6.2.	健康检查	16
+
+译文: 6.2. healthy examination 16
+------------------------------------------------------------------------------------
+原文: 型号
+
+译文: Model
+------------------------------------------------------------------------------------
+原文: 传真：0512-36802288；
+
+译文: Fax: 0512-36802288;
+------------------------------------------------------------------------------------
+原文: 硫酸氢氯吡格雷片组 75mg/只
+
+译文: Clopidogrel hydrogen sulfate tablet group 75mg per dog
+------------------------------------------------------------------------------------
+原文: 2.5.	主要仪器设备	11
+
+译文: 2.5. Major Instruments equipment 11
+------------------------------------------------------------------------------------
+原文: 批号：7A670；
+
+译文: batch number: 7A670;
+------------------------------------------------------------------------------------
+原文: 《药物非临床研究质量管理规范》（原CFDA，2017年09月）；
+
+译文: Non-clinical study Good Laboratory Practices (GLPs) for medication (fCFDA, September 2017);
+------------------------------------------------------------------------------------
+原文: 比格犬分别经口给予30 mg sbk002片和75 mg硫酸氢氯吡格雷片后，平均血小板聚集率见表3，平均血小板聚集率-时间曲线见图3。研究结果显示，比格犬分别经口给予sbk002片和硫酸氢氯吡格雷片后，血小板聚集率变化趋势一致，大多数动物在给药后0.5 h开始，血小板聚集率开始下降，绝大多数动物在2 ~ 4小时达到最低血小板聚集率，并持续在低点维持到最后一个采血点（24 h）。
+
+译文: After beagle dogs were respectively administered 30 mg sbk002 tablets and 75 mg clopidogrel hydrogen sulfate tablets orally, the mean platelet aggregation rate is shown in Table 3, and the mean platelet aggregation rate-time curve is shown in Figure 3. The study results show that the platelet aggregation rate trends are consistent after beagle dogs are administered sbk002 tablets and clopidogrel hydrogen sulfate tablets orally, most animals started with a decline in platelet aggregation rate from 0.5 hours post-dosing, reaching the lowest platelet aggregation rate at 2 ~ 4 hours for most animals, and maintaining this low point until the last blood collection time point (24 hours).
+------------------------------------------------------------------------------------
+原文: 剂量设计依据
+
+译文: dosedesignjustification
+------------------------------------------------------------------------------------
+原文: 留样对照品处理：项目结束后按SOP规定进行归档，储存于本机构档案管理部留样档案室；
+
+译文: retention samplesreference itemdisposal: end of the projectto be performed and archived as per SOP in the organizational archivesmanagement department retention samplesarchives room;
+------------------------------------------------------------------------------------
+原文: 操作/安全措施
+
+译文: 操作/Safetymeasures
+------------------------------------------------------------------------------------
+原文: 保存条件：15 ~ 25 ℃；
+
+译文: Storage condition: 15 ~ 25 ℃;
+------------------------------------------------------------------------------------
+原文: 附表1 一般状态观察统计汇总表
+
+译文: Appendix Tables1 General statesobservation Summary Table
+------------------------------------------------------------------------------------
+原文: 附图2 比格犬经口给予硫酸氢氯吡格雷片后sbk002血药浓度-时间曲线（n = 8）
+
+译文: Appendix Figures2 beagle dog oral administration of Clopidogrel Bisulfate Tablets sbk002 plasma drug concentration-time curve (n = 8)
+------------------------------------------------------------------------------------
+原文: 总胆红素（TBIL）
+
+译文: Total bilirubin (TBIL)
+------------------------------------------------------------------------------------
+原文: 血浆样品检测：葛明玉、张佩；
+
+译文: plasmasampletesting: Ge Mingyu, Zhang Pei;
+------------------------------------------------------------------------------------
+原文: 环境改善
+
+译文: Environmental Enrichment
+------------------------------------------------------------------------------------
+原文: 处理方法：凝血和血液生化样本4000 r/min，室温，离心10分钟后上机检测；血液学样本直接上机检测。
+
+译文: treatment method: coagulation and blood clinical chemistry samples 4000 r/min, room temperature, centrifuged 10 minutes then analyzed; hematology samples analyzed directly.
+------------------------------------------------------------------------------------
+原文: 8.1.	血样采集	18
+
+译文: 8.1. Bloodsamplecollection 18
+------------------------------------------------------------------------------------
+原文: 名称：苏州华测生物技术有限公司；
+
+译文: name: Suzhou Huace Biological technique Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 不适用
+
+译文: Not Applicable
+------------------------------------------------------------------------------------
+原文: 检测动物：所有进入适应期试验动物；
+
+译文: Test animals: all entered pretest phase assay animals;
+------------------------------------------------------------------------------------
+原文: 饮水
+
+译文: Drinking Water
+------------------------------------------------------------------------------------
+原文: 观察与检查结果
+
+译文: observation and examination result
+------------------------------------------------------------------------------------
+原文: 上述结果表明，比格犬分别经口给予30 mg/只sbk002片和75 mg/只硫酸氢氯吡格雷片后，血浆中sbk002具有类似的吸收、分布和代谢曲线。给予sbk002片的Cmax小于给予硫酸氢氯吡格雷片的Cmax，但无显著性差异（P > 0.05）；给予sbk002片和硫酸氢氯吡格雷片后两者Tmax、AUC0-24h、T1/2均近似且无显著性差异（P > 0.05）。
+
+译文: The results showed that, beagle dogs were given orally 30 mg/each sbk002 tablets and 75 mg/each Clopidogrel Bisulfate Tablets respectively, plasma sbk002 demonstrated a similar absorption, distribution, and metabolism profile. The Cmax of sbk002 tablets was less than that of Clopidogrel Bisulfate Tablets, but the difference was not significant (P > 0.05); both Tmax, AUC0-24h, and T1/2 of sbk002 tablets and Clopidogrel Bisulfate Tablets were similar with no significant difference (P > 0.05). 
+------------------------------------------------------------------------------------
+原文: 名称/代号：波立维/硫酸氢氯吡格雷片；
+
+译文: Name/Code: Plavix/Clopidogrel Bisulfate Tablets;
+------------------------------------------------------------------------------------
+原文: 红细胞计数（RBC）
+
+译文: red blood cell count (RBC)
+------------------------------------------------------------------------------------
+原文: 红细胞比积（HCT）
+
+译文: Hematocrit (HCT)
+------------------------------------------------------------------------------------
+原文: 试验系统
+
+译文: test system
+------------------------------------------------------------------------------------
+原文: 电子邮件：xiayuye@cti-cert.com。
+
+译文: email: xiayuye@cti-cert.com.
+------------------------------------------------------------------------------------
+原文: 性状：粉红色，圆形双凸，薄膜包衣，一面刻有《75》，另一面刻有
+
+译文: Characterization: pink, round biconvex, film-coated, engraved with "75" on one side, and 
+------------------------------------------------------------------------------------
+原文: 样本收集量
+
+译文: samples collection amount
+------------------------------------------------------------------------------------
+原文: 注：该项目对照品总留样量以供试品管理部留样相关记录为准。
+
+译文: Note: The total retention samples amount for this project reference item shall be based on the records related to retention samples by the Test article management department.
+------------------------------------------------------------------------------------
+原文: 9.	数据采集和分析	18
+
+译文: 9. Data acquisition and analyzed 18
+------------------------------------------------------------------------------------
+原文: 临床检验：李胜；
+
+译文: Clinical examination: Li Sheng;
+------------------------------------------------------------------------------------
+原文: 血药浓度
+
+译文: Blood drug concentration
+------------------------------------------------------------------------------------
+原文: 江苏省昆山市高新区元丰路166号
+
+译文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone Yuanfeng Road 166
+------------------------------------------------------------------------------------
+原文: 参考结构相似药物维卡格雷I期临床试验PD时间点，同时临床上拟用药频率为每天一次，按照委托方的要求将PD采血时间点设计为：给药前及给药后0.5 h、1 h、2 h、4 h、8 h和24 h。
+
+译文: Reference structure similar drug Vicagrel Phase I clinical assay PD time point, with a proposed clinical dosing frequency of once daily, the Sponsor requested PDBlood Sampling Time points to be designed as: pre-dose and post-dose 0.5 h, 1 h, 2 h, 4 h, 8 h, and 24 h.
+------------------------------------------------------------------------------------
+原文: 地址：江苏省昆山市高新区元丰路166号；
+
+译文: Address: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone Yuanfeng Road 166;
+------------------------------------------------------------------------------------
+原文: 峰浓度
+
+译文: Peak concentration
+------------------------------------------------------------------------------------

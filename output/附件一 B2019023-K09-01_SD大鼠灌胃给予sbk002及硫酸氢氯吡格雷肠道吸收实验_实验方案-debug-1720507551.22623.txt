@@ -1,0 +1,272 @@
+原文: 2.4.	Major Instruments设备	10
+
+译文: 2.4. Major Instruments设备 10
+------------------------------------------------------------------------------------
+原文: 血样collection及testinganalyzed
+
+译文: Blood sample collection及testing analyzed
+------------------------------------------------------------------------------------
+原文: test article的dosedesignjustification；
+
+译文: Test article的dose design justification；
+------------------------------------------------------------------------------------
+原文: electron邮件：779061281@qq.com。
+
+译文: Email：779061281@qq.com。
+------------------------------------------------------------------------------------
+原文: feed、bedding、饮用水testingreport复印件；animal房温湿度report等
+
+译文: Feed、bedding、饮用水 testing report复印件；animal房温湿度 report等
+------------------------------------------------------------------------------------
+原文: electron邮件：lengminghong@cti-cert.com。
+
+译文: Email：lengminghong@cti-cert.com。
+------------------------------------------------------------------------------------
+原文: 《pharmaceuticals注册management办法》（fCFDA，2007年10月）；
+
+译文: 《Pharmaceuticals注册 Management办法》（fCFDA，2007年10月）；
+------------------------------------------------------------------------------------
+原文: Storage与use：low temperature、dry、hygienic；将sterilized的bedding铺于ratscage bottom，以铺满整个底部为宜；
+
+译文: Storage与use：low temperature、dry、hygienic；将 sterilized的 bedding铺于rats cage bottom，以铺满整个底部为宜；
+------------------------------------------------------------------------------------
+原文: 1.6.	遵循的regulations及technique指导原则	6
+
+译文: 1.6. 遵循的 regulations及technique指导原则 6
+------------------------------------------------------------------------------------
+原文: 6.1.	一般statesobservation	14
+
+译文: 6.1. 一般 states observation 14
+------------------------------------------------------------------------------------
+原文: selection理由：与临床用药途径一致；
+
+译文: Selection理由：与临床用药途径一致；
+------------------------------------------------------------------------------------
+原文: Major Instruments设备
+
+译文: Major Instruments设备
+------------------------------------------------------------------------------------
+原文: Supplier：北京维通利华laboratory animalstechniqueCo., Ltd.；
+
+译文: Supplier：北京维通利华 laboratory animals technique Co., Ltd.；
+------------------------------------------------------------------------------------
+原文: 预定useanimalnumber和sex：16只，雌、雄各半；
+
+译文: 预定use animal number 和sex：16只，雌、雄各半；
+------------------------------------------------------------------------------------
+原文: dose formulations在实验机构内的metastasis
+
+译文: Dose formulations在实验机构内的metastasis
+------------------------------------------------------------------------------------
+原文: Storage场所与Storage condition
+
+译文: Storage场所与Storage condition
+------------------------------------------------------------------------------------
+原文: Study Personnel组成
+
+译文: Study Personnel组成
+------------------------------------------------------------------------------------
+原文: laboratory animals的种、系、number、age、sex、body weightrange、source、animal合格证号及issuing unit、receipt date和housing conditions；
+
+译文: Laboratory animals的种、系、number、age、sex、body weight range、source、animal合格证号及issuing unit、receipt date和housing conditions；
+------------------------------------------------------------------------------------
+原文: laboratory animalsselection理由：参照《medication非临床药代动力学研究technique指导原则》fCFDA，May 2014），以及前期实验data，SDrats为本实验的敏感animal。因此，本assay也选用SDrats为受试animal，其遗传、生物学background（包括anatomy、生理、Clinical Pathology等各种data的正常range）比较清。
+
+译文: Laboratory animals selection理由：参照《Medication非临床药代动力学研究 technique指导原则》（fCFDA，May 2014），以及前期实验 data，SD rats为本实验的敏感 animal。因此，本assay也选用SD rats为受试 animal，其遗传、生物学background（包括anatomy、生理、Clinical Pathology等各种 data的正常range）比较清。
+------------------------------------------------------------------------------------
+原文: Jiangsu ProvinceKunshan CityNew & Hi-tech Industrial Development ZoneYuanfeng Road166号
+
+译文: Jiangsu Province Kunshan City New & Hi-tech Industrial Development Zone Yuanfeng Road166号
+------------------------------------------------------------------------------------
+原文: 江苏恒瑞医药股份Co., Ltd.
+
+译文: 江苏恒瑞医药股份 Co., Ltd.
+------------------------------------------------------------------------------------
+原文: SDratsgavage给sbk002及硫酸氢氯吡格雷肠道吸收实验
+
+译文: SD rats gavage给 sbk002及硫酸氢氯吡格雷肠道吸收实验
+------------------------------------------------------------------------------------
+原文: 地址：成都New & Hi-tech Industrial Development Zone（西区）西芯大道17号；
+
+译文: 地址：成都New & Hi-tech Industrial Development Zone（西区）西芯大道17号；
+------------------------------------------------------------------------------------
+原文: name：苏州华测生物techniqueCo., Ltd.；
+
+译文: Name：苏州华测生物technique Co., Ltd.；
+------------------------------------------------------------------------------------
+原文: 一般statesobservation
+
+译文: 一般states observation
+------------------------------------------------------------------------------------
+原文: 注：animal number的首位数字representativegroup（1和2分别representativesbk002dose group和clodose group），第二位字母F表示female，M表示male。后3 digitsrepresentativeanimal序列号。
+
+译文: 注：animal number的首位数字representative group（1和2分别representative sbk002 dose group和clo dose group），第二位字母F表示 female，M表示 male。后3 digits representative animal序列号。
+------------------------------------------------------------------------------------
+原文: 注：若assay中用到其它electrondata acquisition或analyzed系统，relevant information会在rawrecord及final report中如实体现。必要时，可采用纸质recordperformdatarecord（作为raw data）。
+
+译文: 注：若assay中用到其它 electron data acquisition或analyzed系统，relevant information会在raw record及final report中如实体现。必要时，可采用纸质 record perform data record（作为raw data）。
+------------------------------------------------------------------------------------
+原文: preparationmethodexample（以1000 mLexample）：准确称取5.0 g的CMC-Na粉末，用量筒量取1000 mLpure watermetastasis至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入stirring子，用magnetic stirrerstirring至完全dissolution，即得0.5 % CMC-Na溶液1000 mL。room temperature存放，8 days内有效。
+
+译文: Preparation method example（以1000 mL example）：准确称取5.0 g的CMC-Na粉末，用量筒量取1000 mL pure water metastasis至烧杯中，将CMC-Na粉末均匀分散在烧杯中，加入 stirring子，用 magnetic stirrer stirring至完全 dissolution，即得0.5 % CMC-Na溶液1000 mL。room temperature存放，8 days内有效。
+------------------------------------------------------------------------------------
+原文: 药代动力学assayBlood Sampling Time和animal number见下表：
+
+译文: Pharmacokinetic assay Blood Sampling Time和 animal number见下表：
+------------------------------------------------------------------------------------
+原文: sbk002dose formulationspreparationmethod：根据SDratsmost recent一次body weight、DosageCalculation所需test article的量，根据test article的量、preparationconcentrationCalculationprepared volume[prepared volume=test article量×content（99.4%）/preparationconcentration]。在room temperature、protected from excessive light条件下，准确称取一定量的test article至研钵中，加入适量的vehicle充分研磨后，完全metastasis至一定volume的容器内，用vehicle定至刻度，即得所需concentration的test articledose formulations。
+
+译文: sbk002 dose formulations preparation method：根据SD rats most recent一次 body weight、Dosage Calculation所需 test article的量，根据test article的量、preparation concentration Calculation prepared volume[prepared volume=test article量×content（99.4%）/preparation concentration]。在room temperature、protected from excessive light条件下，准确称取一定量的test article至研钵中，加入适量的 vehicle充分研磨后，完全metastasis至一定 volume的容器内，用 vehicle定至刻度，即得所需 concentration的test article dose formulations。
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: 系统
+------------------------------------------------------------------------------------
+原文: 采样method和采样量：portal vein和颈vein各collect blood约0.4 mL，collect的whole blood至含4 μL TCEP（100mg/mL）和EDTA-K2的anticoagulant tube中，gentlymixed well；
+
+译文: 采样 method和采样量：portal vein和颈 vein各collect blood约0.4 mL，collect的 whole blood至含4 μL TCEP（100mg/mL）和EDTA-K2的anticoagulant tube中，gently mixed well；
+------------------------------------------------------------------------------------
+原文: 7.	血样collection及testinganalyzed	14
+
+译文: 7. 血样 collection及 testing analyzed 14
+------------------------------------------------------------------------------------
+原文: Manufacturer：阿拉丁 (Aladdin ）；
+
+译文: Manufacturer：阿拉丁 (Aladdin）；
+------------------------------------------------------------------------------------
+原文: 注：该项目test article总retention samples量以Test article management部retention samplesrelatedrecord为准。
+
+译文: 注：该项目test article总 retention samples量以Test article management部 retention samples related record为准。
+------------------------------------------------------------------------------------
+原文: 血样collection
+
+译文: Blood sample collection
+------------------------------------------------------------------------------------
+原文: type：SPF大mousemaintenancefeed；
+
+译文: Type: SPF large mouse maintenance feed;
+------------------------------------------------------------------------------------
+原文: ventilation rate：每hourair changes不少于15次。
+
+译文: Ventilation rate: no less than 15 air changes per hour.
+------------------------------------------------------------------------------------
+原文: 连云港经济开发区黄河路38号
+
+译文: No. 38, Huanghe Road, Lianyungang Economic Development Zone
+------------------------------------------------------------------------------------
+原文: fasted给食：pre-dosefasted12 h以上，assay期间不禁水。
+
+译文: Fasting feed: pre-dose fasting for more than 12 hours, no water restriction during assay.
+------------------------------------------------------------------------------------
+原文: 牟霞                                                                          日期
+
+译文: Mu Xia                                                                          Date
+------------------------------------------------------------------------------------
+原文: animal的饲养和management
+
+译文: Animal feeding and management
+------------------------------------------------------------------------------------
+原文: 注：具体animal信息若有变动以final report为准。
+
+译文: Note: Specific animal information is subject to the final report.
+------------------------------------------------------------------------------------
+原文: 注：beddingSupplier和Production license No:以raw资料和final report为准。
+
+译文: Note: Bedding supplier and production license No: are based on original data and the final report.
+------------------------------------------------------------------------------------
+原文: Expiry date：2021-06-24（复检日期）；
+
+译文: Expiry date: 2021-06-24 (re-inspection date);
+------------------------------------------------------------------------------------
+原文: observation time：每天上午或下午observation1次；
+
+译文: Observation time: Once every morning or afternoon;
+------------------------------------------------------------------------------------
+原文: 给料method：ad libitum（assay有特殊要求时除外）；
+
+译文: Feeding method: ad libitum (except for special assay requirements);
+------------------------------------------------------------------------------------
+原文: Manufacturer：北京科澳协力feedCo., Ltd.；
+
+译文: Manufacturer: Beijing Keao Xieli Feed Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 品种/strain/级别
+
+译文: Species/strain/grade
+------------------------------------------------------------------------------------
+原文: Study Name及编号
+
+译文: Study Name and number
+------------------------------------------------------------------------------------
+原文: 2.3.	dose formulations在实验机构内的metastasis	10
+
+译文: 2.3. Dose formulations metastasis within the laboratory  10
+------------------------------------------------------------------------------------
+原文: laboratory animals的body weightdetermination
+
+译文: Laboratory animals body weight determination
+------------------------------------------------------------------------------------
+原文: name：成都施贝康生物医药科技Co., Ltd.；
+
+译文: Name: Chengdu Sibikon Biopharmaceutical Technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 7.1.	血样collection	14
+
+译文: 7.1. Blood sample collection 14
+------------------------------------------------------------------------------------
+原文: raw data及其Storage
+
+译文: Raw data and storage
+------------------------------------------------------------------------------------
+原文: study protocol及方案的任何amendments（如果有）将以writing的形式经study directorsigned生效；Sponsorrepresentative在signature page上signed或者send an emailapprovestudy protocol；protocol amendments（如有必要）需要Sponsorrepresentativesigned或发邮件确认。deviationstudy protocol的情况均应record，以writing的形式由study directoranalyzed对专题研究可能产生的affect，必要时采取相应的correction measures。
+
+译文: Any amendments to the study protocol and plan (if any) will be effective in writing signed by the study director; the sponsor representative signs on the signature page or approves the study protocol by sending an email; protocol amendments (if necessary) need to be signed by the sponsor representative or confirmed by email. Any deviation from the study protocol should be recorded, analyzed in writing by the study director for any potential impact on the study, and necessary corrective measures should be taken if needed.
+------------------------------------------------------------------------------------
+原文: 剩余animal的disposal：本assay剩余laboratory animals于first dose后一周内transferredToxicology Operations Department。
+
+译文: Disposition of remaining animals: The remaining laboratory animals from this assay will be transferred to the Toxicology Operations Department within one week after the first dose.
+------------------------------------------------------------------------------------
+原文: 16只
+
+译文: 16
+------------------------------------------------------------------------------------
+原文: study protocol及protocol amendments（如有）
+
+译文: Study protocol and protocol amendments (if any)
+------------------------------------------------------------------------------------
+原文: animalGroup Assignment及dose信息见下表：
+
+译文: Animal group assignment and dose information are as follows:
+------------------------------------------------------------------------------------
+原文: laboratory animalsselectionjustification和number
+
+译文: Laboratory animals selection justification and number
+------------------------------------------------------------------------------------
+原文: body weight：购入时：male为280 ~ 360 g，female为180 ~ 250 g，Group Assignment时body weight：male为300 ~ 380 g，female为200 ~ 270 g，Group Assignment时individualbody weight应在同sexmeanbody weight± 20 ％range内；
+
+译文: Body weight: at purchase: male 280 ~ 360 g, female 180 ~ 250 g, at group assignment: male 300 ~ 380 g, female 200 ~ 270 g, individual body weight at group assignment should be within ± 20% of the same sex mean body weight range;
+------------------------------------------------------------------------------------
+原文: 沃特世（上海）Co., Ltd.
+
+译文: Waters (Shanghai) Co., Ltd.
+------------------------------------------------------------------------------------
+原文: Manufacturer：浙江车头制药股份Co., Ltd.；
+
+译文: Manufacturer: Zhejiang Chutou Pharmaceutical Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 地址：Jiangsu ProvinceKunshan CityNew & Hi-tech Industrial Development ZoneYuanfeng Road166号；
+
+译文: Address: No. 166, Yuanfeng Road, New & Hi-tech Industrial Development Zone, Kunshan City, Jiangsu Province;
+------------------------------------------------------------------------------------
+原文: Name/Code：硫酸氢氯吡格雷/clo；
+
+译文: Name/Code: Clopidogrel Sulfate/clo;
+------------------------------------------------------------------------------------
+原文: Identification method：所preparation的sbk002dose group和clodose group分别用绿色和红色labelscharacterization，并注明study number、name、concentration、number、preparation date、preparer、storage conditions、Expiry date、finished product number。
+
+译文: Identification method: The prepared sbk002 dose group and clo dose group are characterized with green and red labels respectively, indicating study number, name, concentration, number, preparation date, preparer, storage conditions, expiry date, and finished product number.
+------------------------------------------------------------------------------------
+原文: alldose group采样time：after dosing3 h（± 15 min）。
+
+译文: All dose group sampling time: 3 hours after dosing (± 15 min).
+------------------------------------------------------------------------------------

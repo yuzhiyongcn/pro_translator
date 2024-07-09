@@ -1,0 +1,12 @@
+原文: plasma sample室温放置稳定性
+
+译文: plasma sample room temperature stability
+------------------------------------------------------------------------------------
+原文: 使用混合空白生物matrix新鲜制备含不同concentration被分析物的Standard Curve sample，每个concentration进行分析。在analytical run的开始和最后各测一组Standard Curve sample。应至少制备6个concentration Standard Curve sample，不包括blank matrix sample（不含被分析物和internal standard的matrix sample）和零concentration sample（含internal standard的matrix sample）。
+
+译文: use freshly prepared blank biological matrix containing different concentrations of the analyte's Standard Curve sample for mixing. Perform analysis at each concentration. At the beginning and end of the analytical run, measure a set of Standard Curve samples. Prepare at least 6 concentration levels of Standard Curve samples, excluding blank matrix samples (matrix samples without the analyte and internal standard) and zero concentration samples (matrix samples containing the internal standard).
+------------------------------------------------------------------------------------
+原文: analytical run的接受标准；
+
+译文: analytical run acceptance criteria;
+------------------------------------------------------------------------------------

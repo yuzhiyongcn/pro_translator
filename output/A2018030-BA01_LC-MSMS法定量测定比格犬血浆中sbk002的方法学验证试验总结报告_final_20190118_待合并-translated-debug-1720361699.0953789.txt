@@ -1,0 +1,20 @@
+原文: 具体操作方法：用新鲜采集的EDTA-K2抗凝、TCEP抗氧化的Beagle犬空白全血，制备中浓度的质控样品（MQC），轻柔混匀约10 min，冰盒放置4 h（n = 5），放置后全血样品与新鲜配制的全血样品均在4 ℃、4000 r/min条件下离心10 min，分离上层血浆，再按样品前处理方法处理后，进样考察稳定性。稳定性全血样品的平均峰面积与新鲜全血样品平均峰面积的比值在85 % ~ 115 %之间视为稳定。
+
+译文: Specific operation method: Using fresh collected EDTA-K2 anticoagulant and TCEP antioxidant Beagle dog whole blood, prepare the mid concentration quality control sample (MQC), gently mix well for 10 min, place in an ice box for 4 h (n = 5), after placing, centrifuge the whole blood samples and the freshly prepared whole blood samples at 4 ℃, 4000 r/min for 10 min, separate the upper plasma layer, then treat according to the pre-treatment method of the sample, and then perform the stability test. The average peak area ratio of the stability whole blood samples to the fresh whole blood samples is considered stable if it falls within 85 % ~ 115 %.
+------------------------------------------------------------------------------------
+原文: 考察sbk002全血样品冰盒稳定性。
+
+译文: Test sbk002 whole blood samples ice box stability.
+------------------------------------------------------------------------------------
+原文:  [3] 刘斌, 张印兵, 岑小波. 生物分析方法验证在药物非临床安全性评价中的应用[J]. 中国药理学与毒理学杂志, 2013, 27(3): 480
+
+译文:  [3] Liu Wei, Zhang Yinbing, Lu Xiaobo. Application of biological analysis method validation in non-clinical safety evaluation of drugs [J]. Chinese Journal of Pharmacology and Toxicology, 2013, 27(3): 480
+------------------------------------------------------------------------------------
+原文: sbk002和内标储备液在 2 ~ 8 ℃放置36天后与新鲜储备液的峰面积（按照“无基质样品”的配制方法配制MQC）的平均值进行比较，sbk002平均偏差为-6.69 %，内标平均偏差为0.06  %。
+
+译文: After placing sbk002 and internal standard stock solution at 2 ~ 8 ℃ for 36 days, compare the mean peak area of the fresh stock solution (prepared according to the method of 'no matrix sample') with MQC. The mean deviation of sbk002 is -6.69 %, and the mean deviation of the internal standard is 0.06 %.
+------------------------------------------------------------------------------------
+原文: 本试验在苏州华测生物技术有限公司（研究机构）所完成的所有部份均遵守试验方案和研究机构的标准操作规程（SOPs），本试验遵从下列药物非临床研究质量管理规范（GLP）。
+
+译文: This assay was completed at Suzhou Huace Biological Technology Co., Ltd. (test facility), and all parts complied with the study protocol and the standard operating procedures (SOPs) of the test facility. This assay complies with the following medication non-clinical study Good Laboratory Practices (GLPs).
+------------------------------------------------------------------------------------

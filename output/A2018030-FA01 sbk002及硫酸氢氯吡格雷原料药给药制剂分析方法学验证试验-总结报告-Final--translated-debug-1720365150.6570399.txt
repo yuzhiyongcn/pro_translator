@@ -1,0 +1,16 @@
+原文: Purge Wash、  Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气泡15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash、  Seal Wash（10 % 甲醇水溶液）：量取900 mL灭菌注射用水加至100 mL甲醇中，超声脱气泡15 min，即得。室温保存，有效期7天。
+------------------------------------------------------------------------------------
+原文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气泡15 min，即得。室温保存，有效期3天。
+
+译文: 水相（0.2 % TFA水溶液）：量取1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气泡15 min，即得。室温保存，有效期3天。
+------------------------------------------------------------------------------------
+原文: Purge Wash、 Seal Wash（10 % 甲醇水溶液）：量约900 mL灭菌注射用水加至100 mL甲醇中，超声脱气15 min，即得。室温保存，有效期7天。
+
+译文: Purge Wash, Seal Wash (10% Methanol water solution): Measure approximately 900 mL of sterilized injection water and add it to 100 mL of Methanol, sonicate to remove bubbles for 15 minutes, and it's ready. Store at room temperature, valid for 7 days.
+------------------------------------------------------------------------------------
+原文: 水相（0.2 % TFA水溶液）：量约1000 μL TFA加至500 mL灭菌注射用水中，混匀后，超声脱气15 min，即得。室温保存，有效期3天。
+
+译文: Aqueous phase (0.2% TFA water solution): Measure approximately 1000 μL of TFA and add it to 500 mL of sterilized injection water, mix well, sonicate to remove bubbles for 15 minutes, and it's ready. Store at room temperature, valid for 3 days.
+------------------------------------------------------------------------------------

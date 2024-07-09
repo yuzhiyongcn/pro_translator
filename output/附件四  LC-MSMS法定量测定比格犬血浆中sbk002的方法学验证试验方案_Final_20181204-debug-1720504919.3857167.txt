@@ -1,0 +1,12 @@
+原文: analytical run的acceptance criteria；
+
+译文: analytical run的接受标准；
+------------------------------------------------------------------------------------
+原文: plasma sample room temperature放置stability
+
+译文: plasma sample室温放置稳定性
+------------------------------------------------------------------------------------
+原文: 使用混合空白生物matrix新鲜preparation含不同concentration analyzed物的Standard Curve sample，每个concentration perform analyzed。在analytical run的开始和最后各测一组Standard Curve sample。应至少preparation 6个concentration Standard Curve sample，不包括blank matrix sample（不含analyzed物和internal standard的matrix sample）和零concentration sample（含internal standard的matrix sample）。
+
+译文: 使用混合空白生物matrix新鲜制备含不同concentration被分析物的Standard Curve sample，每个concentration进行分析。在analytical run的开始和最后各测一组Standard Curve sample。应至少制备6个concentration Standard Curve sample，不包括blank matrix sample（不含被分析物和internal standard的matrix sample）和零concentration sample（含internal standard的matrix sample）。
+------------------------------------------------------------------------------------

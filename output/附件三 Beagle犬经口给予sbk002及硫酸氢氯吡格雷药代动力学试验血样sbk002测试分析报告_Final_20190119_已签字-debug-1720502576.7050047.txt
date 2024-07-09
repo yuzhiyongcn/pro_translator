@@ -1,0 +1,539 @@
+原文: 甲醇
+
+译文: Methanol
+------------------------------------------------------------------------------------
+原文: 前处理日期
+
+译文: Date of Bench Top Process
+------------------------------------------------------------------------------------
+原文: 组别
+
+译文: group
+------------------------------------------------------------------------------------
+原文: 数显型1000 MP微孔板摇床
+
+译文: 数显型1000 MP微孔板摇床
+------------------------------------------------------------------------------------
+原文: 1.	前言	3
+
+译文: 1. Introduction 3
+------------------------------------------------------------------------------------
+原文: 是
+
+译文: Yes
+------------------------------------------------------------------------------------
+原文: 批号
+
+译文: batch number
+------------------------------------------------------------------------------------
+原文: 生物基质：使用EDTA-K2抗凝、TCEP抗氧化的Beagle犬空白血浆作为生物基质；由苏州华测生物技术有限公司自制；血液处理条件：2 ~ 8 ℃、4000 r/min条件下离心10 min，分离上层血浆；血浆保存条件：- 60 ℃以下保存。
+
+译文: Biological matrix: Use EDTA-K2 anticoagulant and TCEP antioxidant Beagle dogs' blank plasma as biological matrix; self-made by Suzhou Huace Bio Technique Co., Ltd.; blood disposal conditions: centrifuged at 2 ~ 8 ℃, 4000 r/min for 10 min, separated upper plasma; plasma storage condition: stored at below -60 ℃.
+------------------------------------------------------------------------------------
+原文: 附表6 质控样品准确度（%）
+
+译文: Appendix Tables 6 Quality Control Sample accuracy (%) 
+------------------------------------------------------------------------------------
+原文: 防护措施：使用该供试品时按照《职业卫生与防护手册》来操作，包括穿防护衣、戴口罩、手套。
+
+译文: Protection measures: Use the test article according to the "Occupational Health and Protection Manual," including wearing protective clothing, masks, and gloves.
+------------------------------------------------------------------------------------
+原文: 2.1.	标准品	3
+
+译文: 2.1. Reference Standard 3
+------------------------------------------------------------------------------------
+原文: sbk002与其内标峰面积之比的CV在0.72 % ~ 1.63 % 之间；sbk002保留时间的CV在0.00 % ~ 0.15 %之间；内标保留时间的CV为0.00 %；系统适应性结果见附表2。
+
+译文: The CV ratio of sbk002 to the peak area of the internal standard is between 0.72 % ~ 1.63 %; the CV of sbk002 retention time is between 0.00 % ~ 0.15 %; the CV of internal standard retention time is 0.00 %; System Suitability results are shown in Appendix Tables 2.
+------------------------------------------------------------------------------------
+原文: 徐振兴，M.S.                                                                      日期
+
+译文: Xu Zhenxing, M.S. Date
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: system
+------------------------------------------------------------------------------------
+原文: 生产单位：Sigma-Aldrich；
+
+译文: Manufacturer: Sigma-Aldrich;
+------------------------------------------------------------------------------------
+原文: 台式高速冷冻离心机
+
+译文: Bench-top high-speed refrigerated centrifuge
+------------------------------------------------------------------------------------
+原文: 分析检测
+
+译文: ANALYSIS AND TEST
+------------------------------------------------------------------------------------
+原文: 试剂级别
+
+译文: Reagent Grade
+------------------------------------------------------------------------------------
+原文: 2.2.	内标	3
+
+译文: 2.2. internal standard 3
+------------------------------------------------------------------------------------
+原文: 电话：0512-36801688
+
+译文: Telephone: 0512-36801688
+------------------------------------------------------------------------------------
+原文: 附表2 系统适应性
+
+译文: Appendix Tables 2 System Suitability
+------------------------------------------------------------------------------------
+原文: PK血样采集时间：第一周期和第二周期给药前及给药后5 min、15 min、30 min、45 min、1 h、1.5 h、2 h、3 h、4 h、6 h、8 h、10 h和24 h。本试验使用已通过验证的分析方法[LC-MS/MS法定量测定Beagle犬血浆中sbk002的方法（分析方法编号：sbk002-BA01）] 检测药代动力学血浆样品中sbk002浓度。
+
+译文: PK blood sample collection time: the first period and the second period pre-dose and at 5 min, 15 min, 30 min, 45 min, 1 h, 1.5 h, 2 h, 3 h, 4 h, 6 h, 8 h, 10 h, and 24 h post-dosing. This assay uses a validated analytical method [LC-MS/MS quantitative measurement of sbk002 in Beagle dog plasma (analytical method number: sbk002-BA01)] to test the pharmacokinetic plasma sample sbk002 concentration.
+------------------------------------------------------------------------------------
+原文: 分析天平
+
+译文: analytical balance
+------------------------------------------------------------------------------------
+原文: 在标准曲线（0.5 ~500.0 ng/mL）的线性范围内，准确度在91.20 % ~ 107.27 %之间（LLOQ的准确度在100.00 % ~ 106.00 %之间），回归系数（R2）均大于0.99，标准曲线结果见附表3和附表4。
+
+译文: Within the linear range of the Standard Curve (0.5 ~ 500.0 ng/mL), accuracy is between 91.20 % ~ 107.27 % (the accuracy of the Lower Limit of Quantification is between 100.00 % ~ 106.00 %), regression coefficients (R2) are all greater than 0.99, Standard Curve results are shown in Appendix Tables 3 and Appendix Tables 4.
+------------------------------------------------------------------------------------
+原文: D1 2M003给药后24 h、D15 2M001
+
+译文: D1 2M003 after dosing 24 h, D15 2M001
+------------------------------------------------------------------------------------
+原文: 含量：99.8 %；
+
+译文: content: 99.8 %;
+------------------------------------------------------------------------------------
+原文: Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片药代动力学试验血浆样品中sbk002测试分析报告
+
+译文: Pharmacokinetic assay of sbk002 tablets and clopidogrel sulfate tablets in Beagle dogs’ plasma sample sbk002 test analysis report
+------------------------------------------------------------------------------------
+原文: 4.	数据采集和分析	5
+
+译文: 4. data acquisition and analyzed 5
+------------------------------------------------------------------------------------
+原文: 附表8 系统残留
+
+译文: Appendix Tables 8 Carry-over
+------------------------------------------------------------------------------------
+原文: 专题编号A2018030-K01-01
+
+译文: study number A2018030-K01-01
+------------------------------------------------------------------------------------
+原文: 分子量：270.35；
+
+译文: Molecular weight: 270.35;
+------------------------------------------------------------------------------------
+原文: 试剂名称
+
+译文: Reagent Name
+------------------------------------------------------------------------------------
+原文: 宁波新芝生物科技股份
+
+译文: Ningbo Xinzhi Biotechnology Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 名称/代号：sbk002-D；
+
+译文: Name/Code: sbk002-D;
+------------------------------------------------------------------------------------
+原文: 邮件：xuzhenxing@cti-cert.com
+
+译文: Email: xuzhenxing@cti-cert.com
+------------------------------------------------------------------------------------
+原文: （见A2018030-BA01）
+
+译文: (see A2018030-BA01)
+------------------------------------------------------------------------------------
+原文: 分析批
+
+译文: analytical run
+------------------------------------------------------------------------------------
+原文: 内标保留时间
+CV
+
+译文: internal standard retention time CV
+------------------------------------------------------------------------------------
+原文: 序号
+
+译文: Serial Number
+------------------------------------------------------------------------------------
+原文: 注：TCEP即Tris(2-carboxyethyl)phosphine hydrochloride。
+
+译文: Note: TCEP stands for Tris(2-carboxyethyl)phosphine hydrochloride.
+------------------------------------------------------------------------------------
+原文: 是否
+
+译文: Whether
+------------------------------------------------------------------------------------
+原文: 漩涡振荡器
+
+译文: Vortex mixer
+------------------------------------------------------------------------------------
+原文: 2.4.	主要仪器	4
+
+译文: 2.4. Major Instruments 4
+------------------------------------------------------------------------------------
+原文: 二甲基亚砜
+
+译文: dimethyl sulfoxide
+------------------------------------------------------------------------------------
+原文: 附表10 Beagle犬末次（D15）给予sbk002片及硫酸氢氯吡格雷片血浆中sbk002浓度（ng/mL）
+
+译文: Appendix Tables 10 Beagle dogs last (D15) administration of sbk002 tablets and clopidogrel sulfate tablets plasma sbk002 concentration (ng/mL)
+------------------------------------------------------------------------------------
+原文: 二次测定值与首次测定值偏差小于20%，接受首次测定结果。
+
+译文: The deviation between the second determination value and the first determination value is less than 20%, accepting the first determination result.
+------------------------------------------------------------------------------------
+原文: 生产厂家
+
+译文: Manufacturer
+------------------------------------------------------------------------------------
+原文: 有限公司
+
+译文: Co., Ltd.
+------------------------------------------------------------------------------------
+原文: 以上结果均符合分析批的接受标准。
+
+译文: The above results all meet the acceptance criteria of the analytical run.
+------------------------------------------------------------------------------------
+原文: 有效期至：2020-08-07；
+
+译文: Expiry date: 2020-08-07;
+------------------------------------------------------------------------------------
+原文: 含量：99.6 %；
+
+译文: content: 99.6 %;
+------------------------------------------------------------------------------------
+原文: 试验样品分析共包括5个分析批，结果均纳入最终统计，分析汇总表见附表1。
+
+译文: The assay sample analysis includes a total of 5 analytical runs, all result included in the final statistics, summarized in Appendix Tables 1.
+------------------------------------------------------------------------------------
+原文: 目录	2
+
+译文: TABLE OF CONTENTS 2
+------------------------------------------------------------------------------------
+原文: 性状：白色粉末；
+
+译文: Characterization: white powder;
+------------------------------------------------------------------------------------
+原文: 验证内容
+
+译文: Verification content
+------------------------------------------------------------------------------------
+原文: 前言
+
+译文: Introduction
+------------------------------------------------------------------------------------
+原文: 2.3.	主要试剂	4
+
+译文: 2.3. Major Reagents 4
+------------------------------------------------------------------------------------
+原文: 主要仪器
+
+译文: Major Instruments
+------------------------------------------------------------------------------------
+原文: 附表9  Beagle犬首次（D1）给予sbk002片及硫酸氢氯吡格雷片血浆中sbk002浓度（ng/mL）
+
+译文: Appendix Tables 9 Beagle dogs first (D1) administration of sbk002 tablets and clopidogrel sulfate tablets plasma sbk002 concentration (ng/mL)
+------------------------------------------------------------------------------------
+原文: 防护措施：使用该供试品时按照《职业卫生与防护手册》来操作，包括穿防护衣、戴口罩、手套；
+
+译文: Protection measures: Use the test article according to the "Occupational Health and Protection Manual," including wearing protective clothing, masks, and gloves;
+------------------------------------------------------------------------------------
+原文: 保存条件：15 ~ 25 ℃、密闭、遮光、干燥；
+
+译文: Storage condition: 15 ~ 25 ℃, airtight, shaded, dry;
+------------------------------------------------------------------------------------
+原文: 理论浓度（ng/mL）
+
+译文: theoretical concentration (ng/mL)
+------------------------------------------------------------------------------------
+原文: 备注
+
+译文: Remark
+------------------------------------------------------------------------------------
+原文: 硫酸氢氯吡格雷片组
+（75mg/只）
+
+译文: Clopidogrel sulfate tablet group (75 mg/each)
+------------------------------------------------------------------------------------
+原文: 乙腈
+
+译文: Acetonitrile
+------------------------------------------------------------------------------------
+原文: 生产厂家：成都施贝康生物医药科技有限公司；
+
+译文: Manufacturer: Chengdu Shipacon Biotechnology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 附表5 质控样品浓度（ng/mL）
+
+译文: Appendix Tables 5 Quality Control Sample concentration (ng/mL)
+------------------------------------------------------------------------------------
+原文: 超声波清洗机
+
+译文: sonicate cleaning machine
+------------------------------------------------------------------------------------
+原文: 目录
+
+译文: TABLE OF CONTENTS
+------------------------------------------------------------------------------------
+原文: 注：BLOQ表示低于定量下限，在计算Mean与SD时，BLOQ以0.00计算；*表示异常数据，在计算Mean与SD时，不纳入统计。
+
+译文: Note: BLOQ means below the lower limit of quantification; when calculating mean and SD, BLOQ is calculated as 0.00; * means abnormal data, not included in statistical calculations.
+------------------------------------------------------------------------------------
+原文: 内标
+
+译文: internal standard
+------------------------------------------------------------------------------------
+原文: 通过
+
+译文: Pass
+------------------------------------------------------------------------------------
+原文: LC-MS/MS检测浓度
+
+译文: LC-MS/MS testing concentration
+------------------------------------------------------------------------------------
+原文: 保存条件：遮光、室温、密闭；
+
+译文: Storage condition: Shaded, room temperature, airtight;
+------------------------------------------------------------------------------------
+原文: 理论浓度
+
+译文: theoretical concentration
+------------------------------------------------------------------------------------
+原文: 给药前
+
+译文: pre-dose
+------------------------------------------------------------------------------------
+原文: 测试分析负责人
+
+译文: Test analysis leader
+------------------------------------------------------------------------------------
+原文: 提供单位：成都施贝康生物医药科技有限公司；
+
+译文: Supplier: Chengdu Shipacon Biotechnology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: 剩余标准品处理：退回委托方。
+
+译文: Remaining Reference Standard disposal: Return to the sponsor.
+------------------------------------------------------------------------------------
+原文: 性状：类白色结晶性粉末；
+
+译文: Characterization: off-white crystalline powder;
+------------------------------------------------------------------------------------
+原文: 内标CV
+
+译文: internal standard CV
+------------------------------------------------------------------------------------
+原文: 用途
+
+译文: Use
+------------------------------------------------------------------------------------
+原文: 内标峰面积
+
+译文: peak area of internal standard
+------------------------------------------------------------------------------------
+原文: 数据采集和分析
+
+译文: data acquisition and analyzed
+------------------------------------------------------------------------------------
+原文: 每个分析批均以该批次的标准曲线计算标准样品、QC样品和未知样品的浓度，分析批需满足以下接受标准：系统适应性：最后6次的sbk002与内标峰面积之比及二者保留时间的CV（变异系数，标准偏差/平均值）小于10 %；标准曲线：至少75 %校正标样，含最少6个有效浓度，应满足样品的准确度应在85 % ~ 115 %之间（定量下限准确度应在80 % ~ 120 %之间）；质控：至少2/3的QC样品的准确度应在85 % ~ 115 %之间，同一浓度QC样品至少1/2样品的准确度应在85 % ~ 115 %之间。内标：一个分析批内标准曲线样品、QC样品和待测样品的内标峰面积CV应不超过20 %；系统残留：分析过程中应同时检测残留效应，应尽量降低或避免，如无法避免，应注意样品的排列顺序。
+
+译文: Each analytical run calculates the concentration of Standard sample, QC sample, and unknown sample using the standard curve of that batch; the analytical run must meet the following acceptance criteria: System Suitability: the last 6 tests of sbk002 and the ratio of the peak area of the internal standard and the CV (Coefficient of variation, standard deviation/mean) of their retention time should be less than 10 %; Standard Curve: at least 75 % of calibration standards, including at least 6 effective concentrations, should meet the sample accuracy between 85 % ~ 115 % (lower limit of quantification accuracy should be between 80 % ~ 120 %); quality control: at least 2/3 of QC sample accuracy should be between 85 % ~ 115 %, and at least 1/2 of the QC sample accuracy at the same concentration should be between 85 % ~ 115 %. Internal standard: the CV of the peak area of the internal standard in the Standard Curve sample, QC sample, and to be tested sample within an analytical run should not exceed 20 %; Carry-over: carry-over effects should be tested in the analyzed process, minimized or avoided as much as possible. If unavoidable, note the sample arrangement order.
+------------------------------------------------------------------------------------
+原文: 3.	分析检测	5
+
+译文: 3. ANALYSIS AND TEST 5
+------------------------------------------------------------------------------------
+原文: 名称/代号：Tolbutamide；
+
+译文: Name/Code: Tolbutamide;
+------------------------------------------------------------------------------------
+原文: 分析过程中检测残留效应，未见系统残留，系统残留结果见附表8。
+
+译文: No Carry-over effects were seen in the analyzed process, carry-over results are shown in Appendix Tables 8.
+------------------------------------------------------------------------------------
+原文: 批号：180704；
+
+译文: batch number: 180704;
+------------------------------------------------------------------------------------
+原文: sbk002保留时间
+CV
+
+译文: sbk002 retention time CV
+------------------------------------------------------------------------------------
+原文: 本测定中的分析检测方法通过“LC-MS/MS法定量测定Beagle犬血浆中sbk002的方法学验证试验（专题编号：A2018030-BA01）”。
+
+译文: The ANALYSIS AND TEST method in this determination is validated by the "LC-MS/MS quantitative measurement of sbk002 in Beagle dog plasma methodology assay (study number: A2018030-BA01)."
+------------------------------------------------------------------------------------
+原文: Beagle犬首、末次给药个体血药浓度见附表9和附表10。
+
+译文: The individual plasma concentration of the first and last dose of Beagle dogs is shown in Appendix Tables 9 and Appendix Tables 10.
+------------------------------------------------------------------------------------
+原文: 徐振兴
+
+译文: Xu Zhenxing
+------------------------------------------------------------------------------------
+原文: 灭菌注射用水
+
+译文: sterilized water for injection
+------------------------------------------------------------------------------------
+原文: Confidential                                                                                                                                 第 15页 /共 15页
+
+译文: Confidential Page 15 / Total 15 pages
+------------------------------------------------------------------------------------
+原文: 附表1 Beagle犬经口给予sbk002片及硫酸氢氯吡格雷片检测分析批次汇总表
+
+译文: Appendix Tables1 Beagle dogs orally administered sbk002 tablets and clopidogrel bisulfate tablets testing analytical run summary table
+------------------------------------------------------------------------------------
+原文: 样品
+
+译文: sample
+------------------------------------------------------------------------------------
+原文: 给药后24 h（共2个样品）
+
+译文: after dosing 24 h (a total of 2 samples)
+------------------------------------------------------------------------------------
+原文: 时间点
+
+译文: time point
+------------------------------------------------------------------------------------
+原文: sbk002片组
+（30mg/只）
+
+译文: sbk002 tablet group (30mg per dog)
+------------------------------------------------------------------------------------
+原文: 附表4 标准曲线样品准确度（%）
+
+译文: Appendix Tables4 Standard Curve sample accuracy (%) 
+------------------------------------------------------------------------------------
+原文: 5.	结果	5
+
+译文: 5. result 5
+------------------------------------------------------------------------------------
+原文: 附表3 标准曲线样品浓度（ng/mL）
+
+译文: Appendix Tables3 Standard Curve sample concentration (ng/mL) 
+------------------------------------------------------------------------------------
+原文: sbk002系硫酸氢氯吡格雷的起主要药效作用的代谢产物。本试验选用Beagle犬作为实验动物，8只比格犬分为两组，分别经口给予sbk002片和硫酸氢氯吡格雷片，采集PK血样；洗脱14天后，进行交叉给药并采集血样。分析PK血样中sbk002的浓度，计算sbk002在动物体内药代动力学参数，为后续非临床及临床试验提供研究资料。
+
+译文: sbk002 is mainly the pharmacologically active metabolite of clopidogrel bisulfate. This assay used Beagle dogs as laboratory animals. 8 Beagle dogs were divided into two groups and orally administered sbk002 tablets and clopidogrel bisulfate tablets, collecting PK blood samples; after a 14-day washout period, cross-dosed and collected blood samples. Analyzed the concentration of sbk002 in PK blood samples and calculated the pharmacokinetic parameters of sbk002 in animals in vivo, providing research data for subsequent non-clinical and clinical assays.
+------------------------------------------------------------------------------------
+原文: 批号：SLBR5486V；
+
+译文: batch number: SLBR5486V;
+------------------------------------------------------------------------------------
+原文: 版本
+
+译文: version
+------------------------------------------------------------------------------------
+原文: 所有样品（共56个样品）
+
+译文: all samples (a total of 56 samples)
+------------------------------------------------------------------------------------
+原文: 附表7 内标
+
+译文: Appendix Tables7 internal standard
+------------------------------------------------------------------------------------
+原文: 甲酸
+
+译文: Formic acid
+------------------------------------------------------------------------------------
+原文: 色谱柱
+
+译文: Chromatographic column
+------------------------------------------------------------------------------------
+原文: 主要试剂
+
+译文: Major Reagents
+------------------------------------------------------------------------------------
+原文: 2.	试验材料与方法	3
+
+译文: 2. Study Materials and Methods 3
+------------------------------------------------------------------------------------
+原文: 2-丙醇
+
+译文: 2-Propanol
+------------------------------------------------------------------------------------
+原文: 液质联用仪
+
+译文: Liquid chromatography-mass spectrometry
+------------------------------------------------------------------------------------
+原文: 内标的CV在2.75 % ~ 3.64 %之间，内标结果见附表7。
+
+译文: CV of internal standard is between 2.75 % and 3.64 %, internal standard results see Appendix Tables7.
+------------------------------------------------------------------------------------
+原文: 四川科伦药业股份有限公司
+
+译文: Sichuan Kelun Pharmaceutical Co., Ltd.
+------------------------------------------------------------------------------------
+原文: sbk002峰面积
+
+译文: sbk002 Peak Area
+------------------------------------------------------------------------------------
+原文: Confidential                                                                             第 6页 /共 15页
+
+译文: Confidential                                                                             Page 6 of 15
+------------------------------------------------------------------------------------
+原文: 理论浓度
+                                                 （ng/mL）
+
+译文: theoretical concentration (ng/mL)
+------------------------------------------------------------------------------------
+原文: 设施内的所有原始数据根据试验方案和苏州华测生物技术有限公司的SOP手动收集或用数据采集系统收集。手动收集的数据转录到Excel表格中用来分析和报告。收集和报告电子数据的采集系统如下：
+
+译文: all raw data within the facility collected manually or via data acquisition systems according to the study protocol and SOPs of Suzhou Huace Biological Technology Co., Ltd. Manually collected data were transcribed into Excel tables for analysis and reporting. Data collection and reporting electronic systems are as follows:
+------------------------------------------------------------------------------------
+原文: 质控样品的准确度在92.67 % ~ 107.76 %之间，所有QC样品的准确度应在85 % ~ 115 %之间，质控结果见附表5和附表6。
+
+译文: Quality Control Sample accuracy was between 92.67 % and 107.76 %, all QC sample accuracy should be between 85 % and 115 %, quality control results see Appendix Tables5 and Appendix Tables6.
+------------------------------------------------------------------------------------
+原文: 货号
+
+译文: Product Number
+------------------------------------------------------------------------------------
+原文: 型号
+
+译文: Model
+------------------------------------------------------------------------------------
+原文: 结果
+
+译文: result
+------------------------------------------------------------------------------------
+原文: 阿拉丁
+
+译文: Aladdin
+------------------------------------------------------------------------------------
+原文: 动物号
+
+译文: animal number
+------------------------------------------------------------------------------------
+原文: sbk002
+/内标峰面积
+CV
+
+译文: sbk002 / peak area of internal standard CV
+------------------------------------------------------------------------------------
+原文: 标准品
+
+译文: Reference Standard
+------------------------------------------------------------------------------------
+原文: 分子量：337.82；
+
+译文: Molecular weight: 337.82;
+------------------------------------------------------------------------------------
+原文: 试验材料与方法
+
+译文: Study Materials and Methods
+------------------------------------------------------------------------------------
+原文: 有效期至：2019-06-08；
+
+译文: Expiry date: 2019-06-08;
+------------------------------------------------------------------------------------
+原文: 进样日期
+
+译文: Date of Injection
+------------------------------------------------------------------------------------
+原文: 名称
+
+译文: name
+------------------------------------------------------------------------------------
