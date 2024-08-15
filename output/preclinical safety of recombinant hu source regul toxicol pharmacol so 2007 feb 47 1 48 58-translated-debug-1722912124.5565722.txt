@@ -1,0 +1,76 @@
+原文: 
+
+译文: 
+------------------------------------------------------------------------------------
+原文: www.elsevier.com/locate/yrtph
+
+译文: www.elsevier.com/locate/yrtph
+------------------------------------------------------------------------------------
+原文: Pusateri, A.E., Holcomb, J.B., Bhattacharyya, S.N., Harris, R.A., Gomez,
+
+译文: Pusateri, A.E., Holcomb, J.B., Bhattacharyya, S.N., Harris, R.A., Gomez,
+------------------------------------------------------------------------------------
+原文: 3.2. Cytotoxicity (Isolated cells)
+
+译文: 3.2. 细胞毒性（孤立细胞）
+------------------------------------------------------------------------------------
+原文: A study was conducted in rabbits under FHSA guidelines to examine the potential for rhThrombin to irritate normal and abraded skin. During the 24 h prior to treatment, the entire dorsal surface of each of six rabbits was clipped free of hair. Only animals with healthy, intact skin were used. On the day of treatment, one site on each animal was abraded by scoring the skin in such a manner as to penetrate the stratum corneum but not the dermis. One 0.5 mL volume of either vehicle or reconstituted rhThrombin was applied under a one-inch square gauze pad to the abraded site. Another 0.5 mL volume of the same material was applied to a nonabraded site on the same animal. The gauze patches were held in place with non-irritating surgical tape, and the trunks of each rabbit were wrapped in gauze and then an elastic bandage. At 24 h following treatment, the rabbits were unwrapped and the treatment sites exposed. Observation of all animals for mortality, signs of morbidity, or reaction to treatment was performed at least once daily through 72 h following dosing. Scoring at 24 and 72 h after dosing followed the criteria set forth in FHSA regulations (16 CFR 1500.41), summarized in Table 3, and included evaluation of edema, erythema, and eschar formation.
+
+译文: 根据FHSA指导方针，在兔子身上进行了一项研究，以检查rh凝血酶对正常皮肤和擦伤皮肤的刺激潜力。在治疗前的24小时内，六只兔子的整个背部表面均被剪去毛发。仅使用健康、完整皮肤的动物。在治疗当天，每只动物的一个部位通过在皮肤上划痕，以穿透角质层但不损伤真皮的方式进行了擦伤。将0.5 mL的运输液或重组rh凝血酶置于一平方英寸的纱布垫下，涂抹于擦伤部位。另一个0.5 mL的相同材料则涂抹于同一动物的未擦伤部位。纱布敷料用非刺激性手术胶带固定，并用纱布包裹每只兔子的身体，然后用弹性绷带包裹。在治疗后24小时，解开兔子，暴露治疗部位。对所有动物的观察，以检查死亡、病态征兆或对治疗的反应，至少在给药后72小时内每天进行一次。根据FHSA法规（16 CFR 1500.41）制定的标准，在给药后24小时和72小时进行评分，评估内容包括水肿、红斑和痂形成，详细见表3。
+------------------------------------------------------------------------------------
+原文: a ZymoGenetics, Inc., 1201 Eastlake Ave. East, Seattle, WA 98102, USA b Charles River Laboratories, Sparks, NV 89431, USA
+
+译文: a ZymoGenetics, Inc., 1201 Eastlake Ave. East, Seattle, WA 98102, USA b Charles River Laboratories, Sparks, NV 89431, USA
+------------------------------------------------------------------------------------
+原文: Recombinant human thrombin (rhThrombin) is being developed as an alternative to thrombin products puriWed from pooled human or bovine plasma, which are currently marketed for topical hemostasis. Preclinical studies of rhThrombin were conducted prior to its evaluation as a topical adjunct to surgical hemostasis in clinical trials. No overt clinical pathology or signs were observed in cynomolgus monkeys following implantation of a gelatin sponge containing either rhThrombin or bovine thrombin to a surgical liver wound, and similar gross and microscopic wound healing characteristics were observed over an eight-week recovery period with either compound. Repeated subcutaneous injections of rhThrombin or bovine thrombin to cynomolgus monkeys produced no treatment-related eVects. Whereas no monkeys demonstrated anti-rhThrombin antibody seroconversion, speciWc anti-bovine antibodies were detected in all tested monkeys exposed to bovine thrombin. Addition of rhThrombin or bovine thrombin to mouse Wbroblast cells resulted in expected detachment and shape change. Topical application of rhThrombin to rabbits did not cause irritation to the eye, normal skin, or abraded skin. These studies showed that topical, subcutaneous, or implanted rhThrombin was minimally immunogenic, safe, and well tolerated in nonclinical models, and supported the clinical evaluation of rhThrombin in a variety of surgical settings. © 2006 Elsevier Inc. All rights reserved.
+
+译文: 重组人凝血酶（rh凝血酶）正在开发作为替代当前市场上用于局部止血的从人类或牛血浆提取的凝血酶产品。在临床试验中评估rh凝血酶作为外科止血辅助剂之前，进行了其前临床研究。在植入含有rh凝血酶或牛凝血酶的明胶海绵到外科肝伤口后，未观察到猕猴的明显临床病理或迹象，并且在八周的恢复期内，观察到两种成分具有相似的宏观和微观伤口愈合特征。对猕猴进行的重复皮下注射rh凝血酶或牛凝血酶未产生与治疗相关的影响。虽然没有猕猴表现出抗rh凝血酶抗体血清转阳，但在所有接触牛凝血酶的测试猴子中检测到了特定的抗牛抗体。将rh凝血酶或牛凝血酶添加到小鼠成纤维细胞中，导致预期的脱离和形状变化。将rh凝血酶局部应用于兔子未对眼睛、正常皮肤或擦伤皮肤造成刺激。这些研究表明，局部、皮下或植入的rh凝血酶在非临床模型中免疫原性低、安全且耐受良好，支持在多种外科环境中进行rh凝血酶的临床评估。© 2006 Elsevier Inc. 保留所有权利。
+------------------------------------------------------------------------------------
+原文: Grade
+
+译文: 年级
+------------------------------------------------------------------------------------
+原文: J.K. HeVernan et al. / Regulatory Toxicology and Pharmacology 47 (2007) 48–58	49
+
+译文: J.K. HeVernan等. / 法规毒理学与药理学 47 (2007) 48–58 49
+------------------------------------------------------------------------------------
+原文: Res. 2, 1–11.
+
+译文: 研究 2, 1–11.
+------------------------------------------------------------------------------------
+原文: doi:10.1016/j.yrtph.2006.07.006
+
+译文: doi:10.1016/j.yrtph.2006.07.006
+------------------------------------------------------------------------------------
+原文: 0–3
+
+译文: 0–3
+------------------------------------------------------------------------------------
+原文: Kajitani, M., Ozdemir, A., Aguinaga, M., Jazieh, A.R., Flick, J.T., Antakli, T., 2000. Severe hemorrhagic complication due to acquired factor V inhibitor after single exposure to bovine thrombin product. J. Card. Surg. 15, 378–382.
+
+译文: Kajitani, M., Ozdemir, A., Aguinaga, M., Jazieh, A.R., Flick, J.T., Antakli, T., 2000. 由于单次接触牛凝血酶产品而导致获得性因子V抑制剂引起的严重出血并发症. J. Card. Surg. 15, 378–382.
+------------------------------------------------------------------------------------
+原文: 0–2
+
+译文: 0–2
+------------------------------------------------------------------------------------
+原文: Jane K. HeVernan a, Rafael A. Ponce a,¤, Linda A. Zuckerman a, John P. Volpone a,
+
+译文: Jane K. HeVernan a, Rafael A. Ponce a,¤, Linda A. Zuckerman a, John P. Volpone a,
+------------------------------------------------------------------------------------
+原文: 0–4
+
+译文: 0–4
+------------------------------------------------------------------------------------
+原文: coagulation cascade.
+
+译文: 凝血级联.
+------------------------------------------------------------------------------------
+原文: Jennifer Visich a，Erika E. Giste a，Nancy Jenkins a，Dan Boster a，Susan Pederson a，Glenn Knitter a，Thomas Palmer a，Margaret Wills b，Richard J. Early b，Mark C. Rogge a
+
+译文: Jennifer Visich a，Erika E. Giste a，Nancy Jenkins a，Dan Boster a，Susan Pederson a，Glenn Knitter a，Thomas Palmer a，Margaret Wills b，Richard J. Early b，Mark C. Rogge a
+------------------------------------------------------------------------------------
+原文: Ellis, H., Moran, B.J., Thompson, J.N., Parker, M.C., Wilson, M.S., Menzies, D., McGuire, A., Lower, A.M., Hawthorn, R.J., O’Brien, F., Buchan, S., Crowe, A.M., 1999. Adhesion-related hospital readmissions after abdominal and pelvic surgery: a retrospective cohort study. Lancet 353, 1476–1480.
+
+译文: Ellis, H., Moran, B.J., Thompson, J.N., Parker, M.C., Wilson, M.S., Menzies, D., McGuire, A., Lower, A.M., Hawthorn, R.J., O’Brien, F., Buchan, S., Crowe, A.M., 1999. 腹部和盆腔手术后与粘附相关的医院再入院: 一项回顾性队列研究. 柳叶刀 353, 1476–1480.
+------------------------------------------------------------------------------------

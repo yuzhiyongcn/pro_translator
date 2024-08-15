@@ -14,8 +14,11 @@ MAX_TOKEN_LIMIT = 2500
 class DocTranslator:
     def __init__(self, to_CN=False):
         self.to_CN = to_CN
-        terms_file = r"input\terms_en2zh.xlsx" if to_CN else r"input\terms_zh2en.xlsx"
-        self.terms = persister.read_from_excel(terms_file)
+
+        # terms_file = r"input\terms_en2zh.xlsx" if to_CN else r"input\terms_zh2en.xlsx"
+        # self.terms = persister.read_from_excel(terms_file)
+        # 不适用术语表
+        self.terms = {}
 
         additional_terms = (
             r"input\additional_terms_en2zh.json"
@@ -70,50 +73,10 @@ class DocTranslator:
             for term_key, term_value in self.terms.items():
                 if term_key in text:
                     text = text.replace(term_key, term_value)
+
             preprocessed_text_list.append(text)
 
         return preprocessed_text_list
-
-    # def __translate_dict(self, origin_dict):
-    #     # 过滤包含待翻译文本的dict
-    #     new_dict = {}
-    #     for key, value in origin_dict.items():
-    #         if self.__is_translate_required(value):
-    #             new_dict[key] = value
-    #     if len(new_dict) == 0:
-    #         print("------------翻译已经全部完成------------")
-    #         return origin_dict
-    #     else:
-    #         to_translate_amount = len(new_dict)
-    #         if to_translate_amount == self.last_to_translate_amount:
-    #             print(
-    #                 f"------------迭代终止, 上次待翻译数量等于本次待翻译数量{self.last_to_translate_amount}------------"
-    #             )
-    #             return origin_dict
-    #         else:
-    #             self.last_to_translate_amount = to_translate_amount
-
-    #     # 打印待翻译文本
-    #     print("------------打印待翻译文本------------")
-    #     print(f"待翻译文本数量: {len(new_dict)}")
-    #     for index, text in enumerate(new_dict.keys()):
-    #         print(f"{index}: {text}")
-    #     print("------------打印待翻译文本结束------------")
-
-    #     # 分割dict
-    #     to_translate_dicts = self.__split_dict_by_token_limit(new_dict, 8000)
-    #     print(f"分割后的dict数量: {len(to_translate_dicts)}")
-    #     count = 0
-    #     for to_translate_dict in to_translate_dicts:
-    #         to_translate_dict = self.__preprocess(to_translate_dict)
-    #         origin_dict.update(self.translator.translate(to_translate_dict))
-
-    #         count += len(to_translate_dict)
-    #         print(f"已翻译: {count} / {len(origin_dict)}")
-
-    #     # 迭代翻译
-    #     print("------------开始迭代翻译------------")
-    #     return self.__translate_dict(origin_dict)
 
     def __is_translate_required(self, text):
         if not self.__is_text_skipped(text):
@@ -203,6 +166,8 @@ class DocTranslator:
 
         if len(to_translate_texts) == 0:
             print("------------翻译已经全部完成------------")
+            # 删除translated_file
+            os.remove(translated_file)
             return
 
         # 翻译
@@ -224,7 +189,14 @@ class DocTranslator:
         for paragraph in paragraphs:
             key = paragraph.text.strip()
             if key in translated_dict:
-                paragraph.text = paragraph.text.replace(key, translated_dict[key])
+                original_text = paragraph.text
+                translated_text = translated_dict[key]
+                # 双语翻译
+                paragraph.text = paragraph.text.replace(
+                    key, original_text + "\n" + translated_text
+                )
+                # 单语翻译
+                # paragraph.text = paragraph.text.replace(key, translated_text)
         pass
 
         # 保存文件
@@ -237,5 +209,5 @@ class DocTranslator:
 if __name__ == "__main__":
     translator = DocTranslator(False)
     translator.translate(
-        "附件一 B2019023-K09-01_SD大鼠灌胃给予sbk002及硫酸氢氯吡格雷肠道吸收实验_实验方案.docx"
+        "苏州华测_非临床安全性评价研究方案及报价_化药1类- 双语-0814.docx"
     )

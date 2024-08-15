@@ -1,0 +1,388 @@
+原文: 
+
+译文: 
+------------------------------------------------------------------------------------
+原文: PTPRB, PTPRF, PTPRJ, RACGAP1, RELN, RPL13A, RPS19, RUNX2,
+
+译文: PTPRB, PTPRF, PTPRJ, RACGAP1, RELN, RPL13A, RPS19, RUNX2,
+------------------------------------------------------------------------------------
+原文: IGFBP3, ITGA4, ITGB1, ITGB3, JUN, KRT18, KRT8, LOXL2, LTBR,
+
+译文: IGFBP3, ITGA4, ITGB1, ITGB3, JUN, KRT18, KRT8, LOXL2, LTBR,
+------------------------------------------------------------------------------------
+原文: MDM2, MYH10, NDC80, NEK6, NEK7, NUSAP1, PLK1, PRC1,
+
+译文: MDM2, MYH10, NDC80, NEK6, NEK7, NUSAP1, PLK1, PRC1,
+------------------------------------------------------------------------------------
+原文: ANGPTL2, ANXA2, ANXA3, ARHGAP11A, ARL4C, ARPC2,
+
+译文: ANGPTL2, ANXA2, ANXA3, ARHGAP11A, ARL4C, ARPC2,
+------------------------------------------------------------------------------------
+原文: GNAI2, HMGB1, HSPB8, HSPD1, HSPG2, HSPH1, ID1, ID3, ITGA3,
+
+译文: GNAI2, HMGB1, HSPB8, HSPD1, HSPG2, HSPH1, ID1, ID3, ITGA3,
+------------------------------------------------------------------------------------
+原文: ETS1, F2R, FBN1, FERMT2, FGF1, FLNA, FN1, GADD45A, GAS5,
+
+译文: ETS1, F2R, FBN1, FERMT2, FGF1, FLNA, FN1, GADD45A, GAS5,
+------------------------------------------------------------------------------------
+原文: ECT2, FLNA, GADD45A, GIPC1, GNAI2, GPC1, HIPK2, HSPB1,
+
+译文: ECT2, FLNA, GADD45A, GIPC1, GNAI2, GPC1, HIPK2, HSPB1,
+------------------------------------------------------------------------------------
+原文: LIMA1, LMNB1, LMNB2, LMO4, LMO7, LOX, LOXL2, LRP1, LTBP2,
+
+译文: LIMA1, LMNB1, LMNB2, LMO4, LMO7, LOX, LOXL2, LRP1, LTBP2,
+------------------------------------------------------------------------------------
+原文: CFL1, CRY1, CSF1, CTSL, DKK1, DUSP1, EDN1, EFNB2, EGFR,
+
+译文: CFL1, CRY1, CSF1, CTSL, DKK1, DUSP1, EDN1, EFNB2, EGFR,
+------------------------------------------------------------------------------------
+原文: −1.174
+
+译文: −1.174
+------------------------------------------------------------------------------------
+原文: PDK1, PHLPP1, PLXNB2, PODXL, PPIF, PPP1R15A, PRDX1, PTEN,
+
+译文: PDK1, PHLPP1, PLXNB2, PODXL, PPIF, PPP1R15A, PRDX1, PTEN,
+------------------------------------------------------------------------------------
+原文: Department of Ophthalmology, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan; sjiuansheu@gmail.com (S.-J.S.); maco69@gmail.com (P.-Y.L.)
+
+译文: 眼科部门，高雄医学大学医院，高雄 807，台湾；sjiuansheu@gmail.com (S.-J.S.); maco69@gmail.com (P.-Y.L.)
+------------------------------------------------------------------------------------
+原文: Table 1. Cont.
+
+译文: 表 1. 续
+------------------------------------------------------------------------------------
+原文: BNIP3, CALR, CCN1, CCN2, CCND1, CD274, CD44, CDKN1A,
+
+译文: BNIP3, CALR, CCN1, CCN2, CCND1, CD274, CD44, CDKN1A,
+------------------------------------------------------------------------------------
+原文: PTEN, PTPRJ, RUNX2, SERPINE1, SOX9, SPARC, TGFBR1, THBS1, TIMP3, VCL, VEGFA
+
+译文: PTEN, PTPRJ, RUNX2, SERPINE1, SOX9, SPARC, TGFBR1, THBS1, TIMP3, VCL, VEGFA
+------------------------------------------------------------------------------------
+原文: Cell Cycle
+
+译文: 细胞周期
+------------------------------------------------------------------------------------
+原文: NR3C2, NREP, NRP1, OSGIN1, P4HB, PALLD, PCOLCE2, PDGFB,
+
+译文: NR3C2, NREP, NRP1, OSGIN1, P4HB, PALLD, PCOLCE2, PDGFB,
+------------------------------------------------------------------------------------
+原文: HEG1, HIF1A, HIPK2, HMGB1, HMGB2, HMOX1, HSPG2, ID1, ID3,
+
+译文: HEG1, HIF1A, HIPK2, HMGB1, HMGB2, HMOX1, HSPG2, ID1, ID3,
+------------------------------------------------------------------------------------
+原文: 4.10. Biological Pathway Analysis
+
+译文: 4.10. 生物途径分析
+------------------------------------------------------------------------------------
+原文: EFNB2, EGFR, F2R, FAT1, FGF1, FLNB, FN1, FOSL2, FRAS1, GPC1,
+
+译文: EFNB2, EGFR, F2R, FAT1, FGF1, FLNB, FN1, FOSL2, FRAS1, GPC1,
+------------------------------------------------------------------------------------
+原文: CDKN1A, CLIC4, COL4A2, CSF1, DAG1, DKK1, ECT2, EDN1,
+
+译文: CDKN1A, CLIC4, COL4A2, CSF1, DAG1, DKK1, ECT2, EDN1,
+------------------------------------------------------------------------------------
+原文: 1.49 × 10−23
+
+译文: 1.49 × 10−23
+------------------------------------------------------------------------------------
+原文: Related experiments are needed to prove this concept.
+
+译文: 相关实验需要证明这个概念。
+------------------------------------------------------------------------------------
+原文: −2.301
+
+译文: −2.301
+------------------------------------------------------------------------------------
+原文: 9.36 × 10−47
+
+译文: 9.36 × 10−47
+------------------------------------------------------------------------------------
+原文: First, the original fastq readings were used to verify the determined sequence quality. The adapter sequences were predeleted, the low-mass end was trimmed, and Trimmomatic software was used to filter the low-quality readings with Q33. Then, the low-quality data from tophat2 software were used to generate RNA. For the sequence data analysis, the high-quality reading alignment was compared to the human reference genome (grch38.p7). The gene counts were calculated by featureCounts software, and RLE/TMM/FPKM normalized the performance. The differentially expressed genes were screened according to a q-value < 0.05 as a screening threshold. The differential gene results were screened, and downstream systematic bioassays were performed using the Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway database (http://www.genome.ad.jp/kegg/kegg1.Html).
+
+译文: 首先，使用原始的fastq读取来验证确定的序列质量。预先删除了接头序列，修剪了低质量末端，并使用Trimmomatic软件过滤低质量读取（Q33）。然后，使用来自tophat2软件的低质量数据生成RNA。对于序列数据分析，高质量读取对齐与人类参考基因组（grch38.p7）进行比较。使用featureCounts软件计算基因计数，并通过RLE/TMM/FPKM进行标准化。根据q值 < 0.05作为筛选阈值筛选差异表达基因。差异基因结果被筛选，并使用京都基因和基因组百科全书（KEGG）途径数据库（http://www.genome.ad.jp/kegg/kegg1.Html）进行后续系统生物测定。
+------------------------------------------------------------------------------------
+原文: 4.9. Library Preparation and Sequencing
+
+译文: 4.9. 文库准备和测序
+------------------------------------------------------------------------------------
+原文: KIF20B, KIFC1, KLF2, KLF6, KPNA2, KRT18, KRT8, LCP1, LDHA,
+
+译文: KIF20B, KIFC1, KLF2, KLF6, KPNA2, KRT18, KRT8, LCP1, LDHA,
+------------------------------------------------------------------------------------
+原文: GADD45A, GAPDH, GAS5, GDF5, GIPC1, GNAI2, GNG12, GPC1,
+
+译文: GADD45A, GAPDH, GAS5, GDF5, GIPC1, GNAI2, GNG12, GPC1,
+------------------------------------------------------------------------------------
+原文: CDKN1A, CENPE, CEP55, CFL1, CIT, CKAP2, CSF1, DIAPH3,
+
+译文: CDKN1A, CENPE, CEP55, CFL1, CIT, CKAP2, CSF1, DIAPH3,
+------------------------------------------------------------------------------------
+原文: COL11A1, COL4A1,COL4A2, CRMP1, CRY1, CSF1, CTSL, CYP1A1,
+
+译文: COL11A1, COL4A1, COL4A2, CRMP1, CRY1, CSF1, CTSL, CYP1A1,
+------------------------------------------------------------------------------------
+原文: Figure 7. Schematic illustration of blue-light-induced pathogenesis of retinal tissue. Our results suggest that blue light induced a sequential effect in RPE cells, including (1) ROS generation, (2) DNA damage, (3) autophagic stress, and (4) apoptosis, eventually resulting in macular degeneration or retinopathy. The blue arrow indicates low energy visible light which is non-harmful to RPE and the red arrow indicates the illumination of high-energy blue light.
+
+译文: 图 7. 蓝光诱导视网膜组织病理发生的示意图。我们的结果表明，蓝光诱导了RPE细胞的连续效应，包括（1）ROS生成，（2）DNA损伤，（3）自噬应激和（4）凋亡，最终导致黄斑变性或视网膜病。蓝色箭头表示对RPE无害的低能可见光，红色箭头表示高能蓝光的照射。
+------------------------------------------------------------------------------------
+原文: CDH11, CDH4, CDK1, CDKN1A, CENPF, CFL1, CLIC4, CNN2,
+
+译文: CDH11, CDH4, CDK1, CDKN1A, CENPF, CFL1, CLIC4, CNN2,
+------------------------------------------------------------------------------------
+原文: EGLN1, EMP1, ENAH, ENO1, ENPP2, EPPK1, ERRFI1, ETS1, EZR, F2R, FASN, FAT1, FAT3, FBN1, FERMT2, FGF1, FGF5, FKBP4,
+
+译文: EGLN1, EMP1, ENAH, ENO1, ENPP2, EPPK1, ERRFI1, ETS1, EZR, F2R, FASN, FAT1, FAT3, FBN1, FERMT2, FGF1, FGF5, FKBP4,
+------------------------------------------------------------------------------------
+原文: SORT1, SOX9, SPARC, SPHK1, SQSTM1, TAGLN2, TFPI, TGFB2, TGFBR1, THBS1, TIMP3, TKT, TLN1, TMEM30A, TMPO,
+
+译文: SORT1, SOX9, SPARC, SPHK1, SQSTM1, TAGLN2, TFPI, TGFB2, TGFBR1, THBS1, TIMP3, TKT, TLN1, TMEM30A, TMPO,
+------------------------------------------------------------------------------------
+原文: GPI, GTSE1, HIF1A, HMGA2, HMGB1, HMGB2, HMOX1,
+
+译文: GPI, GTSE1, HIF1A, HMGA2, HMGB1, HMGB2, HMOX1,
+------------------------------------------------------------------------------------
+原文: NDST1, NEDD9, NEU1, NGF, NINJ1, NKX3-1, NOG, NPPB, NQO1,
+
+译文: NDST1, NEDD9, NEU1, NGF, NINJ1, NKX3-1, NOG, NPPB, NQO1,
+------------------------------------------------------------------------------------
+原文: Department of Biological Sciences, National Sun Yat-Sen University, Kaohsiung 804, Taiwan
+
+译文: 生命科学系, 国立中山大学, 高雄 804, 台湾
+------------------------------------------------------------------------------------
+原文: LTBP3, LTBR, MAP1B, MAP2, MAP4, MBOAT7, MDM2,
+
+译文: LTBP3, LTBR, MAP1B, MAP2, MAP4, MBOAT7, MDM2,
+------------------------------------------------------------------------------------
+原文: TPM3, TPT1, TSPAN14, TUBA1C, TUBB, TXN, TXNRD1, UCHL1, VASP, VCL, VEGFA, VIM, VSIR, WBP2, WWC1, YBX1, ZYX
+
+译文: TPM3, TPT1, TSPAN14, TUBA1C, TUBB, TXN, TXNRD1, UCHL1, VASP, VCL, VEGFA, VIM, VSIR, WBP2, WWC1, YBX1, ZYX
+------------------------------------------------------------------------------------
+原文: MIR100HG, MSN, MYADM, MYH10,MYH9, MYL12A, NAV1,
+
+译文: MIR100HG, MSN, MYADM, MYH10, MYH9, MYL12A, NAV1,
+------------------------------------------------------------------------------------
+原文: ADAM9, AHNAK, ANXA2, AXL, BAMBI, BAX, BHLHE40, BMPER,
+
+译文: ADAM9, AHNAK, ANXA2, AXL, BAMBI, BAX, BHLHE40, BMPER,
+------------------------------------------------------------------------------------
+原文: HSP90AA1, HSPA8, HSPB1, HSPD1, HSPG2, ID1, ID3, IGF2R,
+
+译文: HSP90AA1, HSPA8, HSPB1, HSPD1, HSPG2, ID1, ID3, IGF2R,
+------------------------------------------------------------------------------------
+原文: In total, 1 × 105 ARPE19 cells were seeded onto a 60 mm Petri dish in an incubator with 5% CO2 at 37 ◦C. The cells were cultured in 5 mL of medium for 24 h and exposed to blue light for different durations. Trypsin (1 mL) was added to collect the cells, and the cells were centrifuged at 3000 rpm for 10 min at 4 ◦C. The supernatant was removed, 1 mL of acridine orange (AO) dye was added to the cells for 15 min at 37 ◦C, and then the cells were centrifuged to remove the supernatant. After washing three times with PBS, the centrifugation step was repeated. The supernatant was removed, 200 µL of PBS was added, and pipetting was carefully and repeatedly performed with an aspirator to suspend the cells. The data were analyzed using a BD Accuri C6 flow cytometer and the accompanying software.
+
+译文: 总共 1 × 105 ARPE19 细胞被播种到一个 60 mm 培养皿中，在 5% CO2 的培养箱中于 37 ◦C 培养。细胞在 5 mL 培养基中培养 24 小时，并暴露于不同时间的蓝光下。加入胰蛋白酶 (1 mL) 收集细胞，并在 4 ◦C 下以 3000 rpm 离心 10 分钟。去除上清液，向细胞中加入 1 mL 的铅铬橙 (AO) 染料，在 37 ◦C 下孵育 15 分钟，然后离心以去除上清液。用 PBS 洗涤三次后，重复离心步骤。去除上清液，加入 200 µL PBS，小心且反复使用吸管将细胞悬浮。使用 BD Accuri C6 流式细胞仪和随附软件分析数据。 
+------------------------------------------------------------------------------------
+原文: 5. Conclusions
+
+译文: 5. 结论
+------------------------------------------------------------------------------------
+原文: Blue-Light-Induced Damage to the
+
+译文: 蓝光引起的损伤到
+------------------------------------------------------------------------------------
+原文: Xu, X.R.; Yu, H.T.; Yang, Y.; Hang, L.; Yang, X.W.; Ding, S.H. Quercetin phospholipid complex significantly protects against oxidative injury in arpe-19 cells associated with activation of nrf2 pathway. Eur. J. Pharmacol. 2016, 770, 1–8. [CrossRef]
+
+译文: Xu, X.R.; Yu, H.T.; Yang, Y.; Hang, L.; Yang, X.W.; Ding, S.H. 槲皮素磷脂复合物显著保护 ARPE-19 细胞免受与 nrf2 通路激活相关的氧化损伤。 欧洲药理学杂志 2016, 770, 1–8. [CrossRef]
+------------------------------------------------------------------------------------
+原文: −4.498
+
+译文: −4.498
+------------------------------------------------------------------------------------
+原文: MT-ND5, NBR1, NCOR2, NGF, NPPB, ODC1, PDGFB, PFKFB3,
+
+译文: MT-ND5, NBR1, NCOR2, NGF, NPPB, ODC1, PDGFB, PFKFB3,
+------------------------------------------------------------------------------------
+原文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, JUN, JUNB, KDM3A, KIF14,
+
+译文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, JUN, JUNB, KDM3A, KIF14,
+------------------------------------------------------------------------------------
+原文: MYDGF, NGF, NKX3-1, NRP1, ODC1, PALLD, PDGFB, PLOD3,
+
+译文: MYDGF, NGF, NKX3-1, NRP1, ODC1, PALLD, PDGFB, PLOD3,
+------------------------------------------------------------------------------------
+原文: SLC16A3, SLC3A2, SLC48A1, SLC7A11, SLC7A5, SLIT3, SOD1,
+
+译文: SLC16A3, SLC3A2, SLC48A1, SLC7A11, SLC7A5, SLIT3, SOD1,
+------------------------------------------------------------------------------------
+原文: Institutional Review Board Statement: Not applicable.
+
+译文: 机构审查委员会声明: 不适用。
+------------------------------------------------------------------------------------
+原文: As blue light screens are becoming more common and the dependence on lightemitting diodes (LEDs) is increasing, retinal tissue degeneration in humans caused by blue light has become of increasing concern. Thus, the current study aimed to reveal the underlying mechanism of retinal tissue degeneration regulated by blue light induction to develop a novel treatment strategy or medication for blue-light-induced retinal tissue degeneration.
+
+译文: 随着蓝光屏幕越来越普遍，而对发光二极管 (LED) 依赖的增加，由蓝光造成的人类视网膜组织退化已成为越来越关注的问题。因此，当前研究旨在揭示蓝光诱导调节的视网膜组织退化的潜在机制，以开发针对蓝光引起的视网膜组织退化的新治疗策略或药物。
+------------------------------------------------------------------------------------
+原文: Woo, J.M.; Shin, D.Y.; Lee, S.J.; Joe, Y.; Zheng, M.; Yim, J.H.; Callaway, Z.; Chung, H.T. Curcumin protects retinal pigment epithelial cells against oxidative stress via induction of heme oxygenase-1 expression and reduction of reactive oxygen. Mol. Vis. 2012, 18, 901–908.
+
+译文: Woo, J.M.; Shin, D.Y.; Lee, S.J.; Joe, Y.; Zheng, M.; Yim, J.H.; Callaway, Z.; Chung, H.T. 姜黄素通过诱导血红素氧化酶-1的表达和减少活性氧，保护视网膜色素上皮细胞免受氧化应激的影响。分子视觉 2012, 18, 901–908。
+------------------------------------------------------------------------------------
+原文: FLNA, FLNB, FLNC, FLRT2, FN1, FOSL2, FOXF2, FOXQ1, FSTL1,
+
+译文: FLNA, FLNB, FLNC, FLRT2, FN1, FOSL2, FOXF2, FOXQ1, FSTL1,
+------------------------------------------------------------------------------------
+原文: 3.1. General Discussion
+
+译文: 3.1. 一般讨论
+------------------------------------------------------------------------------------
+原文: AKAP12, ANLN, BIRC5, BUB1B, CAP1, CCNB1, CDC20, CDK1,
+
+译文: AKAP12, ANLN, BIRC5, BUB1B, CAP1, CCNB1, CDC20, CDK1,
+------------------------------------------------------------------------------------
+原文: Phaniendra, A.; Jestadi, D.B.; Periyasamy, L. Free radicals: Properties, sources, targets, and their implication in various diseases. Indian J. Clin. Biochem. 2015, 30, 11–26. [CrossRef]
+
+译文: Phaniendra, A.; Jestadi, D.B.; Periyasamy, L. 自由基：性质、来源、靶标及其在各种疾病中的影响。印度临床生物化学杂志 2015, 30, 11–26. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 7.58 × 10−16
+
+译文: 7.58 × 10−16
+------------------------------------------------------------------------------------
+原文: Liu, W.; Huang, H.-L.; Chen, L.-Y.; He,
+
+译文: Liu, W.; Huang, H.-L.; Chen, L.-Y.; He,
+------------------------------------------------------------------------------------
+原文: 2.6. RNA Sequencing to Determine Potential Signal Transduction Involved in Blue-Light-
+
+译文: 2.6. RNA测序以确定参与蓝光的潜在信号转导
+------------------------------------------------------------------------------------
+原文: After the exposure to blue light for 24 h, the total RNA was extracted by TRIzol® reagent (Invitrogen, USA) according to the manufacturer’s instructions. The purified RNA was quantified by a nanodrop 2000c spectrophotometer (Thermo Scientific, Waltham, MA, USA) to obtain the optical density (OD) at 260 nm, and a Qubit 2.0 fluorometer (Life Technologies, Carlsbad, CA, USA) was used with an Agilent 2100 Bioanalyzer system (Agilent Technologies, Santa Clara, CA, USA) to assess the RNA integrity.
+
+译文: 在暴露于蓝光24小时后，使用TRIzol®试剂（Invitrogen, USA）根据制造商的说明提取总RNA。采用纳米滴定2000c光谱仪（Thermo Scientific, Waltham, MA, USA）对纯化的RNA进行定量，以获得260 nm处的光密度（OD），并使用Qubit 2.0荧光计（Life Technologies, Carlsbad, CA, USA）与Agilent 2100生物分析仪系统（Agilent Technologies, Santa Clara, CA, USA）评估RNA的完整性。
+------------------------------------------------------------------------------------
+原文: Categories
+
+译文: 类别
+------------------------------------------------------------------------------------
+原文: −1.439
+
+译文: −1.439
+------------------------------------------------------------------------------------
+原文: 3.7. NGS Data for Potential Mechanism Prediction
+
+译文: 3.7. NGS数据用于潜在机制预测
+------------------------------------------------------------------------------------
+原文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, KLF2, KRT18, KRT8, LOX,
+
+译文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, KLF2, KRT18, KRT8, LOX,
+------------------------------------------------------------------------------------
+原文: LRP1, LTBR, MGST1, MT-CO1, MT-ND2, MT-ND3, MT-ND4,
+
+译文: LRP1, LTBR, MGST1, MT-CO1, MT-ND2, MT-ND3, MT-ND4,
+------------------------------------------------------------------------------------
+原文: p-Value
+
+译文: p-值
+------------------------------------------------------------------------------------
+原文: RACGAP1, SPART, SPDL1, TACC3, TM4SF1, TOP2A, UBE2S, YBX1
+
+译文: RACGAP1, SPART, SPDL1, TACC3, TM4SF1, TOP2A, UBE2S, YBX1
+------------------------------------------------------------------------------------
+原文: CCBE1, CCN1, CCN2, CCNA2, CCND1, CD274, CD44, CD63,
+
+译文: CCBE1, CCN1, CCN2, CCNA2, CCND1, CD274, CD44, CD63,
+------------------------------------------------------------------------------------
+原文: 1. Introduction
+
+译文: 1. 引言
+------------------------------------------------------------------------------------
+原文: PHLPP1, PLXNB2, PRDX1, PRKDC, PTEN, PTPRJ, RAB3B,
+
+译文: PHLPP1, PLXNB2, PRDX1, PRKDC, PTEN, PTPRJ, RAB3B,
+------------------------------------------------------------------------------------
+原文: Abstract: Age-related macular degeneration (AMD) is the progressive degeneration of the retinal pigment epithelium (RPE), retina, and choriocapillaris among elderly individuals and is the leading cause of blindness worldwide. Thus, a better understanding of the underlying mechanisms in retinal tissue activated by blue light exposure is important for developing novel treatment and intervention strategies. In this study, blue-light-emitting diodes with a wavelength of 440 nm were applied to RPE cells at a dose of 3.7 ± 0.75 mW/cm2 for 24 h. ARPE-19 cells were used to investigate the underlying mechanism induced by blue light exposure. A trypan blue exclusion assay was used for the cell viability determination. Flow cytometry was used for apoptosis rate detection and autophagy analysis. An immunofluorescence microscopy analysis was used to investigate cellular oxidative stress and DNA damage using DCFDA fluorescence staining and an anti-γH2AX antibody. Blue light exposure of zebrafish larvae was established to investigate the effect on retinal tissue development in vivo. To further demonstrate the comprehensive effect of blue light on ARPE-19 cells, next-generation sequencing (NGS) was performed for an ingenuity pathway analysis (IPA) to reveal additional related mechanisms. The results showed that blue light exposure caused a decrease in cell proliferation and an increase in apoptosis in ARPE-19 cells in a time-dependent manner. Oxidative stress increased during the early stage of 2 h of exposure and activated DNA damage in ARPE-19 cells after 8 h. Furthermore, autophagy was activated in response to blue light exposure at 24–48 h. The zebrafish larvae model showed the unfavorable effect of blue light in prohibiting retinal tissue development. The RNA-Seq results confirmed that blue light induced cell death and participated in tissue growth inhibition and maturation. The current study reveals the mechanisms by which blue light induces cell death in a time-dependent manner. Moreover, both the in vivo and NGS data uncovered blue light’s effect on retinal tissue development, suggesting that exposing children to blue light could be relatively dangerous. These results could benefit the development of preventive strategies utilizing herbal medicine-based treatments for eye diseases or degeneration in the future.
+
+译文: 摘要：年龄相关性黄斑变性（AMD）是老年人中视网膜色素上皮（RPE）、视网膜和脉络膜毛细血管的渐进性退化，是全球失明的主要原因。因此，更好地理解蓝光暴露激活视网膜组织的潜在机制对于开发新治疗和干预策略至关重要。在这项研究中，使用440 nm波长的蓝光发射二极管以3.7 ± 0.75 mW/cm2的剂量施加于RPE细胞，持续24小时。使用ARPE-19细胞探讨蓝光暴露诱导的潜在机制。采用台盼蓝排除实验法进行细胞活力测定。流式细胞术用于检测凋亡率和自噬分析。免疫荧光显微镜分析用于研究细胞的氧化应激和DNA损伤，使用DCFDA荧光染色和抗-γH2AX抗体。建立了蓝光暴露斑马鱼幼虫模型，以探讨其对体内视网膜组织发育的影响。为了进一步展示蓝光对ARPE-19细胞的综合影响，进行了下一代测序（NGS）以进行创造性通路分析（IPA），揭示其他相关机制。结果显示，蓝光暴露导致ARPE-19细胞的细胞增殖减少和凋亡增加，呈时间依赖性。在曝光的早期阶段（2小时）氧化应激增加，并在暴露8小时后激活了ARPE-19细胞中的DNA损伤。此外，自噬在蓝光暴露24-48小时后被激活。斑马鱼幼虫模型显示蓝光对视网膜组织发育的不利影响。RNA-Seq结果确认蓝光诱导细胞死亡并参与组织生长抑制和成熟。本研究揭示了蓝光以时间依赖性的方式诱导细胞死亡的机制。此外，无论是体内实验还是NGS数据都揭示了蓝光对视网膜组织发育的影响，表明儿童接触蓝光可能相对危险。这些结果可能有助于利用基于草药的治疗眼部疾病或退化的预防策略的开发。
+------------------------------------------------------------------------------------
+原文: 7.45 × 10-15
+
+译文: 7.45 × 10-15
+------------------------------------------------------------------------------------
+原文: C.-X.; Sheu, S.-J.; Chen, K.-J.; Lee,
+
+译文: C.-X.; Sheu, S.-J.; Chen, K.-J.; Lee,
+------------------------------------------------------------------------------------
+原文: CYP1B1, DAG1, DCBLD2, DDRGK1, DEK, DIAPH1, DIO2, DKK1, DNAJA1, DNAJB4, DSP, DUSP1, ECT2, EDN1, EFNB2, EGFR,
+
+译文: CYP1B1, DAG1, DCBLD2, DDRGK1, DEK, DIAPH1, DIO2, DKK1, DNAJA1, DNAJB4, DSP, DUSP1, ECT2, EDN1, EFNB2, EGFR,
+------------------------------------------------------------------------------------
+原文: SEMA3B, SEMA7A, SERPINB2, SERPINE1, SERPINE2, SGK1,
+
+译文: SEMA3B, SEMA7A, SERPINB2, SERPINE1, SERPINE2, SGK1,
+------------------------------------------------------------------------------------
+原文: Young, R.W. Solar radiation and age-related macular degeneration. Surv. Ophthalmol. 1988, 32, 252–269. [CrossRef]
+
+译文: Young, R.W. 太阳辐射与年龄相关的黄斑变性. Surv. Ophthalmol. 1988, 32, 252–269. [CrossRef]
+------------------------------------------------------------------------------------
+原文: TMSB10/TMSB4X, TNFRSF10B, TNIK, TNS1, TPI1, TPM1, TPM2,
+
+译文: TMSB10/TMSB4X, TNFRSF10B, TNIK, TNS1, TPI1, TPM1, TPM2,
+------------------------------------------------------------------------------------
+原文: 4.0/).
+
+译文: 4.0/).
+------------------------------------------------------------------------------------
+原文: King, A.; Gottlieb, E.; Brooks, D.G.; Murphy, M.P.; Dunaief, J.L. Mitochondria-derived reactive oxygen species mediate blue light-induced death of retinal pigment epithelial cells. Photochem. Photobiol. 2004, 79, 470–475. [CrossRef]
+
+译文: King, A.; Gottlieb, E.; Brooks, D.G.; Murphy, M.P.; Dunaief, J.L. 线粒体衍生的反应性氧种介导蓝光引起的视网膜色素上皮细胞死亡. Photochem. Photobiol. 2004, 79, 470–475. [CrossRef]
+------------------------------------------------------------------------------------
+原文: AHNAK, AKAP12, AKT1S1, ALCAM, ALDH1A3, ALDOA,
+
+译文: AHNAK, AKAP12, AKT1S1, ALCAM, ALDH1A3, ALDOA,
+------------------------------------------------------------------------------------
+原文: 4.5. Determination of Intracellular ROS
+
+译文: 4.5. 细胞内ROS的测定
+------------------------------------------------------------------------------------
+原文: ASPH, ASPM, AXL, BAX, BTG2, CA9, CALD1, CALR, CAP1, CAST,
+
+译文: ASPH, ASPM, AXL, BAX, BTG2, CA9, CALD1, CALR, CAP1, CAST,
+------------------------------------------------------------------------------------
+原文: Lipofuscin, an aggregation of oxidized proteins, was reported to induce apoptosis through proteasome inhibition and pro-apoptotic protein dysregulation [1]. Furthermore, the propensity for RPE cells to be damaged or destroyed by excessive exposure to visible light may be of significance to retinal disorders characterized by enhancing the accumulation of the autofluorescent pigments that constitute lipofuscin, aggregates of oxidized proteins that induce apoptosis through proteasome inhibition and dysregulation of proapoptotic proteins [1]. Lipofuscin is a byproduct of RPE cells phagocytosing the lipids constituting photoreceptor cells’ outer segments and accumulating in lysosomes. Lipofuscin is a complex mixture of pigments that are phototoxic to RPE cells [2]. The overaccumulation of autofluorescent lipofuscin could indicate cell aging and increase AMD development risk [3].
+
+译文: 脂褐素，是一种氧化蛋白的聚集物，被报道通过抑制蛋白酶体和促凋亡蛋白失调诱导凋亡 [1]。此外，RPE细胞在过度暴露于可见光的情况下被损坏或破坏的倾向可能与视网膜疾病的特征有关，这些疾病通过增强自荧光色素的积累而加剧，后者构成脂褐素，是诱导凋亡的氧化蛋白聚集物，通过抑制蛋白酶体和促凋亡蛋白失调诱导凋亡 [1]。脂褐素是RPE细胞吞噬构成光感受器细胞外段的脂质并在溶酶体中积累的副产品。脂褐素是对RPE细胞具有光毒性的色素的复杂混合物 [2]。自荧光脂褐素的过度积累可能表明细胞衰老并增加AMD发展的风险 [3].
+------------------------------------------------------------------------------------
+原文: Zhao, Z.; Sun, T.; Jiang, Y.; Wu, L.; Cai, X.; Sun, X.; Sun, X. Photooxidative damage in retinal pigment epithelial cells via grp78 and the protective role of grape skin polyphenols. Food Chem. Toxicol. 2014, 74, 216–224. [CrossRef] [PubMed]
+
+译文: Zhao, Z.; Sun, T.; Jiang, Y.; Wu, L.; Cai, X.; Sun, X.; Sun, X. 通过grp78在视网膜色素上皮细胞中导致的光氧化损伤及葡萄皮多酚的保护作用. Food Chem. Toxicol. 2014, 74, 216–224. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: SERPINE2, SOD1, TAB3, TACC3, TGFB2, TGFBR1, THBS1, TLN1, TNFRSF10B, TOP2A, TPT1, VASP, VEGFA, VIM, VSIR
+
+译文: SERPINE2, SOD1, TAB3, TACC3, TGFB2, TGFBR1, THBS1, TLN1, TNFRSF10B, TOP2A, TPT1, VASP, VEGFA, VIM, VSIR
+------------------------------------------------------------------------------------
+原文: Funding: The research was supported by grants MOST 108-2314-B-037-088 and 108-2314-B-037-051 from the Ministry of Science and Technology, Taiwan, and grants KMHK-106-022, KMHK-107-008 and KMHK-108-032 from Kaohsiung Municipal Siaogang Hospital, Taiwan. We are also grateful to the Center for Research Resources and Development (Kaohsiung Medical University) for their instrumental support with IPA, flow cytometry, and confocal microscopy.
+
+译文: 资金：该研究得到了台湾科技部MOST 108-2314-B-037-088和108-2314-B-037-051的资助，以及来自台湾高雄市小港医院的KMHK-106-022, KMHK-107-008和KMHK-108-032的资助。我们还感谢高雄医科大学研究资源与开发中心对IPA、流式细胞术和共聚焦显微镜的仪器支持。
+------------------------------------------------------------------------------------
+原文: Kaarniranta, K.; Tokarz, P.; Koskela, A.; Paterno, J.; Blasiak, J. Autophagy regulates death of retinal pigment epithelium cells in age-related macular degeneration. Cell Biol. Toxicol. 2017, 33, 113–128. [PubMed]
+
+译文: Kaarniranta, K.; Tokarz, P.; Koskela, A.; Paterno, J.; Blasiak, J. 自噬调节年龄相关黄斑变性中的视网膜色素上皮细胞死亡. Cell Biol. Toxicol. 2017, 33, 113–128. [PubMed]
+------------------------------------------------------------------------------------
+原文: ACTB, ACTN1, ACTN4, ACTR2, ADAM19, ADAM9, ADAMTS5,
+
+译文: ACTB, ACTN1, ACTN4, ACTR2, ADAM19, ADAM9, ADAMTS5,
+------------------------------------------------------------------------------------
+原文: INCENP, ITGB1, KIF14, KIF20A, KIF20B, KIF23, KIFC1, MCM7,
+
+译文: INCENP, ITGB1, KIF14, KIF20A, KIF20B, KIF23, KIFC1, MCM7,
+------------------------------------------------------------------------------------
+原文: ANXA2, AXL, BMPER, CA9, CALR, CCN1, CCND1, CD44,
+
+译文: ANXA2, AXL, BMPER, CA9, CALR, CCN1, CCND1, CD44,
+------------------------------------------------------------------------------------
+原文: Figure 6. Differential gene expression analysis and the potential mechanisms in ARPE-19 cells regulated by blue light. (A) The total number of differentially expressed genes (DEGs) between the control and blue-light-exposed groups. (B) Top 15 cellular diseases and functions of the 671 DEGs involved. (C) General heatmap of the toxicity and biofunctional analysis generated by IPA and individual catalog heatmaps, including (D) cellular movement, (E) cell cycle, (F) tissue development, and (G) cell-to-cell signaling and interaction, were specifically analyzed to determine the regulation pathways affected by blue light. Blue: decreased gene expression; orange: increased gene expression.
+
+译文: 图6. 蓝光调控下ARPE-19细胞的差异基因表达分析及潜在机制. (A) 对照组与蓝光照射组之间差异表达基因（DEGs）的总数. (B) 涉及的671个差异表达基因的前15种细胞疾病和功能. (C) 由IPA生成的毒性和生物功能分析的一般热图和各个目录热图，包括(D) 细胞运动,(E) 细胞周期,(F) 组织发育, 和(G) 细胞间信号传递与相互作用，特别分析以确定被蓝光影响的调控通路. 蓝色: 基因表达下降; 橙色: 基因表达上升.
+------------------------------------------------------------------------------------
+原文: IGFBP3, IGFBP5, IGFBP7, IL7R, INHBA, INPPL1, IRS2, ITGA3,
+
+译文: IGFBP3, IGFBP5, IGFBP7, IL7R, INHBA, INPPL1, IRS2, ITGA3,
+------------------------------------------------------------------------------------
+原文: 2.4. Cellular Autophagy Activation in ARPE-19 Cells Due to Blue Light Exposure
+
+译文: 2.4. 蓝光照射导致ARPE-19细胞的细胞自噬激活
+------------------------------------------------------------------------------------

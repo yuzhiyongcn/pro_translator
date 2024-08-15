@@ -1,0 +1,716 @@
+原文: 试验设计：拉丁方交叉试验，分4组：1溶媒对照组+3个剂量供试品组。拉丁方交叉给药。
+
+译文: Experimental design: Latin square crossover trial, divided into 4 groups: 1 solvent control group + 3 dose test substance groups. Latin square crossover administration. 
+------------------------------------------------------------------------------------
+原文: 试验设计：6只犬， 单次灌胃给药。
+
+译文:  Experimental design: 6 dogs, single-dose oral administration. 
+------------------------------------------------------------------------------------
+原文: 试验设计：6只大鼠，雌雄各半，灌胃给药，拟每天给药1次，连续7次，1组。
+
+译文:  Experimental design: 6 rats, evenly split between males and females, oral administration, intended to administer once daily for 7 consecutive times, 1 group. 
+------------------------------------------------------------------------------------
+原文: 目的：评价候选药物在肝细胞代谢过程的种属差异。
+
+译文:  Objective: To evaluate the species differences in hepatic cellular metabolic processes of the candidate drug. 
+------------------------------------------------------------------------------------
+原文: 采样：胆管插管动物采集胆汁8个时间点，采集6只动物/时间点，共约48个样品。
+
+译文:  Sampling: Bile was collected from animals with bile duct cannulation at 8 time points, with 6 animals per time point, totaling approximately 48 samples. 
+------------------------------------------------------------------------------------
+原文: 非啮齿类（犬）体内药动学吸收试验
+
+译文:  Non-rodent (dog) in vivo pharmacokinetics absorption test. 
+------------------------------------------------------------------------------------
+原文: 手持观察：（1）移出笼的难易程度、（2）对手持的反应、（3）瞳孔、（4）眼睑、（5）眼球、（6）泪液、（7）唾液、（8）呼吸、（9）皮肤颜色。
+
+译文:  Operant observations: (1) Ease of removal from the cage, (2) Response to holding, (3) Pupil, (4) Eyelid, (5) Eyeball, (6) Tear fluid, (7) Saliva, (8) Breathing, (9) Skin color. 
+------------------------------------------------------------------------------------
+原文: 试验设计：大鼠24只，单次单剂量灌胃给药，4个时间点6只动物，雌雄各半。
+
+译文:  Experimental design: 24 SD rats, single-dose oral administration, 4 time points with 6 animals, evenly split between males and females. 
+------------------------------------------------------------------------------------
+原文: 测试候选药物对肝脏药物代谢酶CYP450诱导作用的体外研究（酶活性，三个单供体的人原代肝细胞，6个浓度）。
+
+译文:  Testing the in vitro induction of hepatic drug-metabolizing enzyme CYP450 by the candidate drug (enzyme activity, three single donors of human primary hepatocytes at 6 concentrations). 
+------------------------------------------------------------------------------------
+原文: 三、体外药代试验
+
+译文:  III. In vitro pharmacokinetics testing. 
+------------------------------------------------------------------------------------
+原文: 仅分析一种待测物（原型或代谢物）。
+
+译文:  Analyze only one test substance (parent compound or metabolite). 
+------------------------------------------------------------------------------------
+原文: 总价：人民币                      万元整
+
+译文:  Total price: RMB                    ten thousand. 
+------------------------------------------------------------------------------------
+原文: TK采血：首次和末次给药后采血，每次6个采血点。
+
+译文:  TK blood sampling: Blood collection after the first and last doses, 6 blood sampling points each time. 
+------------------------------------------------------------------------------------
+原文: 试验设计：SD大鼠24只，分4组：1个溶媒对照组+3个剂量供试品组，主实验组每组6只，雌雄各半。拟每天给药1次，连续给药2周。不设恢复期。
+
+译文:  Experimental design: 24 SD rats, divided into 4 groups: 1 solvent control group + 3 dose test substance groups, 6 rats per main experimental group, evenly split between males and females. Intended to administer once daily for 2 consecutive weeks, with no recovery period. 
+------------------------------------------------------------------------------------
+原文: 操作性观察：（1）钝物逼近反应、（2）接触反应、（3）身体张力、（4）腹部张力、（5）肢体张力、（6）瞳孔反射、（7）短音应答、（8）捏尾反应、（9）空中翻正反射、（10）前、后肢握力。
+
+译文:  Operability observations: (1) Reaction to blunt object approach, (2) Reaction to contact, (3) Body tension, (4) Abdominal tension, (5) Limb tension, (6) Pupil reflex, (7) Startle response, (8) Tail pinch response, (9) Airborne turning reflex, (10) Grip strength of fore and hind limbs. 
+------------------------------------------------------------------------------------
+原文: 单独出具方案和报告。
+
+译文:  Provide separate protocol and report. 
+------------------------------------------------------------------------------------
+原文: 检测指标：呼吸频率、呼吸节律、潮气量。
+
+译文:  Test indicators: Respiratory rate, respiratory rhythm, tidal volume. 
+------------------------------------------------------------------------------------
+原文: CYP酶的诱导试验
+
+译文:  CYP enzyme induction test. 
+------------------------------------------------------------------------------------
+原文: 单独出具方法学验证报告。
+
+译文:  Provide separate method validation report. 
+------------------------------------------------------------------------------------
+原文: 目的：测试候选药物在血浆中的稳定性。
+
+译文:  Objective: To test the stability of the candidate drug in plasma. 
+------------------------------------------------------------------------------------
+原文: 检测指标：观察、体重。用遥测系统采集心血管指标 [采集时间为给药前3个点和给药后6-8个点, 观察时间≥5个衰期）]
+
+译文:  Test indicators: Observations, body weight. Cardiovascular indicators collected via telemetry system [sampling times are 3 points before administration and 6-8 points after administration, observation time ≥ 5 half-lives]. 
+------------------------------------------------------------------------------------
+原文: 大鼠FOB试验（GLP）
+
+译文:  Rat FOB test (GLP). 
+------------------------------------------------------------------------------------
+原文: 采血：采血8-10次（6只），共计60个血浆样品。
+
+译文:  Blood collection: 8-10 times (6 rats), totaling 60 plasma samples. 
+------------------------------------------------------------------------------------
+原文: 目的：评价候选药物在体外肝微粒体的代谢稳定性。
+
+译文:  Objective: To evaluate the in vitro metabolic stability of the candidate drug in liver microsomes. 
+------------------------------------------------------------------------------------
+原文: 2、试验周期是指从首次给药起算到提交试验报告草稿的时间，出具中文报告；
+
+译文:  2. The experimental cycle refers to the time from the first administration to the submission of the draft experimental report, issuing a Chinese report. 
+------------------------------------------------------------------------------------
+原文: 肝微粒体代谢稳定性
+
+译文:  Liver microsome metabolic stability. 
+------------------------------------------------------------------------------------
+原文: 旷场观察：（1）觉醒、（2）步态、（3）理毛行为、（4）铅刻或异常行为、（5）直立、（6）排尿、（7）排便。
+
+译文:  Open field observation: (1) Alertness, (2) Gait, (3) Grooming behavior, (4) Stereotypical or abnormal behavior, (5) Upright posture, (6) Urination, (7) Defecation. 
+------------------------------------------------------------------------------------
+原文: 备注：包含一个阳性药物。
+
+译文:  Note: Includes one positive drug. 
+------------------------------------------------------------------------------------
+原文: 检测指标：临床观察、体重、摄食量；临床病理（血常规、血凝4项、血生化，适应期和药前、药后7、14天各1次）；观察期结束大体解剖，观察动物的脏器组织，有肉眼可见的异常组织进行组织学检查。如果整个实验病理组织超过5个，费用另计。
+
+译文:  Test indicators: Clinical observations, body weight, food intake; Clinical pathology (complete blood count, coagulation tests, blood biochemistry, once each during acclimation and 7, 14 days pre- and post-drug); Gross necropsy at the end of the observation period, examining the animals' organ tissues, histological examination of visibly abnormal tissues. If the entire experiment's pathological tissues exceed 5, additional fees will apply. 
+------------------------------------------------------------------------------------
+原文: 试验设计：SD大鼠120只，分4组： 1溶媒对照组+3个剂量供试品组，30只/组，雌、雄各半。拟每天给药1次，连续给药4周。
+
+译文:  Experimental design: 120 SD rats, divided into 4 groups: 1 solvent control group + 3 dose test substance groups, 30 rats/group, evenly split between males and females. Intended to administer once daily for 4 consecutive weeks. 
+------------------------------------------------------------------------------------
+原文: 网址: http://cti-btc.com
+
+译文:  Website: http://cti-btc.com 
+------------------------------------------------------------------------------------
+原文: 化药1类                 非临床安全性研究初步方案和报价
+
+译文:  Chemical drug category 1                 Preliminary protocol and quotation for non-clinical safety studies. 
+------------------------------------------------------------------------------------
+原文: 笼内观察：（1）姿态、（2）竖毛、（3）阵挛性运动（观察是否有癫痫症状）、（4）强直性运动、（5）发声。
+
+译文:  Cage observations: (1) Posture, (2) Piloerection, (3) Clonic movement (observing for signs of seizures), (4) Tonic movement, (5) Vocalizations. 
+------------------------------------------------------------------------------------
+原文: 采血时间点:　首次和末次给药后，每次6个采血点，对照组每次2个点。
+
+译文:  Blood sampling time points: After the first and last doses, 6 sampling points each time, 2 points each time for the control group. 
+------------------------------------------------------------------------------------
+原文: 肠外排ABC转运体MDR1（p-gp）和BCRP对测试物转运作用的体外研究
+
+译文:  Extracellular ABC transporters MDR1 (p-gp) and BCRP in vitro study of the transport effects of the test substance. 
+------------------------------------------------------------------------------------
+原文: 采样：每只动物采集指导原则要求的10~13个组织+血浆，共计360个左右样品。
+
+译文:  Sampling: Collecting 10-13 tissues + plasma per animal as required by guidelines, totaling approximately 360 samples. 
+------------------------------------------------------------------------------------
+原文: CYP亚型：1A2，2B6，2C8，2C9，2C19，2D6和3A4/A5；
+
+译文:  CYP isoforms: 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, and 3A4/A5; 
+------------------------------------------------------------------------------------
+原文: 检测指标：临床观察、体重、摄食量；眼科检查（给药前、给药期结束各1次）；健康体检（呼吸、体温、心电等；适应期2次，给药期结束1次）；临床病理（血常规、血凝4项、血生化、尿常规；适应期2次，给药期结束1次）；观察期结束大体解剖，观察动物的脏器组织，有肉眼可见的异常组织进行组织学检查。如果整个实验病理组织超过5个，费用另计。
+
+译文:  Test indicators: Clinical observations, body weight, food intake; Ophthalmological examination (once before administration, once at the end of treatment); Health checkup (respiration, body temperature, ECG, etc.; twice during acclimation, once at the end of treatment); Clinical pathology (complete blood count, 4 coagulation tests, blood biochemistry, urinalysis; twice during acclimation, once at the end of treatment); Gross necropsy at the end of the observation period, examining the animals' organ tissues, histological examination of visibly abnormal tissues. If the entire experiment's pathological tissues exceed 5, additional fees will apply. 
+------------------------------------------------------------------------------------
+原文: 3个月
+
+译文:  3 months. 
+------------------------------------------------------------------------------------
+原文: CYP酶的抑制试验
+
+译文:  CYP enzyme inhibition test. 
+------------------------------------------------------------------------------------
+原文: 考察项：选择性、准确度及精密度、稀释验证、短期稳定性、冻融稳定性、 全血稳定性、 PSS（处理后样品稳定性） 、长期稳定性、溶液稳定性、溶血效应、基质效应、回收率。
+
+译文:  Evaluation items: Selectivity, accuracy and precision, dilution verification, short-term stability, freeze-thaw stability, whole blood stability, PSS (post-treatment sample stability), long-term stability, solution stability, hemolysis effects, matrix effects, recovery rates. 
+------------------------------------------------------------------------------------
+原文: 1个月
+
+译文:  1 month. 
+------------------------------------------------------------------------------------
+原文: 主要CYP450代谢酶表型
+
+译文:  Main CYP450 metabolic enzyme phenotyping. 
+------------------------------------------------------------------------------------
+原文: 试验设计：SD大鼠40只，分4组：1溶媒对照组+3个剂量供试品组，每组10只，雌雄各半。单次给药后观察14天。
+
+译文:  Experimental design: 40 SD rats, divided into 4 groups: 1 solvent control group + 3 dose test substance groups, 10 per group, evenly split between males and females. Observing for 14 days after single administration. 
+------------------------------------------------------------------------------------
+原文: 啮齿类（大鼠）体内药动学吸收试验
+
+译文:  Rodent (rat) in vivo pharmacokinetics absorption test. 
+------------------------------------------------------------------------------------
+原文: 恢复期结束：每组剖检10只，雌、雄各半。给药期结束后恢复4周。
+
+译文:  End of recovery period: 10 necropsies per group, evenly split between males and females. Recovery for 4 weeks after the treatment period ends. 
+------------------------------------------------------------------------------------
+原文: 在药物三个浓度下，不加抑制剂和加抑制剂的情况下，考察双侧细胞的渗透性。带阳性底物和阳性抑制剂。
+
+译文:  Examining the permeability of bilateral cells under three concentrations of the drug, comparing without and with inhibitors. Including positive substrate and positive inhibitor. 
+------------------------------------------------------------------------------------
+原文: 阳性组：华法林（单一浓度）与小鼠、大鼠、犬、猴、人血浆蛋白结合率考察组。
+
+译文:  Positive group: Examining the plasma protein binding rates of warfarin (single concentration) with mouse, rat, dog, monkey, and human blood. 
+------------------------------------------------------------------------------------
+原文: 检测指标：血药浓度（1个原型或代谢物）。
+
+译文:  Test indicators: Blood concentration (1 parent compound or metabolite). 
+------------------------------------------------------------------------------------
+原文: 给药期结束：每组剖检20只，雌、雄各半。
+
+译文:  End of treatment period: 20 necropsies per group, evenly split between males and females. 
+------------------------------------------------------------------------------------
+原文: 遗传毒性试验（GLP）
+
+译文:  Genetic toxicity test (GLP). 
+------------------------------------------------------------------------------------
+原文: 2.5个月
+
+译文:  2.5 months. 
+------------------------------------------------------------------------------------
+原文: 检测方法：LC-MS/MS法（半定量）。
+
+译文:  Detection method: LC-MS/MS method (semi-quantitative). 
+------------------------------------------------------------------------------------
+原文: 基本试验内容
+
+译文:  Basic test content. 
+------------------------------------------------------------------------------------
+原文: 仅检测生物基质中的原形药物，不含代谢产物；若需，则费用另计。
+
+译文:  Only testing the parent drug in biological substrate, excluding metabolites; if metabolites are needed, additional fees will apply. 
+------------------------------------------------------------------------------------
+原文: 2-3个月
+
+译文:  2-3 months. 
+------------------------------------------------------------------------------------
+原文: 一、安全性评价试验
+
+译文:  I. Safety evaluation tests. 
+------------------------------------------------------------------------------------
+原文: SEND格式转换
+
+译文:  SEND format conversion. 
+------------------------------------------------------------------------------------
+原文: 单独出具TK检测方法学验证报告。
+
+译文:  Provide separate TK detection method validation report. 
+------------------------------------------------------------------------------------
+原文: 毒性病理专家对大鼠和beagle犬的重复给药毒性试验进行毒性病理的同行评议（ACVP或日本兽医病理学家）。
+
+译文:  Toxicopathology experts conducting peer review of repeated dose toxicity tests in rats and beagle dogs (ACVP or Japanese veterinary pathologists). 
+------------------------------------------------------------------------------------
+原文: 江苏省昆山市高新区元丰路166号 215300
+
+译文:  No. 166 Yuanfeng Road, High-tech Zone, Kunshan City, Jiangsu Province 215300. 
+------------------------------------------------------------------------------------
+原文: 恢复期结束：每组剖检4只，雌、雄各半。给药期结束后恢复4周。
+
+译文:  End of recovery period: 4 necropsies per group, evenly split between males and females. Recovery for 4 weeks after the treatment period ends. 
+------------------------------------------------------------------------------------
+原文: 生理指标检测：（1）体重、（2）直肠温度。
+
+译文:  Physiological indicator testing: (1) Body weight, (2) Rectal temperature. 
+------------------------------------------------------------------------------------
+原文: 目的：鉴定候选药物体内主要代谢产物，初步推断和鉴定代谢产物结构。
+
+译文:  Objective: To identify the main metabolites of the candidate drug in vivo and make preliminary inferences and identifications of metabolite structures. 
+------------------------------------------------------------------------------------
+原文: 试验设计：6只犬，雌雄各半，灌胃给药，拟每天给药1次，连续7次，1组。
+
+译文:  Experimental design: 6 dogs, evenly split between males and females, oral administration, intended to administer once daily for 7 consecutive times, 1 group. 
+------------------------------------------------------------------------------------
+原文: 正式试验给药前需预留1个月进行方法学验证研究。
+
+译文:  A month's advance reservation is needed for method validation studies before formal trial administration. 
+------------------------------------------------------------------------------------
+原文: 5-6个月
+
+译文:  5-6 months. 
+------------------------------------------------------------------------------------
+原文: 体外染色体畸变试验：CHL细胞，分加与不加S9两种情况，每条件至少3个可分析浓度；设对照（阴性/赋形剂/阳性），每条件2重复。先进行预实验，正式试验至少重复一次。
+
+译文:  In vitro chromosome aberration test: CHL cells, with and without S9, with at least 3 analyzable concentrations for each condition; set up controls (negative/excipients/positive), 2 repetitions for each condition. First conduct a preliminary experiment, then repeat the formal test at least once. 
+------------------------------------------------------------------------------------
+原文: 检测方法： LC-TOF-MS 法（定性）。
+
+译文:  Detection method: LC-TOF-MS method (qualitative). 
+------------------------------------------------------------------------------------
+原文: 1、毒理部分遵循NMPA、FDA、OECD的GLP法规和相关技术指导原则；
+
+译文:  1. The toxicology section follows the GLP regulations and relevant technical guidance principles of NMPA, FDA, and OECD. 
+------------------------------------------------------------------------------------
+原文: 给药期结束：每组剖检6只，雌、雄各半。
+
+译文:  End of treatment period: 6 necropsies per group, evenly split between males and females. 
+------------------------------------------------------------------------------------
+原文: 目的：测试候选药物在血浆中的血浆蛋白结合。
+
+译文:  Objective: To test the plasma protein binding of the candidate drug.
+------------------------------------------------------------------------------------
+原文: 检测指标：临床观察、体重、摄食量等；观察期结束存活动物进行临床病理检测（血液学+血凝+生化），大体解剖、脏器称重（若有异常则记录并进行病理学检查）。
+
+译文: Detection indicators: Clinical observation, body weight, food intake, etc.; at the end of the observation period, live animals will undergo clinical pathological tests (hematology + coagulation + biochemistry), gross necropsy, organ weighing (any abnormalities will be recorded and pathological examinations conducted). 
+------------------------------------------------------------------------------------
+原文: 采用重组酶和化学抑制法（CYP1A2、2B6、2C8、2C9、2C19、2D6、3A4  和  3A5）鉴定主要代谢途径酶表型。
+
+译文:  The main metabolic pathway enzyme phenotype will be identified using recombinant enzyme and chemical inhibition methods (CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 3A4, and 3A5). 
+------------------------------------------------------------------------------------
+原文: 6、此为初步方案，最终以委托方签字的研究方案为准。
+
+译文:  6. This is a preliminary plan, and the final approval will depend on the signed research protocol by the client. 
+------------------------------------------------------------------------------------
+原文: 检测指标：
+
+译文:  Detection indicators: 
+------------------------------------------------------------------------------------
+原文: TK试验设计:　设卫星组，SD大鼠32只，分4组： 3剂量组+1对照组，8只/组，雌、雄各半。拟每天给药1次，连续给药4周。
+
+译文:  TK trial design: A satellite group with 32 SD rats, divided into 4 groups: 3 dose groups + 1 control group, 8 per group, half male and half female. It is planned to administer once daily for 4 weeks. 
+------------------------------------------------------------------------------------
+原文: 阳性对照：（小鼠：普鲁卡因；大鼠：笨氟雷司；犬：比沙可啶；猴：普鲁卡因；人：普鲁卡因）浓度为2uM。
+
+译文:  Positive control: (mouse: Procaine; rat: Benzylpiperazine; dog: Bisoprolol; monkey: Procaine; human: Procaine) concentration at 2uM. 
+------------------------------------------------------------------------------------
+原文: 体外hEGR试验（GLP）
+
+译文:  In vitro hEGR test (GLP) 
+------------------------------------------------------------------------------------
+原文: 项目
+
+译文:  Project 
+------------------------------------------------------------------------------------
+原文: 大鼠排泄和代谢试验
+
+译文:  Rat excretion and metabolism trial 
+------------------------------------------------------------------------------------
+原文: （万元）
+
+译文:  (ten thousand yuan) 
+------------------------------------------------------------------------------------
+原文: 出具英文方案和报告
+
+译文:  Provide an English proposal and report 
+------------------------------------------------------------------------------------
+原文: 2、beagle犬单次给药毒性试验；
+
+译文:  2. Beagle dog single-dose toxicity test; 
+------------------------------------------------------------------------------------
+原文: 1、大鼠单次给药毒性试验；
+
+译文:  1. Rat single-dose toxicity test; 
+------------------------------------------------------------------------------------
+原文: 电话/Tel：
+
+译文:  Phone/Tel: 
+------------------------------------------------------------------------------------
+原文: 1-2个月
+
+译文:  1-2 months 
+------------------------------------------------------------------------------------
+原文: 采集生物分析空白基质（10只大鼠组织+20 ml空白血浆）。
+
+译文:  Collect biological analysis blank matrix (10 rat tissues + 20 ml blank plasma). 
+------------------------------------------------------------------------------------
+原文: 体内代谢产物鉴定
+
+译文:  In vivo metabolite identification 
+------------------------------------------------------------------------------------
+原文: 给药制剂分析（GLP）
+
+译文:  Drug formulation analysis (GLP) 
+------------------------------------------------------------------------------------
+原文: 转运体转运作用
+
+译文:  Transporter transport action 
+------------------------------------------------------------------------------------
+原文: 检测指标：临床观察、体重、摄食量；眼科检查（给药期结束和恢复期结束待解剖动物进行检查）；临床病理（血常规、血凝4项、血生化、尿常规；对给药期结束和恢复期结束剖检的动物进行检测）；给药期结束和恢复期结束全套解剖（主要脏器/组织称重，含骨髓涂片），按指导原则要求进行组织病理学检查。外周血异常时进行骨髓细胞学检查。
+
+译文:  Detection indicators: Clinical observation, body weight, food intake; ophthalmic examination (to be conducted after the end of the dosing period and the end of the recovery period before necropsy); clinical pathology (blood routine, coagulation 4 items, blood biochemistry, urine routine; tests on animals after the end of dosing and recovery periods); full necropsy at the end of the dosing and recovery periods (major organ/tissue weighing, including bone marrow smear), conducting histopathological examination according to guiding principles. Bone marrow cytology examination will be conducted when peripheral blood abnormalities occur. 
+------------------------------------------------------------------------------------
+原文: 生物分析方法开发和验证
+
+译文:  Biological analysis method development and validation 
+------------------------------------------------------------------------------------
+原文: 血浆稳定性
+
+译文:  Plasma stability 
+------------------------------------------------------------------------------------
+原文: 周期
+
+译文:  Cycle 
+------------------------------------------------------------------------------------
+原文: 5、SD大鼠重复给药4周毒性试验；
+
+译文:  5. SD rat repeated dosing for 4 weeks toxicity trial; 
+------------------------------------------------------------------------------------
+原文: 备注：
+
+译文:  Remarks: 
+------------------------------------------------------------------------------------
+原文: 大鼠、犬TK分析方法验证和指标检测
+
+译文:  Rat and dog TK analysis method validation and index detection 
+------------------------------------------------------------------------------------
+原文: Caco-2细胞渗透性试验
+
+译文:  Caco-2 cell permeability test 
+------------------------------------------------------------------------------------
+原文: 序号
+
+译文:  Serial number 
+------------------------------------------------------------------------------------
+原文: 5、除了项目中已说明的需委托方提供的试剂盒等外，其余均试剂盒等的购买费用均已包含在报价中；如果需要委托方提供的试剂盒，可以由甲方购买，根据实际情况乙方补充协议支付款项；
+
+译文:  5. Except for the kits and other materials that need to be provided by the client as stated in the project, the costs for the remaining kits and other materials have been included in the quotation; if kits provided by the client are required, they can be purchased by Party A, and Party B will supplement the agreement to pay according to the actual situation; 
+------------------------------------------------------------------------------------
+原文: 试验设计：比格犬（naive）8只，分4组：1溶媒对照组+3个剂量供试品组，每组2只，雌雄各半。单次给药后观察14天。
+
+译文:  Trial design: Beagle dogs (naive) 8, divided into 4 groups: 1 solvent control group + 3 dose test substance groups, 2 in each group, half male and half female. Observation after a single dose for 14 days. 
+------------------------------------------------------------------------------------
+原文: 试验设计:　 Beagle犬40只，4组：1溶媒对照组+3个剂量供试品组，10只/组，雌雄各半。拟每天给药1次，连续给药4周。
+
+译文:  Trial design: 40 Beagle dogs, 4 groups: 1 solvent control group + 3 dose test substance groups, 10 per group, half male and half female. It is planned to administer once daily for 4 weeks. 
+------------------------------------------------------------------------------------
+原文: 3、beagle犬安全药理试验；
+
+译文:  3. Beagle dog safety pharmacology test; 
+------------------------------------------------------------------------------------
+原文: 如增加额外观察或检测指标，需另外计费。
+
+译文:  Any additional observations or detection indicators will be charged separately. 
+------------------------------------------------------------------------------------
+原文: 同行评议
+
+译文:  Peer review 
+------------------------------------------------------------------------------------
+原文: 苏州华测生物技术有限公司
+
+译文:  CTI Biotechnology (Suzhou) Co., Ltd 
+------------------------------------------------------------------------------------
+原文: SD大鼠重复给药4周毒性试验（GLP）
+
+译文:  SD rat repeated dosing for 4 weeks toxicity trial (GLP) 
+------------------------------------------------------------------------------------
+原文: 大鼠、犬两个种属的TK分析方法完全验证及血样稳定性考察；
+
+译文:  Full validation of TK analysis methods for both rat and dog species and examination of blood sample stability; 
+------------------------------------------------------------------------------------
+原文: 比格犬单次给药毒性试验（GLP）
+
+译文:  Beagle dog single-dose toxicity test (GLP) 
+------------------------------------------------------------------------------------
+原文: 进行制剂分析方法验证和稳定性、均一性考察。
+
+译文:  Conduct formulation analysis method validation and stability, homogeneity examination. 
+------------------------------------------------------------------------------------
+原文: 检测方法：LC-MS/MS 法。
+
+译文:  Detection method: LC-MS/MS method. 
+------------------------------------------------------------------------------------
+原文: SD大鼠单次给药毒性试验（GLP）
+
+译文:  SD rat single-dose toxicity test (GLP) 
+------------------------------------------------------------------------------------
+原文: 试验设计：6只大鼠， 单次灌胃给药。
+
+译文:  Trial design: 6 rats, single oral dose. 
+------------------------------------------------------------------------------------
+原文: 由委托方转移分析方法。
+
+译文:  Analysis methods transferred from the client. 
+------------------------------------------------------------------------------------
+原文: 肝微粒体代谢种属差异
+
+译文:  Liver microsome metabolic species difference 
+------------------------------------------------------------------------------------
+原文: 检测指标：胆汁药物浓度（1个原型或代谢物）。
+
+译文:  Detection indicators: Bile drug concentration (1 prototype or metabolite). 
+------------------------------------------------------------------------------------
+原文: 种属：人、猴、犬、大鼠，小鼠等；
+
+译文:  Species: human, monkey, dog, rat, mouse, etc.; 
+------------------------------------------------------------------------------------
+原文: 客户单位/Client：
+
+译文:  Client unit/Client: 
+------------------------------------------------------------------------------------
+原文: 6、Beagle犬重复给药4周毒性试验。
+
+译文:  6. Beagle dog repeated dosing for 4 weeks toxicity test. 
+------------------------------------------------------------------------------------
+原文: TK组：设卫星组，每组4只，雌雄各半。首次和末次给药后，每次6个采血点，对照组每次2个点。
+
+译文:  TK group: Set up a satellite group, 4 in each group, half male and half female. Blood samples will be collected at 6 times after the first and last dosing, with 2 points for the control group each time. 
+------------------------------------------------------------------------------------
+原文: 试验设计：SD大鼠40只，分4组：1溶媒对照组+3个剂量供试品组，10只/组，雌雄各半。单次给药，观察4个时间点：（1）给药前；（2）给药后包括Tmax在内2个点；（3）给药后≥5个T1/2的1个点。
+
+译文:  Trial design: 40 SD rats, divided into 4 groups: 1 solvent control group + 3 dose test substance groups, 10 per group, half male and half female. Single dose, observations at 4 time points: (1) before dosing; (2) two points after dosing including Tmax; (3) one point after dosing ≥5 times T1/2. 
+------------------------------------------------------------------------------------
+原文: 检测指标：血药浓度、尿液浓度（1个原型或代谢物）。
+
+译文:  Detection indicators: blood drug concentration, urine concentration (1 prototype or metabolite). 
+------------------------------------------------------------------------------------
+原文: 检测方法：LC-MS/MS检测代谢产物。
+
+译文:  Detection method: LC-MS/MS to detect metabolites. 
+------------------------------------------------------------------------------------
+原文: 采样：每只拟采集8个尿液样品+8个粪便样品，共计96个样品。
+
+译文:  Sampling: A total of 96 samples will be collected (8 urine samples + 8 fecal samples per rat). 
+------------------------------------------------------------------------------------
+原文: 7、用于PK及TK等生物检测样品保留至检测结束后6个月（免费），如需继续保存，需签订补充协议；如需冷链寄送，委托方承担。
+
+译文:  7. Biological testing samples for PK and TK will be retained for 6 months after testing ends (free of charge). If longer storage is needed, a supplementary agreement must be signed; if cold chain shipping is required, the client will bear the cost. 
+------------------------------------------------------------------------------------
+原文: 检测指标：组织药物浓度、血浆浓度（1个原型或代谢物）。
+
+译文:  Detection indicators: tissue drug concentration, plasma concentration (1 prototype or metabolite). 
+------------------------------------------------------------------------------------
+原文: 体内微核试验：50只小鼠（或大鼠），分5组：1对照+3供试品组+1阳性，每组10只，雌雄各半；每天给药1次，给药1-3次，末次给药后24h采集样本并固定，进行镜检分析。
+
+译文:  In vivo micronucleus test: 50 mice (or rats), divided into 5 groups: 1 control + 3 test substance groups + 1 positive, 10 in each group, half male and half female; daily dosing once, dosed 1-3 times, collect and fix samples 24h after the last dose for microscopic analysis. 
+------------------------------------------------------------------------------------
+原文: Beagle犬重复给药4周毒性试验（GLP）
+
+译文:  Beagle dog repeated dosing for 4 weeks toxicity test (GLP) 
+------------------------------------------------------------------------------------
+原文: 试验设计：24只犬，雌雄各半， 单次给药，4组（3个灌胃给药+静脉注射）。
+
+译文:  Trial design: 24 dogs, half male and half female, single dose, 4 groups (3 oral dosing + intravenous injection). 
+------------------------------------------------------------------------------------
+原文: 检测方法： LC-TOF-MS 法。
+
+译文:  Detection method: LC-TOF-MS method. 
+------------------------------------------------------------------------------------
+原文: 试验设计：小鼠、大鼠、犬、猴、人血浆蛋白结合，各三个浓度水平，每一水平至少3个样本。非放射性方法。
+
+译文:  Trial design: Blood plasma protein binding of mice, rats, dogs, monkeys, and humans, three concentration levels each, and at least 3 samples for each level. Non-radioactive method. 
+------------------------------------------------------------------------------------
+原文: 种属：人，犬，大鼠，小鼠，猴血浆。
+
+译文:  Species: human, dog, rat, mouse, monkey plasma. 
+------------------------------------------------------------------------------------
+原文: 3、供试品制剂分析由委托方提供；制剂分析报价仅限于一个供试品制剂分析方法的转移和验证；
+
+译文:  3. Test substance formulation analysis provided by the client; formulation analysis quotation is limited to the transfer and validation of one test substance formulation analysis method; 
+------------------------------------------------------------------------------------
+原文: 四、非试验部分
+
+译文:  4. Non-trial part 
+------------------------------------------------------------------------------------
+原文: 试验设计：大鼠10只，单次单剂量灌胃给药。
+
+译文:  Trial design: 10 rats, single oral dosing of a single dose. 
+------------------------------------------------------------------------------------
+原文: Ames试验：菌株5种，分加与不加S9两种情况，标准平板参入法：至少5个分析浓度，设对照（阴性/赋形剂/阳性）。先进行预实验，正式试验至少重复一次。
+
+译文:  Ames test: 5 strains, both with and without S9, standard plate incorporation method: at least 5 analysis concentrations with controls (negative/excipient/positive). A pre-experiment will be conducted, and the formal trial will be repeated at least once. 
+------------------------------------------------------------------------------------
+原文: 2个月
+
+译文:  2 months 
+------------------------------------------------------------------------------------
+原文: 供试品5个浓度组，3细胞/组。含预实验。
+
+译文:  Test substance in 5 concentration groups, 3 cells/group. Including pre-experiment. 
+------------------------------------------------------------------------------------
+原文: 大鼠呼吸系统影响试验（GLP）
+
+译文:  Rat respiratory system impact test (GLP) 
+------------------------------------------------------------------------------------
+原文: 试验设计：24只大鼠，雌雄各半， 单次给药，4组（3个灌胃给药组+静脉注射）。
+
+译文:  Trial design: 24 SD rats, half male and half female, single dose, 4 groups (3 oral dosing groups + intravenous injection). 
+------------------------------------------------------------------------------------
+原文: 试验设计：大鼠6只，单次单剂量灌胃给药，雌雄各半。
+
+译文:  Trial design: 6 rats, single oral dose with equal male and female distribution. 
+------------------------------------------------------------------------------------
+原文: 验证一个待测物在五种基质（大鼠血浆、大鼠尿液、粪便、胆汁和犬血浆） 的生物分析方法。
+
+译文:  Validation of one analyte's biological analysis method in five matrices (rat plasma, rat urine, feces, bile, and dog plasma). 
+------------------------------------------------------------------------------------
+原文: 检测指标：临床观察、体重、摄食量；眼科检查（给药前、给药期结束和恢复期结束各1次）；健康体检（呼吸、体温、心电等；适应期2次，给药期结束和恢复期结束各1次）；临床病理（血常规、血凝4项、血生化、尿常规；适应期2次，给药期结束和恢复期结束各1次）；给药期结束和恢复期结束进行解剖（主要脏器/组织称重，含骨髓涂片）进行组织病理学检查和骨髓细胞检查。
+
+译文:  Detection indicators: Clinical observation, body weight, food intake; ophthalmic examination (once before dosing, once at the end of the dosing period, and once at the end of the recovery period); health check (respiration, temperature, ECG, etc.; twice during the adaptation period, once at the end of the dosing period, and once at the end of the recovery period); clinical pathology (blood count, coagulation 4 items, blood biochemistry, urine routine; twice during the adaptation period, once at the end of the dosing period, and once at the end of the recovery period); necropsy at the end of the dosing and recovery periods (major organ/tissue weighing, including bone marrow smear) for histopathological examination and bone marrow cell examination. 
+------------------------------------------------------------------------------------
+原文: 1.5个月
+
+译文:  1.5 months 
+------------------------------------------------------------------------------------
+原文: 比格犬14天剂量探索性试验（非GLP）
+
+译文:  Beagle dog 14-day dose exploratory trial (non-GLP) 
+------------------------------------------------------------------------------------
+原文: 检测方法： LC-MS/MS法（半定量）；
+
+译文:  Detection method: LC-MS/MS method (semi-quantitative); 
+------------------------------------------------------------------------------------
+原文: 试验
+
+译文:  Trial 
+------------------------------------------------------------------------------------
+原文: 优惠价格：人民币              万元整（含6%增值税）
+
+译文:  Discount price: RMB ten thousand (including 6% VAT) 
+------------------------------------------------------------------------------------
+原文: 血浆蛋白结合率测定
+
+译文:  Plasma protein binding rate determination 
+------------------------------------------------------------------------------------
+原文: 报价有效期：一个月，报价日期：2024-08-15。
+
+译文:  Quotation validity period: one month, quotation date: 2024-08-15. 
+------------------------------------------------------------------------------------
+原文: 4、大鼠呼吸系统影响试验
+
+译文:  4. Rat respiratory system impact test 
+------------------------------------------------------------------------------------
+原文: 英文方案报告翻译
+
+译文:  English proposal report translation 
+------------------------------------------------------------------------------------
+原文: SD大鼠14天剂量探索性试验（非GLP）
+
+译文:  SD rat 14-day dose exploratory trial (non-GLP)
+------------------------------------------------------------------------------------
+原文: 检测指标：临床观察、体重、摄食量；健康体检（心电、体温等：给药前1次，给药后视情况而定，至少d2、d14各测 1次）；临床病理（血常规、血凝4项、血生化、尿液：适应期2次，给药后d2、d14各测 1次）；眼科检查（给药前，d14各1次）；d14大体解剖（若有异常则记录并对肉眼所见异常组织进行病理组织学检查），进行骨髓细胞学检查。
+
+译文: Testing Indicators: Clinical observation, body weight, food intake; health check (ECG, body temperature, etc.: once before administration, after administration depending on conditions, at least once on d2 and d14); clinical pathology (blood routine, coagulation 4 items, blood biochemistry, urine: twice during adaptation period, once on d2 and d14 after administration); ophthalmic examination (once before administration and once on d14); gross anatomy on d14 (record any abnormalities and conduct pathological histological examination on any visibly abnormal tissue), perform bone marrow cytological examination. 
+------------------------------------------------------------------------------------
+原文: 采血：每只动物采血8-10次。
+
+译文:  Blood collection: collect blood 8-10 times from each animal. 
+------------------------------------------------------------------------------------
+原文: （外包）2-3个月
+
+译文:  (Outsourcing) 2-3 months 
+------------------------------------------------------------------------------------
+原文: 具体需由实际情况而定，若毒性反应较大，则测LD50，若毒性不大，则进行MTD试验。
+
+译文:  Specific duration to be determined by actual conditions, if there are significant toxic reactions, LD50 will be measured, if not significant, then MTD test will be conducted. 
+------------------------------------------------------------------------------------
+原文: 6个月
+
+译文:  6 months 
+------------------------------------------------------------------------------------
+原文: 啮齿类（大鼠）吸收预试验
+
+译文:  Rodents (rats) absorption pre-test 
+------------------------------------------------------------------------------------
+原文: 非啮齿类（犬）吸收预试验
+
+译文:  Non-rodents (dogs) absorption pre-test 
+------------------------------------------------------------------------------------
+原文: 由客户提供初步的制剂分析方法；
+
+译文:  Preliminary formulation analysis method to be provided by the client; 
+------------------------------------------------------------------------------------
+原文: 电话：+86 512-36801688
+
+译文:  Phone: +86 512-36801688 
+------------------------------------------------------------------------------------
+原文: 报价单位：苏州华测生物技术有限公司
+
+译文:  Quoting unit: CTI Biotechnology (Suzhou) Co., Ltd 
+------------------------------------------------------------------------------------
+原文: 二、体内药代试验
+
+译文:  2. In vivo pharmacokinetic testing 
+------------------------------------------------------------------------------------
+原文: 检测指标：尿液药品浓度、粪便药品浓度（1个原型或代谢物）。
+
+译文:  Testing indicators: urine drug concentration, feces drug concentration (1 prototype or metabolite). 
+------------------------------------------------------------------------------------
+原文: 联系人/Contactor：
+
+译文:  Contact person/Contactor: 
+------------------------------------------------------------------------------------
+原文: 比格犬安全药理试验（遥测）（GLP）
+
+译文:  Beagle dog safety pharmacology test (telemetry) (GLP) 
+------------------------------------------------------------------------------------
+原文: 采血：给药后每只动物首次和末次采血8-10次，第4、5、6次给药后采血1次。
+
+译文:  Blood collection: collect blood 8-10 times for each animal after administration, once after the 4th, 5th, and 6th administration. 
+------------------------------------------------------------------------------------
+原文: 实验组设计：空白组+阴性对照+阳性对照组+供试品组；3个平行；
+
+译文:  Experimental group design: blank group + negative control + positive control group + test substance group; 3 parallels; 
+------------------------------------------------------------------------------------
+原文: 测试候选药物对肝脏药物代谢酶CYP450诱导作用的体外研究（mRNA表达量，三个单供体的人原代肝细胞，6个浓度）；
+
+译文:  In vitro study of candidate drugs on the induction of liver drug metabolism enzyme CYP450 (mRNA expression level, three single donor human primary hepatocytes, 6 concentrations); 
+------------------------------------------------------------------------------------
+原文: 采血：采血8-10次（6只），尿液收集8次（3只）共计60个血浆样品+24个尿液样品。
+
+译文:  Blood collection: collect blood 8-10 times (6 animals), urine collection 8 times (3 animals) totaling 60 plasma samples + 24 urine samples. 
+------------------------------------------------------------------------------------
+原文: 价格
+
+译文:  Price 
+------------------------------------------------------------------------------------
+原文: 试验设计：比格犬8只，分4组：1个溶媒对照组+3个剂量供试品组，每组2只，雌雄各半。拟每天给药1次，连续给药2周。不设恢复期。
+
+译文:  Experimental design: 8 beagle dogs, divided into 4 groups: 1 solvent control group + 3 dosage test substance groups, 2 dogs per group, half male and half female. Dosing is planned once daily for 2 consecutive weeks. No recovery period set. 
+------------------------------------------------------------------------------------
+原文: TK组：首次和末次给药后采血，每次6个采血点。
+
+译文:  TK group: blood collection after first and last administration, with 6 blood sampling points each time. 
+------------------------------------------------------------------------------------
+原文: 4、试验动物的合格供应商（已考核）： 大鼠、豚鼠：维通利华；犬：北京玛斯等；
+
+译文:  4. Qualified suppliers of experimental animals (assessed): Rats, guinea pigs: VitroLife; dogs: Beijing Mars, etc.; 
+------------------------------------------------------------------------------------
+原文: 检测方法：LC-MS/MS法（定量或半定量）。
+
+译文:  Testing method: LC-MS/MS method (quantitative or semi-quantitative). 
+------------------------------------------------------------------------------------
+原文: 大鼠组织分布试验
+
+译文:  Rat tissue distribution test 
+------------------------------------------------------------------------------------
+原文: 数据转换内容包含：
+
+译文:  Data conversion content includes:
+------------------------------------------------------------------------------------

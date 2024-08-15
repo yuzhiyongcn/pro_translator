@@ -1,0 +1,684 @@
+原文: 
+
+译文: 
+------------------------------------------------------------------------------------
+原文: AnaSpec, Fremont, CA), mouse monoclonal Zpr-3 and Zpr-1 antibodies (1:200, Zebrafish International Resource Center, Eugene, OR), rabbit polyclonal anti-blue opsin (1:500, (Vihtelic et al., 1999)) and rabbit polyclonal anti-UV opsin (1:1000, (Vihtelic et al., 1999)).
+
+译文: AnaSpec, Fremont, CA), mouse monoclonal Zpr-3 and Zpr-1 antibodies (1:200, Zebrafish International Resource Center, Eugene, OR), rabbit polyclonal anti-blue opsin (1:500, (Vihtelic et al., 1999)) and rabbit polyclonal anti-UV opsin (1:1000, (Vihtelic et al., 1999)).
+------------------------------------------------------------------------------------
+原文: The regeneration response of the retina correlates with the extent of photoreceptordamage
+
+译文: The regeneration response of the retina correlates with the extent of photoreceptordamage
+------------------------------------------------------------------------------------
+原文: Recent advancements allow for the expression of a specific gene of interest to be knocked down during retinal regeneration (Fausett et al., 2008; Thummel et al., 2008b). This has revealed a small number of genes that are required for Müller glial cell proliferation and the subsequent amplification of Müller glia-derived retinal progenitors (Fausett et al., 2008; Ramachandran et al., 2010; Ramachandran et al., 2011; Thummel et al., 2010; Thummel et al., 2008a). It is possible that the genetic pathways that underlie these early steps of Müller glial cell activation and proliferation are conserved regardless of which retinal cell type is damaged. However, the later stages of progenitor cell migration and differentiation are inherently dependent on what cell type is being regenerated. For example, determining whether a particular gene of interest is required for rod vs. cone cell regeneration has proven difficult when using the constant bright light paradigm, because this model damages significantly more rods than cones (Qin et al., 2011; Thummel et al., 2010). Given the complex cellular events observed in regenerating specific retinal neurons, including proliferation, migration and differentiation, it is likely that different genetic pathways are required for the selective regeneration of rod and cone photoreceptors (Morris et al., 2011; Morris et al., 2008; Morris et al., 2005; Qin et al., 2011; Thummel et al., 2010). Thus, there is a need to establish a LIRD paradigm that achieves consistent damage to both rod and cone photoreceptors and widespread photoreceptor damage throughout the retina. Minimally, if data from these different LIRD paradigms can be interpreted, a clear analysis of the regional differences in photoreceptor loss that are observed in each of these models must be performed.
+
+译文: Recent advancements allow for the expression of a specific gene of interest to be knocked down during retinal regeneration (Fausett et al., 2008; Thummel et al., 2008b). This has revealed a small number of genes that are required for Müller glial cell proliferation and the subsequent amplification of Müller glia-derived retinal progenitors (Fausett et al., 2008; Ramachandran et al., 2010; Ramachandran et al., 2011; Thummel et al., 2010; Thummel et al., 2008a). It is possible that the genetic pathways that underlie these early steps of Müller glial cell activation and proliferation are conserved regardless of which retinal cell type is damaged. However, the later stages of progenitor cell migration and differentiation are inherently dependent on what cell type is being regenerated. For example, determining whether a particular gene of interest is required for rod vs. cone cell regeneration has proven difficult when using the constant bright light paradigm, because this model damages significantly more rods than cones (Qin et al., 2011; Thummel et al., 2010). Given the complex cellular events observed in regenerating specific retinal neurons, including proliferation, migration and differentiation, it is likely that different genetic pathways are required for the selective regeneration of rod and cone photoreceptors (Morris et al., 2011; Morris et al., 2008; Morris et al., 2005; Qin et al., 2011; Thummel et al., 2010). Thus, there is a need to establish a LIRD paradigm that achieves consistent damage to both rod and cone photoreceptors and widespread photoreceptor damage throughout the retina. Minimally, if data from these different LIRD paradigms can be interpreted, a clear analysis of the regional differences in photoreceptor loss that are observed in each of these models must be performed.
+------------------------------------------------------------------------------------
+原文: To quantify the regeneration response at 48 hours after light onset, analysis of band intensity on immunoblots was performed from protein collected from 48 hLt, 48 hpUV, and UV+48 hLt retinas. Protein from 48 hour post fertilization (hpf) embryos and untreated retinas (0 hr) were used for controls. Significant reduction in Zpr-1 expression was observed between the 0 hour and 48 hour timepoints under all three light treatments (Fig. 5A and B, Table 3), representing the loss of double cone photoreceptors. These data are consistent with Zpr-1 immunolocalization on light-treated retinas, in which UV+48 hLt retinas exhibited the fewest numbers of double cone photoreceptors of all three light treatments (Fig. 2Y and Z, Table 2). Immunoblot analysis also revealed significant differences in cell cycle markers between the various light treatments (Fig. 5A, Table 3). PCNA expression levels significantly increased from 0 hr→48 hLt→48 hpUV→UV+48 hLt (Fig. 5A and B, Table 3), which is consistent with PCNA immunolocalization in these retinas (Fig. 4). Expression of Cyclin H and two Cyclin-dependent kinases, Cdk-1 and Cdk-2, were also analyzed. Cyclin H binds Cdk-7 to form a Cdk-Activating Kinase (CAK) (Fesquet et al., 1993). CAK regulates cell cycle progression by phosphorylating, and thus activating, certain cyclindependent protein kinases, including Cdk-1 and Cdk-2 (Devault et al., 1992; Fesquet et al., 1993; Gu et al., 1992). Each light treatment resulted in increased Cyclin H expression (Fig. 5A, Table 3). Two bands were observed for Cdk-1 and Cdk-2, representing different states of phosphorylation for each protein (Jamil et al., 2005; Watanabe et al., 1999).
+
+译文: To quantify the regeneration response at 48 hours after light onset, analysis of band intensity on immunoblots was performed from protein collected from 48 hLt, 48 hpUV, and UV+48 hLt retinas. Protein from 48 hour post fertilization (hpf) embryos and untreated retinas (0 hr) were used for controls. Significant reduction in Zpr-1 expression was observed between the 0 hour and 48 hour timepoints under all three light treatments (Fig. 5A and B, Table 3), representing the loss of double cone photoreceptors. These data are consistent with Zpr-1 immunolocalization on light-treated retinas, in which UV+48 hLt retinas exhibited the fewest numbers of double cone photoreceptors of all three light treatments (Fig. 2Y and Z, Table 2). Immunoblot analysis also revealed significant differences in cell cycle markers between the various light treatments (Fig. 5A, Table 3). PCNA expression levels significantly increased from 0 hr→48 hLt→48 hpUV→UV+48 hLt (Fig. 5A and B, Table 3), which is consistent with PCNA immunolocalization in these retinas (Fig. 4). Expression of Cyclin H and two Cyclin-dependent kinases, Cdk-1 and Cdk-2, were also analyzed. Cyclin H binds Cdk-7 to form a Cdk-Activating Kinase (CAK) (Fesquet et al., 1993). CAK regulates cell cycle progression by phosphorylating, and thus activating, certain cyclindependent protein kinases, including Cdk-1 and Cdk-2 (Devault et al., 1992; Fesquet et al., 1993; Gu et al., 1992). Each light treatment resulted in increased Cyclin H expression (Fig. 5A, Table 3). Two bands were observed for Cdk-1 and Cdk-2, representing different states of phosphorylation for each protein (Jamil et al., 2005; Watanabe et al., 1999).
+------------------------------------------------------------------------------------
+原文: Quantification of EGFP-positive rod photoreceptor somas in the ONL confirmed the results obtained by immunohistochemical analysis. Compared with untreated retinas, 48 hours of constant bright light (48 hLt) resulted in a significant reduction (48.5%) of rod photoreceptor somas in the dorsal half of the retina (Table 1, p<0.001), but not the ventral half of the retina (Table 1, p=0.05). Compared with 48 hLt retinas, 48 hpUV retinas showed significantly fewer rod photoreceptor somas in the dorsal half of the retina (Table 1, p<0.001), but not the ventral half of the retina (Table 1, p=0.085). Finally, compared with 48 hpUV retinas, UV+48 hLt retinas showed a similar amount of rod photoreceptor loss in the dorsal half of the retina (Table 1, p=0.14), but significantly more loss in the ventral half of the retina (Table 1, p<0.001).
+
+译文: EGFP阳性杆状感光细胞体在外网膜中的定量确认了免疫组化分析得到的结果。与未处理的视网膜相比，48小时持续强光照射（48 hLt）导致视网膜背部的杆状感光细胞体显著减少（48.5%）（表1，p<0.001），但在腹部视网膜中无显著变化（表1，p=0.05）。与48 hLt视网膜相比，48 hpUV视网膜在视网膜背部显示出显著更少的杆状感光细胞体（表1，p<0.001），但在腹部视网膜中无显著变化（表1，p=0.085）。最后，与48 hpUV视网膜相比，UV+48 hLt视网膜在背部视网膜中的杆状感光细胞丧失量相似（表1，p=0.14），但在腹部视网膜中丧失量显著增多（表1，p<0.001）。
+------------------------------------------------------------------------------------
+原文: Characterization of Multiple Light Damage Paradigms Reveals Regional Differences in Photoreceptor Loss
+
+译文: 多重光损伤模式的表征揭示了感光细胞丧失的区域差异
+------------------------------------------------------------------------------------
+原文: Figure 8. Confocal microscopy of rod inner segments in flatmounted retinas reveal anterior/ posterior differences in response to various light-damage paradigms
+
+译文: 图8. 平面涂抹视网膜中杆状内段的共聚焦显微镜观察显示对各种光损伤模式的前后响应差异
+------------------------------------------------------------------------------------
+原文: Müller glial cell proliferation correlates with the severity of photoreceptor loss
+
+译文: Müller胶质细胞增殖与感光细胞丧失的严重程度相关
+------------------------------------------------------------------------------------
+原文: Phosphorylation of Cdk-1 on Thr-160 by CAK and is necessary to activate the Cdk-1/Cyclin
+
+译文: Cdk-1在Thr-160位点的磷酸化由CAK催化，并且是激活Cdk-1/Cyclin所必需的
+------------------------------------------------------------------------------------
+原文: NIH Public Access
+
+译文: NIH公共访问
+------------------------------------------------------------------------------------
+原文: 2010; 12:1101–1107. [PubMed: 20935637]
+
+译文: 2010; 12:1101–1107. [PubMed: 20935637]
+------------------------------------------------------------------------------------
+原文: Figure 6. Anterior/Posterior differences in light-induced proliferation response
+
+译文: 图6. 光诱导增殖反应的前后差异
+------------------------------------------------------------------------------------
+原文: Funding sources: This work was funded by the Center for Zebrafish Research at the University of Notre Dame
+
+译文: 资金来源：本研究由圣母大学的斑马鱼研究中心资助
+------------------------------------------------------------------------------------
+原文: Qin Z, Kidd AR 3rd, Thomas JL, Poss KD, Hyde DR, Raymond PA, Thummel R. FGF signaling regulates rod photoreceptor cell maintenance and regeneration in zebrafish. Exp Eye Res. 2011; 93:726–734. [PubMed: 21945172]
+
+译文: Qin Z, Kidd AR 3rd, Thomas JL, Poss KD, Hyde DR, Raymond PA, Thummel R. FGF信号调节斑马鱼中的杆状感光细胞维持和再生。Exp Eye Res. 2011; 93:726–734. [PubMed: 21945172]
+------------------------------------------------------------------------------------
+原文: Untreated control and light-damaged fish were euthanized at 36 and 48 hours after light onset and whole eyes were harvested. The tissue was fixed in 9:1 ethanolic formaldehyde (100% ethanol: 37% formaldehyde) overnight at 4°C, followed by cryoprotective washes in 5% sucrose/1X PBS at room temperature and 30% sucrose/1X PBS overnight at 4°C. Tissue was then incubated in a solution (1:1 ratio) of 30% sucrose/1X PBS: Tissue Freezing Medium (TFM, Triangle Biomedical Sciences, Durham, NC) overnight at 4°C, embedded in TFM and frozen at −80°C. Eyes were cryosectioned at 16 microns, transferred onto glass slides, dried at 55°C for 2 hours, and stored at −80°C.
+
+译文: 未处理的对照组和光损伤鱼在光照开始后36小时和48小时被安乐死，整个眼睛被收集。组织在4°C下用9:1的乙醇福尔马林（100%乙醇: 37%福尔马林）固定过夜，随后在室温下用5%蔗糖/1X PBS清洗和在4°C下用30%蔗糖/1X PBS过夜清洗。然后将组织在30%蔗糖/1X PBS和组织冻存介质（TFM，Triangle Biomedical Sciences, Durham, NC）1:1的混合溶液中在4°C下孵育过夜，嵌入TFM并在−80°C下冷冻。眼睛在16微米处冷冻切片，转移到玻片上，在55°C下干燥2小时，并保存在−80°C。
+------------------------------------------------------------------------------------
+原文: Cdk-2 antisera (1:250, AnaSpec), or mouse monoclonal anti-β-actin antibody (1:20,000, Santa Cruz Biotechnology, Inc. Santa Cruz, CA). The blots were washed 3X for 15 minutes in 1X TTBS at room temperature, incubated with secondary antibody in blocking buffer for 1 hour at room temperature, then washed 3X for 15 minutes in 1X TTBS. Protein was detected with Western Lightning plus-ECL reagents (PerkinElmer, Inc). Experiments were performed in biological and technical triplicate and band density analyzed using AlphaVIEW SA software. Two bands were observed for Cdk-1 and Cdk-2, representing unphosphorylated (lower) and phosphorylated (upper) forms of each protein (Jamil et al., 2005; Watanabe et al., 1999). In each case, the lower band was used for band density analysis. Statistical analysis was performed using a student’s T-test with a significant p value of <0.05.
+
+译文: Cdk-2抗血清（1:250，AnaSpec），或小鼠单克隆抗β-肌动蛋白抗体（1:20,000，Santa Cruz Biotechnology, Inc. Santa Cruz, CA）。将印迹在室温下用1X TTBS清洗3次，每次15分钟，随后在阻断缓冲液中与二级抗体孵育1小时，然后再用1X TTBS清洗3次，每次15分钟。使用Western Lightning plus-ECL试剂（PerkinElmer, Inc）检测蛋白质。实验在生物学和技术重复中进行，带密度分析使用AlphaVIEW SA软件。观察到Cdk-1和Cdk-2两个带，分别代表未磷酸化（下）和磷酸化（上）的蛋白质形式（Jamil et al., 2005; Watanabe et al., 1999）。在每种情况下，均使用下带进行带密度分析。统计分析使用学生t检验，显著性p值为<0.05。
+------------------------------------------------------------------------------------
+原文: Retinas from adult Tg(nrd:egfp)/alb zebrafish were collected from either untreated control fish or light-damaged fish 48 hours after light onset. Eyes were enucleated using bent #5/45 forceps (WPI, Sarasota, FL) and placed cornea side down on a square #1.5 glass cover slip (VWR, Radnor, PA) under a light microscope. The optic stalks were removed using McPherson-Vannas curved micro-scissors (WPI). One prong of the scissors was inserted into the hole created by removal of the optic stalk and the sclera and retina were ventrally cut along the choroid fissure to the edge of the cornea. The eyes were positioned with the cornea side up and the retina and lens were then separated from the sclera through the ventral cut by gently applying pressure on the lens through the cornea with two pairs of #55 Dumont tweezers (WPI). The lens was then removed from the retinal tissue, which was gently maneuvered to lie flat with the photoreceptor side down on the glass cover slip. The cover slips were marked with a Sharpie permanent marker to demarcate the anterior side of the retinal flatmount. The cover slips were placed in 6-well polystyrene plates and the retinas were fixed in 100 00B5l of 4% paraformaldehyde at 4°C for 5–8 hrs, rehydrated in 1x PBS for 20 min, and then mounted onto Superfrost plus glass slides (VWR) using
+
+译文: 从未处理的对照鱼或光损伤鱼中收集了成年Tg(nrd:egfp)/alb斑马鱼的视网膜，收集时间为光照开始48小时后。使用弯曲的#5/45镊子（WPI, Sarasota, FL）进行眼球摘取，并将眼睛以角膜面朝下放置在一块#1.5玻璃盖片（VWR, Radnor, PA）上，放置于光学显微镜下。使用McPherson-Vannas弯曲微剪刀（WPI）去除视神经柄。剪刀的一只爪子插入因去除视神经柄而形成的孔中，并沿着脉络膜裂切开巩膜和视网膜，直到角膜边缘。将眼睛的位置调整为角膜面朝上，然后通过在角膜上轻轻施加压力，使两对#55 Dumont镊子（WPI）将视网膜和晶状体从巩膜中分离。随后，从视网膜组织中移除晶状体，视网膜被轻柔操作，使光感受器面朝下平放于玻璃盖片上。用Sharpie永久性马克笔在盖片上标记以划定视网膜平面图的前面。盖片放置在6孔聚苯乙烯板中，视网膜在4°C下用10000B5l的4%多聚甲醛固定5-8小时，随后在1x PBS中复水20分钟，然后使用
+------------------------------------------------------------------------------------
+原文: Johns PR, Fernald RD. Genesis of rods in teleost fish retina. Nature. 1981; 293:141–142. [PubMed: 7266666]
+
+译文: Johns PR, Fernald RD. 鳞茎鱼视网膜中的杆状细胞的发生. Nature. 1981; 293:141–142. [PubMed: 7266666]
+------------------------------------------------------------------------------------
+原文: Fesquet D, Labbe JC, Derancourt J, Capony JP, Galas S, Girard F, Lorca T, Shuttleworth J, Doree M, Cavadore JC. The MO15 gene encodes the catalytic subunit of a protein kinase that activates cdc2 and other cyclin-dependent kinases (CDKs) through phosphorylation of Thr161 and its homologues. Embo. J. 1993; 12:3111–3121. [PubMed: 8344251]
+
+译文: Fesquet D, Labbe JC, Derancourt J, Capony JP, Galas S, Girard F, Lorca T, Shuttleworth J, Doree M, Cavadore JC. MO15基因编码一种蛋白激酶的催化亚单位，通过对Thr161及其同源物的磷酸化激活cdc2和其他细胞周期依赖性激酶（CDKs）。Embo. J. 1993; 12:3111–3121. [PubMed: 8344251]
+------------------------------------------------------------------------------------
+原文: Variable response of Müller glial cell proliferation in light-damage paradigms
+
+译文: 在光损伤范式中，穆勒胶质细胞增殖的可变反应
+------------------------------------------------------------------------------------
+原文: La Vail MM. Survival of some photoreceptor cells in albino rats following long-term exposure to continuous light. Invest Ophthalmol. 1976; 15:64–70. [PubMed: 1245384]
+
+译文: La Vail MM. 在长时间连续光照射后，某些光感受器细胞在白化大鼠中存活。Invest Ophthalmol. 1976; 15:64–70. [PubMed: 1245384]
+------------------------------------------------------------------------------------
+原文: Morris AC, Schroeter EH, Bilotta J, Wong RO, Fadool JM. Cone survival despite rod degeneration in XOPS-mCFP transgenic zebrafish. Invest Ophthalmol Vis Sci. 2005; 46:4762–4771. [PubMed: 16303977]
+
+译文: Morris AC, Schroeter EH, Bilotta J, Wong RO, Fadool JM. 尽管在XOPS-mCFP转基因斑马鱼中发生了杆状细胞退化，锥体细胞仍然存活。Invest Ophthalmol Vis Sci. 2005; 46:4762–4771. [PubMed: 16303977]
+------------------------------------------------------------------------------------
+原文: Faktorovich EG, Steinberg RH, Yasumura D, Matthes MT, LaVail MM. Basic fibroblast growth factor and local injury protect photoreceptors from light damage in the rat. J Neurosci. 1992; 12:3554– 3567. [PubMed: 1527595]
+
+译文: Faktorovich EG, Steinberg RH, Yasumura D, Matthes MT, LaVail MM. 基础成纤维生长因子和局部损伤保护大鼠的光感受器免受光损伤。J Neurosci. 1992; 12:3554–3567. [PubMed: 1527595]
+------------------------------------------------------------------------------------
+原文: 2Department of Biological Sciences and Center for Zebrafish Research, University of Notre Dame, Notre Dame, IN, 46556, USA
+
+译文: 2生物科学系及斑马鱼研究中心, 圣母大学, 印地安纳州, 诺特丹, IN, 46556, USA
+------------------------------------------------------------------------------------
+原文: Previous reports indicated that Müller glial cells re-entered the cell cycle 31–36 hours after constant bright light onset (Kassen et al., 2007; Vihtelic and Hyde, 2000). The Tg(gfap:egfp)/alb transgenic line was used to visualize EGFP-positive Müller glial (Thummel et al., 2008b). To visualize Müller glial proliferation during the various light treatments, the Tg(gfap:egfp)/alb retinas were co-labeled with Proliferating Cell Nuclear Antigen (PCNA), an established marker for the G1/S transition (Thummel et al., 2006;
+
+译文: Previous reports indicated that Müller glial cells re-entered the cell cycle 31–36 hours after constant bright light onset (Kassen et al., 2007; Vihtelic and Hyde, 2000). The Tg(gfap:egfp)/alb transgenic line was used to visualize EGFP-positive Müller glial (Thummel et al., 2008b). To visualize Müller glial proliferation during the various light treatments, the Tg(gfap:egfp)/alb retinas were co-labeled with Proliferating Cell Nuclear Antigen (PCNA), an established marker for the G1/S transition (Thummel et al., 2006;
+------------------------------------------------------------------------------------
+原文: 10% SDS-PAGE gel and then transferred to a PVDF membrane (Amersham Hybond-P, Piscataway, NJ). The membrane was blocked for 1 hour in 1X TTBS (40mM Tris-HCl, pH8.3, 0.5M NaCl, 0.2% Tween 20)/5% nonfat dry milk, followed by overnight incubation at 4°C in blocking buffer with one of the following primary antibodies: mouse monoclonal Zpr-1 antibody (1:500, Zebrafish International Resource Center), mouse monoclonal antiPCNA antibody (1:500, Sigma Chemical), rabbit polyclonal anti-Cyclin H antisera (1:250,
+
+译文: 10% SDS-PAGE gel and then transferred to a PVDF membrane (Amersham Hybond-P, Piscataway, NJ). The membrane was blocked for 1 hour in 1X TTBS (40mM Tris-HCl, pH8.3, 0.5M NaCl, 0.2% Tween 20)/5% nonfat dry milk, followed by overnight incubation at 4°C in blocking buffer with one of the following primary antibodies: mouse monoclonal Zpr-1 antibody (1:500, Zebrafish International Resource Center), mouse monoclonal antiPCNA antibody (1:500, Sigma Chemical), rabbit polyclonal anti-Cyclin H antisera (1:250,
+------------------------------------------------------------------------------------
+原文: Biol. 1997; 13:261–291. [PubMed: 9442875]
+
+译文: Biol. 1997; 13:261–291. [PubMed: 9442875]
+------------------------------------------------------------------------------------
+原文: Kassen SC, Ramanan V, Montgomery JE, C TB, Liu CG, Vihtelic TS, Hyde DR. Time course analysis of gene expression during light-induced photoreceptor cell death and regeneration in albino
+
+译文: Kassen SC, Ramanan V, Montgomery JE, C TB, Liu CG, Vihtelic TS, Hyde DR. Time course analysis of gene expression during light-induced photoreceptor cell death and regeneration in albino
+------------------------------------------------------------------------------------
+原文: Published in final edited form as:
+
+译文: Published in final edited form as:
+------------------------------------------------------------------------------------
+原文: Jones BW, Marc RE. Retinal remodeling during retinal degeneration. Exp Eye Res. 2005; 81:123–137. [PubMed: 15916760]
+
+译文: Jones BW, Marc RE. Retinal remodeling during retinal degeneration. Exp Eye Res. 2005; 81:123–137. [PubMed: 15916760]
+------------------------------------------------------------------------------------
+原文: Morgan DO. Cyclin-dependent kinases: engines, clocks, and microprocessors. Annu Rev Cell Dev
+
+译文: Morgan DO. Cyclin-dependent kinases: engines, clocks, and microprocessors. Annu Rev Cell Dev
+------------------------------------------------------------------------------------
+原文: Wan J, Zheng H, Chen ZL, Xiao HL, Shen ZJ, Zhou GM. Preferential regeneration of photoreceptor from Muller glia after retinal degeneration in adult rat. Vision Res. 2008; 48:223–234. [PubMed: 18155124]
+
+译文: Wan J, Zheng H, Chen ZL, Xiao HL, Shen ZJ, Zhou GM. Preferential regeneration of photoreceptor from Muller glia after retinal degeneration in adult rat. Vision Res. 2008; 48:223–234. [PubMed: 18155124]
+------------------------------------------------------------------------------------
+原文: Exp Eye Res. Author manuscript; available in PMC 2013 April 01.
+
+译文: Exp Eye Res. Author manuscript; available in PMC 2013 April 01.
+------------------------------------------------------------------------------------
+原文: against fgfr1 and msxb. Dev Dyn. 2006; 235:336–346. [PubMed: 16273523]
+
+译文: against fgfr1 and msxb. Dev Dyn. 2006; 235:336–346. [PubMed: 16273523]
+------------------------------------------------------------------------------------
+原文: Raymond PA, Barthel LK, Bernardos RL, Perkowski JJ. Molecular characterization of retinal stem cells and their niches in adult zebrafish. BMC Dev Biol. 2006; 6:36. [PubMed: 16872490]
+
+译文: Raymond PA, Barthel LK, Bernardos RL, Perkowski JJ. Molecular characterization of retinal stem cells and their niches in adult zebrafish. BMC Dev Biol. 2006; 6:36. [PubMed: 16872490]
+------------------------------------------------------------------------------------
+原文: Vihtelic TS, Hyde DR. Light-induced rod and cone cell death and regeneration in the adult albino zebrafish (Danio rerio) retina. J Neurobiol. 2000; 44:289–307. [PubMed: 10942883]
+
+译文: Vihtelic TS, Hyde DR. Light-induced rod and cone cell death and regeneration in the adult albino zebrafish (Danio rerio) retina. J Neurobiol. 2000; 44:289–307. [PubMed: 10942883]
+------------------------------------------------------------------------------------
+原文: Thummel R, Li L, Tanase C, Sarras MP Jr, Godwin AR. Differences in expression pattern and function between zebrafish hoxc13 orthologs: recruitment of Hoxc13b into an early embryonic role. Dev Biol. 2004; 274:318–333. [PubMed: 15385162]
+
+译文: Thummel R, Li L, Tanase C, Sarras MP Jr, Godwin AR. Differences in expression pattern and function between zebrafish hoxc13 orthologs: recruitment of Hoxc13b into an early embryonic role. Dev Biol. 2004; 274:318–333. [PubMed: 15385162]
+------------------------------------------------------------------------------------
+原文: Secondary antibodies included AlexaFluor goat anti-primary 488 and 594 (1:500, Invitrogen, Grand Island, NY). Coverslips were mounted using ProLong Gold (Molecular Probes, Eugene, OR).
+
+译文: Secondary antibodies included AlexaFluor goat anti-primary 488 and 594 (1:500, Invitrogen, Grand Island, NY). Coverslips were mounted using ProLong Gold (Molecular Probes, Eugene, OR).
+------------------------------------------------------------------------------------
+原文: The ventral and posterior retina of adult zebrafish are protected from light damage
+
+译文: 成年斑马鱼的腹侧和后侧视网膜受到光损伤的保护
+------------------------------------------------------------------------------------
+原文: Refer to Web version on PubMed Central for supplementary material.
+
+译文: 请参考PubMed Central网页版本以获取补充材料。
+------------------------------------------------------------------------------------
+原文: In addition to the scientific considerations already detailed, there are many practical considerations to consider with the use of each of these light damage paradigms. A constant bright light setup can be acquired for under $100 with materials from local hardware and pet supply stores. It consists of four 250W halogen lights, a thermometer, a small fan (to keep the water temperature from getting too hot), and a water aerator (Supp. Fig. 1). Although this setup is relatively inexpensive, it takes up approximately 12 square feet of bench space and only ~ 20–24 fish can be treated at a time. In addition, this setup cannot be placed in the fish facility, because the constant lights would disrupt the circadian rhythm of the other fish. In contrast, the UV treatment setup (Supp. Fig. 2) is relatively expensive, as it requires a UV source. However, due to the short exposure (30 minutes), multiple groups can be treated in succession. We place ~10 fish in a 250 mL beaker that is partially covered in aluminum foil (to reflect the UV light back into the beaker). The small beaker is placed inside a larger 4L beaker filled with ~ 500 mL of water. The optic cable from the UV source is secured outside the large beaker pointing at the fish and a cardboard box is placed around the entire apparatus before turning on the UV light. Thus, although the UV treatment is faster and the setup is smaller, there is a significant cost to consider in purchasing a UV source, which may not be available to every research laboratory.
+
+译文: 除了已经详细说明的科学考虑外，在使用每种光损伤范式时还有许多实际考虑。一个恒定的明亮光源装置可以用当地五金店和宠物用品商店的材料为不到100美元获得。它由四个250W卤素灯、一个温度计、一个小风扇（以防水温过高）和一个水增氧器组成（补充图1）。虽然这个装置相对便宜，但它占据大约12平方英尺的台面空间，并且一次只能处理约20-24条鱼。此外，该装置不能放在鱼类设施中，因为恒定的光线会干扰其他鱼的生物节律。相比之下，UV处理装置（补充图2）相对较贵，因为它需要一个UV光源。然而，由于暴露时间短（30分钟），可以连续处理多个组。我们将约10条鱼放入一个250 mL的烧杯中，部分被铝箔覆盖（以反射UV光回到烧杯内）。小烧杯放入一个装有约500 mL水的大4L烧杯中。来自UV光源的光纤电缆在大烧杯外固定对准鱼，打开UV灯之前，整个装置周围放置一个纸箱。因此，虽然UV处理速度更快，装置更小，但购买UV光源的费用是一个重要的考量，而并非每个研究实验室都能获得。
+------------------------------------------------------------------------------------
+原文: Figure 5. Western blot analysis following various light damage paradigms
+
+译文: 图5. 不同光损伤范式下的西方印迹分析
+------------------------------------------------------------------------------------
+原文: Chang GQ, Hao Y, Wong F. Apoptosis: final common pathway of photoreceptor death in rd, rds, and rhodopsin mutant mice. Neuron. 1993; 11:595–605. [PubMed: 8398150]
+
+译文: Chang GQ, Hao Y, Wong F. 凋亡：光感受器在rd、rds和视紫红质突变小鼠中死亡的最终共同途径。神经元。1993; 11:595–605. [PubMed: 8398150]
+------------------------------------------------------------------------------------
+原文: 66. [PubMed: 10802658]
+
+译文: 66. [PubMed: 10802658]
+------------------------------------------------------------------------------------
+原文: Summary of findings
+
+译文: 发现总结
+------------------------------------------------------------------------------------
+原文: Materials and methods
+
+译文: 材料与方法
+------------------------------------------------------------------------------------
+原文: Regional differences
+
+译文: 区域差异
+------------------------------------------------------------------------------------
+原文: Liu C, Peng M, Laties AM, Wen R. Preconditioning with bright light evokes a protective response against light damage in the rat retina. J Neurosci. 1998; 18:1337–1344. [PubMed: 9454843]
+
+译文: Liu C, Peng M, Laties AM, Wen R. 明亮光照预处理对大鼠视网膜光损伤的保护反应。神经科学杂志。1998; 18:1337–1344. [PubMed: 9454843]
+------------------------------------------------------------------------------------
+原文: Vihtelic TS, Soverly JE, Kassen SC, Hyde DR. Retinal regional differences in photoreceptor cell death and regeneration in light-lesioned albino zebrafish. Exp Eye Res. 2006; 82:558–575. [PubMed: 16199033]
+
+译文: Vihtelic TS, Soverly JE, Kassen SC, Hyde DR. 光损伤白化斑马鱼中视网膜部位差异的光感受器细胞死亡与再生。实验眼科研究。2006; 82:558–575. [PubMed: 16199033]
+------------------------------------------------------------------------------------
+原文: Author Manuscript
+
+译文: 作者手稿
+------------------------------------------------------------------------------------
+原文: EGFP-positive Müller glial cells in the dorsal (A, B, E, F) and ventral (C, D, G, H) halves of the retina from adult Tg(gfap:egfp)/alb zebrafish (Green) co-labeled with PCNA (Red). A. Untreated (0 hr) dorsal retina, showing EGFP-positive Müller glial cells with somas located in the INL and a processes extending to beyond the ONL and GCL. Müller glial cells in 0 hr retinas are not PCNA-positive. B. A subset of Müller glial cells are PCNA-positive in the dorsal retina following 36 hours of constant bright light treatment (36 hLt). C. 0 hr ventral retina, showing PCNA-negative Müller glial cells. D. 36 hLt dorsal retina, showing PCNAnegative Müller glial cells. E. 48 hours after a 30 minute UV exposure (36 hpUV), a subset of Müller glial cells are PCNA-positive in the dorsal retina. F. After a 30 minute exposure to UV light followed by 48 hours of constant bright light (UV+48 hLt), the majority of Müller glial cells are PCNA-positive in the dorsal retina. G. 36 hpUV retina, showing PCNApositive Müller glial cells in the dorsal half of the ventral retina. H. UV+48 hLt retina, showing the majority of Müller glial cells are PCNA-positive in the ventral retina. I. Quantification of the percentage of PCNA-positive Müller glial cells in the entire dorsal and ventral halves of the retina in untreated and light-treated retinas. Significant differences between groups (p < 0.05) is indicated as: “a” for compared with Untreated (0 hr); “b” for compared with 36 hLt; and “c” for compared with 36 hpUV. Scale bar in panel A represents 50 microns.
+
+译文: 来自成年Tg(gfap:egfp)/alb斑马鱼的视网膜腹侧（A, B, E, F）和背侧（C, D, G, H）部分的EGFP阳性穆勒胶质细胞（绿色）与PCNA（红色）共同标记。A. 未处理（0小时）背侧视网膜，显示EGFP阳性穆勒胶质细胞的细胞体位于内核层（INL），其突起延伸至外核层（ONL）和节细胞层（GCL）以外。0小时的视网膜中的穆勒胶质细胞不为PCNA阳性。B. 在36小时恒定明亮光照处理后，背侧视网膜中一部分穆勒胶质细胞为PCNA阳性（36 hLt）。C. 0小时腹侧视网膜，显示PCNA阴性的穆勒胶质细胞。D. 36 hLt背侧视网膜，显示PCNA阴性的穆勒胶质细胞。E. 在30分钟UV暴露（36 hpUV）后48小时，背侧视网膜中一部分穆勒胶质细胞为PCNA阳性。F. 在30分钟UV光暴露后，接着是48小时恒定明亮光照（UV+48 hLt），背侧视网膜中的大多数穆勒胶质细胞为PCNA阳性。G. 36 hpUV视网膜，显示腹侧视网膜背侧部分的PCNA阳性穆勒胶质细胞。H. UV+48 hLt视网膜，显示腹侧视网膜中的大多数穆勒胶质细胞为PCNA阳性。I. 定量分析未处理和光处理视网膜中整个背侧和腹侧部分PCNA阳性穆勒胶质细胞的百分比。组间显著差异（p < 0.05）指示为：“a”表示与未处理（0小时）比较；“b”表示与36 hLt比较；“c”表示与36 hpUV比较。图A中的标尺代表50微米。
+------------------------------------------------------------------------------------
+原文: To test whether various light treatments resulted in differences in rod photoreceptor damage, the Tg(nrd:egfp)/alb transgenic line was used to visualize rod photoreceptor cell somas in the outer nuclear layer (ONL), rod inner segments (RIS), and rod outer segments (ROS). Untreated (0 hr) fish showed EGFP-positive rod photoreceptors throughout the dorsal and ventral halves of the retina (Fig. 1A and C, respectively). At 48 hours of constant bright light (48 hLt), rod photoreceptor loss was evident in both the dorsal and ventral halves of the retina (Fig. 1B and D, respectively). As was previously reported in both rodents and zebrafish, the dorsal retina appeared to suffer more damage than the ventral retina (compare Fig 1B with Fig. 1D). Compared with 48 hLt retinas, UV exposure resulted in visibly fewer rod photoreceptors in both the dorsal and ventral halves of the retina 48 hours after light onset (48 hpUV) (Fig. 1E and G, respectively). EGFP-positive cellular debris was present in the degenerated ROS and RIS in the dorsal half of 48 hpUV retinas (Fig. 1E), whereas intact ROS and RIS were visible in the ventral half of 48 hpUV retinas (Fig. 1G). Combining UV exposure with 48 hours of constant bright light (UV+48hLt) resulted in the greatest amount of damage to both the dorsal and ventral halves of the retina (Fig. 1F and H, respectively). Very few rod photoreceptor somas and RIS were observed in the dorsal half of UV+48 hLt retinas, and the ROS was completely absent (Fig. 1F). Notably, extensive damage to the ROS and RIS was also visualized in the ventral half of UV+48 hLt retinas. (Fig. 1H).
+
+译文: To test whether various light treatments resulted in differences in rod photoreceptor damage, the Tg(nrd:egfp)/alb transgenic line was used to visualize rod photoreceptor cell somas in the outer nuclear layer (ONL), rod inner segments (RIS), and rod outer segments (ROS). Untreated (0 hr) fish showed EGFP-positive rod photoreceptors throughout the dorsal and ventral halves of the retina (Fig. 1A and C, respectively). At 48 hours of constant bright light (48 hLt), rod photoreceptor loss was evident in both the dorsal and ventral halves of the retina (Fig. 1B and D, respectively). As was previously reported in both rodents and zebrafish, the dorsal retina appeared to suffer more damage than the ventral retina (compare Fig 1B with Fig. 1D). Compared with 48 hLt retinas, UV exposure resulted in visibly fewer rod photoreceptors in both the dorsal and ventral halves of the retina 48 hours after light onset (48 hpUV) (Fig. 1E and G, respectively). EGFP-positive cellular debris was present in the degenerated ROS and RIS in the dorsal half of 48 hpUV retinas (Fig. 1E), whereas intact ROS and RIS were visible in the ventral half of 48 hpUV retinas (Fig. 1G). Combining UV exposure with 48 hours of constant bright light (UV+48hLt) resulted in the greatest amount of damage to both the dorsal and ventral halves of the retina (Fig. 1F and H, respectively). Very few rod photoreceptor somas and RIS were observed in the dorsal half of UV+48 hLt retinas, and the ROS was completely absent (Fig. 1F). Notably, extensive damage to the ROS and RIS was also visualized in the ventral half of UV+48 hLt retinas. (Fig. 1H).
+------------------------------------------------------------------------------------
+原文: AnaSpec), rabbit polyclonal anti-Cdk-1 antisera (1:250, AnaSpec), rabbit polyclonal anti-
+
+译文: AnaSpec), rabbit polyclonal anti-Cdk-1 antisera (1:250, AnaSpec), rabbit polyclonal anti-
+------------------------------------------------------------------------------------
+原文: Three zebrafish lines were used in this study: albino (alb), Tg(nrd:EGFP)/alb (Obholzer et al., 2008), and Tg(gfap:EGFP)/alb (Kassen et al., 2007). Fish were fed a combination of brine shrimp and dried flake food three times daily and maintained at 28.5°C on a 14 hour light (250 lux): 10 hour dark cycle (Westerfield, 1995). All animal care and experimental protocols used in this study were approved by the Institutional Animal Care and Use Committee at Wayne State University School of Medicine and are in compliance with the ARVO statement on the use of animals in vision research.
+
+译文: Three zebrafish lines were used in this study: albino (alb), Tg(nrd:EGFP)/alb (Obholzer et al., 2008), and Tg(gfap:EGFP)/alb (Kassen et al., 2007). Fish were fed a combination of brine shrimp and dried flake food three times daily and maintained at 28.5°C on a 14 hour light (250 lux): 10 hour dark cycle (Westerfield, 1995). All animal care and experimental protocols used in this study were approved by the Institutional Animal Care and Use Committee at Wayne State University School of Medicine and are in compliance with the ARVO statement on the use of animals in vision research.
+------------------------------------------------------------------------------------
+原文: Western blot analysis was performed as previously described (Thummel et al., 2008b;
+
+译文: Western blot analysis was performed as previously described (Thummel et al., 2008b;
+------------------------------------------------------------------------------------
+原文: There are currently two LIRD paradigms used to damage photoreceptors in adult zebrafish. Constant exposure to bright light (~8,000 lux) is a widely used technique that causes photoreceptor loss in the dorsal half of the adult albino zebrafish retina within 24 hours of light onset (Vihtelic and Hyde, 2000; Vihtelic et al., 2006). This LIRD paradigm is based on the parameters previously shown to damage photoreceptors in the rodent (Noell et al., 1966; Wenzel et al., 2005). Adolescent albino mice show a peak of photoreceptor cell death at 36 hours after light onset (Wenzel et al., 2005), loss of photoreceptor inner and outer segments at 3 days (Yamashita et al., 1992), and severe outer nuclear layer (ONL) damage after 5 to 7 days of exposure (Yamashita et al., 1992). Both zebrafish and rodents exhibit significantly more photoreceptor damage in the superior half of the retina, which is analogous to the dorsal half of the adult zebrafish retina (Rapp and Williams, 1980). In addition, the constant bright light paradigm reportedly damages rod photoreceptors and leaves cone photoreceptors largely intact (Cicerone, 1976; La Vail, 1976; Thummel et al., 2010). More recently, a second LIRD paradigm has been used to cause photoreceptor apoptosis in adult zebrafish (Bernardos et al., 2007). This method uses a short exposure to an ultraviolet (UV) light source, which produces ~100,000 lux of light. 24 hours after a 30 min UV exposure, adult zebrafish show extensive damage to both rod and cone photoreceptors (Bernardos et al., 2007). However, this method reportedly causes the most damage to the central retina, surrounding the optic nerve, and a variable level of damage peripherally into the dorsal and ventral halves of the retina (Bernardos et al., 2007). Thus, this LIRD paradigm can damage both rod and cone photoreceptors, but results in areas with widespread photoreceptor loss adjacent to areas with minimal damage (Bernardos et al., 2007).
+
+译文: There are currently two LIRD paradigms used to damage photoreceptors in adult zebrafish. Constant exposure to bright light (~8,000 lux) is a widely used technique that causes photoreceptor loss in the dorsal half of the adult albino zebrafish retina within 24 hours of light onset (Vihtelic and Hyde, 2000; Vihtelic et al., 2006). This LIRD paradigm is based on the parameters previously shown to damage photoreceptors in the rodent (Noell et al., 1966; Wenzel et al., 2005). Adolescent albino mice show a peak of photoreceptor cell death at 36 hours after light onset (Wenzel et al., 2005), loss of photoreceptor inner and outer segments at 3 days (Yamashita et al., 1992), and severe outer nuclear layer (ONL) damage after 5 to 7 days of exposure (Yamashita et al., 1992). Both zebrafish and rodents exhibit significantly more photoreceptor damage in the superior half of the retina, which is analogous to the dorsal half of the adult zebrafish retina (Rapp and Williams, 1980). In addition, the constant bright light paradigm reportedly damages rod photoreceptors and leaves cone photoreceptors largely intact (Cicerone, 1976; La Vail, 1976; Thummel et al., 2010). More recently, a second LIRD paradigm has been used to cause photoreceptor apoptosis in adult zebrafish (Bernardos et al., 2007). This method uses a short exposure to an ultraviolet (UV) light source, which produces ~100,000 lux of light. 24 hours after a 30 min UV exposure, adult zebrafish show extensive damage to both rod and cone photoreceptors (Bernardos et al., 2007). However, this method reportedly causes the most damage to the central retina, surrounding the optic nerve, and a variable level of damage peripherally into the dorsal and ventral halves of the retina (Bernardos et al., 2007). Thus, this LIRD paradigm can damage both rod and cone photoreceptors, but results in areas with widespread photoreceptor loss adjacent to areas with minimal damage (Bernardos et al., 2007).
+------------------------------------------------------------------------------------
+原文: ROS, and thus, lower levels of Rhodopsin. Similar to the rodent, zebrafish also have shorter ROS in the inferior/ventral half of the retina (Fig. 1, Vihtelic et al, 2006), which may also account for the dorsal/ventral differences observed in light-damaged zebrafish retinas (Figs. 1 and 2, Vihtelic et al., 2006). However, there are no reports indicating that the posterior half of the zebrafish retina possesses fewer rod photoreceptors or shorter ROS. Further, analysis of flatmounted retinas (Fig. 6–8) indicated similar amounts of EGFP-positive RIS in untreated retinas (Fig. 8), suggesting that differences in Rhodopsin levels likely does not account for the anterior/posterior differences observed in light-treated retinas. Another possibility for the regional differences is differential expression of neuroprotective factors, such as FGF-2 (Li et al., 2003; Liu et al., 1998; Stone et al., 1999). FGF-2 expression was reportedly higher in the inferior half of the rodent retina compared with the superior half (Stone et al., 1999). Given that FGF-2 protects photoreceptors from light damage in both rodents (Faktorovich et al., 1990, 1992; LaVail et al., 1991) and zebrafish (Qin et al., 2011), this may contribute to the regional differences observed in light-treated retinas. Although it is not known whether FGF-2 is differentially expressed in the adult zebrafish retina, FGF-2 was recently reported to regulate rod photoreceptor cell maintenance in adult zebrafish (Qin et al., 2011). A final possibility for the regional differences observed in light susceptibility is that photoreceptors in the both halves of the retina develop differently due to the animals being reared in environments with overhead lighting. When rodents are raised in animal facilities with room lighting at the side of the animals, rather than above the animals, the protection of the inferior retina was lost (Stone et al., 1999). Although it is unclear whether this is also the case in adult zebrafish, this would not account for the anterior/posterior differences observed in light-treated zebrafish retinas, since they are at the same level relative to the overhead lights. Therefore, it is currently unclear what accounts for the heretofore unrecognized protection of the posterior zebrafish retina.
+
+译文: ROS, and thus, lower levels of Rhodopsin. Similar to the rodent, zebrafish also have shorter ROS in the inferior/ventral half of the retina (Fig. 1, Vihtelic et al, 2006), which may also account for the dorsal/ventral differences observed in light-damaged zebrafish retinas (Figs. 1 and 2, Vihtelic et al., 2006). However, there are no reports indicating that the posterior half of the zebrafish retina possesses fewer rod photoreceptors or shorter ROS. Further, analysis of flatmounted retinas (Fig. 6–8) indicated similar amounts of EGFP-positive RIS in untreated retinas (Fig. 8), suggesting that differences in Rhodopsin levels likely does not account for the anterior/posterior differences observed in light-treated retinas. Another possibility for the regional differences is differential expression of neuroprotective factors, such as FGF-2 (Li et al., 2003; Liu et al., 1998; Stone et al., 1999). FGF-2 expression was reportedly higher in the inferior half of the rodent retina compared with the superior half (Stone et al., 1999). Given that FGF-2 protects photoreceptors from light damage in both rodents (Faktorovich et al., 1990, 1992; LaVail et al., 1991) and zebrafish (Qin et al., 2011), this may contribute to the regional differences observed in light-treated retinas. Although it is not known whether FGF-2 is differentially expressed in the adult zebrafish retina, FGF-2 was recently reported to regulate rod photoreceptor cell maintenance in adult zebrafish (Qin et al., 2011). A final possibility for the regional differences observed in light susceptibility is that photoreceptors in the both halves of the retina develop differently due to the animals being reared in environments with overhead lighting. When rodents are raised in animal facilities with room lighting at the side of the animals, rather than above the animals, the protection of the inferior retina was lost (Stone et al., 1999). Although it is unclear whether this is also the case in adult zebrafish, this would not account for the anterior/posterior differences observed in light-treated zebrafish retinas, since they are at the same level relative to the overhead lights. Therefore, it is currently unclear what accounts for the heretofore unrecognized protection of the posterior zebrafish retina.
+------------------------------------------------------------------------------------
+原文: Vihtelic et al., 1999). Total protein was isolated from whole embryos (n=50–200) at 48
+
+译文: Vihtelic et al., 1999). Total protein was isolated from whole embryos (n=50–200) at 48
+------------------------------------------------------------------------------------
+原文: (Fig. 1Y and Z, Table 1, p<0.001), and significantly fewer uv cones in the ventral retina (Fig. 1Z, Table 1, p=0.01). Finally, in the ventral half of 48 hpUV and UV+48 hLt retinas, the damage appeared to abruptly stop near the ventral-most portion of the retina (Fig. 2G, H, and P), indicating a strong protection of this retinal region.
+
+译文: (Fig. 1Y and Z, Table 1, p<0.001), and significantly fewer uv cones in the ventral retina (Fig. 1Z, Table 1, p=0.01). Finally, in the ventral half of 48 hpUV and UV+48 hLt retinas, the damage appeared to abruptly stop near the ventral-most portion of the retina (Fig. 2G, H, and P), indicating a strong protection of this retinal region.
+------------------------------------------------------------------------------------
+原文: values. Next, using the ROI manager and “Rectangular Sections” tool, 5 non-overlapping rectangles were drawn on each of the four corners and the center of the image and saved so that each image could be analyzed for fluorescent intensity within the same five areas. Finally, each image in the series was analyzed for the fluorescent intensity. Statistical differences between groups (p<0.05) was determined by a student’s t-test.
+
+译文: values. Next, using the ROI manager and “Rectangular Sections” tool, 5 non-overlapping rectangles were drawn on each of the four corners and the center of the image and saved so that each image could be analyzed for fluorescent intensity within the same five areas. Finally, each image in the series was analyzed for the fluorescent intensity. Statistical differences between groups (p<0.05) was determined by a student’s t-test.
+------------------------------------------------------------------------------------
+原文: A – H. Short single cones (uv cones) are immunolabeled with UV opsin. I – P. Red/Green double cones are immunolabeled with Zpr-1. Q – X. Long single cones (blue cones) are immunolabeled with blue opsin. Untreated (0 hr) retinas show undamaged cones in both the dorsal and ventral halves of the retina (A, B, E, F, I, J, M, N, Q, R, U, V). Following 48 hours of constant bright light (48 hLt), uv and double cones appear short and hypertrophied (B, F, J, N), but are still visible in both the dorsal and ventral halves of the retina. 48 hours after a 30 minute UV exposure (48 hpUV), degeneration of all three cone types is evident in throughout the dorsal half of the retina (C, K, S), but not throughout the ventral half of the retina (G, O, W). After a 30 minute exposure to UV light followed by 48 hours of constant bright light (UV+48 hLt), only cone cell debris is evident in the dorsal half of the retina (D, L, T), and degeneration of all cone cell types is evident in the ventral half of the retina (H, P, X). Y–Z. Quantification of the average number of each cone type per 300 microns in the dorsal and ventral halves of the retina following various light treatments. Significant differences between groups (p < 0.05) is indicated as: “a” for compared with Untreated (0 hr); “b” for compared with 48 hLt; and “c” for compared with 48 hpUV. Scale bar in panel A represents 50 microns.
+
+译文: A – H. Short single cones (uv cones) are immunolabeled with UV opsin. I – P. Red/Green double cones are immunolabeled with Zpr-1. Q – X. Long single cones (blue cones) are immunolabeled with blue opsin. Untreated (0 hr) retinas show undamaged cones in both the dorsal and ventral halves of the retina (A, B, E, F, I, J, M, N, Q, R, U, V). Following 48 hours of constant bright light (48 hLt), uv and double cones appear short and hypertrophied (B, F, J, N), but are still visible in both the dorsal and ventral halves of the retina. 48 hours after a 30 minute UV exposure (48 hpUV), degeneration of all three cone types is evident in throughout the dorsal half of the retina (C, K, S), but not throughout the ventral half of the retina (G, O, W). After a 30 minute exposure to UV light followed by 48 hours of constant bright light (UV+48 hLt), only cone cell debris is evident in the dorsal half of the retina (D, L, T), and degeneration of all cone cell types is evident in the ventral half of the retina (H, P, X). Y–Z. Quantification of the average number of each cone type per 300 microns in the dorsal and ventral halves of the retina following various light treatments. Significant differences between groups (p < 0.05) is indicated as: “a” for compared with Untreated (0 hr); “b” for compared with 48 hLt; and “c” for compared with 48 hpUV. Scale bar in panel A represents 50 microns.
+------------------------------------------------------------------------------------
+原文: PCNA immunolocalization and analysis of flatmounted retinas reveal regionaldifferences in photoreceptor damage following light exposure
+
+译文: PCNA immunolocalization and analysis of flatmounted retinas reveal regionaldifferences in photoreceptor damage following light exposure
+------------------------------------------------------------------------------------
+原文: Here we show that both the ventral and posterior regions of the retina are protected from light damage. It was previously reported that the dorsal (or superior) retina in adult albino zebrafish is more susceptible to light damage than the ventral (inferior) retina (Vihtelic et al., 2006). This is consistent with reports in the rodent, which show more severe damage to the superior half of the retina (Rapp and Williams, 1980). Many possibilities could account for this finding, with the main hypothesis being that Rhodopsin is the trigger for photoreceptor cell death (Grimm et al., 2000; Humphries et al., 1997; Noell et al., 1966). Thus, reduced photoreceptor damage in the ventral/inferior retina was attributed to shorter
+
+译文: Here we show that both the ventral and posterior regions of the retina are protected from light damage. It was previously reported that the dorsal (or superior) retina in adult albino zebrafish is more susceptible to light damage than the ventral (inferior) retina (Vihtelic et al., 2006). This is consistent with reports in the rodent, which show more severe damage to the superior half of the retina (Rapp and Williams, 1980). Many possibilities could account for this finding, with the main hypothesis being that Rhodopsin is the trigger for photoreceptor cell death (Grimm et al., 2000; Humphries et al., 1997; Noell et al., 1966). Thus, reduced photoreceptor damage in the ventral/inferior retina was attributed to shorter
+------------------------------------------------------------------------------------
+原文: Acknowledgments
+
+译文: 致谢
+------------------------------------------------------------------------------------
+原文: Light treatment protocols
+
+译文: 光照处理协议
+------------------------------------------------------------------------------------
+原文: Exp Eye Res. 2012 April ; 97(1): 105–116. doi:10.1016/j.exer.2012.02.004.
+
+译文: Exp Eye Res. 2012年4月; 97(1): 105–116. doi:10.1016/j.exer.2012.02.004.
+------------------------------------------------------------------------------------
+原文: Rapp LM, Williams TP. The role of ocular pigmentation in protecting against retinal light damage. Vision Res. 1980; 20:1127–1131. [PubMed: 7269270]
+
+译文: Rapp LM, Williams TP. 眼部色素在保护视网膜免受光损伤中的作用. Vision Res. 1980; 20:1127–1131. [PubMed: 7269270]
+------------------------------------------------------------------------------------
+原文: Ramachandran R, Fausett BV, Goldman D. Ascl1a regulates Muller glia dedifferentiation and retinal regeneration through a Lin-28-dependent, let-7 microRNA signalling pathway. Nat Cell Biol.
+
+译文: Ramachandran R, Fausett BV, Goldman D. Ascl1a通过Lin-28依赖的let-7微小RNA信号通路调节Muller胶质细胞去分化和视网膜再生. Nat Cell Biol.
+------------------------------------------------------------------------------------
+原文: Gu Y, Rosenblatt J, Morgan DO. Cell cycle regulation of CDK2 activity by phosphorylation of Thr160 and Tyr15. Embo. J. 1992; 11:3995–4005. [PubMed: 1396589]
+
+译文: Gu Y, Rosenblatt J, Morgan DO. 通过对Thr160和Tyr15的磷酸化调节CDK2活性的细胞周期. Embo. J. 1992; 11:3995–4005. [PubMed: 1396589]
+------------------------------------------------------------------------------------
+原文: Thummel R, Enright JM, Kassen SC, Montgomery JE, Bailey TJ, Hyde DR. Pax6a and Pax6b are required at different points in neuronal progenitor cell proliferation during zebrafish photoreceptor
+
+译文: Thummel R, Enright JM, Kassen SC, Montgomery JE, Bailey TJ, Hyde DR. Pax6a和Pax6b在斑马鱼光感受器神经前体细胞增殖中的不同阶段是必需的
+------------------------------------------------------------------------------------
+原文: LaVail MM, Faktorovich EG, Hepler JM, Pearson KL, Yasumura D, Matthes MT, Steinberg RH. Basic fibroblast growth factor protects photoreceptors from light-induced degeneration in albino
+
+译文: LaVail MM, Faktorovich EG, Hepler JM, Pearson KL, Yasumura D, Matthes MT, Steinberg RH. 基本成纤维生长因子保护白化病中光感受器免受光诱导的退化
+------------------------------------------------------------------------------------
+原文: ImageJ was used to analyze the fluorescent intensity of the EGFP-positive RIS, as previously described (Forrester/Berman 2011 and Sidi/Look 2008). Briefly, images from the anterior and posterior regions of flatmounted retinas (n=6–8) were imported into Image J as an “Image Sequence” and processed equally to subtract background and set threshold
+
+译文: 使用ImageJ分析EGFP阳性的RIS的荧光强度，如前所述（Forrester/Berman 2011和Sidi/Look 2008）。简言之，来自平铺视网膜前后区域的图像（n=6–8）被导入Image J作为“图像序列”，并且处理相同以去除背景并设定阈值
+------------------------------------------------------------------------------------
+原文: Li F, Cao W, Anderson RE. Alleviation of constant-light-induced photoreceptor degeneration by adaptation of adult albino rat to bright cyclic light. Invest Ophthalmol Vis Sci. 2003; 44:4968– 4975. [PubMed: 14578424]
+
+译文: Li F, Cao W, Anderson RE. 通过使成年白化大鼠适应明亮的周期光，减轻恒光引起的光感受器退化。Invest Ophthalmol Vis Sci. 2003; 44:4968–4975. [PubMed: 14578424]
+------------------------------------------------------------------------------------
+原文: Thummel R, Kassen SC, Montgomery JE, Enright JM, Hyde DR. Inhibition of Muller glial cell division blocks regeneration of the light-damaged zebrafish retina. Dev Neurobiol. 2008b; 68:392– 408. [PubMed: 18161852]
+
+译文: Thummel R, Kassen SC, Montgomery JE, Enright JM, Hyde DR. 抑制Muller胶质细胞分裂阻止光损伤斑马鱼视网膜的再生. Dev Neurobiol. 2008b; 68:392–408. [PubMed: 18161852]
+------------------------------------------------------------------------------------
+原文: Yamashita H, Horie K, Yamamoto T, Nagano T, Hirano T. Light-induced retinal damage in mice. Hydrogen peroxide production and superoxide dismutase activity in retina. Retina. 1992; 12:59– 66. [PubMed: 1565873]
+
+译文: Yamashita H, Horie K, Yamamoto T, Nagano T, Hirano T. 小鼠中光诱导的视网膜损伤. 视网膜中的氢过氧化物生产和超氧化物歧化酶活性. Retina. 1992; 12:59–66. [PubMed: 1565873]
+------------------------------------------------------------------------------------
+原文: Confocal images of EGFP-positive rod inner segments (RIS) were obtained from the central anterior (A–D) and central posterior (E–H) portion of flatmounted Tg(nrd:egfp)/alb retinas. Untreated (0 hr) retinas (A, E) showed the characteristic honeycomb pattern of RIS (note the inset in panel A) in both the anterior and posterior halves of the retina. Following 48 hours of constant bright light (48 hLt; panels B and F), the RIS in the anterior half of the retina were severely disrupted (B), but remained largely intact in the posterior half of the retina (F). 48 hours after a 30 minute UV exposure (48 hpUV; panels C and G), RIS in both the anterior and posterior halves of the retina were severely damaged. After a 30 minute exposure to UV light followed by 48 hours of constant bright light (UV+48 hLt; panels D and H), RIS in both the anterior and posterior halves of the retina were severely damaged. Compared with the other treatments, the anterior half of the UV+48 hLt retinas appeared to sustain the greatest damage to RIS (compare panel D with all other panels). I. Quantification of the fluorescent intensity of EGFP-positive RIS relative to RIS in the posterior portion of the retina. Significant differences between groups (p < 0.05) is indicated as: “a” for significantly less than the untreated retina; “b” for significantly less than the posterior half of the corresponding treatment group; and “c” for significantly less than all other points. Scale bar in panel A represents 100 microns.
+
+译文: 从平铺的Tg(nrd:egfp)/alb视网膜的中央前部（A–D）和中央后部（E–H）获得EGFP阳性杆内段（RIS）的共聚焦图像。未处理的（0小时）视网膜（A，E）在视网膜的前半部和后半部显示出RIS特征性蜂窝图案（请注意A面板中的插图）。经过48小时的恒定明亮光照（48 hLt；面板B和F），视网膜前半部的RIS受到严重破坏（B），但视网膜后半部大部分保持完好（F）。在30分钟的紫外线暴露后48小时（48 hpUV；面板C和G），视网膜前后两半的RIS都受到严重损伤。经过30分钟的紫外线照射后，再经过48小时的恒定明亮光照（UV+48 hLt；面板D和H），视网膜的前后两半的RIS都受到严重损伤。与其他处理相比，UV+48 hLt视网膜的前半部分似乎对RIS造成了最大损害（比较D面板与所有其他面板）。I. 相对于视网膜后部分的RIS，EGFP阳性RIS的荧光强度定量。组间显著差异（p < 0.05）表示为：“a”表示显著小于未处理视网膜；“b”表示显著小于相应处理组的后半部；“c”表示显著小于所有其他点。A面板中的比例尺表示100微米。
+------------------------------------------------------------------------------------
+原文: Previous reports indicated that constant bright light resulted in more damage to rod photoreceptors than cone photoreceptors in adult zebrafish (Thummel et al., 2010; Thummel et al., 2008a). To determine whether the various light treatments resulted in significant differences in the loss of cone photoreceptors, untreated and light-damaged retinas were immunolabeled with cone-cell specific markers (Vihtelic et al., 1999). UV opsin was used to label short single cones (uv cones), Zpr-1 was used to label red/green double cones, and blue opsin was used to label long single cones (blue cones). The dorsal half of untreated retinas contained an average of 45.6±2.3 uv cones, 94.2±8.0 double cones, and 48.4±0.9 blue cones per 300 micron linear length, whereas the ventral half of untreated retinas contained an average of 56.4±5.6 uv cones, 104.6±4.3 double cones, and 60.4±3.4 blue cones per 300 micron linear length (Table 1). Following 48 hours of constant bright light (48 hLt), all the cone types were reduced in number and appeared shortened and hypertrophied (Fig. 2B, F, J, N, R, V, Y, Z) relative to the undamaged controls. However, a significant loss was only observed in double cones and blue cones in the ventral retina (Table 1, p<0.001 and p=0.02, respectively). Compared with untreated retinas, UV exposure resulted in significantly fewer uv cones (21.8±8.1), double cones (21.3±6.1), and blue cones (30.3±3.0) in the dorsal retina (Fig. 2C, K, S, Y; Table 1, p=0.02, p<0.001, p<0.001, respectively), but not in the ventral retina (Fig. 2G, O, W, Z). In contrast, the UV+48 hLt retinas showed significant loss of all three cone cell types in both the dorsal and ventral retinas (Fig. 2D, H, L, P, T, X, Y and Z, Table 1) relative to untreated control retinas. In addition, compared with 48 hpUV retinas,
+
+译文: 之前的报告显示，恒定明亮的光对成年的斑马鱼的杆状光感受器造成的损害大于对锥状光感受器的损害（Thummel et al., 2010; Thummel et al., 2008a）。为了确定不同的光处理是否导致锥状光感受器的丧失存在显著差异，未处理和光损伤的视网膜使用锥细胞特异性标记物进行了免疫标记（Vihtelic et al., 1999）。紫外光视蛋白用于标记短单锥（uv cones），Zpr-1用于标记红/绿双锥，蓝光视蛋白用于标记长单锥（blue cones）。未处理视网膜的 dorsal 半部分每 300 微米线性长度平均包含 45.6±2.3 个 uv 锥，94.2±8.0 个双锥和 48.4±0.9 个蓝锥，而未处理视网膜的 ventral 半部分每 300 微米线性长度平均包含 56.4±5.6 个 uv 锥，104.6±4.3 个双锥和 60.4±3.4 个蓝锥（表 1）。经过 48 小时的恒定明亮光照（48 hLt）后，所有类型的锥细胞数量均有所减少，并且相对于未损伤的对照组，锥细胞看起来变短且肥大（图 2B, F, J, N, R, V, Y, Z）。然而，只有在 ventral 视网膜中观察到了双锥和蓝锥的显著损失（表 1，p<0.001 和 p=0.02，分别）。与未处理的视网膜相比，紫外线照射导致 dorsal 视网膜中的 uv 锥（21.8±8.1）、双锥（21.3±6.1）和蓝锥（30.3±3.0）的数量显著减少（图 2C, K, S, Y; 表 1，p=0.02，p<0.001，p<0.001，分别），但在 ventral 视网膜中没有这种情况（图 2G, O, W, Z）。相比之下，UV+48 hLt 视网膜在 dorsal 和 ventral 视网膜中均显示出所有三种锥细胞类型的显著损失（图 2D, H, L, P, T, X, Y 和 Z，表 1）相对于未处理的对照视网膜。此外，与 48 hpUV 视网膜相比，
+------------------------------------------------------------------------------------
+原文: 2008; 14:782–806. [PubMed: 18483561]
+
+译文: 2008; 14:782–806. [PubMed: 18483561]
+------------------------------------------------------------------------------------
+原文: Prolong Gold antifade reagent (Invitrogen). Gross inspection and stereoscopic detection of EGFP was performed using a Leica M205 FA fluorescent stereoscope. Confocal imaging was performed using a Leica TCS SP2 microscope. The microscope stage was zeroed with the confocal plane within the INL, which was identified via the unique and invariant cellular EGFP expression pattern in bipolar cells. Detection of nrd:EGFP from rod inner segments was imaged from confocal planes +21–24 µm and rod outer segments were detected at confocal planes +40–43 µm.
+
+译文: Prolong Gold 抗褪色试剂 (Invitrogen)。使用徕卡 M205 FA 荧光立体显微镜进行 EGFP 的粗略检验和立体检测。使用徕卡 TCS SP2 显微镜进行共聚焦成像。显微镜的目镜被归零于内核层（INL）内的共聚焦平面，该层通过双极细胞中独特且不变的 EGFP 表达模式进行识别。对 rod 内段的 nrd:EGFP 的检测是在 +21–24 微米的共聚焦平面成像的，rod 外段在 +40–43 微米的共聚焦平面被检测到。
+------------------------------------------------------------------------------------
+原文: Previous data indicate a strong protection of the ventral half of the retina to light damage (Vihtelic et al., 2006). Combining UV exposure and constant bright light resulted in the most significant damage to the ventral half of the retina, however, differences between the dorsal and ventral halves of the retina were still observed (Figs. 1 & 2). To determine whether a similar protective mechanism was present in anterior or posterior halves of the retina, untreated and 48 hour light-damaged eyes were sectioned in an anterior-to-posterior manner along the dorsal ventral axis and analyzed for PCNA immunolocalization. No differences were observed in undamaged (0 hr) retinas (Fig. 6A, E, I, and M). However, in each of the light treatment paradigms, more PCNA immunolocalization was observed in the anterior retinal sections than the posterior retinal sections (Fig. 6), indicating a protection of the posterior retina to light damage. In addition, as was the case with protection of the ventral half of the retina, combining UV and constant bright light largely eliminated the protection of the posterior region of the retina (Fig. D, H, L, and P).
+
+译文: 之前的数据表明，视网膜 ventral 半部分对光损伤具有强保护（Vihtelic et al., 2006）。结合紫外线照射和恒定明亮光导致视网膜 ventral 半部分受到最显著的损害，然而，dorsal 和 ventral 半部分之间仍然观察到差异（图 1 和 2）。为了确定视网膜的前半部分或后半部分是否存在类似的保护机制，未处理和 48 小时光损伤的眼睛沿 dorsal-ventral 轴以前-后方向切片，并分析 PCNA 免疫定位。未损伤（0 小时）视网膜中没有观察到差异（图 6A, E, I 和 M）。然而，在每种光处理范式中，前视网膜切片中观察到的 PCNA 免疫定位多于后视网膜切片（图 6），显示出对后视网膜光损伤的保护。此外，与视网膜 ventral 半部分的保护相同，结合紫外线和恒定明亮光大大消除了后视网膜区域的保护（图 D, H, L 和 P）。
+------------------------------------------------------------------------------------
+原文: Various light damage paradigms result in differences in photoreceptor loss
+
+译文: 不同的光损伤范式导致视杆细胞损失的差异
+------------------------------------------------------------------------------------
+原文: (PCNA) antibody (1:1000, Sigma Chemical), rabbit polyclonal anti-PCNA antisera (1:100,
+
+译文: （PCNA）抗体（1:1000，Sigma Chemical），兔源多克隆抗-PCNA血清（1:100，
+------------------------------------------------------------------------------------
+原文: Cicerone CM. Cones survive rods in the light-damaged eye of the albino rat. Science. 1976; 194:1183– 1185. [PubMed: 996550]
+
+译文: Cicerone CM. 在白化大鼠的光损伤眼中，锥体细胞在视杆细胞存活。科学。1976; 194:1183– 1185. [PubMed: 996550]
+------------------------------------------------------------------------------------
+原文: Müller glial cell division at 36 hours after light onset produces clusters of PCNA-positive progenitors within 12 hours (Kassen et al., 2007; Vihtelic and Hyde, 2000), at which point these progenitors begin to migrate to the ONL to replace the lost photoreceptors. Similar to the findings at 36 hours after light onset, we observed the greatest proliferation response in UV+48 hLt retinas (Fig. 4D and H). This was especially apparent when comparing the dorsal and ventral halves of the retina (compare Fig. 4E–H). Compared with the other light treatments, UV+48 hLt retinas showed the highest amount of PCNA-positive clusters in the ventral half of the retina (Fig. 4H).
+
+译文: Müller胶质细胞在光照开始36小时后的分裂产生PCNA阳性前体群，12小时内形成（Kassen et al., 2007; Vihtelic and Hyde, 2000），此时这些前体开始迁移到外核层，以替代失去的光感受器。与光照开始36小时后的发现类似，我们在UV+48 hLt视网膜中观察到最大的增殖反应（图4D和H）。在比较视网膜的背侧和腹侧时，这一点尤其明显（比较图4E–H）。与其他光处理相比，UV+48 hLt视网膜在视网膜腹侧显示出最高数量的PCNA阳性聚集体（图4H）。
+------------------------------------------------------------------------------------
+原文: Stone J, Maslim J, Valter-Kocsi K, Mervin K, Bowers F, Chu Y, Barnett N, Provis J, Lewis G, Fisher SK, Bisti S, Gargini C, Cervetto L, Merin S, Peer J. Mechanisms of photoreceptor death and survival in mammalian retina. Prog Retin Eye Res. 1999; 18:689–735. [PubMed: 10530749]
+
+译文: Stone J, Maslim J, Valter-Kocsi K, Mervin K, Bowers F, Chu Y, Barnett N, Provis J, Lewis G, Fisher SK, Bisti S, Gargini C, Cervetto L, Merin S, Peer J. 哺乳动物视网膜中光感受器死亡与存活的机制。视网膜眼研究进展。1999; 18:689–735. [PubMed: 10530749]
+------------------------------------------------------------------------------------
+原文: 1Department of Anatomy and Cell Biology and Department of Ophthalmology, Wayne State University School of Medicine, Detroit, MI, 48201, USA
+
+译文: 1解剖与细胞生物学系及眼科系，韦恩州立大学医学部，底特律，MI，48201，美国
+------------------------------------------------------------------------------------
+原文: To better visualize and quantify this protected region, undamaged and light-treated Tg(nrd:egfp)/alb retinas were flat-mounted to clearly visualize the EGFP-positive rod photoreceptors in the anterior and posterior halves of the retina (Fig. 7, 8). Confocal microscopy was used to determine the various layers of the retina, including the INL, RIS, and ROS (Fig. 7C–E, respectively). Since ROS were largely absent in all light-treated retinas (Fig. 7H), confocal microscopy of RIS was used to best discriminate the extent of rod photoreceptor damage in the anterior and posterior halves of the retina following the various light treatment paradigms. In untreated (0 hr) retinas, RIS formed a distinct honeycomb pattern that surrounded the cone photoreceptor somas (Fig. 8A). In 48 hLt retinas, a significant reduction in RIS was observed in both the anterior and posterior retinas (Fig. 8B, F, I, Table 4). However, significantly more damage occurred in the anterior retina when compared with the posterior (p<0.001). 48 hpUV retinas also showed significant loss of RIS compared with untreated retinas (p<0.001), but exhibited no differences between the anterior and posterior retinas (Fig. 8C, G, I, Table 4, p = 0.99). Finally, compared with the other light treatments, UV+48 hLt retinas showed the most significant loss of RIS (Fig. 8D, H, I, Table 4). In addition, similar to 48 hLt retinas, the UV+48 hLt retinas also exhibited significantly more damage in the anterior retina (Fig 8I, Table 4, p=0.002). Taken together, these data indicate that both the posterior and ventral portions of the retina are partially protected from light damage. In addition, concomitant use of UV exposure and constant bright light largely eliminates this protection, allowing for widespread damage of both rod and cone photoreceptors and a robust proliferation response throughout the retina.
+
+译文: 为更好地可视化和量化这一保护区域，未受损和光处理的Tg(nrd:egfp)/alb视网膜被平坦安装，以清晰可视化视网膜前后半部分的EGFP阳性视杆细胞（图7，8）。使用共聚焦显微镜确定视网膜的不同层次，包括内核层（INL），视杆内突（RIS）和视杆外突（ROS）（图7C–E，分别）。由于在所有光处理的视网膜中ROS大部分缺失（图7H），使用RIS的共聚焦显微镜最有效地区分各种光处理范式后视网膜前后半部分视杆光感受器的损伤程度。在未处理的（0小时）视网膜中，RIS形成了一个明显的蜂窝状图案，围绕着锥体光感受器的细胞体（图8A）。在48 hLt视网膜中，前后视网膜的RIS显著减少（图8B，F，I，表4）。然而，与后视网膜相比，前视网膜受到的损伤显著更多（p<0.001）。48 hpUV视网膜与未处理视网膜相比也显示出RIS的显著损失（p<0.001），但前后视网膜之间没有差异（图8C，G，I，表4，p = 0.99）。最后，与其他光处理相比，UV+48 hLt视网膜显示出RIS的最显著损失（图8D，H，I，表4）。此外，与48 hLt视网膜类似，UV+48 hLt视网膜在前视网膜中表现出显著更多的损伤（图8I，表4，p=0.002）。综合来看，这些数据显示，视网膜的后部分和腹部分在一定程度上受到光损伤的保护。此外，同时使用紫外线照射和持续明亮光线在很大程度上消除了这种保护，导致视杆和锥体光感受器的大范围损伤以及整个视网膜的强烈增殖反应。
+------------------------------------------------------------------------------------
+原文: Supplementary Material
+
+译文: 补充材料
+------------------------------------------------------------------------------------
+原文: Zebrafish provide an attractive model to study the retinal response to photoreceptor apoptosis due to its remarkable ability to spontaneously regenerate retinal neurons following damage. There are currently two widely used light-induced retinal degeneration models to damage photoreceptors in the adult zebrafish. One model uses constant bright light, whereas the other uses a short exposure to extremely intense ultraviolet light. Although both models are currently used, it is unclear whether they differ in regard to the extent of photoreceptor damage or the subsequent regeneration response. Here we report a thorough analysis of the photoreceptor damage and subsequent proliferation response elicited by each individual treatment, as well as by the concomitant use of both treatments. We show a differential loss of rod and cone photoreceptors with each treatment. Additionally, we show that the extent of proliferation observed in the retina directly correlates with the severity of photoreceptor loss. We also demonstrate that both the ventral and posterior regions of the retina are partially protected from light damage. Finally, we show that combining a short ultraviolet exposure followed by a constant bright light treatment largely eliminates the neuroprotected regions, resulting in widespread loss of rod and cone photoreceptors and a robust regenerative response throughout the retina.
+
+译文: 斑马鱼提供了一种有吸引力的模型，可以研究光感受器细胞凋亡对视网膜的反应，因为它在受损后具有自发再生视网膜神经元的显著能力。目前有两种广泛使用的光诱导视网膜退化模型，用于损伤成年斑马鱼的光感受器。一种模型使用恒定的强光，而另一种则使用短时间接触极强的紫外光。虽然这两种模型目前都在使用，但尚不清楚它们在光感受器损伤程度或随后的再生反应方面是否存在差异。在这里，我们报告了对每种单独处理所引发的光感受器损伤及随后的增殖反应，以及同时使用两种处理方法的全面分析。我们展示了在每种处理下杆细胞和锥细胞的不同损失。此外，我们还表明，在视网膜中观察到的增殖程度与光感受器损失的严重程度直接相关。我们还证明，视网膜的腹侧和后方区域在一定程度上受到光损伤的保护。最后，我们展示了结合短时间的紫外光暴露后进行恒定强光处理，基本上消除了神经保护区域，导致杆细胞和锥细胞的大范围损失，以及在整个视网膜内的强烈再生反应。
+------------------------------------------------------------------------------------
+原文: Immunohistochemistry and confocal microscopy
+
+译文: 免疫组化和共聚焦显微镜
+------------------------------------------------------------------------------------
+原文: Thummel R, Bai S, Sarras MP Jr, Song P, McDermott J, Brewer J, Perry M, Zhang X, Hyde DR, Godwin AR. Inhibition of zebrafish fin regeneration using in vivo electroporation of morpholinos
+
+译文: Thummel R, Bai S, Sarras MP Jr, Song P, McDermott J, Brewer J, Perry M, Zhang X, Hyde DR, Godwin AR. 通过体内电穿孔注射形态抑制剂抑制斑马鱼鳍再生
+------------------------------------------------------------------------------------
+原文: Portera-Cailliau C, Sung CH, Nathans J, Adler R. Apoptotic photoreceptor cell death in mouse models of retinitis pigmentosa. Proc Natl Acad Sci U S A. 1994; 91:974–978. [PubMed: 8302876]
+
+译文: Portera-Cailliau C, Sung CH, Nathans J, Adler R. 小鼠视网膜色素变性模型中的光感受器细胞凋亡性死亡。美国国家科学院院刊。1994; 91:974–978. [PubMed: 8302876]
+------------------------------------------------------------------------------------
+原文: Fausett BV, Goldman D. A role for alpha1 tubulin-expressing Muller glia in regeneration of the injured zebrafish retina. J Neurosci. 2006; 26:6303–6313. [PubMed: 16763038]
+
+译文: Fausett BV, Goldman D. 表达α1微管蛋白的穆勒胶质细胞在受伤斑马鱼视网膜再生中的作用。神经科学杂志。2006; 26:6303–6313. [PubMed: 16763038]
+------------------------------------------------------------------------------------
+原文: (and slightly at 48 hLt), and the lower band increased from 0 hr→48 hLt→48 hpUV→UV +48 hLt. B. Graphic representation of the average log10 band density of Zpr-1 and PCNA expression. Significant differences between groups (p < 0.05) is indicated as: “a” for compared with 48 hpf; “b” for compared with untreated (0 hr); “c” for compared with 48 hLt’ and “d” for compared with 48 hpUV.
+
+译文: (且在48 hLt时略微变化)，较低带从0 hr→48 hLt→48 hpUV→UV +48 hLt增加。B. Zpr-1和PCNA表达的平均log10带密度的图形表示。组间显著差异（p < 0.05）以以下方式表示：“a”为与48 hpf比较；“b”为与未处理（0 hr）比较；“c”为与48 hLt比较；“d”为与48 hpUV比较。
+------------------------------------------------------------------------------------
+原文: A. Expression levels of Zpr-1, PCNA, Cyclin H, Cdk-1, Cdk-2, and β-actin were determined in 48 hour post-fertilization embryos (48 hpf), untreated adult retinas (0 hr), and following the various light damage paradigms (48 hLt, 48 hpUV, and UV+48 hLt). Zpr-1 was not detected at 48 hpf since double cones are not present at this early stage in development. Zpr-1 expression decreased from 0 hr→48 hLt→48 hpUV→UV+48 hLt, representing a progressive loss of double cones. Conversely, PCNA and Cyclin H levels increased from 0 hr→48 hLt→48 hpUV→UV+48 hLt. Two bands were observed for Cdk-1 and Cdk-2, most likely representing phosphorylated and unphosphorylated forms of each protein. For Cdk-1, the upper band was not detected at 0 hr, and both the upper and lower bands increased from 0 hr→48 hLt→48 hpUV→UV+48 hLt. For Cdk-2, only the upper band was detected at 0 hr
+
+译文: A. 在48小时后受精胚胎（48 hpf）、未处理的成年视网膜（0 hr）和经历各种光损伤范例（48 hLt、48 hpUV和UV+48 hLt）中确定了Zpr-1、PCNA、Cyclin H、Cdk-1、Cdk-2和β-肌动蛋白的表达水平。由于双锥体在此早期发育阶段不存在，Zpr-1在48 hpf时未被检测到。Zpr-1的表达从0 hr→48 hLt→48 hpUV→UV+48 hLt逐渐减少，代表双锥体的逐步损失。相反，PCNA和Cyclin H的水平从0 hr→48 hLt→48 hpUV→UV+48 hLt增加。Cdk-1和Cdk-2观察到两个带，很可能代表每种蛋白质的磷酸化和非磷酸化形式。对于Cdk-1，0 hr时未检测到上带，且上带和下带均从0 hr→48 hLt→48 hpUV→UV+48 hLt增加。对于Cdk-2，仅在0 hr时检测到上带。
+------------------------------------------------------------------------------------
+原文: 2008a; 87:433–444. [PubMed: 18718467]
+
+译文: 2008a; 87:433–444. [PubMed: 18718467]
+------------------------------------------------------------------------------------
+原文: Montgomery JE, Parsons MJ, Hyde DR. A novel model of retinal ablation demonstrates that the extent of rod cell death regulates the origin of the regenerated zebrafish rod photoreceptors. J Comp Neurol. 2010; 518:800–814. [PubMed: 20058308]
+
+译文: Montgomery JE, Parsons MJ, Hyde DR. 一种新的视网膜消融模型表明，杆细胞死亡的程度调节了再生斑马鱼杆状光感受器的起源。 J Comp Neurol. 2010; 518:800–814. [PubMed: 20058308]
+------------------------------------------------------------------------------------
+原文: Results
+
+译文: 结果
+------------------------------------------------------------------------------------
+原文: Bernardos RL, Barthel LK, Meyers JR, Raymond PA. Late-stage neuronal progenitors in the retina are radial Muller glia that function as retinal stem cells. J Neurosci. 2007; 27:7028–7040. [PubMed: 17596452]
+
+译文: Bernardos RL, Barthel LK, Meyers JR, Raymond PA. 视网膜中的晚期神经前体细胞是放射状的穆勒胶质细胞，具有视网膜干细胞的功能。 J Neurosci. 2007; 27:7028–7040. [PubMed: 17596452]
+------------------------------------------------------------------------------------
+原文: (DRH), National Institutes of Health grants R21EY019401 (RT) R01EY018417 (RT and DRH), P30EY04068
+
+译文: (DRH), 美国国立卫生研究院资助 R21EY019401 (RT) R01EY018417 (RT 和 DRH), P30EY04068
+------------------------------------------------------------------------------------
+原文: References
+
+译文: 参考文献
+------------------------------------------------------------------------------------
+原文: Otteson DC, D'Costa AR, Hitchcock PF. Putative stem cells and the lineage of rod photoreceptors in the mature retina of the goldfish. Dev Biol. 2001; 232:62–76. [PubMed: 11254348]
+
+译文: Otteson DC, D'Costa AR, Hitchcock PF. 成熟金鱼视网膜中假定的干细胞和杆状光感受器的谱系。 Dev Biol. 2001; 232:62–76. [PubMed: 11254348]
+------------------------------------------------------------------------------------
+原文: Jamil S, Sobouti R, Hojabrpour P, Raj M, Kast J, Duronio V. A proteolytic fragment of Mcl-1 exhibits nuclear localization and regulates cell growth by interaction with Cdk1. Biochem. J. 2005; 387:659–667. [PubMed: 15554878]
+
+译文: Jamil S, Sobouti R, Hojabrpour P, Raj M, Kast J, Duronio V. Mcl-1的一个蛋白水解片段表现出核定位，并通过与Cdk1的相互作用调节细胞生长。 Biochem. J. 2005; 387:659–667. [PubMed: 15554878]
+------------------------------------------------------------------------------------
+原文: Adult zebrafish possess a unique ability to spontaneously regenerate retinal tissue following damage. Numerous damage paradigms have been established to induce retinal regeneration in the adult zebrafish, including the use of cytotoxins (Fimbel et al., 2007; Montgomery et al., 2010; Sherpa et al., 2008), laser ablation (Wu et al., 2001), physical perforation (Fausett and Goldman, 2006), and constant bright light treatment (Vihtelic and Hyde, 2000). While these techniques vary in selectivity and severity of injury, the cellular mechanism of regeneration is conserved in each case. Following neuronal cell death, increased proliferation is observed in two distinct locations. In the inner nuclear layer (INL), Müller glial cells re-enter the cell cycle to create large numbers of retinal progenitor cells that are capable of differentiating into any retinal cell type lost during injury (Fimbel et al., 2007; Otteson et al., 2001; Raymond et al., 2006; Thummel et al., 2008b; Vihtelic and Hyde, 2000). The second group of proliferating cells observed following retinal damage are termed rod precursors, which represent progenitor cells that are scattered throughout the outer nuclear layer (ONL) of the retina and differentiate only into rod photoreceptors.(Johns and Fernald, 1981; Otteson et al., 2001; Thummel et al., 2010). Although it is not clear what percentage of rod photoreceptors regenerate from rod precursors and what percentage regenerate from Müller glial-derived progenitors, Müller glial cells are considered the major source of retinal progenitors due to their robust proliferative response (Raymond et al., 2006). However, rod precursors were reported to regenerate normal numbers of rod photoreceptors in the absence of Müller glial cell proliferation (Thummel et al., 2010).
+
+译文: 成年斑马鱼具有损伤后自发再生视网膜组织的独特能力。已经建立了多种损伤范式来诱导成年斑马鱼的视网膜再生，包括使用细胞毒素（Fimbel等，2007；Montgomery等，2010；Sherpa等，2008）、激光消融（Wu等，2001）、物理穿孔（Fausett和Goldman，2006）和持续明亮光照治疗（Vihtelic和Hyde，2000）。虽然这些技术在选择性和损伤的严重性上有所不同，但每种情况下再生的细胞机制都是保守的。在神经细胞死亡后，观察到在两个不同的部位细胞增殖增加。在内核层（INL），穆勒胶质细胞重新进入细胞周期，以产生大量能够分化为任何在损伤中丧失的视网膜细胞类型的视网膜前体细胞（Fimbel等，2007；Otteson等，2001；Raymond等，2006；Thummel等，2008b；Vihtelic和Hyde，2000）。在视网膜损伤后观察到的第二组增殖细胞被称为杆前体，这些细胞是分散在视网膜外核层（ONL）中的前体细胞，仅分化为杆状光感受器。（Johns和Fernald，1981；Otteson等，2001；Thummel等，2010）。虽然尚不清楚有多少杆状光感受器是从杆前体再生的，以及有多少是从穆勒胶质细胞衍生的前体再生的，但由于其强大的增殖反应，穆勒胶质细胞被认为是视网膜前体细胞的主要来源（Raymond等，2006）。然而，有报告称，在缺乏穆勒胶质细胞增殖的情况下，杆前体再生了正常数量的杆状光感受器（Thummel等，2010）。
+------------------------------------------------------------------------------------
+原文: rats. Ann N Y Acad Sci. 1991; 638:341–347. [PubMed: 1785811]
+
+译文: 老鼠。Ann N Y Acad Sci. 1991; 638:341–347. [PubMed: 1785811]
+------------------------------------------------------------------------------------
+原文: B complex (Devault et al., 1992; Fesquet et al., 1993). Dephosphorylation of Thr-14 and Tyr-15 by Cdc25 completes the activation of the complex and initiates the transition from prophase into metaphase (Devault et al., 1992). Both the upper and lower Cdk-1 bands increased in light-treated retinas (Fig. 5A), indicating that both inactive and active forms of the protein increased during the light treatment. Similar to Cdk-1, full activation of Cdk-2 requires dephosphorylation of Thr-14 and Tyr-15 by Cdc25 and phosphorylation of Thr-160 by CAK (Gu et al., 1992). Cdk-2 binds with Cyclin E during the G1/S transition and with Cyclin A during S phase (Morgan, 1997). For Cdk-2 expression, light treatment resulted in a decrease of the upper band and an increase in the lower band (Fig. 5A). Compared with the other light treatments, UV+48 hLt retinas showed the highest amount of PCNA, Cyclin H, Cdk-1, and Cdk-2 (Fig. 5A, Table 3).
+
+译文: B复合体 (Devault et al., 1992; Fesquet et al., 1993)。Cdc25对Thr-14和Tyr-15的去磷酸化完成了该复合体的激活，并启动了从前期到中期的过渡 (Devault et al., 1992)。在光处理的视网膜中，上下Cdk-1条带均增加 (图5A)，这表明该蛋白质的非活性和活性形式在光处理过程中均有所增加。与Cdk-1类似，Cdk-2的完全激活需要Cdc25对Thr-14和Tyr-15的去磷酸化，以及CAK对Thr-160的磷酸化 (Gu et al., 1992)。Cdk-2在G1/S过渡期与Cyclin E结合，在S期与Cyclin A结合 (Morgan, 1997)。对于Cdk-2的表达，光处理导致上条带减少，下条带增加 (图5A)。与其他光处理相比，UV+48 hLt视网膜表现出最高的PCNA、Cyclin H、Cdk-1和Cdk-2水平 (图5A，表3)。
+------------------------------------------------------------------------------------
+原文: regeneration. Exp Eye Res. 2010; 90:572–582. [PubMed: 20152834]
+
+译文: 再生。Exp Eye Res. 2010; 90:572–582. [PubMed: 20152834]
+------------------------------------------------------------------------------------
+原文: Joly S, Pernet V, Samardzija M, Grimm C. Pax6-positive Muller glia cells express cell cycle markers but do not proliferate after photoreceptor injury in the mouse retina. Glia. 2011; 59:1033–1046. [PubMed: 21500284]
+
+译文: Joly S, Pernet V, Samardzija M, Grimm C。Pax6阳性的穆勒胶质细胞在小鼠视网膜中受光感伤后表达细胞周期标记，但不增殖。Glia. 2011; 59:1033–1046. [PubMed: 21500284]
+------------------------------------------------------------------------------------
+原文: Wu DM, Schneiderman T, Burgett J, Gokhale P, Barthel L, Raymond PA. Cones regenerate from retinal stem cells sequestered in the inner nuclear layer of adult goldfish retina. Invest Ophthalmol Vis Sci. 2001; 42:2115–2124. [PubMed: 11481280]
+
+译文: Wu DM, Schneiderman T, Burgett J, Gokhale P, Barthel L, Raymond PA。锥体细胞由成年金鱼视网膜的内核层隔离出的视网膜干细胞再生。Invest Ophthalmol Vis Sci. 2001; 42:2115–2124. [PubMed: 11481280]
+------------------------------------------------------------------------------------
+原文: Westerfield. The Zebrafish Book: A guide for the laboratory use of zebrafish (Danio rerio). Eugene, OR: Univ. of Oregon Press; 1995.
+
+译文: Westerfield。斑马鱼书：斑马鱼 (Danio rerio) 的实验室使用指南。俄勒冈州尤金：俄勒冈大学出版社；1995。
+------------------------------------------------------------------------------------
+原文: Western blot analysis
+
+译文: 西方印迹分析
+------------------------------------------------------------------------------------
+原文: Abstract
+
+译文: 摘要
+------------------------------------------------------------------------------------
+原文: Morris AC, Scholz TL, Brockerhoff SE, Fadool JM. Genetic dissection reveals two separate pathways for rod and cone regeneration in the teleost retina. Dev Neurobiol. 2008; 68:605–619. [PubMed: 18265406]
+
+译文: Morris AC, Scholz TL, Brockerhoff SE, Fadool JM。遗传解剖揭示了在硬骨鱼视网膜中杆细胞和锥体细胞再生的两个独立途径。Dev Neurobiol. 2008; 68:605–619. [PubMed: 18265406]
+------------------------------------------------------------------------------------
+原文: Figure 4. PCNA immunolocalization following various light damage paradigms
+
+译文: 图4。不同光损伤模式下的PCNA免疫定位
+------------------------------------------------------------------------------------
+原文: NeuroD; transgene; zebrafish; retina; photoreceptor regeneration; light-damage; light induced retinal degeneration
+
+译文: NeuroD; 转基因; 斑马鱼; 视网膜; 光感伤再生; 光损伤; 光诱导视网膜退化
+------------------------------------------------------------------------------------
+原文: Many human retinal degenerative diseases, such as AMD and RP, result in photoreceptor apoptosis (Chang et al., 1993; Marc et al., 2008; Portera-Cailliau et al., 1994). As a result, underlying Müller glial cell hypertrophy and undergo reactive gliosis. In damaged zebrafish retinas, Müller glial cells also hypertrophy and undergo a gliosis-like response (Fig. 3) (Thummel et al., 2008a), However, in zebrafish, this leads to Müller glial cell proliferation and a generation of large numbers of retinal progenitors (Figs. 3 and 4), whereas in the damaged mammalian retina, Müller glia upregulate fibrous proteins and form a glial scar (Jones and Marc, 2005). The extent of reactive gliosis and glial scar formation in the mammalian retina correlates with the extent of photoreceptor damage (Marc et al., 2008). We show that Müller glial cells in the zebrafish retina are also sensitive to the level of photoreceptor damage (Figs. 3 and 4, Table 2). When the photoreceptor damage is relatively minor, such as with the constant bright light treatment, a small percentage of Müller glial cells re-enter the cell cycle and produce a modest number of progenitors (Fig. 3, Table 2). In contrast, when UV exposure is combined with constant light treatment to damage large numbers of rods and cones, over half of the resident Müller glial cells re-enter the cell cycle and a large number of progenitors are produced (Figs. 3 and 4, Table 2). These data imply that in cases of even greater damage to the retina, such as combining a light-lesion model with a cytotoxin model, an even greater number of Müller glial cells may re-enter the cell cycle. Alternatively, it is also possible that only a subset of Müller glial cells can respond and re-enter the cell cycle regardless of the extent of retinal damage. Recent evidence suggests that Müller glial cells in the injured mammalian retina can be induced to re-enter the cell cycle and produce small numbers of progenitors (Joly et al., 2011; Wan et al., 2008), and thus, may have the capacity to participate in a regenerative response. However, it is unclear how Müller glial cells interpret the extent of photoreceptor damage and how this in turn leads to either a healthy regeneration response or reactive gliosis. Comparing the underlying genetics of the variable responses of Müller glial cell proliferation observed in these damage paradigms could provide insight into the signaling mechanisms that control the extent of Müller glia cell reactivity.
+
+译文: 许多人类视网膜退化性疾病，如AMD和RP，导致光感受器凋亡 (Chang et al., 1993; Marc et al., 2008; Portera-Cailliau et al., 1994)。因此，底层穆勒胶质细胞肥大并经历反应性胶质增生。在受损的斑马鱼视网膜中，穆勒胶质细胞也出现肥大并经历类似胶质增生的反应 (图3) (Thummel et al., 2008a)，然而，在斑马鱼中，这导致穆勒胶质细胞增殖和大量视网膜前体细胞的生成 (图3和4)，而在受损的哺乳动物视网膜中，穆勒胶质细胞上调纤维蛋白并形成胶质瘢痕 (Jones和Marc，2005)。哺乳动物视网膜中的反应性胶质增生和胶质瘢痕形成的程度与光感受器损伤的程度相关 (Marc et al., 2008)。我们表明，斑马鱼视网膜中的穆勒胶质细胞对光感受器损伤的程度也很敏感 (图3和4，表2)。当光感受器损伤相对较小，如在持续强光处理下，一小部分穆勒胶质细胞重新进入细胞周期并产生适量的前体细胞 (图3，表2)。相比之下，当UV照射与持续光处理结合以损伤大量杆细胞和锥体细胞时，超过一半的常驻穆勒胶质细胞重新进入细胞周期，并产生大量前体细胞 (图3和4，表2)。这些数据暗示在视网膜损伤程度更大的情况下，例如将光损伤模型与细胞毒素模型结合使用，可能会有更多的穆勒胶质细胞重新进入细胞周期。或者，也有可能只有一部分穆勒胶质细胞能够响应并重新进入细胞周期，而无论视网膜损伤的程度如何。最近的证据表明，受伤的哺乳动物视网膜中的穆勒胶质细胞可以被诱导重新进入细胞周期并产生少量前体细胞 (Joly et al., 2011; Wan et al., 2008)，因此，可能具有参与再生反应的能力。然而，目前尚不清楚穆勒胶质细胞如何解读光感受器损伤的程度，以及这如何导致健康的再生反应或反应性胶质增生。比较这些损伤模式中观察到的穆勒胶质细胞增殖可变反应的潜在遗传学，可能会为控制穆勒胶质细胞反应程度的信号机制提供洞见。
+------------------------------------------------------------------------------------
+原文: [PubMed: 1387401]
+
+译文: [PubMed: 1387401]
+------------------------------------------------------------------------------------
+原文: Quantification of the number of EGFP-positive rod photoreceptor somas (Figure 1), the number of each cone photoreceptor cell type (Figure 2), and the percentage of PCNApositive Müller glia (Figure 3), was performed in both the dorsal and ventral halves of the retina over a linear distance of 300 microns, equidistant from the margin and the optic nerve. Quantification of the number of each cone cell type was performed on 6 micron z-seriesstacked images (0.5 micron per stack) obtained on a Leica TCS SP2 confocal microscope. Quantification of the number of EGFP-positive rod photoreceptor somas and the percentage of PCNA-positive Müller glia (Figure 3) were performed on images obtained on a Zeiss Axioplan 2 Imaging Apotome microcrope. A minimum of 5 retinas were used for each group. Statistical differences between groups (p<0.05) was performed using student’s t-test.
+
+译文: 在视网膜的背半部分和腹半部分沿300微米的线性距离内，量化EGFP阳性杆状光感受器体（图1）、每种锥体光感受器细胞类型的数量（图2）以及PCNA阳性穆勒胶质细胞的百分比（图3）。这些量化是相对于视网膜边缘和视神经的等距进行的。对每种锥体细胞类型的量化是在使用Leica TCS SP2共聚焦显微镜获得的6微米z系列叠加图像（每层0.5微米）上进行的。EGFP阳性杆状光感受器体数量和PCNA阳性穆勒胶质细胞百分比（图3）的量化是在使用Zeiss Axioplan 2成像显微镜获得的图像上进行的。每组使用至少5个视网膜样本。组间的统计差异（p<0.05）采用学生t检验进行分析。
+------------------------------------------------------------------------------------
+原文: 1. Introduction
+
+译文: 1. 引言
+------------------------------------------------------------------------------------
+原文: Devault A, Fesquet D, Cavadore JC, Garrigues AM, Labbe JC, Lorca T, Picard A, Philippe M, Doree M. Cyclin A potentiates maturation-promoting factor activation in the early Xenopus embryo via inhibition of the tyrosine kinase that phosphorylates cdc2. J Cell Biol. 1992; 118:1109–1120.
+
+译文: Devault A, Fesquet D, Cavadore JC, Garrigues AM, Labbe JC, Lorca T, Picard A, Philippe M, Doree M. Cyclin A通过抑制磷酸化cdc2的酪氨酸激酶，在早期非洲爪蟾胚胎中增强成熟促进因子激活。J Cell Biol. 1992;118:1109–1120.
+------------------------------------------------------------------------------------
+原文: hours post fertilization (hpf), undamaged control adult retinas (n=10) or light damaged adult retinas (n=10 per light treatment), and homogenized in extraction buffer (10% Glycerol, 1% Triton X-100, 5mM KPO4, 0.05mM EDTA, 1 complete protease inhibitor cocktail tablet from Roche). The total protein equivalent of 1 embryo or 1/4 retina was combined with 2X Laemmli sample buffer (Bio-Rad, 161-0732), boiled for 4 min, electrophoresed through a
+
+译文: 受精后小时（hpf），未受损的对照成人视网膜（n=10）或光损伤的成人视网膜（每种光处理n=10），并在提取缓冲液（10%甘油，1% Triton X-100，5mM KPO4，0.05mM EDTA，来自Roche的1片完整蛋白酶抑制剂混合物）中均质化。1个胚胎或1/4视网膜的总蛋白量与2X Laemmli样品缓冲液（Bio-Rad, 161-0732）结合，煮沸4分钟后，经过电泳分离。
+------------------------------------------------------------------------------------
+原文: Figure 2. Cone photoreceptor loss following various light damage paradigms
+
+译文: 图2. 不同光损伤模式下的锥体光感受器丢失
+------------------------------------------------------------------------------------
+原文: Practical considerations
+
+译文: 实际考虑
+------------------------------------------------------------------------------------
+原文: EGFP-positive rod photoreceptors in the dorsal (A, B, E, F) and ventral (C, D, G, H) halves of the retina from adult Tg(nrd:egfp)/alb zebrafish. A. Untreated (0 hr) dorsal retina with EGFP-positive somas in the outer nuclear layer (ONL), rod inner segments (RIS), and rod outer segments (ROS). B. Dorsal retina following a 48 hour exposure to constant bright light (48 hLt), with fewer EGFP-positive somas in the ONL, and truncated RIS and ROS. C. 0 hr ventral retina with undamaged ONL, RIS, and ROS. D. 48 hLt ventral retina, with fewer ONL nuclei, but intact RIS and ROS. E. Dorsal retina 48 hours after a 30 minute exposure to UV light (48 hpUV), with degenerated ROS, RIS, and ONL. F. Dorsal retina after a 30 minute exposure to UV light followed by 48 hours of constant bright light (UV+48 hLt), with degenerated ROS, RIS, and ONL. G. 48 hpUV ventral retina with fewer ONL and truncated RIS and ROS. H. UV+48 hLt ventral retina with degenerating ROS, RIS, and ONL. I. Quantification of the average number of rod photoreceptors per 300 microns in the dorsal and ventral halves of the retina following various light treatments. Significant differences between groups (p < 0.05) is indicated as: “a” for compared with Untreated (0 hr); “b” for compared with 48 hLt; and “c” for compared with 48 hpUV. Scale bar in panel A represents 75 microns.
+
+译文: 在成年Tg(nrd:egfp)/alb斑马鱼的视网膜背半部分（A, B, E, F）和腹半部分（C, D, G, H）中的EGFP阳性杆状光感受器。A. 未处理的（0小时）背视网膜，外核层（ONL）中有EGFP阳性体、杆内段（RIS）和杆外段（ROS）。B. 在持久明亮光照下暴露48小时（48 hLt）的背视网膜，ONL中的EGFP阳性体减少，RIS和ROS缩短。C. 0小时的腹视网膜，ONL、RIS和ROS未受损。D. 48 hLt腹视网膜，ONL核数量减少，但RIS和ROS完好。E. 经过30分钟UV光照后48小时的背视网膜（48 hpUV），ROS、RIS和ONL退化。F. 经30分钟UV光照后再经过48小时持久明亮光照（UV+48 hLt）的背视网膜，ROS、RIS和ONL退化。G. 48 hpUV腹视网膜，ONL数量减少，RIS和ROS缩短。H. UV+48 hLt腹视网膜，ROS、RIS和ONL退化。I. 在经历各种光处理后，量化每300微米的杆状光感受器的平均数量，分别在视网膜的背半部分和腹半部分。组间显著差异（p < 0.05）表示为：“a”与未处理（0小时）比较；“b”与48 hLt比较；“c”与48 hpUV比较。图A中的标尺条代表75微米。
+------------------------------------------------------------------------------------
+原文: UV+48 hLt retinas showed significantly fewer blue cones in the dorsal and ventral retinas
+
+译文: UV+48 hLt视网膜显示出在背侧和腹侧视网膜中蓝锥细胞显著减少
+------------------------------------------------------------------------------------
+原文: Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+译文: 出版商声明：这是接受发表的未经编辑的手稿的PDF文件。作为对客户的服务，我们提供此手稿的早期版本。该手稿将经过排版、校对和最终可引用形式出版之前的审查。请注意，在制作过程中可能会发现错误，这可能会影响内容，所有适用于期刊的法律免责声明均适用。
+------------------------------------------------------------------------------------
+原文: There are currently two widely-used models to induce photoreceptor apoptosis in adult zebrafish: constant bright light of ~8,000 lux and a short exposure to ~100,000 lux of a UV light source. Here we report a thorough analysis of the photoreceptor damage and the subsequent proliferation response elicited by each individual treatment, as well as by the concomitant use of both treatments. We show that constant bright light primarily damages rod photoreceptors, leaving the cone photoreceptors largely intact (Figs. 1 and 2, Table 1). In contrast, we show that UV treatment results in significant damage to both rods and cones (Figs. 1 and 2, Table 1). Each of these treatments results in more damage to the dorsal retina than to the ventral retina (Figs. 1 and 2, Table 1). Combining the UV exposure followed by constant bright light results in significantly greater loss of both rods and cones to the dorsal and ventral retinas, largely eliminating the neuroprotection of the ventral retina (Figs. 1 and 2, Table 1). Additionally, we show that the extent of photoreceptor damage with each treatment directly correlates with the percentage of Müller glia that re-enter the cell cycle and the subsequent amplification of retinal progenitors (Figs. 3 and 4, Table 2). Finally, we provide strong evidence for a previously-undiscovered protection of the posterior retina to light damage and conclude that both the ventral and posterior portions of the retina are naturally resistant to light lesion (Figs. 6–8).
+
+译文: 目前有两种广泛使用的模型用于诱导成年斑马鱼的光感受器凋亡：约8,000 lux的持续强光和短时间暴露于约100,000 lux的紫外线光源。在此，我们报告对每种单独处理所引发的光感受器损伤及随后的增殖反应的全面分析，以及同时使用这两种处理的结果。我们显示，持续的强光主要损害视杆光感受器，使视锥光感受器基本保持完好（图1和图2，表1）。相比之下，我们显示紫外线处理显著损害视杆和视锥（图1和图2，表1）。每种处理都导致背侧视网膜比腹侧视网膜受到更多损伤（图1和图2，表1）。结合紫外线暴露后进行的持续强光照射导致背侧和腹侧视网膜中的视杆和视锥显著减少，基本消除了腹侧视网膜的神经保护（图1和图2，表1）。此外，我们显示每种处理的光感受器损伤程度与重新进入细胞周期的美克尔胶质细胞的百分比及视网膜祖细胞的随后的增殖直接相关（图3和图4，表2）。最后，我们提供了强有力的证据，证明后视网膜在光损伤下具有前所未有的保护作用，并得出结论，腹侧和后侧视网膜部分天生对光损伤具有抵抗力（图6-8）。
+------------------------------------------------------------------------------------
+原文: A. Schematic representation of the orientation used for these studies on flatmounted retinas. Anterior is to the left and posterior is to the right. B. Stereofluorescent image of an untreated, flatmounted Tg(nrd:egfp)/alb retina, oriented as shown in panel A. C – H. Confocal images taken at various focal planes in the anterior retina (equidistant between the dorsal and ventral halves) revealed the inner retina (INL), rod inner segments (RIS), and rod outer segments (ROS). C. EGFP-positive bipolar cells were detected in the INL of untreated retinas. D. EGFP-positive RIS exhibited the characteristic honeycomb pattern in untreated retinas. E. EGFP-positive ROS were undamaged in untreated retinas. F. Following 48 hours of constant bright light (48 hLt), EGFP-positive bipolar cells were present in the INL and appeared hypertrophied. G. EGFP-positive RIS in 48 hLt retinas were damaged (note large EGFP-negative areas) and disorganized. H. ROS were not detected in 48 hLt retinas. Scale bar in panel B represents 450 microns. The scale bar in panel C (C–H) represents 100 microns.
+
+译文: A. 用于这些平铺视网膜研究的方向示意图。前部在左侧，后部在右侧。B. 未处理的平铺Tg(nrd:egfp)/alb视网膜的立体荧光图像，如A图所示方向。C – H. 在不同焦平面下拍摄的前视网膜的共聚焦图像（位于背侧和腹侧之间的等距位置）显示了内视网膜（INL）、视杆内段（RIS）和视杆外段（ROS）。C. 在未处理视网膜的INL中检测到EGFP阳性的双极细胞。D. 在未处理视网膜中，EGFP阳性的RIS显示出特征性的蜂窝状图案。E. 在未处理视网膜中，EGFP阳性的ROS未受损伤。F. 在经历48小时持续强光（48 hLt）后，EGFP阳性的双极细胞在INL中出现并显得肥大。G. 在48 hLt视网膜中的EGFP阳性RIS受到损伤（注意大面积的EGFP阴性区域）且呈现紊乱状态。H. 在48 hLt视网膜中未检测到ROS。B图中的比例尺代表450微米。C图（C–H）中的比例尺代表100微米。
+------------------------------------------------------------------------------------
+原文: Figure 7. Orientation and imaging of flatmounted retinas
+
+译文: 图7. 平面固定视网膜的定向和成像
+------------------------------------------------------------------------------------
+原文: Figure 1. Rod photoreceptor loss following various light damage paradigms
+
+译文: 图1. 不同光损伤范式下杆状光感受器损失
+------------------------------------------------------------------------------------
+原文: Jennifer L. Thomas1, Craig M. Nelson2, Xixia Luo1, David R. Hyde2, and Ryan Thummel1,*
+
+译文: Jennifer L. Thomas1, Craig M. Nelson2, Xixia Luo1, David R. Hyde2, 和 Ryan Thummel1,*
+------------------------------------------------------------------------------------
+原文: (LIRD) is an established method to induce photoreceptor apoptosis and has many advantages over other models of AMD and RP. LIRD leads to faster photoreceptor
+
+译文: (LIRD) 是一种已知的方法，用于诱导光感受器细胞凋亡，并且相较于其他AMD和RP模型有许多优势。LIRD导致光感受器的
+------------------------------------------------------------------------------------
+原文: Wenzel A, Grimm C, Samardzija M, Reme CE. Molecular mechanisms of light-induced photoreceptor apoptosis and neuroprotection for retinal degeneration. Prog Retin Eye Res. 2005; 24:275–306. [PubMed: 15610977]
+
+译文: Wenzel A, Grimm C, Samardzija M, Reme CE. 光诱导光感受器凋亡和视网膜退化神经保护的分子机制. Prog Retin Eye Res. 2005; 24:275–306. [PubMed: 15610977]
+------------------------------------------------------------------------------------
+原文: Zebrafish lines and maintenance
+
+译文: 斑马鱼品系和维持
+------------------------------------------------------------------------------------
+原文: Marc RE, Jones BW, Watt CB, Vazquez-Chona F, Vaughan DK, Organisciak DT. Extreme retinal remodeling triggered by light damage: implications for age related macular degeneration. Mol Vis.
+
+译文: Marc RE, Jones BW, Watt CB, Vazquez-Chona F, Vaughan DK, Organisciak DT. 光损伤引发的极端视网膜重塑：对年龄相关性黄斑变性的影响. Mol Vis.
+------------------------------------------------------------------------------------
+原文: Cryosections of the dorsal half of the retina, taken from the anterior (A–D), central (E–L), or posterior regions (M–P) of the retina were immunolabeld with PCNA (red). In untreated (0 hr) retinas (A, E, I, M), PCNA-positive cells were occasionally observed as rod precursors in the outer nuclear layer (ONL). Following 48 hours of constant bright light (48 hLt; panels B, F, J, and N), PCNA-positive cells were observed in the inner nuclear layer (INL) and ONL in sections from the anterior and central retina, but not the posterior retina. In addition, the proliferation response was much more robust in the anterior-most section (B). 48 hours after a 30 minute UV exposure (48 hpUV; panels C, G, K, and O), clusters of PCNApositive cells were observed in the INL and ONL in sections from the anterior and central retina. The posterior retina (O), in contrast, possessed isolated PCNA-positive cells in both the INL and ONL, indicative of a more subdued proliferative response. After a 30 minute exposure to UV light followed by 48 hours of constant bright light (UV+48 hLt; panels D, H, L, and P), large clusters of PCNA-positive nuclei were present throughout the anterior, central, and posterior retina. Scale bar in panel A is 50 microns.
+
+译文: 从视网膜的前部（A–D）、中央（E–L）或后部（M–P）取出的视网膜背半部分的冷冻切片用PCNA（红色）进行免疫标记。在未经处理的（0小时）视网膜（A, E, I, M）中，偶尔观察到PCNA阳性细胞作为外核层（ONL）中的杆状前体。在持续48小时的强光照射（48 hLt; 面板B, F, J 和 N）后，在前部和中央视网膜的切片中观察到内核层（INL）和ONL中的PCNA阳性细胞，但在后部视网膜中没有。此外，前部切片（B）中的增殖反应更为强烈。在30分钟UV光照射后48小时（48 hpUV; 面板C, G, K 和 O），在前部和中央视网膜的切片中观察到INL和ONL的PCNA阳性细胞簇。相比之下，后部视网膜（O）中在INL和ONL中存在孤立的PCNA阳性细胞，表明增殖反应较为温和。在30分钟UV光照射后紧接着48小时的持续强光照射（UV+48 hLt; 面板D, H, L 和 P）后，前部、中央和后部视网膜中普遍存在大量PCNA阳性细胞核。面板A中的比例尺为50微米。
+------------------------------------------------------------------------------------
+原文: Vihtelic TS, Doro CJ, Hyde DR. Cloning and characterization of six zebrafish photoreceptor opsin cDNAs and immunolocalization of their corresponding proteins. Vis Neurosci. 1999; 16:571–585. [PubMed: 10349976]
+
+译文: Vihtelic TS, Doro CJ, Hyde DR. 六种斑马鱼光感受器视蛋白cDNA的克隆和特征分析及其对应蛋白的免疫定位. Vis Neurosci. 1999; 16:571–585. [PubMed: 10349976]
+------------------------------------------------------------------------------------
+原文: Faktorovich EG, Steinberg RH, Yasumura D, Matthes MT, LaVail MM. Photoreceptor degeneration in inherited retinal dystrophy delayed by basic fibroblast growth factor. Nature. 1990; 347:83–86. [PubMed: 2168521]
+
+译文: Faktorovich EG, Steinberg RH, Yasumura D, Matthes MT, LaVail MM. 基础成纤维生长因子延缓遗传性视网膜营养不良中的光感受器退化. Nature. 1990; 347:83–86. [PubMed: 2168521]
+------------------------------------------------------------------------------------
+原文: Immunohistochemistry was performed as previously described (Thummel et al., 2008a). Slides were incubated overnight at room temperature using the following primary antibodies diluted in blocking solution: rabbit polyclonal anti-green fluorescent protein (GFP) antisera (1:1,500, Abcam, Cambridge, MA), mouse monoclonal anti-GFP antibody (1:200, Sigma
+
+译文: 免疫组织化学按以前描述的方法进行（Thummel et al., 2008a）。切片在室温下过夜孵育，使用以下用封闭液稀释的原抗体：兔多克隆抗绿色荧光蛋白(GFP)抗血清（1:1,500, Abcam, Cambridge, MA），小鼠单克隆抗GFP抗体（1:200, Sigma
+------------------------------------------------------------------------------------
+原文: Photoreceptor apoptosis is the final pathway in many human retinal degenerative diseases, including age-related macular degeneration (AMD) and retinitis pigmentosa (RP) (Chang et al., 1993; Marc et al., 2008; Portera-Cailliau et al., 1994). Light-induced retinal degeneration
+
+译文: 光感受器细胞凋亡是许多人类视网膜退行性疾病的最终途径，包括年龄相关性黄斑变性（AMD）和视网膜色素变性（RP）(Chang et al., 1993; Marc et al., 2008; Portera-Cailliau et al., 1994)。光诱导视网膜退化
+------------------------------------------------------------------------------------
+原文: Thummel R, Kassen SC, Enright JM, Nelson CM, Montgomery JE, Hyde DR. Characterization of Muller glia and neuronal progenitors during adult zebrafish retinal regeneration. Exp Eye Res.
+
+译文: Thummel R, Kassen SC, Enright JM, Nelson CM, Montgomery JE, Hyde DR. 龟头胶质细胞和神经前体细胞在成年斑马鱼视网膜再生过程中的特征。实验眼科研究。
+------------------------------------------------------------------------------------
+原文: Keywords
+
+译文: 关键词
+------------------------------------------------------------------------------------
+原文: zebrafish. Dev Neurobiol. 2007; 67:1009–1031. [PubMed: 17565703]
+
+译文: 斑马鱼。发育神经生物学。2007; 67:1009–1031. [PubMed: 17565703]
+------------------------------------------------------------------------------------
+原文: Fausett BV, Gumerson JD, Goldman D. The proneural basic helix-loop-helix gene ascl1a is required for retina regeneration. J Neurosci. 2008; 28:1109–1117. [PubMed: 18234889]
+
+译文: Fausett BV, Gumerson JD, Goldman D. 基础转神经基本螺旋-环-螺旋基因ascl1a对视网膜再生是必需的。神经科学杂志。2008; 28:1109–1117. [PubMed: 18234889]
+------------------------------------------------------------------------------------
+原文: Confocal microscopy was performed with a Leica TCS SP2 confocal microscope. Unless otherwise noted, images were obtained equidistant from the margin and the optic nerve in both the dorsal and ventral halves of the retina. For Figure 6, sections were collected from the anterior, central, and posterior retina and images were collected equidistant from the margin and midline in the dorsal half of the retina. For all other figures that utilized immunohistochemistry, sections containing the optic nerve were used.
+
+译文: 使用Leica TCS SP2激光共聚焦显微镜进行了共聚焦显微镜检查。除非另有说明，图像是在视网膜的背侧和腹侧半部距离边缘和视神经等距处获得的。对于图6，收集了来自前部、中央和后部视网膜的切片，图像是在视网膜的背侧半部距离边缘和中线等距处收集的。对于所有其他利用免疫组化的图表，使用了包含视神经的切片。
+------------------------------------------------------------------------------------
+原文: Combining UV exposure with constant bright light results in extensive damage to rodand cone photoreceptors
+
+译文: 将紫外线照射与持续强光结合在一起会对杆状和锥状光感受器造成广泛损伤
+------------------------------------------------------------------------------------
+原文: Figure 3. Müller glial cell proliferation in various light treatments
+
+译文: 图3. 在各种光照处理下的穆勒胶质细胞增殖
+------------------------------------------------------------------------------------
+原文: Highlights
+
+译文: 亮点
+------------------------------------------------------------------------------------
+原文: Taken together, these data suggest that combining UV exposure with constant bright light resulted in significantly more rod and cone photoreceptor loss than any single light treatment alone. Although significant differences were observed in both dorsal and ventral halves of the retina, UV+48 hLt retinas showed the most damage in the ventral half of the retina relative to the other light treatments.
+
+译文: 综合来看，这些数据显示将紫外线照射与持续强光结合在一起所导致的杆状和锥状光感受器损失显著多于任何单一的光照处理。尽管在视网膜的背侧和腹侧半部观察到显著差异，但UV+48 hLt视网膜在与其他光照处理相对的腹侧半部显示出最严重的损伤。
+------------------------------------------------------------------------------------
+原文: Fimbel SM, Montgomery JE, Burket CT, Hyde DR. Regeneration of inner retinal neurons after intravitreal injection of ouabain in zebrafish. J Neurosci. 2007; 27:1712–1724. [PubMed: 17301179]
+
+译文: Fimbel SM, Montgomery JE, Burket CT, Hyde DR. 在斑马鱼中通过玻璃体内注射毒毛旋花苷后内视网膜神经元的再生。神经科学杂志。2007; 27:1712–1724. [PubMed: 17301179]
+------------------------------------------------------------------------------------
+原文: Thomas et al.	Page 2
+
+译文: Thomas et al. 第2页
+------------------------------------------------------------------------------------
+原文: Analysis of flat-mounted retinas
+
+译文: 平面安置视网膜的分析
+------------------------------------------------------------------------------------
+原文: © 2012 Elsevier Ltd. All rights reserved.
+
+译文: © 2012 Elsevier Ltd. 保留所有权利。
+------------------------------------------------------------------------------------
+原文: (RT), and start-up funds to RT, including an unrestricted grant from Research to Prevent Blindness to the Wayne State University, Department of Ophthalmology. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+译文: (RT)以及对RT的启动资金，包括来自Research to Prevent Blindness的无条件赠款，赠款方为韦恩州立大学眼科系。资助者在研究设计、数据收集与分析、出版决定或稿件准备中没有作用。
+------------------------------------------------------------------------------------
+原文: *Correspondence should be addressed to: Ryan Thummel, Ph.D., Department of Anatomy and Cell Biology, Wayne State University School of Medicine, 540 E. Canfield Ave., Detroit, MI 48201, Phone: (313) 577-7762, rthummel@med.wayne.edu.
+
+译文: *通讯应寄往：Ryan Thummel博士，韦恩州立大学医学院解剖学与细胞生物学系，540 E. Canfield Ave.，Detroit, MI 48201，电话：（313）577-7762，电子邮件：rthummel@med.wayne.edu。
+------------------------------------------------------------------------------------
+原文: Noell WK, Walker VS, Kang BS, Berman S. Retinal damage by light in rats. Invest Ophthalmol. 1966; 5:450–473. [PubMed: 5929286]
+
+译文: Noell WK, Walker VS, Kang BS, Berman S. 光对大鼠视网膜的损伤。Invest Ophthalmol. 1966; 5:450–473. [PubMed: 5929286]
+------------------------------------------------------------------------------------
+原文: Obholzer N, Wolfson S, Trapani JG, Mo W, Nechiporuk A, Busch-Nentwich E, Seiler C, Sidi S, Sollner C, Duncan RN, Boehland A, Nicolson T. Vesicular glutamate transporter 3 is required for synaptic transmission in zebrafish hair cells. J Neurosci. 2008; 28:2110–2118. [PubMed: 18305245]
+
+译文: Obholzer N, Wolfson S, Trapani JG, Mo W, Nechiporuk A, Busch-Nentwich E, Seiler C, Sidi S, Sollner C, Duncan RN, Boehland A, Nicolson T. 胞泡型谷氨酸转运蛋白3在斑马鱼听觉细胞的突触传递中是必需的。J Neurosci. 2008; 28:2110–2118. [PubMed: 18305245]
+------------------------------------------------------------------------------------
+原文: Following a 10 day dark adaptation, 6–9 month old zebrafish were exposed to one of three different light treatments to destroy photoreceptors: A four-day exposure to constant bright light (Kassen et al., 2007; Thummel et al., 2008a; Vihtelic and Hyde, 2000) using four halogen lamps (250 Watts; ~8,000 lux); and a 30-minute exposure to very intense light (~ 100,000 lux) using a UV light source, after which the animals were returned to standard 14 hour light: 10 hour dark conditions (Bernardos et al., 2007); a 30-minute exposure to the very intense UV light immediately followed by a four day exposure to constant bright light using the halogen lamps. We observed no change in water temperature during the 30-minute exposure to UV light. During the four-day exposure to constant bright light, the water temperature was maintained between 30–32°C. The physical setup of the constant bright light paradigm and the UV light paradigm are shown in Supplemental Figures 1 and 2, respectively.
+
+译文: 在经过10天的黑暗适应后，6–9个月大的斑马鱼暴露于三种不同的光处理之一以破坏光感受器：连续明亮光照四天（Kassen et al., 2007; Thummel et al., 2008a; Vihtelic and Hyde, 2000），使用四个卤素灯（250瓦；约8,000勒克斯）；以及对极强光（约100,000勒克斯）的30分钟照射，使用紫外线光源，之后动物被返回到标准的14小时光照：10小时黑暗条件（Bernardos et al., 2007）；紧接着强烈紫外光照的30分钟后，再进行四天的持续明亮光照。我们在30分钟的紫外线光照中未观察到水温变化。在四天的持续明亮光照期间，水温维持在30–32°C之间。持续明亮光照方案和紫外光方案的物理设置分别如补充图1和2所示.
+------------------------------------------------------------------------------------
+原文: Chemical, St. Louis, MO), mouse monoclonal anti-Proliferating Cell Nuclear Antigen
+
+译文: Chemical, St. Louis, MO), 小鼠单克隆抗增殖细胞核抗原
+------------------------------------------------------------------------------------
+原文: Watanabe Y, Watanabe T, Kitagawa M, Taya Y, Nakayama K, Motoyama N. pRb phosphorylation is regulated differentially by cyclin-dependent kinase (Cdk) 2 and Cdk4 in retinoic acid-induced neuronal differentiation of P19 cells. Brain Res. 1999; 842:342–350. [PubMed: 10526130]
+
+译文: Watanabe Y, Watanabe T, Kitagawa M, Taya Y, Nakayama K, Motoyama N. 在视黄酸诱导的P19细胞神经分化过程中，pRb磷酸化受到周期蛋白依赖性激酶（Cdk）2和Cdk4的不同调节。Brain Res. 1999; 842:342–350. [PubMed: 10526130]
+------------------------------------------------------------------------------------
+原文: Sherpa T, Fimbel SM, Mallory DE, Maaswinkel H, Spritzer SD, Sand JA, Li L, Hyde DR, Stenkamp DL. Ganglion cell regeneration following whole-retina destruction in zebrafish. Dev Neurobiol. 2008; 68:166–181. [PubMed: 18000816]
+
+译文: Sherpa T, Fimbel SM, Mallory DE, Maaswinkel H, Spritzer SD, Sand JA, Li L, Hyde DR, Stenkamp DL. 斑马鱼全视网膜破坏后的神经节细胞再生。Dev Neurobiol. 2008; 68:166–181. [PubMed: 18000816]
+------------------------------------------------------------------------------------
+原文: degeneration than observed in genetic animal models of AMD and RP. In addition, LIRD initiates cell death of large numbers of photoreceptors in a synchronized manner, as opposed to genetic models, where photoreceptors are at various stages of health or degeneration (Wenzel et al., 2005). Further, LIRD selectively destroys photoreceptors, leaving the inner retina largely intact (Vihtelic and Hyde, 2000; Vihtelic et al., 2006). Finally, LIRD can be used in many different vertebrate species, including rats, mice, frogs, and fish, which allows researchers to take advantage the unique biological and practical strengths of each of these vertebrate model systems.
+
+译文: 与AMD和RP的遗传动物模型相比，观察到的退化更为明显。此外，LIRD以同步的方式启动大量光感受器的细胞死亡，而在遗传模型中，光感受器处于不同的健康或退化阶段（Wenzel et al., 2005）。此外，LIRD选择性地破坏光感受器，基本保持内视网膜完整（Vihtelic and Hyde, 2000; Vihtelic et al., 2006）。最后，LIRD可用于许多不同的脊椎动物物种，包括大鼠、小鼠、青蛙和鱼，这使研究人员能够利用每种脊椎动物模型系统的独特生物学和实际优势。
+------------------------------------------------------------------------------------
+原文: A. Untreated (0 hr) dorsal retina, showing the absence of PCNA immunolocalization in the inner nuclear layer (INL). B – D. PCNA immunolocalization in the INL and ONL of the dorsal retina, following each of the light damage paradigms (48 hLt, 48 hpUV, and UV+48 hLt). E. 0 hr ventral retina, showing PCNA immunolocalization in the ONL, but not in the INL. F – G. Following 48 hLt (F) and 48 hpUV (G), isolated PCNA-positive cells are observed in the ONL and INL of the ventral half of the retina, however, the proliferation response if markedly less than that observed in the corresponding dorsal half of the retina. H. Ventral retinas from UV+48 hLt possess large numbers of PCNA-positive cells in the INL and ONL. Scale bar in panel A represents 50 microns.
+
+译文: A. 未处理（0小时）背侧视网膜，显示内核层（INL）中缺乏PCNA免疫定位。B – D. 在每种光损伤模式（48 hLt，48 hpUV和UV+48 hLt）后，PCNA在背侧视网膜的INL和外核层（ONL）中的免疫定位。E. 0小时腹侧视网膜，显示ONL中有PCNA免疫定位，而在INL中没有。F – G. 在48 hLt（F）和48 hpUV（G）后，观察到腹侧视网膜ONL和INL中有孤立的PCNA阳性细胞，然而，增殖反应显著低于对应的背侧视网膜。H. UV+48 hLt的腹侧视网膜在INL和ONL中具有大量PCNA阳性细胞。A面板中的比例尺表示50微米。 
+------------------------------------------------------------------------------------
+原文: Humphries MM, Rancourt D, Farrar GJ, Kenna P, Hazel M, Bush RA, Sieving PA, Sheils DM, McNally N, Creighton P, Erven A, Boros A, Gulya K, Capecchi MR, Humphries P. Retinopathy induced in mice by targeted disruption of the rhodopsin gene. Nat Genet. 1997; 15:216–219. [PubMed: 9020854]
+
+译文: Humphries MM, Rancourt D, Farrar GJ, Kenna P, Hazel M, Bush RA, Sieving PA, Sheils DM, McNally N, Creighton P, Erven A, Boros A, Gulya K, Capecchi MR, Humphries P. 通过靶向破坏视紫红质基因在小鼠中诱导的视网膜病变。Nat Genet. 1997; 15:216–219. [PubMed: 9020854]
+------------------------------------------------------------------------------------
+原文: Morris AC, Forbes-Osborne MA, Pillai LS, Fadool JM. Microarray analysis of XOPS-mCFP zebrafish retina identifies genes associated with rod photoreceptor degeneration and regeneration. Invest Ophthalmol Vis Sci. 2011; 52:2255–2266. [PubMed: 21217106]
+
+译文: Morris AC, Forbes-Osborne MA, Pillai LS, Fadool JM. XOPS-mCFP斑马鱼视网膜的微阵列分析识别与杆状光感受器退化和再生相关的基因。Invest Ophthalmol Vis Sci. 2011; 52:2255–2266. [PubMed: 21217106]
+------------------------------------------------------------------------------------
+原文: Here we present a thorough analysis of the two widely-used LIRD paradigms in adult zebrafish and show that each treatment results in differential damage to rod and cone photoreceptors. In addition, we show that the coincident use of both treatments results in significantly greater damage to rod and cone photoreceptors than each treatment used separately. Comparing the various light treatments, we provide clear evidence that the extent of photoreceptor loss directly correlates with the percentage of Müller glia that re-enter the cell cycle and the number of retinal progenitors that are formed. Finally, we show that zebrafish retinas contain two regions that are resistant to light damage, the previouslyreported ventral retina, and a heretofore unreported posterior retina. Notably, combining the UV exposure with constant bright light treatment largely eliminates both of these protected areas, resulting in widespread damage to both rod and cone photoreceptors and a robust regenerative response throughout the retina.
+
+译文: 在这里，我们对成体斑马鱼中两种广泛使用的LIRD模式进行了详尽分析，并显示每种处理对杆状和锥状光感受器造成了不同的损伤。此外，我们还表明，两种处理的同时使用导致杆状和锥状光感受器的损伤显著大于单独使用每种处理。通过比较各种光处理，我们提供了明确证据，表明光感受器丧失的程度与重新进入细胞周期的穆勒胶质细胞的百分比以及形成的视网膜前体细胞数量直接相关。最后，我们展示斑马鱼视网膜包含两个抗光损伤的区域，之前报告的腹侧视网膜和一个此前未报告的后侧视网膜。值得注意的是，将UV暴露与持续明亮的光处理结合在一起，基本上消除了这两个保护区域，导致杆状和锥状光感受器广泛受损，并在整个视网膜中产生强大的再生反应。
+------------------------------------------------------------------------------------
+原文: Thummel et al., 2010; Thummel et al., 2008a; Thummel et al., 2004). In undamaged retinas (0 hr), EGFP-positive Müller glial were observed throughout the dorsal and ventral halves of the retina, with their cell bodies located in the inner nuclear layer (INL), and their processes extending from the nerve fiber layer to the outer limiting membrane (Fig. 3A and C). PCNA-positive rod precursors were commonly observed in the ONL, contributing to the persistent neurogenesis of rod photoreceptors in adult zebrafish (Fig. 3A, arrow). However, PCNA-positive Müller glial cells were very rarely observed (Table 2). Following 36 hours of constant bright light (36 hLt), the percentage of PCNA-positive Müller glia in the dorsal and ventral halves of the retina was 15.2±6.3% and 3.8±3.4%, respectively (Fig. 3B, D and I, Table 2). Consistent with a higher level of photoreceptor loss, 36 hpUV retinas exhibited an even higher percentage of PCNA-positive Müller glia, 28.7±3.1% in the dorsal half of the retina and 25.9±2.8% in the ventral half of the retina (Fig. 3E, G and I, Table 2). However, compared with the other treatments, UV+36 hLt retinas contained a significantly higher percentage of PCNA-positive Müller glia in both the dorsal and ventral halves of the retinas (56.7±3.5% and 53.4±8.5%, respectively, Fig. 3F, H and I, Table 2). Thus, the percentage of Müller glia that re-enter the cell cycle 36 hours after light onset correlates with the extent of photoreceptor cell loss.
+
+译文: Thummel等，2010; Thummel等，2008a; Thummel等，2004）。在未受损的视网膜（0小时）中，EGFP阳性的穆勒胶质细胞被观察到分布在视网膜的背侧和腹侧半部分，其细胞体位于内核层（INL），其突起从神经纤维层延伸至外限膜（图3A和C）。在ONL中常观察到PCNA阳性的杆前体细胞，促进成体斑马鱼中杆状光感受器的持续神经发生（图3A，箭头）。然而，PCNA阳性的穆勒胶质细胞非常少见（表2）。在持续明亮光照射36小时（36 hLt）后，视网膜的背侧和腹侧部分PCNA阳性穆勒胶质细胞的百分比分别为15.2±6.3%和3.8±3.4%（图3B，D和I，表2）。与更高的光感受器损失水平一致，36 hpUV视网膜表现出PCNA阳性穆勒胶质细胞的更高百分比，在视网膜的背侧为28.7±3.1%，在腹侧为25.9±2.8%（图3E，G和I，表2）。然而，与其他处理相比，UV+36 hLt视网膜在背侧和腹侧部分的PCNA阳性穆勒胶质细胞百分比显著更高（分别为56.7±3.5%和53.4±8.5%，图3F，H和I，表2）。因此，光照开始后36小时重新进入细胞周期的穆勒胶质细胞的百分比与光感受器细胞的丧失程度相关。
+------------------------------------------------------------------------------------
+原文: Ramachandran R, Zhao XF, Goldman D. Ascl1a/Dkk/beta-catenin signaling pathway is necessary and glycogen synthase kinase-3beta inhibition is sufficient for zebrafish retina regeneration. Proc Natl Acad Sci U S A. 2011; 108:15858–15863. [PubMed: 21911394]
+
+译文: Ramachandran R, Zhao XF, Goldman D. Ascl1a/Dkk/beta-catenin信号通路对斑马鱼视网膜再生是必要的，而糖原合成酶激酶-3beta的抑制则是足够的。Proc Natl Acad Sci U S A. 2011; 108:15858–15863. [PubMed: 21911394]
+------------------------------------------------------------------------------------
+原文: Grimm C, Wenzel A, Hafezi F, Yu S, Redmond TM, Reme CE. Protection of Rpe65-deficient mice identifies rhodopsin as a mediator of light-induced retinal degeneration. Nat Genet. 2000; 25:63–
+
+译文: Grimm C, Wenzel A, Hafezi F, Yu S, Redmond TM, Reme CE. 保护Rpe65缺陷的老鼠确定视紫红质作为光诱导视网膜退化的介导者。Nat Genet. 2000; 25:63–
+------------------------------------------------------------------------------------
+原文: Discussion
+
+译文: 讨论
+------------------------------------------------------------------------------------

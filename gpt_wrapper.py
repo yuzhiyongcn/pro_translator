@@ -3,7 +3,7 @@ import os
 
 
 class GPTWrapper:
-    def __init__(self, model="gpt-4o"):
+    def __init__(self, model="gpt-4o-mini"):
         self.model = model
         self.client = OpenAI(
             api_key=os.environ.get("OPENAI_API_KEY"),

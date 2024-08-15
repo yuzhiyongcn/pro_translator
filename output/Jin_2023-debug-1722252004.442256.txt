@@ -1,0 +1,808 @@
+原文: 
+
+译文: 
+------------------------------------------------------------------------------------
+原文: 3.3. Light Treatment and H2O2 Damage
+
+译文: 3.3. Light Treatment and H2O2 Damage
+------------------------------------------------------------------------------------
+原文: Legros, F.; Lombès, A.; Frachon, P.; Rojo, M. Mitochondrial fusion in human cells is efficient, requires the inner membrane potential, and is mediated by mitofusins. Mol. Biol. Cell 2002, 13, 4343–4354. [CrossRef]
+
+译文: Legros, F.; Lombès, A.; Frachon, P.; Rojo, M. Mitochondrial fusion in human cells is efficient, requires the inner membrane potential, and is mediated by mitofusins. Mol. Biol. Cell 2002, 13, 4343–4354. [CrossRef]
+------------------------------------------------------------------------------------
+原文: and Xu Zhang *
+
+译文: and Xu Zhang *
+------------------------------------------------------------------------------------
+原文: Dilution
+
+译文: Dilution
+------------------------------------------------------------------------------------
+原文: (a) Fluorescence images show the alteration in mitochondrial morphology after irradiation with the 1900 K LEDs for 48 h, followed by 400 µM H2O2 damage for 3 h; n = 5. The top panel shows fluorescence images of mitochondrial morphology after the indicated treatments. The lower panel consists of partial enlarged view of each group. (b) The number of mitochondrial networks; n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0002; 1900 K + H2O2, p = 0.0042); # significantly different from H2O2 group (one-way ANOVA: 1900 K, p = 0.0293). (c) The number of mitochondrial network size (branches); n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0012; 1900 K, p = 0.0395). (d) The number of mitochondrial individuals; n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0151). (e) The mean length of mitochondrial network branches; n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0097); # significantly different from H2O2 group (one-way ANOVA: 1900 K + H2O2, p = 0.0060). (f) The representative gels of mitochondrial DNA damage assay. Long mitochondrial segments and short mitochondrial segments had different band densities of about 16,568 bp and 158 bp, respectively. (g) The quantitative analysis of the ratio of mitochondrial DNA long chain to short chain; n = 4. * Significantly different from dark group (one-way ANOVA: 1900 K, p = 0.0066); # significantly different from H2O2 group (one-way ANOVA: 1900 K, p = 0.0030; 1900 K + H2O2, p = 0.0197). (h) The protein level of dynamin-related protein
+
+译文: (a) Fluorescence images show the alteration in mitochondrial morphology after irradiation with the 1900 K LEDs for 48 h, followed by 400 µM H2O2 damage for 3 h; n = 5. The top panel shows fluorescence images of mitochondrial morphology after the indicated treatments. The lower panel consists of partial enlarged view of each group. (b) The number of mitochondrial networks; n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0002; 1900 K + H2O2, p = 0.0042); # significantly different from H2O2 group (one-way ANOVA: 1900 K, p = 0.0293). (c) The number of mitochondrial network size (branches); n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0012; 1900 K, p = 0.0395). (d) The number of mitochondrial individuals; n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0151). (e) The mean length of mitochondrial network branches; n = 5, 5, 4, and 5. * Significantly different from dark group (one-way ANOVA: H2O2, p = 0.0097); # significantly different from H2O2 group (one-way ANOVA: 1900 K + H2O2, p = 0.0060). (f) The representative gels of mitochondrial DNA damage assay. Long mitochondrial segments and short mitochondrial segments had different band densities of about 16,568 bp and 158 bp, respectively. (g) The quantitative analysis of the ratio of mitochondrial DNA long chain to short chain; n = 4. * Significantly different from dark group (one-way ANOVA: 1900 K, p = 0.0066); # significantly different from H2O2 group (one-way ANOVA: 1900 K, p = 0.0030; 1900 K + H2O2, p = 0.0197). (h) The protein level of dynamin-related protein
+------------------------------------------------------------------------------------
+原文: Faulkner, S.M.; Bee, P.E.; Meyer, N.; Dijk, D.-J.; Drake, R.J. Light therapies to improve sleep in intrinsic circadian rhythm sleep disorders and neuro-psychiatric illness: A systematic review and meta-analysis. Sleep Med. Rev. 2019, 46, 108–123. [CrossRef]
+
+译文: Faulkner, S.M.; Bee, P.E.; Meyer, N.; Dijk, D.-J.; Drake, R.J. Light therapies to improve sleep in intrinsic circadian rhythm sleep disorders and neuro-psychiatric illness: A systematic review and meta-analysis. Sleep Med. Rev. 2019, 46, 108–123. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Jin, M.; Li, X.; Yan, F.; Chen, W.; Jiang, L.; Zhang, X. The effects of low-color-temperature dual-primary-color light-emitting diodes on three kinds of retinal cells. J. Photochem. Photobiol. B Biol. 2021, 214, 112099. [CrossRef]
+
+译文: Jin, M.; Li, X.; Yan, F.; Chen, W.; Jiang, L.; Zhang, X. The effects of low-color-temperature dual-primary-color light-emitting diodes on three kinds of retinal cells. J. Photochem. Photobiol. B Biol. 2021, 214, 112099. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Informed Consent Statement: Not applicable.
+
+译文: Informed Consent Statement: Not applicable.
+------------------------------------------------------------------------------------
+原文: 3.1. Cell Culture
+
+译文: 3.1. Cell Culture
+------------------------------------------------------------------------------------
+原文: Geneva, I.I. Photobiomodulation for the treatment of retinal diseases: A review. Int. J. Ophthalmol. 2016, 9, 145–152. [CrossRef] 59. Fitzgerald, M.; Hodgetts, S.; Heuvel, C.V.D.; Natoli, R.; Hart, N.S.; Valter, K.; Harvey, A.R.; Vink, R.; Provis, J.; Dunlop, S.A. Red/near-infrared irradiation therapy for treatment of central nervous system injuries and disorders. Rev. Neurosci. 2013, 24, 205–226. [CrossRef]
+
+译文: 日内瓦, I.I. 光生物调变治疗视网膜疾病: 一项综述. 国际眼科杂志. 2016, 9, 145–152. [CrossRef] 59. Fitzgerald, M.; Hodgetts, S.; Heuvel, C.V.D.; Natoli, R.; Hart, N.S.; Valter, K.; Harvey, A.R.; Vink, R.; Provis, J.; Dunlop, S.A. 红色/近红外照射疗法用于治疗中枢神经系统损伤和疾病. 神经科学评论. 2013, 24, 205–226. [CrossRef]
+------------------------------------------------------------------------------------
+原文: In recent years, PBM has been recognized as an emerging therapy for treating agerelated degenerative and mitochondrial-related diseases [56–58]. The main mechanism may be the promotion of cytochrome c oxidase (COX) activity and ATP content. PBM can also promote the release of nitric oxide (NO) from intracellular storage areas (e.g., heme-containing proteins) to enhance its bioavailability, triggering the activation of subsequent protective signaling pathways [57]. Although the light used in PBM previously had to be coherent and polarized, e.g., the light produced by He–Ne lasers, these properties are no longer considered essential. LED arrays can also be used as light sources in photomedicine [59], whereby monochromatic and multi-wavelength LEDs affect different cellular targets with potentially additional benefits [26,27]. The advantages and disadvantages of PBM with laser or LEDs as the radiation source remain controversial. Lasers are coherent, the scattering, absorption, and filtering due to the eye structure are reduced, and the area and dose of treatment can be controlled more precisely. LEDs are safer, less costly, and more readily available, making them a new therapeutic light source with more potential than lasers. However, establishing treatment parameters is more problematic in PBMs using LEDs as radiation sources. There are still many problems with LED-mediated PBMs. Our results further broaden the range of LEDs that can produce cytoprotective effects, and they demonstrate that light sources of PBM are no longer limited to monochromatic LEDs but can also include composite LEDs with illumination functions.
+
+译文: 近年来，光生物调变（PBM）被认为是一种新兴疗法，用于治疗与年龄相关的退行性疾病和线粒体相关疾病 [56–58]。其主要机制可能是促进细胞色素c氧化酶（COX）活性和ATP含量。PBM还可以促进一氧化氮（NO）从细胞内储存区域（如含血红素的蛋白质）释放，以增强其生物利用度，触发后续保护信号通路的活化 [57]。尽管之前用于PBM的光需要是相干和极化的，例如He–Ne激光产生的光，但这些特性现在不再被视为必要条件。LED阵列也可以作为光医学中的光源 [59]，单色和多波长LED可以影响不同的细胞目标，并可能提供额外的好处 [26,27]。以激光或LED作为辐射源的PBM的优缺点依然存在争议。激光是相干的，因眼睛结构引起的散射、吸收和过滤减少，治疗区域和剂量可以更精确地控制。LED更安全、成本更低且更易于获得，使其成为一种比激光更具潜力的新型治疗光源。然而，使用LED作为辐射源的PBM在建立治疗参数上更具挑战性。LED介导的PBM仍然存在许多问题。我们的结果进一步拓宽了能够产生细胞保护效应的LED范围，证明PBM的光源不再限于单色LED，还可以包括具有照明功能的复合LED。
+------------------------------------------------------------------------------------
+原文: VEGF-A, IL-6, and IL-8, as well as the downregulation of MCP-1, through an accumulation of ROS and the activation of MAPK and NF-κB signaling pathways [21]. These studies partially support our results. However, the subjects of these experiments did not involve LEDs with such a color temperature of 1900 K. To address this gap, we designed followup experiments.
+
+译文: VEGF-A、IL-6和IL-8，以及通过ROS的积累和MAPK及NF-κB信号通路的激活下调MCP-1 [21]。这些研究部分支持我们的结果。然而，这些实验的对象并没有涉及色温为1900 K的LED。为了解决这一差距，我们设计了后续实验。
+------------------------------------------------------------------------------------
+原文: 1. Introduction
+
+译文: 1. 引言
+------------------------------------------------------------------------------------
+原文: We referred to the method of Sheng et al. to detect mitochondrial DNA damage [47]. After the cells were processed, we extracted the total cell DNA and amplified the long and short mitochondrial fragments from 15 ng of total DNA following the steps of the Ezup Column Animal Genomic DNA Extraction Kit (Sangon Biotech, Shanghai, China) and the Long Amplification Taq polymerase kit (P101-d1, Vazyme, Nanjing, China). The primers of the long mitochondrial fragment (16568 bp) were F: ATGATGTCTGTGTGGAAAGTGGCTGTGC and R: GGGAGAAGCCCCGGCAGGTTTGAAGC. The primers of the short mitochondrial fragment (158 bp) were F: GATTTGGGTACCACCCAAGTATTG and R: AATATTCATGGTGGCTGGCAGTA. The PCR amplification conditions for the long mitochondrial fragments were as follows: 95 ◦C for 5 min, followed by 17 cycles (95 ◦C for 30 s; 65 ◦C for 15 min), with a final extension step at 72 ◦C for 10 min. The PCR amplification conditions for the short mitochondrial fragments were as follows: 95 ◦C for 5 min, followed by 17 cycles (95 ◦C for 30 s; 60 ◦C for 30 s; 72 ◦C for 30 s), with a final extension step at 72 ◦C for 10 min. All long- and short-chain PCR reactions were stopped at the linear phase. The PCR products were then separated by 0.8% and 1% agarose gel electrophoresis. Lastly, the gels were visualized under UV irradiation in Image Lab 5.2.1 (SYSTEM GelDoc XR+ IMAGELAB, Bio-Rad, Hercules, CA, USA), and the bands were quantified by ImageJ.
+
+译文: 我们参考了Sheng等人的方法来检测线粒体DNA损伤 [47]。细胞处理后，我们提取了总细胞DNA，并根据Ezup Column Animal Genomic DNA Extraction Kit（Sangon Biotech，上海，中国）和Long Amplification Taq聚合酶试剂盒（P101-d1，Vazyme，南京，中国）的步骤，从15 ng的总DNA中扩增长和短的线粒体片段。长线粒体片段（16568 bp）的引物为F: ATGATGTCTGTGTGGAAAGTGGCTGTGC和R: GGGAGAAGCCCCGGCAGGTTTGAAGC。短线粒体片段（158 bp）的引物为F: GATTTGGGTACCACCCAAGTATTG和R: AATATTCATGGTGGCTGGCAGTA。长线粒体片段的PCR扩增条件为: 95 ◦C 5分钟，随后17个循环（95 ◦C 30秒；65 ◦C 15分钟），最后在72 ◦C延伸10分钟。短线粒体片段的PCR扩增条件为: 95 ◦C 5分钟，随后17个循环（95 ◦C 30秒；60 ◦C 30秒；72 ◦C 30秒），最后在72 ◦C延伸10分钟。所有长链和短链PCR反应均在线性阶段停止。PCR产物随后通过0.8%和1%琼脂糖凝胶电泳分离。最后，凝胶在Image Lab 5.2.1（SYSTEM GelDoc XR+ IMAGELAB, Bio-Rad, Hercules, CA, USA）下进行紫外线照射可视化，带状通过ImageJ进行数量化。
+------------------------------------------------------------------------------------
+原文: Tang, Z.; Ju, Y.; Dai, X.; Ni, N.; Liu, Y.; Zhang, D.; Gao, H.; Sun, H.; Zhang, J.; Gu, P. HO-1-mediated ferroptosis as a target for protection against retinal pigment epithelium degeneration. Redox Biol. 2021, 43, 101971. [CrossRef] [PubMed]
+
+译文: 唐, Z.; 居, Y.; 戴, X.; 倪, N.; 刘, Y.; 张, D.; 高, H.; 孙, H.; 张, J.; 顾, P. HO-1介导的铁死亡作为保护视网膜色素上皮退化的靶点。氧化还原生物学. 2021, 43, 101971. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: 24 h, and 10 W/m2 LED illumination for 48 h also produced a protective effect on the cells
+
+译文: 24小时，10 W/m2 LED照明48小时也对细胞产生了保护作用
+------------------------------------------------------------------------------------
+原文: Misra, J.R.; Lam, G.; Thummel, C.S. Constitutive activation of the Nrf2/Keap1 pathway in insecticide-resistant strains of Drosophila. Insect Biochem. Mol. Biol. 2013, 43, 1116–1124. [CrossRef] [PubMed]
+
+译文: Misra, J.R.; Lam, G.; Thummel, C.S. 在抗农药的果蝇菌株中Nrf2/Keap1通路的持续激活。昆虫生物化学与分子生物学. 2013, 43, 1116–1124. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Gilkerson, R.; De La Torre, P.; Vallier, S.S. Mitochondrial OMA1 and OPA1 as Gatekeepers of Organellar Structure/Function and Cellular Stress Response. Front. Cell Dev. Biol. 2021, 9, 626117. [CrossRef] [PubMed]
+
+译文: Gilkerson, R.; De La Torre, P.; Vallier, S.S. 线粒体OMA1和OPA1作为细胞器结构/功能和细胞压力反应的守卫者。前沿. 细胞发育生物学. 2021, 9, 626117. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: DRP1
+
+译文: DRP1
+------------------------------------------------------------------------------------
+原文: Hu, L.; Guo, J.; Zhou, L.; Zhu, S.; Wang, C.; Liu, J.; Hu, S.; Yang, M.; Lin, C. Hydrogen Sulfide Protects Retinal Pigment Epithelial Cells from Oxidative Stress-Induced Apoptosis and Affects Autophagy. Oxidative Med. Cell. Longev. 2020, 2020, 8868564. [CrossRef] [PubMed]
+
+译文: 胡, L.; 郭, J.; 周, L.; 朱, S.; 王, C.; 刘, J.; 胡, S.; 杨, M.; 林, C. 硫化氢保护视网膜色素上皮细胞免受氧化应激引发的凋亡，并影响自噬。氧化医学与细胞寿命. 2020, 2020, 8868564. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: BD
+
+译文: BD
+------------------------------------------------------------------------------------
+原文: Today, light-emitting diodes (LEDs) are widely used because of their low power consumption, ease of use, long service life, and good color rendering index (CRI) scores. However, the harmful blue band portion of phosphor white LEDs may affect human health in two directions: (1) potential retinal phototoxicity [1,2]; (2) disruption of internal circadian rhythm, including health problems associated with circadian rhythm disturbances [3–9].
+
+译文: 如今，发光二极管（LED）因其低功耗、易用、长寿命和良好的显色指数（CRI）评分而被广泛使用。然而，磷光白光LED中有害的蓝光部分可能对人类健康产生两个方面的影响：（1）潜在的视网膜光毒性 [1,2]; （2）内部昼夜节律的干扰，包括与昼夜节律紊乱相关的健康问题 [3–9].
+------------------------------------------------------------------------------------
+原文: 34.6
+
+译文: 34.6
+------------------------------------------------------------------------------------
+原文: TRANS
+
+译文: TRANS
+------------------------------------------------------------------------------------
+原文: (a) Hydrogen peroxide (H2O2) concentration selection; n = 4. * Significantly different from 0 µM (one-way ANOVA: 200 µM, p = 0.0003; 400, 600, 800, and 1000 µM, p < 0.0001); # significantly different from 200 µM (one-way ANOVA, p < 0.0001); + significantly different from 400 µM (one-way ANOVA, p < 0.0001). (b) Cell activity of ARPE-19 cells in the light post-treatment paradigm; n = 5.
+
+译文: (a) 选择氢 peroxide (H2O2)浓度；n = 4. * 与0 µM显著不同（单因素方差分析：200 µM, p = 0.0003; 400, 600, 800和1000 µM, p < 0.0001); # 与200 µM显著不同（单因素方差分析, p < 0.0001); + 与400 µM显著不同（单因素方差分析, p < 0.0001). (b) ARPE-19细胞在光照后处理范式中的细胞活性；n = 5.
+------------------------------------------------------------------------------------
+原文: LC3B
+
+译文: LC3B
+------------------------------------------------------------------------------------
+原文: Eells, J.T.; Henry, M.M.; Summerfelt, P.; Wong-Riley, M.T.T.; Buchmann, E.V.; Kane, M.; Whelan, N.T. Therapeutic photobiomodulation for methanol-induced retinal toxicity. Proc. Natl. Acad. Sci. USA 2003, 100, 3439–3444. [CrossRef]
+
+译文: Eells, J.T.; Henry, M.M.; Summerfelt, P.; Wong-Riley, M.T.T.; Buchmann, E.V.; Kane, M.; Whelan, N.T. 治疗性光生物调节用于甲醇诱导的视网膜毒性。美国国家科学院院刊. 2003, 100, 3439–3444. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 2.3. The 1900 K LEDs Play an Active Role in Antioxidative Stress of ARPE-19 Cells
+
+译文: 2.3. 1900 K LED 在ARPE-19细胞的抗氧化应激中发挥积极作用
+------------------------------------------------------------------------------------
+原文: Int. J. Mol. Sci. 2023, 24, 4794. https://doi.org/10.3390/ijms24054794	https://www.mdpi.com/journal/ijms
+
+译文: 分子科学国际期刊. 2023, 24, 4794. https://doi.org/10.3390/ijms24054794 https://www.mdpi.com/journal/ijms
+------------------------------------------------------------------------------------
+原文: Institutional Review Board Statement: The animal study protocol was approved by the Institutional Review Board (or Ethics Committee) of the Affiliated Eye Hospital of Nanchang University, Nanchang, Jiangxi, China. The ethics approval code for the study is YLP20211206.
+
+译文: 机构审查委员会声明：动物研究方案已获得南昌大学附属眼科医院（或伦理委员会）的批准，位于中国江西省南昌市。本研究的伦理批准代码为YLP20211206.
+------------------------------------------------------------------------------------
+原文: Shortly after the emergence of 1900 K LEDs, we conducted relevant retinal phototoxicity in vitro experiments using these LEDs. We found that the 1900 K LEDs caused less cell death than other high-color-temperature phosphor white LEDs [10]. We also found that the 1900 K LEDs benefited wound healing, hair growth, and melatonin and glutamate secretion. Moreover, the 1900 K LEDs could also protect the ocular surface [11]. The above experiments proved that 1900 K LEDs may have a certain protective effect and high safety.
+
+译文: 在1900 K LED出现后不久，我们使用这些LED进行了相关的视网膜光毒性体外实验。我们发现1900 K LED造成的细胞死亡率低于其他高色温荧光白LED [10]。我们还发现1900 K LED有助于伤口愈合、毛发生长以及褪黑激素和谷氨酸的分泌。此外，1900 K LED还能保护眼表 [11]。上述实验证明1900 K LED可能具有一定的保护作用和高安全性。
+------------------------------------------------------------------------------------
+原文: Acknowledgments: The authors would like to thank Hong Xu from the School of Life Sciences and Institute of Life Science of Nanchang university for providing us with zebrafish. We also gratefully acknowledge Xiongfeng Li and Luyao Mei for their great help in the design and construction of the lightbox.
+
+译文: 致谢：作者感谢南昌大学生命科学学院和生命科学研究所的洪旭提供斑马鱼。我们也衷心感谢李雄峰和梅露瑶在光箱的设计和构建上的巨大帮助。
+------------------------------------------------------------------------------------
+原文: Citation: Jin, M.; Zhang, X.-Y.; Ying,
+
+译文: 引用：金, M.; 张, X.-Y.; 应,
+------------------------------------------------------------------------------------
+原文: HC101-01
+
+译文: HC101-01
+------------------------------------------------------------------------------------
+原文: We purchased the ARPE-19 cells from the American Type Culture Collection (ATCC,
+
+译文: 我们从美国典型培养物保藏中心（ATCC）购买了ARPE-19细胞，
+------------------------------------------------------------------------------------
+原文: Song, C.; Mitter, S.K.; Qi, X.; Beli, E.; Rao, H.V.; Ding, J.; Ip, C.S.; Gu, H.; Akin, D.; Dunn, W.A., Jr.; et al. Oxidative stress-mediated NFκB phosphorylation upregulates p62/SQSTM1 and promotes retinal pigmented epithelial cell survival through increased autophagy. PLoS ONE 2017, 12, e0171940. [CrossRef] [PubMed]
+
+译文: 宋, C.; 米特, S.K.; 齐, X.; 贝利, E.; 饶, H.V.; 丁, J.; 尹, C.S.; 顾, H.; 阿金, D.; 邓, W.A., Jr.; 等. 氧化应激介导的NFκB磷酸化上调p62/SQSTM1，通过增加自噬促进视网膜色素上皮细胞存活. PLoS ONE 2017, 12, e0171940. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: This study mainly used the following LEDs: 1900 K, 4000 K, 6600 K, and blue-light LEDs. The light source and lighting device were the same as described in our previous article (Figure 7a,b) [10]. The entire light box was placed in a cell incubator to ensure normal cell growth. The top panel in Figure 7c shows the light post-treatment paradigm, which involves damaging the cells with 400 µM H2O2 for 6 h and then illuminating the cells using the 1900 K LEDs at 10 W/m2 irradiance for 48 h. The lower panel of Figure 7c shows the light pretreatment paradigm. The light pretreatment paradigm involved exposing the cells to the 1900 K LEDs at 10 W/m2 for 48 h and then damaging them using 400 µM H2O2 for 6 h.
+
+译文: 本研究主要使用了以下LED：1900 K, 4000 K, 6600 K和蓝光LED。光源和照明设备与我们之前的文章中描述的相同（图7a,b）[10]。整个光箱放置在细胞培养箱内，以确保细胞正常生长。图7c的顶部面板显示了光照后处理范式，涉及用400 µM H2O2损伤细胞6小时，然后用辐照度为10 W/m2的1900 K LED照射细胞48小时。图7c的下部面板显示了光照预处理范式。光照预处理范式涉及以10 W/m2的辐照度照射细胞48小时，然后用400 µM H2O2损伤它们6小时。
+------------------------------------------------------------------------------------
+原文: 3.2. Animals
+
+译文: 3.2. 动物
+------------------------------------------------------------------------------------
+原文: (RPE); mitochondria; reactive oxygen species (ROS)
+
+译文: (RPE); 线粒体; 活性氧种（ROS）
+------------------------------------------------------------------------------------
+原文: Abmart
+
+译文: Abmart
+------------------------------------------------------------------------------------
+原文: 2.5. Irradiation with 1900 K LEDs Did Not Cause Retinal Damage in Zebrafish
+
+译文: 2.5. 辐照1900 K LED对斑马鱼未造成视网膜损伤
+------------------------------------------------------------------------------------
+原文: 1900 K + H2O2 group was lower than that in the H2O2 group. However, the expression of NRF2 was similar to that in the control group (Figure 3f,g). NRF2 is the upstream protein of HO-1. As an inducible enzyme, HO-1 is a measurable indicator of oxidative stress and is upregulated with NRF2 protein [29]. Núñez-Álvarez et al. [30] also demonstrated that red light (625–635 nm) at 6.5 W/m2 could reduce the HO-1 caused by blue light. A recent study showed that direct knockdown or pharmacological inhibition of HO-1 significantly blocked oxidative stress-induced ferroptosis in RPE cells [31]. Electrophile reagents and ROS disrupt the interaction between CncC and Keap1 after stress exposure. CncC is not degraded but accumulates in the nucleus, forms heterodimers with Maf-S, binds to AREs, and activates target gene transcription [32,33]. Therefore, after H2O2 injury, NRF2 enters the nucleus and binds to AREs to activate the transcription of target genes, resulting in the upregulation of HO-1. In contrast, 1900 K LEDs can upregulate the expression of NRF2. However, the relatively low intracellular ROS level does not allow NRF2 and Keap1 to disengage into the nucleus to activate downstream genes. It is only during stress that upregulated NRF2 enters the nucleus and increases the cell’s ability to resist oxidative stress. Our ROS results also prove this point. Our experiments preliminarily show that the 1900 K LEDs play a protective role by increasing the nonenzymatic antioxidant system, not the enzymatic one. Considering the effect of 1900 K LEDs on the mitochondria, we suspected the most likely candidate was a coenzyme or glutathione.
+
+译文: 1900 K + H2O2组的结果低于H2O2组。然而，NRF2的表达与对照组相似（图3f,g）。NRF2是HO-1的上游蛋白。作为一种诱导酶，HO-1是氧化应激的可测指示物，随着NRF2蛋白的上调而上调 [29]。Núñez-Álvarez等 [30] 也证明625–635 nm的红光在6.5 W/m2下可以减少蓝光引起的HO-1。最近的研究显示，直接敲除或药理抑制HO-1显著阻止了氧化应激诱导的RPE细胞铁死亡 [31]。电亲和试剂和ROS在应激暴露后干扰CncC与Keap1之间的相互作用。CncC不会被降解，而是累积在细胞核中，形成与Maf-S的异二聚体，结合到AREs上，激活靶基因转录 [32,33]。因此，在H2O2损伤后，NRF2进入细胞核并结合AREs以激活靶基因的转录，从而导致HO-1的上调。相反，1900 K LED可以上调NRF2的表达。然而，相对较低的细胞内ROS水平不允许NRF2与Keap1脱离进入细胞核激活下游基因。只有在应激期间，上调的NRF2才会进入细胞核，增加细胞抵抗氧化应激的能力。我们的ROS结果也证实了这一点。我们的实验初步表明，1900 K LED通过增加非酶抗氧化系统发挥保护作用，而非酶抗氧化系统。考虑到1900 K LED对线粒体的影响，我们怀疑最可能的候选物是辅酶或谷胱甘肽。
+------------------------------------------------------------------------------------
+原文: Kaarniranta, K.; Pawlowska, E.; Szczepanska, J.; Jablkowska, A.; Blasiak, J. Role of Mitochondrial DNA Damage in ROS-Mediated Pathogenesis of Age-Related Macular Degeneration (AMD). Int. J. Mol. Sci. 2019, 20, 2374. [CrossRef] [PubMed]
+
+译文: Kaarniranta, K.; Pawlowska, E.; Szczepanska, J.; Jablkowska, A.; Blasiak, J. 线粒体DNA损伤在ROS介导的与年龄相关的黄斑变性（AMD）发病机制中的作用。国际分子科学杂志 2019, 20, 2374. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Ab13248
+
+译文: Ab13248
+------------------------------------------------------------------------------------
+原文: Stella, S.; Geathers, J.; Weber, S.; Grillo, M.; Barber, A.; Sundstrom, J.; Grillo, S. Neurodegeneration, neuroprotection and regeneration in the zebrafish retina. Cells 2021, 10, 633. [CrossRef]
+
+译文: Stella, S.; Geathers, J.; Weber, S.; Grillo, M.; Barber, A.; Sundstrom, J.; Grillo, S. 在斑马鱼视网膜中的神经退行性变、神经保护和再生。细胞 2021, 10, 633. [CrossRef]
+------------------------------------------------------------------------------------
+原文: According to the manufacturer’s instructions for the radioimmune precipitation assay buffer (RIPA) (Solarbio, Beijing, China) and bicinchoninic acid (BCA) protein assay kit (Solarbio, Beijing, China), we lysed ARPE-19 cells and detected the protein concentration. An equal amount of protein (25 µg) was separated by electrophoresis on 10% or 12% SDS polyacrylamide gels and transferred to polyvinylidene fluoride membranes (PVDF, Millipore, United Kingdom). Then, the membranes were blocked with 5% nonfat milk for 1 h and incubated with the appropriate primary antibody (Table 1 and Table S1) overnight at 4 ◦C. On the next day, the membranes were washed and incubated with the secondary antibody at room temperature for 1 h. After washing the membrane, the target proteins were detected using the EasySee Western Blot Kit (TRANS, Beijing, China), and digital images were obtained. The bands were quantified by integrating the pixel intensity using ImageJ software. β-tubulin served as an internal control.
+
+译文: 根据制造商关于放射免疫沉淀缓冲液（RIPA）（Solarbio，北京，中国）和双吡啶基甲酸（BCA）蛋白质测定试剂盒（Solarbio，北京，中国）的说明，我们裂解了ARPE-19细胞并检测了蛋白质浓度。将等量蛋白质（25 µg）通过10%或12% SDS聚丙烯酰胺凝胶进行电泳，并转移到聚偏二氟乙烯膜（PVDF，Millipore，英国）。然后，膜用5%脱脂奶粉封闭1小时，并在4 ◦C下与适当的一级抗体（表1和表S1）过夜孵育。第二天，膜被洗涤并在室温下用二级抗体孵育1小时。洗膜后，使用EasySee Western Blot Kit（TRANS，北京，中国）检测目标蛋白质，并获取数字图像。通过使用ImageJ软件整合像素强度对条带进行定量。β-微管蛋白作为内参。
+------------------------------------------------------------------------------------
+原文: Wu, Y.-H.; Swaab, D.F. The human pineal gland and melatonin in aging and Alzheimer’s disease. J. Pineal Res. 2005, 38, 145–152. [CrossRef]
+
+译文: Wu, Y.-H.; Swaab, D.F. 人类松果体及其在衰老和阿尔茨海默病中的褪黑激素。松果体研究杂志 2005, 38, 145–152. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Wong, W.L.; Su, X.; Li, X.; Cheung, C.M.G.; Klein, R.; Cheng, C.Y.; Wong, T.Y. Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: A systematic review and meta-analysis. Lancet Glob. Health 2014, 2, e106–e116. [CrossRef] [PubMed]
+
+译文: Wong, W.L.; Su, X.; Li, X.; Cheung, C.M.G.; Klein, R.; Cheng, C.Y.; Wong, T.Y. 与年龄相关的黄斑变性的全球流行率及2020年和2040年的疾病负担预测：系统评估和荟萃分析。柳叶刀全球健康 2014, 2, e106–e116. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Ivandic, B.T.; Ivandic, T. Low-level laser therapy improves vision in patients with age-related macular degeneration. Photomed. Laser Surg. 2008, 26, 241–245. [CrossRef]
+
+译文: Ivandic, B.T.; Ivandic, T. 低水平激光治疗改善与年龄相关的黄斑变性患者的视力。光学医学与激光外科 2008, 26, 241–245. [CrossRef]
+------------------------------------------------------------------------------------
+原文: MW
+
+译文: MW
+------------------------------------------------------------------------------------
+原文: Youle, R.J.; van der Bliek, A.M. Mitochondrial Fission, Fusion, and Stress. Science 2012, 337, 1062–1065. [CrossRef] [PubMed]
+
+译文: Youle, R.J.; van der Bliek, A.M. 线粒体裂变、融合与应激。科学 2012, 337, 1062–1065. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: In addition, most research on PBM involved basic phenotypic studies. A recent study found that a 632.8 nm red laser reduced the amyloid β protein (Aβ) deposits in Alzheimer’s disease models by activating the PKA/Sirtuin 1 (SIRT1) signaling pathway [60]. This gives us great inspiration; many studies have proven the effectiveness of PBM. Nevertheless, research on the physiological mechanism has been limited; therefore, it will be necessary to explore the signaling pathways in PBM in the future. Accordingly, we examined the effect of the 1900 K LEDs on SIRT1 expression, finding that H2O2 could upregulate the expression of SIRT1 and that the 1900 K LEDs increased the amount of SIRT1 more than the H2O2 group (see Supplementary Figure S5). We also found the increased expression of other members of the SIRT family, such as Sirtuin 3 and Sirtuin 5, after the 1900 K LED treatment (Xu Zhang, unpublished data). We hypothesize that the LEDs might bring some positive effects to the cells by upregulating the sirtuin family. This mechanism is worthy of in-depth studies in the future. As a limitation of this study, we only preliminarily discussed the protective effects of the 1900 K LEDs on RPE cells and zebrafish; further in vivo experiments and related specific mechanisms are lacking.
+
+译文: 此外，关于PBM的大多数研究涉及基础表型研究。最近的一项研究发现，632.8 nm红激光通过激活PKA/Sirtuin 1（SIRT1）信号通路减少了阿尔茨海默病模型中的淀粉样β蛋白（Aβ）沉积 [60]。这给了我们很大的启示；许多研究已证明PBM的有效性。然而，关于生理机制的研究有限；因此，未来有必要探讨PBM中的信号通路。因此，我们检查了1900 K LED对SIRT1表达的影响，发现H2O2可以上调SIRT1的表达，而1900 K LED增加了SIRT1的量超过H2O2组（见补充图S5）。我们还发现，在1900 K LED处理后，其他SIRT家族成员（如Sirtuin 3和Sirtuin 5）也表达增加（Xu Zhang，未发表数据）。我们假设LED可能通过上调SIRT家族为细胞带来一些积极的影响。这个机制值得未来深入研究。作为本研究的局限性，我们仅初步讨论了1900 K LED对RPE细胞和斑马鱼的保护作用；缺乏进一步的体内实验和相关特定机制。
+------------------------------------------------------------------------------------
+原文: To avoid blue-light hazards, LED developers abandoned the principle of using blue LEDs to excite phosphors for generating white light; they instead use silicon substrate
+
+译文: 为了避免蓝光危害，LED开发者放弃了使用蓝色LED激发磷光体产生白光的原则；他们转而使用硅基底
+------------------------------------------------------------------------------------
+原文: CST
+
+译文: CST
+------------------------------------------------------------------------------------
+原文: Antibody
+
+译文: 抗体
+------------------------------------------------------------------------------------
+原文: Keywords: low color temperature; phosphor-free light-emitting diodes (LEDs); white light-emitting diodes (LEDs); phototherapy; age-related macular degeneration (AMD); retinal pigment epithelium
+
+译文: 关键词：低色温；无磷光体发光二极管（LED）；白光发光二极管（LED）；光疗法；与年龄相关的黄斑变性（AMD）；视网膜色素上皮
+------------------------------------------------------------------------------------
+原文: After irradiation at 10 W/m2 for 48 h, all LEDs except the 1900 K LEDs decreased cell activity (Figure 1a). The 1900 K LEDs at three irradiances (5, 10, and 15 W/m2) all increased cell activity to varying degrees, with the irradiance at 10 W/m2 increasing cell activity most significantly (Figure 1b). Thus, the irradiance was kept at 10 W/m2. After 1, 2, and 3 days of irradiation with 1900 K LEDs, the cell activity increased by about 30%, 70%, and 75%, respectively (Figure 1c). These experiments led us to determine the parameters of LED illumination in later experiments, i.e., 10 W/m2 illumination for 48 h. Such experiments on the effects of LEDs with different color temperatures on cells are not uncommon. Chen et al. [20] found that 7378 K LEDs caused excessive intracellular ROS production and severe DNA damage in cultured human lens epithelial cells (hLECs) compared to 2954 K and 5624 K LEDs, which led to G2/M phase block and apoptosis. Another study found that 7378 K LEDs, but not 2954 K LEDs, induced the upregulation of
+
+译文: 在10 W/m2照射48小时后，除了1900 K LED外，所有LED的细胞活性均降低（图1a）。在三种照射强度（5、10和15 W/m2）下，1900 K LED均不同程度地提高了细胞活性，其中10 W/m2的照射强度最显著地增加了细胞活性（图1b）。因此，照射强度保持在10 W/m2。在使用1900 K LED照射1天、2天和3天后，细胞活性分别提高了约30%、70%和75%（图1c）。这些实验使我们确定了后续实验中LED照明的参数，即10 W/m2照明48小时。关于不同色温的LED对细胞影响的此类实验并不罕见。Chen等人[20]发现，与2954 K和5624 K LED相比，7378 K LED在培养的人晶状体上皮细胞（hLECs）中引起过量的细胞内ROS产生和严重的DNA损伤，导致G2/M期阻滞和细胞凋亡。另一项研究发现，7378 K LED，但不是2954 K LED，诱导了上调
+------------------------------------------------------------------------------------
+原文: Figure 3. The 1900 K LEDs play an active role in the antioxidative stress of ARPE-19 cells. (a) The fluorescence of dihydroethidium (DHE) after irradiation with 1900 K, 4000 K, and blue-light LEDs for 48 h. The number and intensity of fluorescence represent the level of intracellular reactive oxygen species (ROS). The top panel shows the red fluorescence of DHE, and the lower panel consists of merged images with the bright field; n = 3. (b,c) Quantitative fluorescence analysis of dark, 1900 K, 4000 K, and blue-light LED groups; n = 3. * Significantly different from dark group (one-way ANOVA: 1900 K, p = 0.0013; 4000 K, p = 0.0237; blue, p < 0.0001); # significantly different from 1900 K (oneway ANOVA, p < 0.0001); + significantly different from 4000 K (one-way ANOVA, p = 0.0016). (d,e) Quantitative fluorescence analysis of dark, H2O2, 1900 K, and 1900 K + H2O2 groups of light pretreatments involving 1900 K LED pre-illumination for 48 h and then 400 µM H2O2 damage for 6 h; n = 3. * Significantly different from dark group (one-way ANOVA, p < 0.0001); # significantly different from H2O2 group (one-way ANOVA, p < 0.0001); + significantly different from 1900 K group (one-way ANOVA, p < 0.0001). (f–h) The levels of nuclear factor E2-related factor 2 (NRF2) (n = 7), heme oxygenase-1 (HO-1) (n = 4), and microtubule-associated protein 1 light chain 3 beta (LC3B) (n = 4) were detected by Western blot analysis in four groups of light pretreatments. β-tubulin was used as an endogenous control. * Significantly different from dark group (one-way ANOVA: NRF2, H2O2, p = 0.0062 and 1900 K, p = 0.0271; HO-1, 1900 K, p = 0.0167; LC3B, H2O2, p = 0.0007);
+
+译文: 图3. 1900 K LED在ARPE-19细胞的抗氧化应激中发挥积极作用。（a）1900 K、4000 K和蓝光LED照射48小时后的二氢乙啶（DHE）荧光。荧光的数量和强度代表细胞内活性氧物种（ROS）的水平。上面的面板显示了DHE的红色荧光，下方面板由亮场合并图像组成；n = 3。（b,c）黑暗、1900 K、4000 K和蓝光LED组的定量荧光分析；n = 3。* 与黑暗组显著不同（单因素方差分析：1900 K，p = 0.0013；4000 K，p = 0.0237；蓝光，p < 0.0001）；# 与1900 K显著不同（单因素方差分析，p < 0.0001）；+ 与4000 K显著不同（单因素方差分析，p = 0.0016)。（d,e）黑暗、H2O2、1900 K和1900 K + H2O2组的定量荧光分析，涉及1900 K LED预照射48小时，然后用400 µM H2O2损伤6小时；n = 3。* 与黑暗组显著不同（单因素方差分析，p < 0.0001）；# 与H2O2组显著不同（单因素方差分析，p < 0.0001）；+ 与1900 K组显著不同（单因素方差分析，p < 0.0001）。(f–h) 通过Western blot分析检测四组光预处理中的核因子E2相关因子2（NRF2）（n = 7）、血红素加氧酶-1（HO-1）（n = 4）和微管相关蛋白1轻链3β（LC3B）（n = 4）的水平。β-微管蛋白作为内源性对照。* 与黑暗组显著不同（单因素方差分析：NRF2，H2O2，p = 0.0062和1900 K，p = 0.0271；HO-1，1900 K，p = 0.0167；LC3B，H2O2，p = 0.0007）；
+------------------------------------------------------------------------------------
+原文: Funding: Our work was supported by the National Natural Science Foundation of China (No. 81860170) and the Natural Science Foundation of Jiangxi (20181ACG70010).
+
+译文: 资金：我们的工作得到了中国国家自然科学基金（编号：81860170）和江西省自然科学基金（20181ACG70010）的支持。
+------------------------------------------------------------------------------------
+原文: Liang, F.-Q.; Godley, B.F. Oxidative stress-induced mitochondrial DNA damage in human retinal pigment epithelial cells: A possible mechanism for RPE aging and age-related macular degeneration. Exp. Eye Res. 2003, 76, 397–403. [CrossRef] [PubMed]
+
+译文: Liang, F.-Q.; Godley, B.F. 由氧化应激引起的人类视网膜色素上皮细胞线粒体DNA损伤：一种可能的RPE衰老和年龄相关性黄斑变性机制。Exp. Eye Res. 2003, 76, 397–403. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: All wild-type zebrafish (Danio rerio) of the AB strain were obtained from the China Zebrafish Resource Center, CZRC (Wuhan, China). Zebrafish were maintained in 14 h light/10 h dark cycles at 28.5 ◦C. The use and manipulation of zebrafish were approved by the ethical review committee, and the study adhered to the ARVO Statement for the Use of Animals in Ophthalmic and Vision Research.
+
+译文: 所有AB品系的野生型斑马鱼（Danio rerio）均来自中国斑马鱼资源中心（CZRC）（武汉，中国）。斑马鱼在28.5 ◦C的14小时光照/10小时黑暗周期中维持生长。斑马鱼的使用和处理经过伦理审查委员会的批准，研究遵循ARVO关于眼科与视觉研究中动物使用的声明。
+------------------------------------------------------------------------------------
+原文: 2775s
+
+译文: 2775s
+------------------------------------------------------------------------------------
+原文: Li, J.-Y.; Zhang, K.; Xu, D.; Zhou, W.-C.; Fang, W.-Q.; Wan, Y.-Y.; Yan, D.-D.; Guo, M.-Y.; Tao, J.-X.; Yang, F.; et al. Mitochondrial Fission Is Required for Blue Light-Induced Apoptosis and Mitophagy in Retinal Neuronal R28 Cells. Front. Mol. Neurosci. 2018, 11, 432. [CrossRef]
+
+译文: Li, J.-Y.; Zhang, K.; Xu, D.; Zhou, W.-C.; Fang, W.-Q.; Wan, Y.-Y.; Yan, D.-D.; Guo, M.-Y.; Tao, J.-X.; Yang, F.; 等. 线粒体分裂对蓝光诱导的视网膜神经元R28细胞凋亡和自噬是必要的。Front. Mol. Neurosci. 2018, 11, 432. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Abstract: Low-color-temperature light-emitting diodes (LEDs) (called 1900 K LEDs for short) have the potential to become a healthy light source due to their blue-free property. Our previous research demonstrated that these LEDs posed no harm to retinal cells and even protected the ocular surface. Treatment targeting the retinal pigment epithelium (RPE) is a promising direction for age-related macular degeneration (AMD). Nevertheless, no study has evaluated the protective effects of these LEDs on RPE. Therefore, we used the ARPE-19 cell line and zebrafish to explore the protective effects of 1900 K LEDs. Our results showed that the 1900 K LEDs could increase the cell vitality of ARPE-19 cells at different irradiances, with the most pronounced effect at 10 W/m2. Moreover, the protective effect increased with time. Pretreatment with 1900 K LEDs could protect the RPE from death after hydrogen peroxide (H2O2) damage by reducing reactive oxygen species (ROS) generation and mitochondrial damage caused by H2O2. In addition, we preliminarily demonstrated that irradiation with 1900 K LEDs in zebrafish did not cause retinal damage. To sum up, we provide evidence for the protective effects of 1900 K LEDs on the RPE, laying the foundation for future light therapy using these LEDs.
+
+译文: 摘要：低色温发光二极管（LED）(简称1900 K LED) 由于其无蓝光特性，有潜力成为健康的光源。我们之前的研究表明，这些LED对视网膜细胞没有伤害，甚至保护了眼表。针对视网膜色素上皮（RPE）的治疗是年龄相关性黄斑变性（AMD）的一个有前景的方向。然而，目前尚未有研究评估这些LED对RPE的保护作用。因此，我们使用ARPE-19细胞系和斑马鱼探讨1900 K LED的保护效果。我们的结果表明，1900 K LED能够在不同辐照度下增强ARPE-19细胞的活力，最明显的效果发生在10 W/m2。此外，保护效应随时间增加。经过1900 K LED预处理，可以通过减少由H2O2引起的活性氧（ROS）生成和线粒体损伤来保护RPE免于氢氧化氢（H2O2）损伤后的死亡。此外，我们初步证明在斑马鱼中照射1900 K LED不会导致视网膜损伤。总之，我们提供了1900 K LED对RPE保护作用的证据，为未来使用这些LED的光疗奠定基础。
+------------------------------------------------------------------------------------
+原文: Luo, Z.; Wang, H.-T.; Wang, N.; Sheng, W.-W.; Jin, M.; Lu, Y.; Bai, Y.-J.; Zou, S.-Q.; Pang, Y.-L.; Xu, H.; et al. Establishment of an adult zebrafish model of retinal neurodegeneration induced by NMDA. Int. J. Ophthalmol. 2020, 12, 1250–1261. [CrossRef]
+
+译文: Luo, Z.; Wang, H.-T.; Wang, N.; Sheng, W.-W.; Jin, M.; Lu, Y.; Bai, Y.-J.; Zou, S.-Q.; Pang, Y.-L.; Xu, H.; 等. 建立NMDA诱导的成年斑马鱼视网膜神经退行性变模型。Int. J. Ophthalmol. 2020, 12, 1250–1261. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Qu, C.; Cao, W.; Fan, Y.; Lin, Y. Near-infrared light protect the photoreceptor from light-induced damage in rats. Adv. Exp. Med. Biol. 2009, 664, 365–374. [CrossRef]
+
+译文: Qu, C.; Cao, W.; Fan, Y.; Lin, Y. 近红外光保护光感受器免受光诱导损伤在大鼠中. Adv. Exp. Med. Biol. 2009, 664, 365–374. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Abcam
+
+译文: Abcam
+------------------------------------------------------------------------------------
+原文: 2. Results and Discussion
+
+译文: 结果与讨论
+------------------------------------------------------------------------------------
+原文: Lin, J.; Ding, X.; Hong, C.; Pang, Y.; Chen, L.; Liu, Q.; Zhang, X.; Xin, H.; Wang, X. Several biological benefits of the low color temperature light-emitting diodes based normal indoor lighting source. Sci. Rep. 2019, 9, 7560. [CrossRef] [PubMed]
+
+译文: Lin, J.; Ding, X.; Hong, C.; Pang, Y.; Chen, L.; Liu, Q.; Zhang, X.; Xin, H.; Wang, X. 基于低色温发光二极管的正常室内照明源的几种生物学益处. Sci. Rep. 2019, 9, 7560. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: * Significantly different from dark group (one-way ANOVA: H2O2 and H2O2 + 1900 K, p < 0.0001); # significantly different from H2O2 group (one-way ANOVA, p < 0.0001); + significantly different from 1900 K group (one-way ANOVA, p < 0.0001). Cell activity of ARPE-19 cells after removing H2O2 at 0 h (c), 3 h (d), 9 h (e), and 24 h (f) in the pre-light treatment; n = 5. * Significantly different from dark group (one-way ANOVA: 0 h, H2O2, p = 0.0001 and 1900 K, p < 0.0001; 3 h,
+
+译文: * 与黑暗组显著不同（单因素方差分析：H2O2和H2O2 + 1900 K，p < 0.0001）；# 与H2O2组显著不同（单因素方差分析，p < 0.0001）；+ 与1900 K组显著不同（单因素方差分析，p < 0.0001）。在预处理光照下，移除H2O2后ARPE-19细胞的细胞活性在0小时（c）、3小时（d）、9小时（e）和24小时（f）的表现；n = 5。* 与黑暗组显著不同（单因素方差分析：0小时，H2O2，p = 0.0001和1900 K，p < 0.0001；3小时，
+------------------------------------------------------------------------------------
+原文: Epithelium: New Light Source in Action. Int. J. Mol. Sci. 2023, 24, 4794. https://doi.org/10.3390/ijms24054794
+
+译文: 上皮：新光源的应用. Int. J. Mol. Sci. 2023, 24, 4794. https://doi.org/10.3390/ijms24054794
+------------------------------------------------------------------------------------
+原文: Markowitz, S.N.; Devenyi, R.G.; Munk, M.R.; Croissant, C.L.; Tedford, S.E.; Rückert, R.; Walker, M.G.; Patino, B.E.; Chen, L.; Nido, M.; et al. A double-masked, randomized, sham-controlled, single-center study with photobiomodulation for the treatment of dry age-related macular degeneration. Retina 2020, 40, 1471–1482. [CrossRef] [PubMed]
+
+译文: Markowitz, S.N.; Devenyi, R.G.; Munk, M.R.; Croissant, C.L.; Tedford, S.E.; Rückert, R.; Walker, M.G.; Patino, B.E.; Chen, L.; Nido, M.; 等. 一项双盲、随机、安慰剂对照的单中心研究，使用光生物调节治疗干性年龄相关性黄斑变性. Retina 2020, 40, 1471–1482. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: 1 (DRP1); n = 7. * Significantly different from dark group (one-way ANOVA: 1900 K, p = 0.0361); # significantly different from H2O2 group (one-way ANOVA: 1900 K, p = 0.0009). (i) The relative protein level of total optic atrophy protein 1 (OPA1); n = 4. (j) The ratio of L-OPA1/S-OPA1; n = 4. # Significantly different from H2O2 group (one-way ANOVA: 1900 K, p = 0.0348). The data are presented as the mean ± SD. Bars in the original fluorescence images, 20 µm. Bars in the enlarged fluorescence images, 5 µm. Abbreviations: mito-L, mitochondrial DNA long chain; mito-S, mitochondrial DNA short chain.
+
+译文: 1 (DRP1); n = 7。* 与黑暗组显著不同（单因素方差分析：1900 K，p = 0.0361）；# 与H2O2组显著不同（单因素方差分析：1900 K，p = 0.0009）。(i) 总性视神经萎缩蛋白1（OPA1）的相对蛋白水平；n = 4。(j) L-OPA1/S-OPA1的比率；n = 4。# 与H2O2组显著不同（单因素方差分析：1900 K，p = 0.0348）。数据以均值±标准差表示。原始荧光图中的条形，20 µm。放大荧光图中的条形，5 µm。缩写： mito-L,线粒体DNA长链； mito-S,线粒体DNA短链。
+------------------------------------------------------------------------------------
+原文: Figure 1. The low-color-temperature light-emitting diodes (LEDs) regulate cell activity according to irradiance and light time. (a) Cell activity after 48 h illumination of LEDs with different color temperatures at 10 W/m2; n = 6. * Significantly different from dark group (one-way ANOVA, p < 0.0001); # significantly different from 1900 K group (one-way ANOVA, p < 0.0001); + significantly different from 4000 K group (one-way ANOVA, p < 0.0001). (b) Cell activity after 48 h illumination of the 1900 K LEDs with different radioactivity; n = 5. * Significantly different from dark group (two-sided, independent t-test: 5 W/m2, p = 0.0032; 10 W/m2, p = 0.0009; 15 W/m2, p < 0.0001).
+
+译文: 图1. 低色温发光二极管（LED）根据照射度和光照时间调节细胞活性。（a）不同色温下以10 W/m2照射48小时后的细胞活性；n = 6。* 与黑暗组显著不同（单因素方差分析，p < 0.0001）；# 与1900 K组显著不同（单因素方差分析，p < 0.0001）；+ 与4000 K组显著不同（单因素方差分析，p < 0.0001）。（b）不同放射性下以1900 K LED照射48小时后的细胞活性；n = 5。* 与黑暗组显著不同（双侧独立t检验：5 W/m2, p = 0.0032；10 W/m2, p = 0.0009；15 W/m2, p < 0.0001）。
+------------------------------------------------------------------------------------
+原文: 3.9. Western Blotting
+
+译文: 3.9. Western Blotting
+------------------------------------------------------------------------------------
+原文: 3.4. Light Exposure in Animal Experiments
+
+译文: 3.4. 动物实验中的光照
+------------------------------------------------------------------------------------
+原文: Catolog.No
+
+译文: 目录号
+------------------------------------------------------------------------------------
+原文: Source
+
+译文: 来源
+------------------------------------------------------------------------------------
+原文: Accepted: 21 February 2023
+
+译文: 接受日期: 2023年2月21日
+------------------------------------------------------------------------------------
+原文: Revised: 15 February 2023
+
+译文: 修订日期: 2023年2月15日
+------------------------------------------------------------------------------------
+原文: Behar-Cohen, F.; Martinsons, C.; Viénot, F.; Zissis, G.; Barlier-Salsi, A.; Cesarini, J.; Enouf, O.; Garcia, M.; Picaud, S.; Attia, D. Light-emitting diodes (LED) for domestic lighting: Any risks for the eye? Prog. Retin. Eye Res. 2011, 30, 239–257. [CrossRef] [PubMed]
+
+译文: Behar-Cohen, F.; Martinsons, C.; Viénot, F.; Zissis, G.; Barlier-Salsi, A.; Cesarini, J.; Enouf, O.; Garcia, M.; Picaud, S.; Attia, D. 发光二极管（LED）用于家庭照明：对眼睛有任何风险吗？Prog. Retin. Eye Res. 2011, 30, 239–257. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Núñez-Álvarez, C.; Barrio, C.S.; Aguado, S.D.O.; Osborne, N.N. Blue light negatively affects the survival of ARPE19 cells through an action on their mitochondria and blunted by red light. Acta Ophthalmol. 2019, 97, e103–e115. [CrossRef]
+
+译文: Núñez-Álvarez, C.; Barrio, C.S.; Aguado, S.D.O.; Osborne, N.N. 蓝光通过对线粒体的作用对ARPE19细胞的生存产生负面影响，并被红光减轻。Acta Ophthalmol. 2019, 97, e103–e115. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Anand, R.; Wai, T.; Baker, M.J.; Kladt, N.; Schauss, A.C.; Rugarli, E.; Langer, T. The i-AAA protease YME1L and OMA1 cleave OPA1 to balance mitochondrial fusion and fission. J. Cell Biol. 2014, 204, 919–929. [CrossRef] [PubMed]
+
+译文: Anand, R.; Wai, T.; Baker, M.J.; Kladt, N.; Schauss, A.C.; Rugarli, E.; Langer, T. i-AAA蛋白酶YME1L和OMA1切割OPA1以平衡线粒体的融合和分裂。J. Cell Biol. 2014, 204, 919–929. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Ebeling, M.C.; Polanco, J.R.; Qu, J.; Tu, C.; Montezuma, S.R.; Ferrington, D.A. Improving retinal mitochondrial function as a treatment for age-related macular degeneration. Redox Biol. 2020, 34, 101552. [CrossRef] [PubMed]
+
+译文: Ebeling, M.C.; Polanco, J.R.; Qu, J.; Tu, C.; Montezuma, S.R.; Ferrington, D.A. 改善视网膜线粒体功能作为年龄相关性黄斑变性治疗的方法。Redox Biol. 2020, 34, 101552. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Therefore, we detected the expression of autophagy-related protein LC3B and found that
+
+译文: 因此，我们检测了自噬相关蛋白LC3B的表达，并发现
+------------------------------------------------------------------------------------
+原文: Wang, Z.; Wang, S.-P.; Shao, Q.; Li, P.-F.; Sun, Y.; Luo, L.-Z.; Yan, X.-Q.; Fan, Z.-Y.; Hu, J.; Zhao, J.; et al. Brain-derived neurotrophic factor mimetic, 7,8-dihydroxyflavone, protects against myocardial ischemia by rebalancing optic atrophy 1 processing. Free Radic. Biol. Med. 2019, 145, 187–197. [CrossRef]
+
+译文: Wang, Z.; Wang, S.-P.; Shao, Q.; Li, P.-F.; Sun, Y.; Luo, L.-Z.; Yan, X.-Q.; Fan, Z.-Y.; Hu, J.; Zhao, J.; et al. 脑源性神经营养因子模拟物7,8-二羟基黄酮通过重新平衡视神经萎缩1处理来保护心肌缺血。Free Radic. Biol. Med. 2019, 145, 187–197. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Academic Editor: Silvia C. Finnemann
+
+译文: 学术编辑: Silvia C. Finnemann
+------------------------------------------------------------------------------------
+原文: 2.1. 1900 K LEDs Regulate Cell Activity According to Irradiance and Light Time
+
+译文: 2.1. 1900 K LED根据照射强度和光照时间调节细胞活性
+------------------------------------------------------------------------------------
+原文: 1:2500
+
+译文: 1:2500
+------------------------------------------------------------------------------------
+原文: H2O2, p < 0.0001, 1900 K, p = 0.0079, and 1900 K + H2O2, p = 0.005; 9 h, H2O2, p = 0.0012 and
+
+译文: H2O2, p < 0.0001, 1900 K, p = 0.0079, 和1900 K + H2O2, p = 0.005; 9小时, H2O2, p = 0.0012 和
+------------------------------------------------------------------------------------
+原文: Touitou, Y.; Point, S. Effects and mechanisms of action of light-emitting diodes on the human retina and internal clock. Environ. Res. 2020, 190, 109942. [CrossRef] [PubMed]
+
+译文: Touitou, Y.; Point, S. 发光二极管对人类视网膜和生物钟的影响及作用机制。Environ. Res. 2020, 190, 109942. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Costa, G.; Haus, E.; Stevens, R. Shift work and cancer—Considerations on rationale, mechanisms, and epidemiology. Scand. J. Work. Environ. Health 2010, 36, 163–179. [CrossRef]
+
+译文: Costa, G.; Haus, E.; Stevens, R. 值班工作与癌症——关于理由、机制和流行病学的考虑。Scand. J. Work. Environ. Health 2010, 36, 163–179. [CrossRef]
+------------------------------------------------------------------------------------
+原文: * Significantly different from dark group (two-sided, independent t-test: 1 day, n = 6, p < 0.0001; 2 days, n = 5, p < 0.0001; 3 days, n = 4, p < 0.0001). The data are presented as the mean ± SD.
+
+译文: * 与黑暗组显著不同（双侧，独立t检验：1天，n = 6，p < 0.0001; 2天，n = 5，p < 0.0001; 3天，n = 4，p < 0.0001）。数据以平均值 ± 标准差表示。
+------------------------------------------------------------------------------------
+原文: Sheng, W.; Lu, Y.; Mei, F.; Wang, N.; Liu, Z.-Z.; Han, Y.-Y.; Wang, H.-T.; Zou, S.; Xu, H.; Zhang, X. Effect of Resveratrol on Sirtuins, OPA1, and Fis1 Expression in Adult Zebrafish Retina. Investig. Opthalmol. Vis. Sci. 2018, 59, 4542–4551. [CrossRef]
+
+译文: Sheng, W.; Lu, Y.; Mei, F.; Wang, N.; Liu, Z.-Z.; Han, Y.-Y.; Wang, H.-T.; Zou, S.; Xu, H.; Zhang, X. 白藜芦醇对成年斑马鱼视网膜中Sirtuins、OPA1和Fis1表达的影响。Investig. Opthalmol. Vis. Sci. 2018, 59, 4542–4551. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Interestingly, HO-1 protein decreased in the 1900 K group. The expression of HO-1 in the
+
+译文: 有趣的是，HO-1蛋白在1900 K组中减少。HO-1在
+------------------------------------------------------------------------------------
+原文: β-tubulin
+
+译文: β-微管
+------------------------------------------------------------------------------------
+原文: Hanus, J.; Anderson, C.; Wang, S. RPE necroptosis in response to oxidative stress and in AMD. Ageing Res. Rev. 2015, 24 Pt B, 286–298. [CrossRef]
+
+译文: Hanus, J.; Anderson, C.; Wang, S. 视网膜色素上皮的坏死性凋亡在氧化应激和年龄相关性黄斑变性中的反应。《老化研究与评论》2015, 24 Pt B, 286–298. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 3.12. Statistical Analysis
+
+译文: 3.12. 统计分析
+------------------------------------------------------------------------------------
+原文: (Figure 4b–e). Combined with the previous results on autophagy, we do not believe that the 1900 K LEDs caused a negative increase in mitochondrial fragmentation because the 1900 K LEDs did not cause an increase in cellular autophagy but rather accelerated the fusion cleavage cycle due to the increase in mitochondrial exchange.
+
+译文: (图4b–e)。结合之前关于自噬的结果，我们不认为1900 K LED导致线粒体碎片化的负增长，因为1900 K LED并没有导致细胞自噬的增加，而是由于线粒体交换的增加加速了融合切割周期。
+------------------------------------------------------------------------------------
+原文: Conflicts of Interest: The authors declare no conflict of interest.
+
+译文: 冲突声明：作者声明没有利益冲突。
+------------------------------------------------------------------------------------
+原文: Albarracin, R.; Eells, J.; Valter, K. Photobiomodulation protects the retina from light-induced photoreceptor degeneration. Investig. Opthalmol. Vis. Sci. 2011, 52, 3582–3592. [CrossRef] [PubMed]
+
+译文: Albarracin, R.; Eells, J.; Valter, K. 光生物调制保护视网膜免受光诱导的感光细胞退化。《眼科研究与视觉科学》2011, 52, 3582–3592. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: InGaN yellow light and AlGaInP red LEDs to synthesize blue-free low-color-temperature phosphor-free LEDs (called 1900 K LEDs for short). The CRI of 1900 K LEDs can exceed 80, and the color temperature is 1600–2200 K, which meets lighting needs.
+
+译文: InGaN黄光和AlGaInP红光LED合成无蓝色的低色温磷光体自由LED（简称1900 K LED）。1900 K LED的显色指数可超过80，色温为1600–2200 K，满足照明需求。
+------------------------------------------------------------------------------------
+原文: Supplementary Materials: The supporting information can be downloaded at: https://www.mdpi. com/article/10.3390/ijms24054794/s1.
+
+译文: 补充材料：支持信息可在此下载：https://www.mdpi.com/article/10.3390/ijms24054794/s1。
+------------------------------------------------------------------------------------
+原文: Mao, K.; Wang, K.; Liu, X.; Klionsky, D.J. The scaffold protein Atg11 recruits fission machinery to drive selective mitochondria degradation by autophagy. Dev. Cell 2013, 26, 9–18. [CrossRef] [PubMed]
+
+译文: Mao, K.; Wang, K.; Liu, X.; Klionsky, D.J. 框架蛋白Atg11招募裂变机制以驱动选择性线粒体通过自噬降解。《发育细胞》2013, 26, 9–18. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: In vitro studies have shown that H2O2-induced oxidative stress leads to RPE cell death by causing preferential damage to their mitochondrial DNA [41,42]. Moreover, mitochondrial DNA damage is more extensive and longer-lasting than nuclear DNA damage in human cells after oxidative stress [43]. Therefore, we can determine the degree of oxidative stress by detecting mitochondrial DNA damage. Our results show that mitochondrial DNA in ARPE-19 cells was damaged after 400 µM H2O2 injury for 6 h. Irradiation with 1900 K LEDs did not cause mitochondrial DNA damage in cells but reduced the mitochondrial DNA damage caused by H2O2 (Figure 4f,g). Combined with the results on ROS levels, it is not difficult to conclude that 1900 K LEDs protect the mitochondrial DNA from damage by reducing intracellular ROS. Indeed, the mitochondrial genome is susceptible to oxidative stress damage, and defects in the mitochondrial DNA repair pathway are important factors in the pathogenesis of retinal degeneration. The use of therapeutic modalities that specifically target the mitochondria to protect them from oxidative stress or promote mtDNA repair may provide a potential alternative for treating retinal degenerative diseases such as AMD [44]. PBM has been shown to enhance mitochondrial activity and restore the function of damaged mitochondria, thus promoting cell survival in vitro by stimulating the activity of cytochrome c oxidase [45]. Gopalakrishnan et al. [46] showed that far-infrared PBM improved functional and structural outcomes in animal models of retinal damage and degenerative diseases. A short near-infrared PBM process would preserve mitochondrial metabolic status and reduce photoreceptor loss. Recently, 670 nm LEDs have been used in clinical trials for treating macular edema in humans. The 670 nm LEDs could not only enhance the mitochondrial membrane potential of rodent photoreceptors but also protect Müller cells and photoreceptors from damage in vivo. Moreover, in vitro experiments demonstrated that 670 nm LEDs could enhance mitochondrial function and protect cultured Müller cells from oxidative stress [17].
+
+译文: 体外研究表明，H2O2诱导的氧化应激通过导致对其线粒体DNA的优先损伤导致RPE细胞死亡 [41,42]。此外，人类细胞在氧化应激后线粒体DNA损伤比核DNA损伤更为广泛且持续时间更长 [43]。因此，我们可以通过检测线粒体DNA损伤来确定氧化应激的程度。我们的结果显示，ARPE-19细胞在400 µM H2O2损伤6小时后线粒体DNA受到损伤。照射1900 K LED并未在细胞中导致线粒体DNA损伤，而是减少了H2O2造成的线粒体DNA损伤（图4f,g）。结合ROS水平的结果，不难得出结论，1900 K LED通过减少细胞内ROS保护线粒体DNA免受损伤。实际上，线粒体基因组易受氧化应激损伤，而线粒体DNA修复途径的缺陷是视网膜退化发病机制的重要因素。使用特定靶向线粒体的治疗方式以保护它们免受氧化应激或促进mtDNA修复，可能为治疗例如年龄相关性黄斑变性这样的视网膜退行性疾病提供潜在替代方案 [44]。研究表明，PBM可以增强线粒体活性并恢复受损线粒体的功能，从而通过刺激细胞色素c氧化酶的活性促进体外细胞存活 [45]。Gopalakrishnan等 [46] 表明，远红外PBM改善了视网膜损伤和退行性疾病动物模型中的功能和结构结果。短时间近红外PBM过程将保持线粒体代谢状态并减少感光细胞损失。最近，670 nm LED已在临床试验中用于治疗人类黄斑水肿。670 nm LED不仅能够增强啮齿动物感光细胞的线粒体膜电位，还能在体内保护穆勒细胞和感光细胞免受损伤。此外，体外实验表明，670 nm LED能够增强线粒体功能并保护培养的穆勒细胞免受氧化应激 [17]。
+------------------------------------------------------------------------------------
+原文: Tsai, S.-R.; Hamblin, M.R. Biological effects and medical applications of infrared radiation. J. Photochem. Photobiol. B Biol. 2017, 170, 197–207. [CrossRef]
+
+译文: 蔡世荣；哈姆布林，M.R. 红外辐射的生物效应和医学应用。《光化学和光生物学B》生物学 2017, 170, 197–207. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 4.0/).
+
+译文: 4.0/).
+------------------------------------------------------------------------------------
+原文: Yang, L.; Dong, Y.; Wu, C.; Youngblood, H.; Li, Y.; Zong, X.; Li, L.; Xu, T.; Zhang, Q. Effects of prenatal photobiomodulation treatment on neonatal hypoxic ischemia in rat offspring. Theranostics 2021, 11, 1269–1294. [CrossRef] [PubMed]
+
+译文: 杨丽；董宇；吴晨；杨布拉德，H.; 李毅；宗骅；李莲；徐涛；张强. 产前光生物调节治疗对大鼠后代新生儿缺氧缺血的影响。《治疗诊断学》 2021, 11, 1269–1294. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: HO-1
+
+译文: HO-1
+------------------------------------------------------------------------------------
+原文: Antioxidative and Mitochondrial Protection in Retinal Pigment
+
+译文: 抗氧化和线粒体保护在视网膜色素
+------------------------------------------------------------------------------------
+原文: 3.7. ROS Levels Detection
+
+译文: 3.7. ROS水平检测
+------------------------------------------------------------------------------------
+原文: Garrido, C.; Gurbuxania, S.; Ravagnanb, L.; Kroemer, G. Heat shock proteins: Endogenous modulators of apoptotic cell death. Biochem. Biophys. Res. Commun. 2001, 286, 433–442. [CrossRef]
+
+译文: 加里多，C.; 古尔布克萨尼亚，S.; 拉瓦尼安，L.; 克罗默，G. 热休克蛋白：内源性凋亡细胞死亡调节因子。《生物化学与生物物理研究通讯》 2001, 286, 433–442. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Jiangxi Provincial Key Laboratory for Ophthalmology, Jiangxi Clinical Research Center of Ophthalmic Disease, Affiliated Eye Hospital of Nanchang University, 463 Bayi Road, Nanchang 330006, China
+
+译文: 江西省眼科学重点实验室，江西省眼科疾病临床研究中心，南昌大学附属眼科医院，南昌八一大道463号，邮政编码330006，中国
+------------------------------------------------------------------------------------
+原文: Mouse mAb
+
+译文: 小鼠单克隆抗体
+------------------------------------------------------------------------------------
+原文: The specific steps were the same as described in our previous article [61]. Briefly, eyeballs from zebrafish were dehydrated in a stepwise manner after internal and external fixation. Then, eyeballs were processed with xylene and embedded in paraffin. Next, the embedded eyes were cut into 4 µm thick sections before performing H&E staining. Image-pro Plus 6.0 was used to determine the thickness of ONL, PRL, and RPE in a region beginning 250 µm from the center of the optic nerve head.
+
+译文: 具体步骤与我们之前的文章 [61] 中描述的一样。简而言之，斑马鱼的眼球在内部和外部固定后以逐步脱水的方式处理。随后，眼球使用特丁基苯和石蜡包埋。接下来，嵌入后的眼睛被切割成厚度为4 µm的切片，然后进行H&E染色。使用Image-pro Plus 6.0确定距视神经头中心250 µm处区域的ONL、PRL和RPE的厚度。
+------------------------------------------------------------------------------------
+原文: The 1900 K LEDs can also be used for illumination, while most light sources used for treatment in other studies cannot be used for illumination. We assume that 1900 K LEDs play a role in preventing AMD while simultaneously providing illumination, which can greatly improve patient compliance and, most importantly, reduce the cost of treatment.
+
+译文: 1900 K的LED灯也可以用作照明，而其他研究中用于治疗的多数光源则不能用作照明。我们假设1900 K LED在预防AMD的同时提供照明，这可以大大提高患者的依从性，最重要的是，降低治疗成本。
+------------------------------------------------------------------------------------
+原文: Misra, J.R.; Horner, M.A.; Lam, G.; Thummel, C.S. Transcriptional regulation of xenobiotic detoxification in Drosophila. Genes Dev. 2011, 25, 1796–1806. [CrossRef] [PubMed]
+
+译文: 米斯拉，J.R.; 霍纳，M.A.; 蓝，G.; 汤梅尔，C.S. 转录调节果蝇中的外源性解毒。《基因发展》 2011, 25, 1796–1806. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Lai, Y.; Lin, P.; Chen, M.; Zhang, Y.; Chen, J.; Zheng, M.; Liu, J.; Du, H.; Chen, R.; Pan, X.; et al. Restoration of L-OPA1 alleviates acute ischemic stroke injury in rats via inhibiting neuronal apoptosis and preserving mitochondrial function. Redox Biol. 2020, 34, 101503. [CrossRef]
+
+译文: 赖勇；林鹏；陈明；张扬；陈静；郑敏；刘晶；杜浩；陈瑞；潘雪；等. L-OPA1的恢复通过抑制神经元凋亡和保护线粒体功能减轻大鼠急性缺血性中风损伤。《还原生物学》 2020, 34, 101503. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Mitochondrial dysfunction is implicated in the pathophysiology of several age-related diseases, including AMD. Mitochondrial fission, fusion, and mitophagy are important components of mitochondrial quality control [36]. Therefore, the modulation of mitochondrial dynamics may be a valuable strategy for treating retinal degenerative diseases such as AMD. We previously proved that 1900 K LEDs can reduce the level of ROS in ARPE-19 cells and that mitochondria represent the main target of ROS. Therefore, we shifted the spotlight toward the effects of the 1900 K LEDs on mitochondrial function. First, we performed mitochondrial imaging, adopting the experimental parameters from the study of Jang et al. [37]. They used 0.5 mM H2O2 to act on ARPE-19 cells for 1 h and observed that mitochondrial fission increased, whereas PARP-1 inhibitors could reduce the degree of fission in ARPE-19 cells. Fluorescence images showed that the mitochondria in the dark group and 1900 K group were linear and reticular in shape. Mitochondria in the shape of short rods, dots, or spheres could be observed after 400 µM H2O2 injury, which could be rescued by 1900 K LEDs (Figure 4a). Then, we quantified the morphology of the mitochondria. We found that H2O2 at the present experimental concentration caused the long, branching mitochondria to be broken into different parts, resulting in an increase in the number of mitochondrial networks but a decrease in the network size (number of branches). This led to an increase in the number of individual mitochondria, as well as a reduction in branch length. A similar phenomenon was observed in [38–40]. The 1900 K LEDs could mitigate this phenomenon. However, it is interesting that the 1900 K LEDs also increased mitochondrial fragmentation
+
+译文: 线粒体功能障碍与多种与年龄相关的疾病的病理生理学有关，包括AMD。线粒体分裂、融合和线粒体自噬是线粒体质量控制的重要组成部分 [36]。因此，调节线粒体动力学可能是治疗视网膜变性疾病如AMD的有效策略。我们之前证明过，1900 K的LED可以降低ARPE-19细胞中的ROS水平，而线粒体是ROS的主要靶点。因此，我们将重点转向1900 K LED对线粒体功能的影响。首先，我们进行了线粒体成像，采用了Jang等人的研究中的实验参数 [37]。他们使用0.5 mM H2O2作用于ARPE-19细胞1小时，观察到线粒体分裂增加，而PARP-1抑制剂可以减少ARPE-19细胞中的分裂程度。荧光图像显示，黑暗组和1900 K组的线粒体呈线状和网状。在400 µM H2O2损伤后，可以观察到短杆状、点状或球状的线粒体，而这些损伤可以通过1900 K LED得到恢复（图4a）。接下来，我们量化了线粒体的形态。我们发现，在当前实验浓度下，H2O2使得长、分支的线粒体被打断成不同部分，导致线粒体网络的数量增加，但网络大小（分支数量）减少。这导致单个线粒体数量增加，同时分支长度减少。在[38–40]中观察到类似现象。1900 K LED可以减轻这种现象。然而，有趣的是，1900 K LED也增加了线粒体的碎片化。
+------------------------------------------------------------------------------------
+原文: Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+译文: 免责声明/出版商声明：所有出版物中所含的陈述、观点和数据仅代表个别作者和贡献者的意见，而不代表MDPI和/或编辑的观点。MDPI和/或编辑对因内容中提及的任何观点、方法、指示或产品而导致的人身或财产伤害不承担责任。
+------------------------------------------------------------------------------------
+原文: Author Contributions: Conceptualization, X.Z. and M.J.; methodology, M.J., X.-Y.Z. and Q.Y.; software, M.J., X.-Y.Z. and Q.Y.; validation, Q.Y. and H.-J.H.; formal analysis, M.J., X.-Y.Z. and H.-J.H.; investigation, M.J., X.-Y.Z., H.-J.H., X.-T.F., Z.P., Y.-L.P. and F.Y.; resources, X.Z.; data curation, M.J., X.-Y.Z. and Q.Y.; writing—original draft preparation, M.J. and X.-Y.Z.; writing—review and editing, M.J., X.-Y.Z., Q.Y. and X.Z.; visualization, M.J.; supervision, X.Z.; project administration, X.Z.; funding acquisition, X.Z. All authors have read and agreed to the published version of the manuscript.
+
+译文: 作者贡献：概念构思，X.Z.和M.J.; 方法论，M.J., X.-Y.Z.和Q.Y.; 软件，M.J., X.-Y.Z.和Q.Y.; 验证，Q.Y.和H.-J.H.; 正式分析，M.J., X.-Y.Z.和H.-J.H.; 调查，M.J., X.-Y.Z., H.-J.H., X.-T.F., Z.P., Y.-L.P.和F.Y.; 资源，X.Z.; 数据整理，M.J., X.-Y.Z.和Q.Y.; 撰写—原始稿准备，M.J.和X.-Y.Z.; 撰写—审阅和编辑，M.J., X.-Y.Z., Q.Y.和X.Z.; 可视化，M.J.; 监督，X.Z.; 项目管理，X.Z.; 资金获得，X.Z. 所有作者均已阅读并同意出版的手稿版本。
+------------------------------------------------------------------------------------
+原文: Goldsmith, P.; Harris, W. The zebrafish as a tool for understanding the biology of visual disorders. Semin. Cell Dev. Biol. 2003, 14, 11–18. [CrossRef]
+
+译文: Goldsmith, P.; Harris, W. 斑马鱼作为理解视觉障碍生物学的工具。Semin. Cell Dev. Biol. 2003, 14, 11–18. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 3.6. Cell Death Assay
+
+译文: 3.6. 细胞死亡检测
+------------------------------------------------------------------------------------
+原文: We measured the cell activity using the Cell Counting Kit-8 (CCK-8) (40203ES60, Yeasen, Shanghai, China) according to the reagent instructions. ARPE-19 cells were seeded into 96-well plates at a density of 3 × 103 cells per well and then incubated for 24 h. Subsequently, cells received the corresponding treatment. Next, the cells were cultured in a medium supplemented with 10% (v/v) WST-8 for 2 h. The absorbance was measured by a microplate reader (Multiskan Mk3, Thermo Scientific, Shanghai, China).
+
+译文: 我们根据试剂说明使用细胞计数试剂盒-8（CCK-8）（40203ES60，Yeasen，上海，中国）测量细胞活性。将ARPE-19细胞以每孔3 × 10^3个细胞的密度接种到96孔板中，然后孵育24小时。随后，细胞接受相应的处理。接下来，将细胞培养在添加了10%（v/v）WST-8的培养基中，培养2小时。通过酶标仪（Multiskan Mk3，Thermo Scientific，上海，中国）测量吸光度。
+------------------------------------------------------------------------------------
+原文: 3.10. Detection of mtDNA Damage
+
+译文: 3.10. 线粒体DNA损伤检测
+------------------------------------------------------------------------------------
+原文: 1:1000
+
+译文: 1:1000
+------------------------------------------------------------------------------------
+原文: Gopalakrishnan, S.; Mehrvar, S.; Maleki, S.; Schmitt, H.; Summerfelt, P.; Dubis, A.M.; Abroe, B.; Connor, T.B., Jr.; Carroll, J.; Huddleston, W.; et al. Photobiomodulation preserves mitochondrial redox state and is retinoprotective in a rodent model of retinitis pigmentosa. Sci. Rep. 2020, 10, 20382. [CrossRef]
+
+译文: Gopalakrishnan, S.; Mehrvar, S.; Maleki, S.; Schmitt, H.; Summerfelt, P.; Dubis, A.M.; Abroe, B.; Connor, T.B., Jr.; Carroll, J.; Huddleston, W.; 等。光生物调节保持线粒体氧化还原状态，并在视网膜色素变性的小鼠模型中具有视网膜保护作用。Sci. Rep. 2020, 10, 20382. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 400 µM H2O2 could increase the ratio of LC3B-II/LC3B-I, thereby increasing autophagy in ARPE-19 cells. The ratio of LC3B-II/LC3B-I in the 1900 K group was not different from that in the dark group. The autophagy level in the 1900 K+ H2O2 group was much lower than that in the H2O2 group (Figure 3h). A previous study used the same H2O2 concentration of 400 µM and found that the ratio of LC3B-II/LC3B-I in RPE cells was upregulated after H2O2 exposure for 6 h compared with 0 h [34]. The study of Hu et al. also supports our results [35]. Altogether, this suggests that 1900 K LEDs can reduce the level of ROS to protect RPE from death.
+
+译文: 400 µM H2O2可以增加LC3B-II/LC3B-I的比率，从而增加ARPE-19细胞中的自噬。1900 K组的LC3B-II/LC3B-I比率与暗组没有区别。1900 K+ H2O2组的自噬水平远低于H2O2组（图3h）。一项先前的研究使用了相同浓度为400 µM的H2O2，发现与0小时相比，RPE细胞在H2O2暴露6小时后LC3B-II/LC3B-I的比率上调 [34]。Hu等人的研究也支持我们的结果 [35]。总的来说，这表明1900 K LED能够降低ROS水平，以保护RPE免于死亡。
+------------------------------------------------------------------------------------
+原文: Zhang, Z.; Shen, Q.; Wu, X.; Zhang, D.; Xing, D. Activation of PKA/SIRT1 signaling pathway by photobiomodulation therapy reduces Aβ levels in Alzheimer’s disease models. Aging Cell 2019, 19, e13054. [CrossRef]
+
+译文: 张，Z.; 沈，Q.; 吴，X.; 张，D.; 邢，D. 光生物调节疗法通过激活PKA/SIRT1信号通路降低阿尔茨海默病模型中的Aβ水平。衰老细胞 2019，19，e13054。[CrossRef]
+------------------------------------------------------------------------------------
+原文: Several studies support our results regarding the OPA1 protein. Li et al. irradiated R28 cells with blue light for different times and found that the total protein level of OPA1 did not change at different time points (0–24 h) [49]. Garcia et al. also found that the overall expression of OPA1 was not altered by H2O2 treatment, but the L-OPA1 isoform in both H9c2 and 143B cell lines was degraded [40]. When the transmembrane potential of the inner mitochondrial membrane is intact, the L-OPA1 isoform is necessary for the process of mitochondrial inner membrane fusion. When the transmembrane potential is lost, L-OPA1 is cleaved by the stress-sensitive overlapping with the m-AAA protease 1 homolog (OMA1) metalloprotease into a short S-OPA1 isoform that cannot promote inner mitochondrial membrane fusion and may even participate in inner mitochondrial membrane fission, resulting in the collapse of the mitochondrial network into fragmented organelle populations [50–52]. This is an organismal protection mechanism. If a cell encounters stress above a critical threshold, severely damaged mitochondria can contaminate other mitochondria by rejoining the mitochondrial network before being eliminated by autophagy. The organism has to prevent this from happening. At this time, OMA1 is rapidly activated by a low membrane potential and low levels of adenosine triphosphate (ATP) to cleave L-OPA1. Even in the absence of L-OPA1 or with very low membrane potential, the outer membranes of these mitochondria can still fuse. However, the inner membranes do not, resulting in several inner membrane matrix compartments surrounded by a common outer membrane, akin to peas in a pod, waiting to be eliminated by autophagy [53]. Wang et al. observed a similar phenomenon [39]. Accordingly, we believe that 1900 K LEDs may protect the mitochondria by reducing the stress caused by H2O2, thereby reducing OMA1 activation and L-OPA1 cleavage. The above explanation requires further research to confirm the regulatory effects of protective factors on OPA1 and DRP1.
+
+译文: 若干研究支持我们关于OPA1蛋白的结果。李等人用蓝光照射R28细胞不同时间，发现OPA1的总蛋白水平在不同时间点（0-24小时）没有变化[49]。加西亚等人也发现，H2O2处理并未改变OPA1的整体表达，但H9c2和143B细胞系中的L-OPA1同种型却被降解[40]。当线粒体内膜的跨膜电位完整时，L-OPA1同种型对线粒体内膜的融合过程是必要的。当跨膜电位丧失时，L-OPA1被压力敏感的与m-AAA蛋白酶1同源物（OMA1）金属蛋白酶切割，产生一种不能促进线粒体内膜融合的短的S-OPA1同种型，甚至可能参与线粒体内膜的裂变，导致线粒体网络崩溃为碎片状细胞器群体[50-52]。这是一种生物体保护机制。如果细胞遭遇超过临界阈值的压力，严重受损的线粒体可以通过重新加入线粒体网络在被自噬清除之前污染其他线粒体。生物体必须防止这种情况发生。这时，OMA1通过低膜电位和低水平的三磷酸腺苷（ATP）快速被激活，以切割L-OPA1。即使在没有L-OPA1或膜电位非常低的情况下，这些线粒体的外膜仍然可以融合。然而，内膜却无法融合，导致几个内膜基质区室被一个共同的外膜包围，就像豆荚中的豌豆一样，等待被自噬清除[53]。王等人也观察到了类似现象[39]。因此，我们认为1900 K LED可能通过降低H2O2引起的压力来保护线粒体，从而减少OMA1的激活和L-OPA1的切割。上述解释需要进一步研究以确认保护因子对OPA1和DRP1的调控作用。
+------------------------------------------------------------------------------------
+原文: In addition, oxidative stress can cause an increase in stress-induced autophagy in cells.
+
+译文: 此外，氧化应激可能导致细胞中压力诱导的自噬增加。
+------------------------------------------------------------------------------------
+原文: * Correspondence: ndfsyk092090@ncu.edu.cn; Tel.: +86-791-86318907 † These authors contributed equally to this work.
+
+译文: * 通信：ndfsyk092090@ncu.edu.cn；电话：+86-791-86318907 † 这些作者对本研究贡献相同。
+------------------------------------------------------------------------------------
+原文: Figure 7. Illuminating device and methodological timeline. (a) The 1900 K LEDs have two peaks at 560 and 630 nm and no blue content. The 4000 K and 6600 K LEDs have a peak at 450 nm, followed by a second peak representing yellow light. The amplitude of 6600 K LEDs is lower than that of 4000 K LEDs. Blue-light LEDs only have a single wave peak at 470 nm. (b) The illuminating device consisted of a lamp cover and a box divided into six independent areas. We put lamps on the inner surface of the lamp cover. Air holes were designed on noncontact surfaces of six different areas to avoid light interference. This study mainly used two modeling methods (c): the light post-treatment paradigm and the light pretreatment paradigm. There were four groups in each modeling method (dark group, H2O2 group, 1900 K LED group, and H2O2 + 1900 K group or 1900 K + H2O2 group). The light post-treatment paradigm involved damage from 400 µM H2O2 for 6 h, followed by light treatment with the 1900 K LED for 48 h. The other paradigm involved light treatment with the 1900 K LED for 48 h followed by damage from 400 µM H2O2 for 6 h. Abbreviations: LED, light-emitting diode; H2O2, hydrogen peroxide.
+
+译文: 图7. 照明装置和方法时间表。(a) 1900 K LED在560和630 nm有两个峰值且没有蓝光成分。4000 K和6600 K LED在450 nm有一个峰值，随后是代表黄色光的第二个峰值。6600 K LED的幅度低于4000 K LED的幅度。蓝光LED仅在470 nm有单个波峰。(b) 照明装置由一个灯罩和一个分为六个独立区域的箱子组成。我们将灯放置在灯罩的内表面。设计了气孔在六个不同区域的非接触表面上，以避免光干扰。本研究主要使用两种建模方法(c)：光后处理范式和光预处理范式。每种建模方法有四组（暗组，H2O2组，1900 K LED组，和H2O2 + 1900 K组或1900 K + H2O2组）。光后处理范式涉及从400 µM H2O2处理6小时后，跟随用1900 K LED照射48小时。另一个范式则是用1900 K LED照射48小时后，再进行400 µM H2O2处理6小时。缩写：LED，发光二极管；H2O2，过氧化氢。
+------------------------------------------------------------------------------------
+原文: Received: 30 November 2022
+
+译文: 收到日期：2022年11月30日
+------------------------------------------------------------------------------------
+原文: Binder, S.; Stanzel, B.V.; Krebs, I.; Glittenberg, C. Transplantation of the RPE in AMD. Prog. Retin. Eye Res. 2007, 26, 516–554. [CrossRef] [PubMed]
+
+译文: Binder, S.; Stanzel, B.V.; Krebs, I.; Glittenberg, C. AMD中RPE的移植。Prog. Retin. Eye Res. 2007, 26, 516–554. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: [PubMed]
+
+译文: [PubMed]
+------------------------------------------------------------------------------------
+原文: Touitou, Y.; Reinberg, A.; Touitou, D. Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption. Life Sci. 2017, 173, 94–106. [CrossRef]
+
+译文: Touitou, Y.; Reinberg, A.; Touitou, D. 夜间光照、褪黑激素分泌、睡眠不足与内部生物钟之间的关联：健康影响及昼夜节律紊乱的机制。生命科学. 2017, 173, 94–106. [CrossRef]
+------------------------------------------------------------------------------------
+原文: # significantly different from H2O2 group (one-way ANOVA: NRF2, 1900 K + H2O2, p = 0.0028; HO-1, 1900 K, p = 0.0017 and 1900 K + H2O2, p = 0.0280; LC3B, 1900 K, p = 0.0004 and 1900 K + H2O2, p = 0.0038); + significantly different from 1900 K (one-way ANOVA, NRF2, 1900 K + H2O2, p = 0.0127). The data are presented as the mean ± SD. Bars in the merged images, 20 µm.
+
+译文: # 与H2O2组显著不同（单因素方差分析：NRF2, 1900 K + H2O2, p = 0.0028; HO-1, 1900 K, p = 0.0017 和 1900 K + H2O2, p = 0.0280; LC3B, 1900 K, p = 0.0004 和 1900 K + H2O2, p = 0.0038）；+ 与1900 K显著不同（单因素方差分析, NRF2, 1900 K + H2O2, p = 0.0127）。数据以均值 ± 标准差表示。合并图像中的比例尺，20 µm。
+------------------------------------------------------------------------------------
+原文: Chung, H.; Dai, T.; Sharma, S.K.; Huang, Y.Y.; Carroll, J.D.; Hamblin, M.R. The nuts and bolts of low-level laser (light) therapy. Ann. Biomed. Eng. 2012, 40, 516–533. [CrossRef]
+
+译文: Chung, H.; Dai, T.; Sharma, S.K.; Huang, Y.Y.; Carroll, J.D.; Hamblin, M.R. 低强度激光（光）治疗的基础。生物医学工程年鉴. 2012, 40, 516–533. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 3.5. Cell Activity Assay
+
+译文: 3.5. 细胞活性测定
+------------------------------------------------------------------------------------
+原文: Copyright: © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/
+
+译文: 版权：© 2023 由作者提供的。许可方MDPI，瑞士巴塞尔。本文为开放获取文章，根据创意共享署名（CC BY）许可的条款和条件分发（https:// creativecommons.org/licenses/by/
+------------------------------------------------------------------------------------
+原文: 1900 K, p = 0.0001; 24 h, H2O2 and 1900 K + H2O2, p < 0.0001 and 1900 K, p = 0.0003); # significantly different from H2O2 (one-way ANOVA: 0 h, 1900 K, p < 0.0001 and 1900 K + H2O2, p = 0.0032; 3 h, 1900 K and 1900 K + H2O2, p < 0.0001; 9h, 1900 K, p < 0.0001 and 1900 K + H2O2, p = 0.0009; 24 h, 1900 K and 1900 K + H2O2, p < 0.0001); + significantly different from 1900 K (one-way ANOVA: 0 h, 1900 K + H2O2, p < 0.0001; 3 h, 1900 K + H2O2, p < 0.0001; 9 h, 1900 K + H2O2, p = 0.0002; 24 h, 1900 K + H2O2, p < 0.0001). The morphology of cells (g) and cell apoptosis detection (h) in the light pretreatment paradigm; concentration of H2O2 = 1000 µM. (i) Quantitative analysis of apoptosis rate; n = 3. * Significantly different from dark group (one-way ANOVA, p < 0.0001); # significantly different from H2O2 group (one-way ANOVA, p < 0.0001); + significantly different from 1900 K group (one-way ANOVA, p < 0.0001). The data are presented as the mean ± SD. Bars in the bright field, 50 µm.
+
+译文: 1900 K, p = 0.0001; 24小时，H2O2和1900 K + H2O2, p < 0.0001 和 1900 K, p = 0.0003）；# 与H2O2显著不同（单因素方差分析：0小时, 1900 K, p < 0.0001 和 1900 K + H2O2, p = 0.0032; 3小时, 1900 K和1900 K + H2O2, p < 0.0001; 9小时, 1900 K, p < 0.0001 和 1900 K + H2O2, p = 0.0009; 24小时, 1900 K和1900 K + H2O2, p < 0.0001）；+ 与1900 K显著不同（单因素方差分析：0小时, 1900 K + H2O2, p < 0.0001; 3小时, 1900 K + H2O2, p < 0.0001; 9小时, 1900 K + H2O2, p = 0.0002; 24小时, 1900 K + H2O2, p < 0.0001）。光预处理方案中的细胞形态（g）和细胞凋亡检测（h）；H2O2浓度 = 1000 µM。（i）凋亡率的定量分析；n = 3。* 与黑暗组显著不同（单因素方差分析, p < 0.0001）；# 与H2O2组显著不同（单因素方差分析, p < 0.0001）；+ 与1900 K组显著不同（单因素方差分析, p < 0.0001）。数据以均值 ± 标准差表示。明场图像中的比例尺，50 µm。
+------------------------------------------------------------------------------------
+原文: Zebrafish were maintained in a transparent aquarium (10 cm × 10 cm × 10 cm), and each aquarium was placed in the center of a light box with reflective interior walls (12 cm × 12 cm × 12 cm). The LEDs were placed on the four side walls of the light box to improve the directional uniformity of the radiation. The light exposure was consistent with the circadian rhythm of zebrafish automatically, and the light intensity was 3000 lux.
+
+译文: 斑马鱼在一个透明水族箱中饲养（10 cm × 10 cm × 10 cm），每个水族箱放置在一个具有反射内壁的光箱中央（12 cm × 12 cm × 12 cm）。LED被放置在光箱的四个侧壁上，以改善辐射的方向均匀性。光照与斑马鱼的昼夜节律自动一致，光强为3000 lux。
+------------------------------------------------------------------------------------
+原文: 14/16
+
+译文: 14/16
+------------------------------------------------------------------------------------
+原文: 78–82
+
+译文: 78–82
+------------------------------------------------------------------------------------
+原文: All results are presented as mean ± standard deviation (x ± SD). Graph Pad Prism 7.0 software was used for statistical analysis. Student’s t-test was used to compare the means of two groups. One-way ANOVA and the post hoc Tukey test were used for three or more groups of samples. A p-value < 0.05 was considered statistically significant.
+
+译文: 所有结果以平均值 ± 标准差 (x ± SD) 的形式呈现。使用 Graph Pad Prism 7.0 软件进行统计分析。使用学生 t 检验比较两组的均值。对于三个或更多组样本，采用单因素方差分析和事后 Tukey 测试。p 值 < 0.05 被认为具有统计学显著性。
+------------------------------------------------------------------------------------
+原文: Antioxidative and Mitochondrial Protection in Retinal Pigment Epithelium: New Light Source in Action
+
+译文: 视网膜色素上皮中的抗氧化和线粒体保护：新光源的作用
+------------------------------------------------------------------------------------
+原文: According to mitochondrial morphology experiments, we detected the mitochondrial fission and fusion proteins. We found that the DRP1 protein was downregulated in the H2O2 group but upregulated in the 1900 K groups. The DPR1 level of the 1900 K + H2O2 group was between that of the H2O2 group and the 1900 K group (Figure 4h). For OPA1, an endomembrane fusion protein, the total protein levels of the four groups were not significantly different (Figure 4i). However, the ratio of L-OPA1/S-OPA1 in the H2O2 group showed a downward trend. The opposite was observed in the 1900 K group. Similar to DRP1, the ratio of L-OPA1/S-OPA1 in the 1900 K + H2O2 group was also between that in the H2O2 and 1900 K groups (Figure 4j). Our previous hypothesis was that H2O2 would upregulate intracellular DRP1 levels, leading to mitochondrial fragmentation. However, the level of DRP1 did not increase after H2O2 treatment; thus, it cannot be excluded that DRP1 may still play a role in oxidation-induced mitochondrial fragmentation [40]. Interestingly, there was an increase in DRP1 in the 1900 K group. Sheng et al. also observed the upregulation of OPA1 and FIS1 in the zebrafish retina after resveratrol treatment [47]. FIS1 is also a mitochondrial fission protein. Under physiological conditions, mitochondrial fusion and fission occur in a dynamic balance, which is altered by external stimulation. The mitochondrial morphology in the 1900 K group was linear and reticular, as also seen in the control group, and the mitochondrial DNA was not damaged; thus, DRP1 levels in the 1900 K group were likely upregulated to balance mitochondrial fusion. The increase in the fusion split cycle would likely promote communication between mitochondria and increase mitochondrial function [48], consistent with the results of the previous mitochondrial morphology experiments.
+
+译文: 根据线粒体形态实验，我们检测了线粒体的分裂和融合蛋白。我们发现 DRP1 蛋白在 H2O2 组中下调，而在 1900 K 组中上调。1900 K + H2O2 组的 DPR1 水平介于 H2O2 组和 1900 K 组之间（图 4h）。对于 OPA1，这种内膜融合蛋白，四组的总蛋白水平没有显著差异（图 4i）。然而，H2O2 组的 L-OPA1/S-OPA1 比例显示出下降趋势。1900 K 组则相反。与 DRP1 类似，1900 K + H2O2 组的 L-OPA1/S-OPA1 比例也介于 H2O2 组和 1900 K 组之间（图 4j）。我们之前的假设是，H2O2 会上调细胞内 DRP1 水平，导致线粒体碎片化。然而，H2O2 处理后 DRP1 水平并没有增加；因此，不能排除 DRP1 仍可能在线粒体碎片化引起的氧化过程中发挥作用 [40]。有趣的是，1900 K 组的 DRP1 增加。Sheng et al. 还在斑马鱼视网膜中观察到白藜芦醇处理后 OPA1 和 FIS1 的上调 [47]。FIS1 也是一种线粒体分裂蛋白。在生理条件下，线粒体的融合和分裂在动态平衡中进行，外部刺激会改变这种平衡。1900 K 组的线粒体形态呈线性和网状，与对照组相似，线粒体 DNA 没有受到损伤；因此，1900 K 组的 DRP1 水平可能上调以平衡线粒体的融合。融合分裂循环的增加可能促进线粒体之间的交流，并提高线粒体功能 [48]，这与之前的线粒体形态实验结果一致。
+------------------------------------------------------------------------------------
+原文: Considering the preliminary proof that 1900 K LED pretreatment could protect ARPE19 cells, we wanted to explore the possible mechanism. First, we focused on antioxidative stress. We found that red intranuclear fluorescence representing intracellular ROS level increased as the color temperature of LEDs increased (Figure 3a). However, the ROS level of the 1900 K group was much lower than that of the control (Figure 3b,c). We then repeated this experiment in the light pretreatment paradigm. As expected, the ROS level of the 1900 K group was still lower than that of the control, while the situation in the H2O2 group was the opposite. The ROS level of the 1900 K + H2O2 group was between that of the H2O2 group and the 1900 K group (Figure 3d,e). This result is not surprising. Shen et al. [17] also found that 670 nm LEDs could reduce the level of ROS in the mitochondria and enhance mitochondrial function in rat primary Müller cells. In the light pretreatment paradigm, we found that NRF2 in the H2O2 group was upregulated, and HO-1 also showed an upregulation trend. NRF2 in the 1900 K group also increased slightly.
+
+译文: 考虑到初步证据表明 1900 K LED 预处理可以保护 ARPE19 细胞，我们想探讨可能的机制。首先，我们关注抗氧化应激。我们发现，随着 LED 的色温升高，代表细胞内 ROS 水平的红色细胞核内荧光增加（图 3a）。然而，1900 K 组的 ROS 水平远低于对照组（图 3b,c）。然后我们在光预处理范式中重复了这个实验。正如预期的那样，1900 K 组的 ROS 水平仍低于对照组，而 H2O2 组的情况则相反。1900 K + H2O2 组的 ROS 水平介于 H2O2 组和 1900 K 组之间（图 3d,e）。这一结果并不令人惊讶。Shen et al. [17] 也发现 670 nm 的 LED 可以降低线粒体中的 ROS 水平，并增强大鼠原代 Müller 细胞的线粒体功能。在光预处理范式中，我们发现 H2O2 组中的 NRF2 上调，HO-1 也显示上调趋势。1900 K 组中的 NRF2 也略有增加。
+------------------------------------------------------------------------------------
+原文: Zebrafish show great similarities with humans in terms of eye shape, anatomy, gene expression, and function, and they have the advantages of rapid development, in vitro fertilization, transparent embryos, and easy observation. Therefore, they play an important role in research on eye development and diseases [54,55]. In addition, zebrafish have no eyelids; hence, experiment failure caused by eyelids blocking the light can be avoided. We analyzed the changes in the zebrafish retina after exposure to the 1900 K and blue-light LEDs. Compared with the control group, the thickness of the outer nuclear layer (ONL), photoreceptor layer (PRL), and RPE was significantly decreased in the blue light group on day 7, whereas the thickness of ONL, PRL, and RPE in the 1900 K LED light group was not significantly altered (Figure 5). This in vivo experiment preliminarily proves the safety of 1900 K LEDs in the fundus of zebrafish.
+
+译文: 斑马鱼在眼睛形状、解剖结构、基因表达和功能方面与人类有很大的相似性，并且它们具有快速发育、体外受精、透明胚胎和易于观察的优势。因此，它们在眼部发育和疾病研究中发挥着重要作用 [54,55]。此外，斑马鱼没有眼睑；因此，避免了因眼睑阻挡光线而导致的实验失败。我们分析了斑马鱼在暴露于1900 K和蓝光LED后视网膜的变化。与对照组相比，蓝光组在第7天外核层（ONL）、光感受器层（PRL）和视网膜色素上皮（RPE）的厚度显著减少，而在1900 K LED光组中，ONL、PRL和RPE的厚度没有显著变化（图5）。这项体内实验初步证明了1900 K LED在斑马鱼眼底的安全性。
+------------------------------------------------------------------------------------
+原文: Int. J. Mol. Sci. 2023, 24, 4794	2 of
+
+译文: Int. J. Mol. Sci. 2023, 24, 4794	2 of
+------------------------------------------------------------------------------------
+原文: Q.; Hu, H.-J.; Feng, X.-T.; Peng, Z.; Pang, Y.-L.; Yan, F.; Zhang, X.
+
+译文: Q.; Hu, H.-J.; Feng, X.-T.; Peng, Z.; Pang, Y.-L.; Yan, F.; Zhang, X.
+------------------------------------------------------------------------------------
+原文: Article
+
+译文: 文章
+------------------------------------------------------------------------------------
+原文: 2.4. The 1900 K LEDs Can Reduce Mitochondrial Damage Caused by H2O2 in ARPE-19 Cells
+
+译文: 2.4. 1900 K LED可以减少H2O2在ARPE-19细胞中造成的线粒体损伤
+------------------------------------------------------------------------------------
+原文: NRF2
+
+译文: NRF2
+------------------------------------------------------------------------------------
+原文: Guan, Q.; Wang, Z.; Cao, J.; Dong, Y.; Chen, Y. Mechanisms of Melatonin in Obesity: A Review. Int. J. Mol. Sci. 2021, 23, 218. [CrossRef]
+
+译文: Guan, Q.; Wang, Z.; Cao, J.; Dong, Y.; Chen, Y. 褪黑激素在肥胖中的机制：综述。Int. J. Mol. Sci. 2021, 23, 218. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 3.8. Mitochondrial Imaging
+
+译文: 3.8. 线粒体成像
+------------------------------------------------------------------------------------
+原文: Xie, C.; Li, X.; Tong, J.; Gu, Y.; Shen, Y. Effects of white light-emitting diode (LED) light exposure with different correlated color temperatures (CCTs) on human lens epithelial cells in culture. Photochem. Photobiol. 2014, 90, 853–859. [CrossRef]
+
+译文: Xie, C.; Li, X.; Tong, J.; Gu, Y.; Shen, Y. 不同关联色温（CCTs）的白色发光二极管（LED）光照对培养的人类晶状体上皮细胞的影响。Photochem. Photobiol. 2014, 90, 853–859. [CrossRef]
+------------------------------------------------------------------------------------
+原文: ARPE-19 cells were seeded into 35 mm confocal dishes at a density of 4 × 105 cells and incubated for 24 h until their confluence reached 50–70%. Then, we transfected ARPE-19 cells using DsRed2-Mito plasmid (Wuhan Miaoling Biotechnology Co., Ltd. Wuhan, China) to label the mitochondria according to the instructions of the Hanheng LipoFiter3 Liposome Transfection Reagent (HB-TRLF3-1000, Hanheng, Shanghai, China). The DsRed2-Mito plasmid encodes a fusion of Discosoma sp. red fluorescent protein (DsRed2; 1, 2) and the mitochondrial targeting sequence from subunit VIII of human cytochrome c oxidase (Mito; 3, 4). Next, 36 h after transfection, cells were irradiated with the 1900 K LEDs for 48 h before adding 400 µM H2O2 for 3 h. The morphology of the mitochondria was observed under a Zeiss confocal microscope (LSM800, ZEISS, Göttingen, Germany), and multiple fields were randomly selected for photographing and recording. Then, we assessed the number and morphology of mitochondria using the Mitochondrial Network Analysis (MiNA) toolset.
+
+译文: ARPE-19细胞以4 × 10^5细胞的密度接种到35 mm共聚焦培养皿中，并孵育24小时，直到其融合度达到50–70%。然后，我们使用DsRed2-Mito质粒（武汉苗灵生物科技有限公司，武汉，中国）对ARPE-19细胞进行转染，以根据Hanheng LipoFiter3脂质体转染试剂（HB-TRLF3-1000，Hanheng，上海，中国）的说明标记线粒体。DsRed2-Mito质粒编码Discosoma sp.红色荧光蛋白（DsRed2; 1, 2）和人类细胞色素c氧化酶（Mito; 3, 4）第八亚基的线粒体靶向序列的融合体。接下来，在转染后36小时，细胞用1900 K LED照射48小时，然后添加400 µM H2O2，持续3小时。在线粒体形态观察中，使用蔡司共聚焦显微镜（LSM800，蔡司，哥廷根，德国），随机选择多个视野进行摄影和记录。然后，我们使用线粒体网络分析（MiNA）工具集评估线粒体的数量和形态。
+------------------------------------------------------------------------------------
+原文: Before us, there were also many experiments in which red lasers, LEDs, or even compound LEDs were used to protect the retinas of animals or volunteers [17,22–27]. Some studies suggested that the sequence of light treatments would affect treatment outcomes. Albarracin et al. [25] found that 670 nm LED light treatment before and during exposure to damaging white light significantly ameliorated the glare-induced reduction in photoreceptor function. However, photoreceptor function in animals treated with light following intense light-induced injury initially decreased but recovered 1 month after exposure. The above results suggest that phototherapy pretreatment and period treatments may have earlier or greater protective effects, partially consistent with our results. Regarding the different phenomenon in the 1900 K + H2O2 and H2O2 + 1900 K paradigms, our explanation is as follows: compared with other color temperature LEDs, the 1900 K LEDs were able to increase the cell activity of ARPE-19 cells. The interpretation of cell activity results usually requires two aspects; one is cell proliferation, and the other is the alteration of intracellular mitochondrial dehydrogenase activity. We cannot deny that 1900 K LEDs could promote ARPE-19 cell proliferation to a certain extent (see Supplementary Figure S4). We also proved that 1900 K LEDs could increase intracellular activities. The 4000 K and blue-light LEDs elevated intracellular ROS levels, while the 1900 K LEDs reduced them. In addition, mitochondrial imaging and DNA damage experiments showed that 1900 K LEDs could reduce the damage to mitochondria caused by H2O2. Coupled with the above results and the intracellular protein expressions of nuclear factor E2-related factor 2 (NRF2), heme oxygenase-1 (HO-1), microtubule-associated protein 1 light chain 3 beta (LC-3B), dynamin-related protein 1 (DRP1), and optic atrophy protein 1 (OPA1), we assume that pre-irradiation with 1900 K LEDs not only promoted ARPE19 cell proliferation but also reduced the damage caused by H2O2, which led to the obvious increase in cell activity in the 1900 K group. However, if the cells are first damaged with H2O2, many protective effects may not work under severe trauma [28].
+
+译文: 在我们之前，也曾有许多实验使用红色激光器、LED或甚至复合LED来保护动物或志愿者的视网膜 [17,22–27]。一些研究建议，光治疗的顺序会影响治疗结果。Albarracin等人 [25] 发现，670 nm的LED光在暴露于损害性白光之前和期间进行处理，可以显著改善由眩光引起的光感受器功能的减少。然而，在经历强烈光诱导损伤后接受光处理的动物的光感受器功能最初下降，但在暴露1个月后恢复。这些结果表明，光疗预处理和阶段性治疗可能具有更早或更大的保护效果，这与我们的结果部分一致。至于1900 K + H2O2和H2O2 + 1900 K范式中的不同现象，我们的解释如下：与其他色温的LED相比，1900 K的LED能够提高ARPE-19细胞的活性。细胞活性结果的解释通常需要两个方面；一个是细胞增殖，另一个是细胞内线粒体脱氢酶活性的变化。我们不能否认1900 K的LED在一定程度上可以促进ARPE-19细胞的增殖（见补充图S4）。我们还证明了1900 K的LED可以增加细胞内活性。4000 K和蓝光LED提高了细胞内ROS水平，而1900 K的LED则降低了它们。此外，线粒体成像和DNA损伤实验显示，1900 K的LED可以减少H2O2引起的线粒体损伤。结合上述结果以及细胞内核因子E2相关因子2（NRF2）、血红素氧化酶-1（HO-1）、微管相关蛋白1轻链3 beta（LC-3B）、动力蛋白相关蛋白1（DRP1）和视神经萎缩蛋白1（OPA1）的蛋白表达，我们假设在1900 K LED的预照射下不仅促进了ARPE19细胞的增殖，还减少了H2O2造成的损害，从而导致1900 K组的细胞活性明显增加。然而，如果细胞先是被H2O2损伤，那么在严重创伤状态下许多保护作用可能失效 [28]。
+------------------------------------------------------------------------------------
+原文: Jarrett, S.; Lin, H.; Godley, B.F.; Boulton, M.E. Mitochondrial DNA damage and its potential role in retinal degeneration. Prog. Retin. Eye Res. 2008, 27, 596–607. [CrossRef]
+
+译文: Jarrett, S.; Lin, H.; Godley, B.F.; Boulton, M.E. 线粒体DNA损伤及其在视网膜退化中的潜在作用。Prog. Retin. Eye Res. 2008, 27, 596–607. [CrossRef]
+------------------------------------------------------------------------------------
+原文: #8570
+
+译文: #8570
+------------------------------------------------------------------------------------
+原文: Manassas, Virginia).	The cells were cultured in Dulbecco’s modified Eagle medium
+
+译文: 马纳萨斯，弗吉尼亚州）。细胞在Dulbecco改良的鹰培养基中培养。
+------------------------------------------------------------------------------------
+原文: Leyane, T.S.; Jere, S.W.; Houreld, N.N. Cellular Signalling and Photobiomodulation in Chronic Wound Repair. Int. J. Mol. Sci. 2021, 22, 11223. [CrossRef]
+
+译文: Leyane, T.S.; Jere, S.W.; Houreld, N.N. 细胞信号传导与光生物调制在慢性创伤修复中的作用. Int. J. Mol. Sci. 2021, 22, 11223. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Figure 2. Pretreatment with the 1900 K LEDs at 10 W/m2 reduced the death of ARPE-19 cells.
+
+译文: 图2. 用1900 K的LED在10 W/m2的预处理降低了ARPE-19细胞的死亡率.
+------------------------------------------------------------------------------------
+原文: To explore the protective effects of the 1900 K LEDs on damaged cells, we chose the hydrogen peroxide (H2O2) damage model, which is classically used for the study of AMD. As shown in Figure 2a, we treated cells with a series of concentrations of H2O2 (200 µM, 400 µM, 600 µM, 800 µM, and 1000 µM) for 6 h before choosing 400 µM as the final concentration. Next, we investigated the effects of two paradigms on ARPE-19 cells and found that the protection of the light post-treatment was limited (Figure 2b). This was also corroborated by the bright-field images and the flow cytometry results on apoptosis (see Supplementary Figure S1). Therefore, we switched to a 1900 K LED pre-illumination paradigm for 48 h, followed by 400 µM H2O2 damage for 6 h. To verify that the protective effect of these LEDs was not transient, we added several detection points (3 h, 9 h, and 24 h) after the removal of H2O2. The cell activity of the 1900 K + H2O2 group was higher than that of the H2O2 group at four time points (Figure 2c–f). Interestingly, we observed no significant difference in cell morphology and apoptosis among the four groups at 0 h after the removal of H2O2 (see Supplementary Figure S2). We posit that 400 µM H2O2 damage for 6 h did not cause cell apoptosis but led to a decrease in cell activity. The 1900 K LEDs prevented the decrease in cell activity caused by H2O2. The negative manifestation of cells after a blow tends to emerge later. To investigate the protection range of LEDs at 10 W/m2 irradiance, we detected the cell state and apoptosis at 1000 µM H2O2 concentration in the light pretreatment paradigm. The number of cells in the 1900 K + H2O2 group was more than that in the H2O2 group. Furthermore, the connection between the cells in the H2O2 group almost disappeared. However, there were still some cell connections among the cells in the 1900 K + H2O2 group, and the percentage of cells with an increased refractive index around the cells was also lower than that in the H2O2 group. The flow cytometry results also confirmed this; the apoptosis rate of the 1900 K + H2O2 group was significantly lower than that of the H2O2 group (Figure 2g–i). In fact, we extended the time of H2O2 injury to
+
+译文: 为了探索1900 K LED对受损细胞的保护作用，我们选择了经典用于AMD研究的过氧化氢(H2O2)损伤模型. 如图2a所示，我们用一系列浓度的H2O2(200 µM, 400 µM, 600 µM, 800 µM和1000 µM)处理细胞6小时，然后选择400 µM作为最终浓度. 接下来，我们研究了两种范式对ARPE-19细胞的影响，发现光照后处理的保护效果有限（图2b）. 通过明场图像和细胞凋亡的流式细胞术结果也证实了这一点（见补充图S1）. 因此，我们改为采用1900 K的LED预照射范式48小时，然后用400 µM的H2O2损伤6小时. 为了验证这些LED的保护效果不是暂时的，我们在去除H2O2后添加了几个检测点（3小时，9小时和24小时）. 1900 K + H2O2组的细胞活性在四个时间点上均高于H2O2组（图2c–f）. 有趣的是，我们观察到在去除H2O2后0小时，四组之间的细胞形态和凋亡没有显著差异（见补充图S2）. 我们推测400 µM的H2O2损伤6小时并未导致细胞凋亡，但导致细胞活性降低. 1900 K的LED防止了H2O2导致的细胞活性降低. 细胞在受到冲击后的负面表现通常会稍后显现. 为了研究在10 W/m2照射下LED的保护范围，我们在光预处理范式中检测了1000 µM H2O2浓度下的细胞状态和凋亡. 1900 K + H2O2组的细胞数量多于H2O2组. 此外，H2O2组中的细胞连接几乎消失. 然而，在1900 K + H2O2组的细胞中仍有一些细胞连接，并且细胞周围折射率增加的细胞百分比也低于H2O2组. 流式细胞术结果也证实了这一点; 1900 K + H2O2组的凋亡率显著低于H2O2组（图2g–i）. 实际上，我们将H2O2损伤的时间延长至
+------------------------------------------------------------------------------------
+原文: Data Availability Statement: The original contributions presented in the study are included in the article/supplementary material; further inquiries can be directed to the corresponding author.
+
+译文: 数据可用性声明：本研究中提出的原始贡献已包含在文章/补充材料中；进一步的查询可以直接联系对应作者.
+------------------------------------------------------------------------------------
+原文: Shen, Y.; Xie, C.; Gu, Y.; Li, X.; Tong, J. Illumination from light-emitting diodes (LEDs) disrupts pathological cytokines expression and activates relevant signal pathways in primary human retinal pigment epithelial cells. Exp. Eye Res. 2016, 145, 456–467. [CrossRef]
+
+译文: 沈, Y.; 谢, C.; 顾, Y.; 李, X.; 童, J. 发光二极管 (LED) 的照明破坏了病理细胞因子的表达并激活了人类原代视网膜色素上皮细胞中的相关信号通路. 实验眼研究. 2016, 145, 456–467. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Rabbit mAb
+
+译文: 兔单抗
+------------------------------------------------------------------------------------
+原文: Figure 5. Irradiation with the 1900 K LEDs does not cause retinal damage in zebrafish. (a) Hematoxylin and eosin stained retinal tissues of normal zebrafish and experimental zebrafish exposed under 3000 lux 1900 K LEDs and blue-light LEDs for 7 days. (b) Quantification of outer nuclear layer (ONL), photoreceptor layer (PRL), and retinal pigment epithelium (RPE) thickness of normal zebrafish and experimental zebrafish exposed under 3000 lux 1900 K LEDs and blue-light LEDs for 7 days. * ONL thickness significantly different from control group (one-way ANOVA: blue, p = 0.0005). * PRL thickness significantly different from control group (one-way ANOVA: blue, p = 0.0001). * RPE thickness significantly different from control group (one-way ANOVA: blue, p = 0.0006). The quantitative results of ONL, PRL, and RPE thickness per vertical column are presented as the mean ± SD (n = 6 eyes in each group). Scale bar = 100 µm. Abbreviations: NFL, nerve fiber layer; GCL, ganglion cell layerIPL, inner plexiform layer; INL, inner nuclear layer; OPL, outer plexiform layer.
+
+译文: 图5. 使用1900 K LED照射不会对斑马鱼造成视网膜损伤. (a) 正常斑马鱼和实验斑马鱼在3000 lux的1900 K LED和蓝光LED下暴露7天后的苏木素-伊红染色视网膜组织. (b) 正常斑马鱼和在3000 lux的1900 K LED和蓝光LED下暴露7天的实验斑马鱼外核层 (ONL)、视网膜感光层 (PRL) 与视网膜色素上皮 (RPE) 厚度的定量. * ONL 厚度与对照组显著不同 (单因素方差分析: 蓝色, p = 0.0005). * PRL 厚度与对照组显著不同 (单因素方差分析: 蓝色, p = 0.0001). * RPE 厚度与对照组显著不同 (单因素方差分析: 蓝色, p = 0.0006). ONL、PRL 和 RPE 厚度的定量结果按垂直列呈现为均值 ± 标准差 (每组 n = 6 只眼). 刻度条 = 100 µm. 缩写: NFL, 神经纤维层; GCL, 神经节细胞层; IPL, 内层网状层; INL, 内核层; OPL, 外层网状层.
+------------------------------------------------------------------------------------
+原文: Yang, L.; Youngblood, H.; Wu, C.; Zhang, Q. Mitochondria as a target for neuroprotection: Role of methylene blue and photobiomodulation. Transl. Neurodegener. 2020, 9, 19. [CrossRef]
+
+译文: 杨, L.; 杨, H.; 吴, C.; 张, Q. 线粒体作为神经保护的靶点: 美蓝和光生物调制的作用. 转化神经退行性疾病. 2020, 9, 19. [CrossRef]
+------------------------------------------------------------------------------------
+原文: (DMEM/F-12, BI, Israel) supplemented with 10% (v/v) fetal bovine serum (FBS, BI, Israel), 100 U/mL penicillin, and 100 µg/mL streptomycin (Solarbio, Beijing, China) in a cell incubator at 37 ◦C with 5% CO2. Cell passages were performed every 4 to 5 days. We used ARPE-19 cells from passages 3–10 in our experiments.
+
+译文: (DMEM/F-12, BI, 以色列) 加10% (v/v) 胎牛血清 (FBS, BI, 以色列), 100 U/mL青霉素, 和100 µg/mL链霉素 (Solarbio, 北京, 中国) 在37 ◦C、5% CO2 的细胞培养箱中培养. 细胞传代每4到5天进行一次. 我们的实验使用了第3到10代的ARPE-19细胞.
+------------------------------------------------------------------------------------
+原文: References
+
+译文: 参考文献
+------------------------------------------------------------------------------------
+原文: Macchi, M.M.; Bruce, J.N. Human pineal physiology and functional significance of melatonin. Front. Neuroendocr. 2004, 25, 177–195. [CrossRef]
+
+译文: 马基, M.M.; 布鲁斯, J.N. 人类松果体生理和褪黑激素的功能意义. 神经内分泌前沿. 2004, 25, 177–195. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Schipper, H.M.; Song, W.; Zukor, H.; Hascalovici, J.R.; Zeligman, D. Heme oxygenase-1 and neurodegeneration: Expanding frontiers of engagement. J. Neurochem. 2009, 110, 469–485. [CrossRef]
+
+译文: 希普, H.M.; 宋, W.; 祖克, H.; 哈斯卡洛维奇, J.R.; 泽利格曼, D. 血红素氧化酶-1与神经退行性变: 拓展参与的前沿. 神经化学杂志. 2009, 110, 469–485. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Published: 1 March 2023
+
+译文: 发布: 2023年3月1日
+------------------------------------------------------------------------------------
+原文: Shang, Y.-M.; Wang, G.-S.; Sliney, D.; Yang, C.-H.; Lee, L.-L. White light–emitting diodes (LEDs) at domestic lighting levels and retinal injury in a rat model. Environ. Health Perspect. 2014, 122, 269–276. [CrossRef] [PubMed]
+
+译文: 尚, Y.-M.; 王, G.-S.; 斯莱尼, D.; 杨, C.-H.; 李, L.-L. 家庭照明水平下的白光发光二极管 (LED) 与大鼠模型中的视网膜损伤. 环境与健康展望. 2014, 122, 269–276. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Our study demonstrated that pretreatment with the 1900 K LEDs could counteract H2O2 damage to RPE cells by reducing the generation of oxidative stress and mitochondrial damage in ARPE-19 cells (Figure 6). The 1900 K LEDs may need to be in a certain range of irradiance for optimal protection, which is likely cumulative. In addition, irradiation with the 1900 K LEDs for 7 days did not cause retinal damage in zebrafish. Our research is very meaningful because protecting cells from death is a definite and effective measure in the absence of allopathic treatment. This is the first study to investigate the protective effects of 1900 K low-color-temperature phosphor-free LEDs on RPE and zebrafish. The noninvasiveness, good compliance, convenience, and availability of light therapy using the 1900 K LEDs would make it the most promising emerging tool for preventing and treating AMD. Moreover, light therapy can also provide inspiration for the management of other similar diseases, which is of great benefit to human beings.
+
+译文: 我们的研究表明，使用1900 K LED预处理可以通过减少ARPE-19细胞中的氧化应激和线粒体损伤来抵消H2O2对RPE细胞的损害（图6）。1900 K LED可能需要在某一辐照度范围内才能达到最佳保护，这可能是累积的。此外，使用1900 K LED照射7天不会对斑马鱼造成视网膜损伤。我们的研究有很大意义，因为在缺乏对症治疗的情况下，保护细胞免受死亡是一种明确而有效的措施。这是首次研究1900 K低色温无磷光LED对RPE和斑马鱼的保护作用。使用1900 K LED的光疗法具有非侵入性、良好的依从性、便利性和可获取性，将使其成为预防和治疗年龄相关性黄斑变性的最有前景的新兴工具。此外，光疗法还可以为管理其他类似疾病提供灵感，这对人类有很大益处。
+------------------------------------------------------------------------------------
+原文: 80–100
+
+译文: 80–100
+------------------------------------------------------------------------------------
+原文: 3. Materials and Methods
+
+译文: 3. 材料与方法
+------------------------------------------------------------------------------------
+原文: Shen, W.; Teo, K.Y.C.; Wood, J.P.M.; Vaze, A.; Chidlow, G.; Ao, J.; Lee, S.-R.; Yam, M.X.; Cornish, E.E.; Fraser-Bell, S.; et al. Preclinical and clinical studies of photobiomodulation therapy for macular oedema. Diabetologia 2020, 63, 1900–1915. [CrossRef]
+
+译文: Shen, W.; Teo, K.Y.C.; Wood, J.P.M.; Vaze, A.; Chidlow, G.; Ao, J.; Lee, S.-R.; Yam, M.X.; Cornish, E.E.; Fraser-Bell, S.; 等. 光生物调控疗法在黄斑水肿的临床前和临床研究. 糖尿病学 2020, 63, 1900–1915. [CrossRef]
+------------------------------------------------------------------------------------
+原文: By 2040, the number of people with age-related macular degeneration (AMD) will be nearly 300 million [12], posing a major public health problem with a significant socioeconomic impact. It is well known that progressive degeneration and death of the retinal pigment epithelium (RPE) represent key pathological processes in AMD. Therefore, treatment for RPE is significant [13,14]. Considering the protective effects of 1900 K LEDs on the ocular surface, we hypothesized that the 1900 K LEDs may protect the RPE. Actually, excess reactive oxygen species (ROS) and mitochondrial defects exist in the RPE of AMD [15]. Red–yellow light-related photobiomodulation (PBM) treatment precisely targets the mitochondria and oxidative stress [16–19]. Therefore, we believe that 1900 K LEDs can play a key role in preventing and treating AMD by protecting the RPE. ARPE-19 cells, a reliable and standard model for AMD research, were mainly used as the experimental object in this study to preliminarily investigate the protective effects of 1900 K LEDs on RPE. In addition, we preliminarily demonstrate in vivo that the irradiation of this new light source posed no harm to the retina in zebrafish. Specific experiments included a cell activity assay, cell death assay, ROS level detection, mitochondrial imaging, mitochondrial DNA (mtDNA) damage detection, Western blotting, and hematoxylin and eosin (H&E) staining.
+
+译文: 到2040年，年龄相关性黄斑变性（AMD）患者人数将接近3亿[12]，这将成为一个主要的公共健康问题，对社会经济产生显著影响。众所周知，视网膜色素上皮（RPE）的进行性退化和死亡是AMD的关键病理过程。因此，RPE的治疗具有重要意义[13,14]。考虑到1900 K LED对眼表的保护作用，我们假设1900 K LED可能会保护RPE。实际上，AMD的RPE中存在过量的活性氧（ROS）和线粒体缺陷[15]。红-黄光相关的光生物调控（PBM）治疗精准针对线粒体和氧化应激[16–19]。因此，我们认为1900 K LED通过保护RPE在预防和治疗AMD方面可以发挥关键作用。ARPE-19细胞作为AMD研究的可靠标准模型，主要作为本研究中的实验对象，初步调查1900 K LED对RPE的保护作用。此外，我们初步在体内证明，该新光源的照射对斑马鱼视网膜没有伤害。具体实验包括细胞活性检测、细胞死亡检测、ROS水平检测、线粒体成像、线粒体DNA（mtDNA）损伤检测、西方印迹和苏木精-伊红（H&E）染色。
+------------------------------------------------------------------------------------
+原文: Liu, X.; Weaver, D.; Shirihai, O.; Hajnóczky, G. Mitochondrial ‘kiss-and-run’: Interplay between mitochondrial motility and fusion–fission dynamics. EMBO J. 2009, 28, 3074–3089. [CrossRef]
+
+译文: Liu, X.; Weaver, D.; Shirihai, O.; Hajnóczky, G. 线粒体‘亲吻和奔跑’：线粒体运动性与融合-分裂动力学之间的相互作用. EMBO J. 2009, 28, 3074–3089. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Type of Ab
+
+译文: 抗体类型
+------------------------------------------------------------------------------------
+原文: According to the instructions, we incubated cells with the DHE medium mixture diluted to 100 µM in the dark at 37 ◦C for 20 min. Then, we washed the cells with DHE staining solution and randomly photographed three fields of view. In addition, we used the same reagent to quantitatively analyze the level of intracellular ROS. After being stained with DHE, the cells were collected and washed twice, resuspended with PBS, and detected by flow cytometry (DxFLEX, Beckman, Suzhou, China).
+
+译文: 根据说明，我们在暗处以37 ◦C将细胞与稀释至100 µM的DHE培养基混合物孵育20分钟。然后，我们用DHE染色溶液洗涤细胞，并随机拍摄三个视野。此外，我们使用相同的试剂定量分析细胞内ROS水平。细胞用DHE染色后，收集并洗涤两次，重悬于PBS中，并通过流式细胞术（DxFLEX，贝克曼，苏州，中国）进行检测。
+------------------------------------------------------------------------------------
+原文: T55136F
+
+译文: T55136F
+------------------------------------------------------------------------------------
+原文: Table 1. Primary antibodies used in the study.
+
+译文: 表1. 研究中使用的主要抗体.
+------------------------------------------------------------------------------------
+原文: Figure 4. The 1900 K LEDs can reduce mitochondrial damage caused by H2O2 in ARPE-19 cells.
+
+译文: 图4. 1900 K LED可以减少ARPE-19细胞中H2O2导致的线粒体损伤。
+------------------------------------------------------------------------------------
+原文: Jang, K.-H.; Do, Y.-J.; Son, D.; Son, E.; Choi, J.-S.; Kim, E. AIF-independent parthanatos in the pathogenesis of dry age-related macular degeneration. Cell Death Dis. 2017, 8, e2526. [CrossRef]
+
+译文: Jang, K.-H.; Do, Y.-J.; Son, D.; Son, E.; Choi, J.-S.; Kim, E. AIF-独立的parthanatos在干性年龄相关黄斑变性发生中的作用。细胞死亡疾病. 2017, 8, e2526. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Garcia, I.; Innis-Whitehouse, W.; Lopez, A.; Keniry, M.; Gilkerson, R. Oxidative insults disrupt OPA1-mediated mitochondrial dynamics in cultured mammalian cells. Redox Rep. 2018, 23, 160–167. [CrossRef]
+
+译文: Garcia, I.; Innis-Whitehouse, W.; Lopez, A.; Keniry, M.; Gilkerson, R. 氧化损伤破坏了培养的哺乳动物细胞中的OPA1介导的线粒体动态。还原报. 2018, 23, 160–167. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Yakes, F.M.; Van Houten, B. Mitochondrial DNA damage is more extensive and persists longer than nuclear DNA damage in human cells following oxidative stress. Proc. Natl. Acad. Sci. USA 1997, 94, 514–519. [CrossRef] [PubMed]
+
+译文: Yakes, F.M.; Van Houten, B. 在人类细胞中，氧化应激后线粒体DNA损伤比核DNA损伤更广泛且持续时间更长。美国国家科学院院刊. 1997, 94, 514–519. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Rutar, M.; Natoli, R.; Albarracin, R.; Valter, K.; Provis, J. 670-nm light treatment reduces complement propagation following retinal degeneration. J. Neuroinflam. 2012, 9, 257. [CrossRef] [PubMed]
+
+译文: Rutar, M.; Natoli, R.; Albarracin, R.; Valter, K.; Provis, J. 670-nm光治疗减少了视网膜退化后补体传播。神经炎症杂志. 2012, 9, 257. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: OPA1
+
+译文: OPA1
+------------------------------------------------------------------------------------
+原文: Merry, G.F.; Munk, M.R.; Dotson, R.S.; Walker, M.G.; Devenyi, R.G. Photobiomodulation reduces drusen volume and improves visual acuity and contrast sensitivity in dry age-related macular degeneration. Acta Ophthalmol. 2016, 95, e270–e277. [CrossRef] [PubMed]
+
+译文: Merry, G.F.; Munk, M.R.; Dotson, R.S.; Walker, M.G.; Devenyi, R.G. 光生物调制减少了干性年龄相关黄斑变性中的沉积体体积，并改善了视力和对比敏感度。眼科学报. 2016, 95, e270–e277. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: 3.11. Hematoxylin and Eosin Staining and Histologic Evaluation
+
+译文: 3.11. 苏木精-伊红染色和组织学评估
+------------------------------------------------------------------------------------
+原文: (c) Cell activity of ARPE-19 cells after 1900 K LED illumination at 10 W/m2 for different times;
+
+译文: (c) ARPE-19细胞在10 W/m2下1900 K LED照明不同时间后的细胞活性;
+------------------------------------------------------------------------------------
+原文: 2.2. Pretreatment with 10 W/m2 1900 K LEDs Reduced the Death of ARPE-19 Cells
+
+译文: 2.2. 预处理10 W/m2 1900 K LED减少了ARPE-19细胞的死亡
+------------------------------------------------------------------------------------
+原文: Figure 6. The role of 1900 K LEDs in H2O2-induced damage in RPE. H2O2 increased intracellular ROS levels, mitochondrial fragmentation, and mitochondrial DNA damage, which led to mitochondrial dysfunction and, ultimately, cell death. Pretreatment with the 1900 K LEDs could reduce intracellular ROS levels, mitochondrial fragmentation, and mitochondrial DNA damage, protect mitochondrial function, and ultimately prevent cell death.
+
+译文: 图6. 1900 K LED在H2O2诱导的RPE损伤中的作用。H2O2增加了细胞内ROS水平、线粒体碎片化和线粒体DNA损伤，导致线粒体功能障碍，最终导致细胞死亡。预处理1900 K LED可以减少细胞内ROS水平、线粒体碎片化和线粒体DNA损伤，保护线粒体功能，并最终防止细胞死亡。
+------------------------------------------------------------------------------------
+原文: (see Supplementary Figure S3). In conclusion, preliminary experiments suggest that the 1900 K LEDs likely had cytoprotective effects.
+
+译文: (见补充图S3)。最终实验结果表明，1900 K LED可能具有细胞保护作用。
+------------------------------------------------------------------------------------
+原文: Ming Jin †, Xiao-Yu Zhang †, Qian Ying, Hai-Jian Hu, Xin-Ting Feng, Zhen Peng, Yu-Lian Pang, Feng Yan
+
+译文: Ming Jin †, Xiao-Yu Zhang †, Qian Ying, Hai-Jian Hu, Xin-Ting Feng, Zhen Peng, Yu-Lian Pang, Feng Yan
+------------------------------------------------------------------------------------
+原文: After treatment, the cells were immediately observed under a microscope, and three random fields were recorded. Afterward, we detected apoptosis using an Annexin V– FITC/PI Apoptosis Detection Kit (40302ES50, Yeasen, Shanghai, China). The cells were digested with EDTA-free trypsin, collected, and centrifuged at 300× g at 4 ◦C for 5 min. After washing twice with PBS, the cells were resuspended in the buffer. Then, a staining solution was added to the cells before incubating them for 10–15 min in the dark at room temperature. After incubation, 1× Binding Buffer was added, and the results were detected using a flow cytometer (DxFLEX, Beckman, Suzhou, China).
+
+译文: 治疗后，细胞立即在显微镜下观察，并记录了三个随机视野。然后，我们使用Annexin V–FITC/PI凋亡检测试剂盒（40302ES50，Yeasen，中国上海）检测凋亡。细胞用无EDTA的豌豆蛋白酶消化，收集后在4 ◦C下以300× g的速度离心5分钟。洗涤两次PBS后，细胞重悬于缓冲液中。然后，添加染色溶液到细胞中，在室温下在黑暗中孵育10-15分钟。孵育后，添加1×结合缓冲液，并使用流式细胞仪（DxFLEX，贝克曼，中国苏州）检测结果。
+------------------------------------------------------------------------------------

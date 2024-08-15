@@ -40,6 +40,6 @@ class GPTTranslator:
 if __name__ == "__main__":
     translator = GPTTranslator(False)
     text = "Supplier：成都施贝康生物医药科技Co., Ltd.。[#]samplescollect量[#]4.8.   Animal Selection        14[#]地址：成都New & Hi-tech Industrial Development Zone西芯大道17号；[#]检疫和适应[#]beagle dog分别经口给予30 mg/只 sbk002片和75 mg/只硫酸氢氯吡格雷片后，与in vivo暴露量related的parameterCmax分别为39.60 ± 18.66 ng/mL和75.65 ± 46.61 ng/mL（Cmax之比为1.00 : 1.91），AUC0-24h分别为127.90 ± 53.28 h*ng/mL和139.23 ± 60.21 h*ng/mL（AUC0-24h之比为1.00 : 1.09），time to reach maximumTmax分别为0.75 ± 0.35 h和0.63 ± 0.40 h，T1/2分别为8.47 ± 2.59 h和7.53 ± 2.71 h。"
-    text = "white的fox"
+    # text = "white的fox"
     print(text)
     print(translator.translate(text))

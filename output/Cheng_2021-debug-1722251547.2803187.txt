@@ -1,0 +1,880 @@
+原文: 
+
+译文: 
+------------------------------------------------------------------------------------
+原文: 3.7. NGS Data for Potential Mechanism Prediction
+
+译文: 3.7. NGS Data for Potential Mechanism Prediction
+------------------------------------------------------------------------------------
+原文: 2.4. Cellular Autophagy Activation in ARPE-19 Cells Due to Blue Light Exposure
+
+译文: 2.4. Cellular Autophagy Activation in ARPE-19 Cells Due to Blue Light Exposure
+------------------------------------------------------------------------------------
+原文: After the exposure to blue light for 24 h, the total RNA was extracted by TRIzol® reagent (Invitrogen, USA) according to the manufacturer’s instructions. The purified RNA was quantified by a nanodrop 2000c spectrophotometer (Thermo Scientific, Waltham, MA, USA) to obtain the optical density (OD) at 260 nm, and a Qubit 2.0 fluorometer (Life Technologies, Carlsbad, CA, USA) was used with an Agilent 2100 Bioanalyzer system (Agilent Technologies, Santa Clara, CA, USA) to assess the RNA integrity.
+
+译文: After the exposure to blue light for 24 h, the total RNA was extracted by TRIzol® reagent (Invitrogen, USA) according to the manufacturer’s instructions. The purified RNA was quantified by a nanodrop 2000c spectrophotometer (Thermo Scientific, Waltham, MA, USA) to obtain the optical density (OD) at 260 nm, and a Qubit 2.0 fluorometer (Life Technologies, Carlsbad, CA, USA) was used with an Agilent 2100 Bioanalyzer system (Agilent Technologies, Santa Clara, CA, USA) to assess the RNA integrity.
+------------------------------------------------------------------------------------
+原文: Categories
+
+译文: Categories
+------------------------------------------------------------------------------------
+原文: SERPINE2, SOD1, TAB3, TACC3, TGFB2, TGFBR1, THBS1, TLN1, TNFRSF10B, TOP2A, TPT1, VASP, VEGFA, VIM, VSIR
+
+译文: SERPINE2, SOD1, TAB3, TACC3, TGFB2, TGFBR1, THBS1, TLN1, TNFRSF10B, TOP2A, TPT1, VASP, VEGFA, VIM, VSIR
+------------------------------------------------------------------------------------
+原文: 4.9. Library Preparation and Sequencing
+
+译文: 4.9. Library Preparation and Sequencing
+------------------------------------------------------------------------------------
+原文: Zhao, Z.; Sun, T.; Jiang, Y.; Wu, L.; Cai, X.; Sun, X.; Sun, X. Photooxidative damage in retinal pigment epithelial cells via grp78 and the protective role of grape skin polyphenols. Food Chem. Toxicol. 2014, 74, 216–224. [CrossRef] [PubMed]
+
+译文: Zhao, Z.; Sun, T.; Jiang, Y.; Wu, L.; Cai, X.; Sun, X.; Sun, X. Photooxidative damage in retinal pigment epithelial cells via grp78 and the protective role of grape skin polyphenols. Food Chem. Toxicol. 2014, 74, 216–224. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Phaniendra, A.; Jestadi, D.B.; Periyasamy, L. Free radicals: Properties, sources, targets, and their implication in various diseases. Indian J. Clin. Biochem. 2015, 30, 11–26. [CrossRef]
+
+译文: Phaniendra, A.; Jestadi, D.B.; Periyasamy, L. Free radicals: Properties, sources, targets, and their implication in various diseases. Indian J. Clin. Biochem. 2015, 30, 11–26. [CrossRef]
+------------------------------------------------------------------------------------
+原文: CCBE1, CCN1, CCN2, CCNA2, CCND1, CD274, CD44, CD63,
+
+译文: CCBE1, CCN1, CCN2, CCNA2, CCND1, CD274, CD44, CD63,
+------------------------------------------------------------------------------------
+原文: GPI, GTSE1, HIF1A, HMGA2, HMGB1, HMGB2, HMOX1,
+
+译文: GPI, GTSE1, HIF1A, HMGA2, HMGB1, HMGB2, HMOX1,
+------------------------------------------------------------------------------------
+原文: King, A.; Gottlieb, E.; Brooks, D.G.; Murphy, M.P.; Dunaief, J.L. Mitochondria-derived reactive oxygen species mediate blue light-induced death of retinal pigment epithelial cells. Photochem. Photobiol. 2004, 79, 470–475. [CrossRef]
+
+译文: King, A.; Gottlieb, E.; Brooks, D.G.; Murphy, M.P.; Dunaief, J.L. Mitochondria-derived reactive oxygen species mediate blue light-induced death of retinal pigment epithelial cells. Photochem. Photobiol. 2004, 79, 470–475. [CrossRef]
+------------------------------------------------------------------------------------
+原文: MIR100HG, MSN, MYADM, MYH10,MYH9, MYL12A, NAV1,
+
+译文: MIR100HG, MSN, MYADM, MYH10,MYH9, MYL12A, NAV1,
+------------------------------------------------------------------------------------
+原文: 2.6. RNA Sequencing to Determine Potential Signal Transduction Involved in Blue-Light-
+
+译文: 2.6. RNA Sequencing to Determine Potential Signal Transduction Involved in Blue-Light-
+------------------------------------------------------------------------------------
+原文: Related experiments are needed to prove this concept.
+
+译文: Related experiments are needed to prove this concept.
+------------------------------------------------------------------------------------
+原文: Table 1. Cont.
+
+译文: Table 1. Cont.
+------------------------------------------------------------------------------------
+原文: 3.1. General Discussion
+
+译文: 3.1. General Discussion
+------------------------------------------------------------------------------------
+原文: Funding: The research was supported by grants MOST 108-2314-B-037-088 and 108-2314-B-037-051 from the Ministry of Science and Technology, Taiwan, and grants KMHK-106-022, KMHK-107-008 and KMHK-108-032 from Kaohsiung Municipal Siaogang Hospital, Taiwan. We are also grateful to the Center for Research Resources and Development (Kaohsiung Medical University) for their instrumental support with IPA, flow cytometry, and confocal microscopy.
+
+译文: Funding: The research was supported by grants MOST 108-2314-B-037-088 and 108-2314-B-037-051 from the Ministry of Science and Technology, Taiwan, and grants KMHK-106-022, KMHK-107-008 and KMHK-108-032 from Kaohsiung Municipal Siaogang Hospital, Taiwan. We are also grateful to the Center for Research Resources and Development (Kaohsiung Medical University) for their instrumental support with IPA, flow cytometry, and confocal microscopy.
+------------------------------------------------------------------------------------
+原文: Department of Ophthalmology, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan; sjiuansheu@gmail.com (S.-J.S.); maco69@gmail.com (P.-Y.L.)
+
+译文: Department of Ophthalmology, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan; sjiuansheu@gmail.com (S.-J.S.); maco69@gmail.com (P.-Y.L.)
+------------------------------------------------------------------------------------
+原文: Abstract: Age-related macular degeneration (AMD) is the progressive degeneration of the retinal pigment epithelium (RPE), retina, and choriocapillaris among elderly individuals and is the leading cause of blindness worldwide. Thus, a better understanding of the underlying mechanisms in retinal tissue activated by blue light exposure is important for developing novel treatment and intervention strategies. In this study, blue-light-emitting diodes with a wavelength of 440 nm were applied to RPE cells at a dose of 3.7 ± 0.75 mW/cm2 for 24 h. ARPE-19 cells were used to investigate the underlying mechanism induced by blue light exposure. A trypan blue exclusion assay was used for the cell viability determination. Flow cytometry was used for apoptosis rate detection and autophagy analysis. An immunofluorescence microscopy analysis was used to investigate cellular oxidative stress and DNA damage using DCFDA fluorescence staining and an anti-γH2AX antibody. Blue light exposure of zebrafish larvae was established to investigate the effect on retinal tissue development in vivo. To further demonstrate the comprehensive effect of blue light on ARPE-19 cells, next-generation sequencing (NGS) was performed for an ingenuity pathway analysis (IPA) to reveal additional related mechanisms. The results showed that blue light exposure caused a decrease in cell proliferation and an increase in apoptosis in ARPE-19 cells in a time-dependent manner. Oxidative stress increased during the early stage of 2 h of exposure and activated DNA damage in ARPE-19 cells after 8 h. Furthermore, autophagy was activated in response to blue light exposure at 24–48 h. The zebrafish larvae model showed the unfavorable effect of blue light in prohibiting retinal tissue development. The RNA-Seq results confirmed that blue light induced cell death and participated in tissue growth inhibition and maturation. The current study reveals the mechanisms by which blue light induces cell death in a time-dependent manner. Moreover, both the in vivo and NGS data uncovered blue light’s effect on retinal tissue development, suggesting that exposing children to blue light could be relatively dangerous. These results could benefit the development of preventive strategies utilizing herbal medicine-based treatments for eye diseases or degeneration in the future.
+
+译文: Abstract: Age-related macular degeneration (AMD) is the progressive degeneration of the retinal pigment epithelium (RPE), retina, and choriocapillaris among elderly individuals and is the leading cause of blindness worldwide. Thus, a better understanding of the underlying mechanisms in retinal tissue activated by blue light exposure is important for developing novel treatment and intervention strategies. In this study, blue-light-emitting diodes with a wavelength of 440 nm were applied to RPE cells at a dose of 3.7 ± 0.75 mW/cm2 for 24 h. ARPE-19 cells were used to investigate the underlying mechanism induced by blue light exposure. A trypan blue exclusion assay was used for the cell viability determination. Flow cytometry was used for apoptosis rate detection and autophagy analysis. An immunofluorescence microscopy analysis was used to investigate cellular oxidative stress and DNA damage using DCFDA fluorescence staining and an anti-γH2AX antibody. Blue light exposure of zebrafish larvae was established to investigate the effect on retinal tissue development in vivo. To further demonstrate the comprehensive effect of blue light on ARPE-19 cells, next-generation sequencing (NGS) was performed for an ingenuity pathway analysis (IPA) to reveal additional related mechanisms. The results showed that blue light exposure caused a decrease in cell proliferation and an increase in apoptosis in ARPE-19 cells in a time-dependent manner. Oxidative stress increased during the early stage of 2 h of exposure and activated DNA damage in ARPE-19 cells after 8 h. Furthermore, autophagy was activated in response to blue light exposure at 24–48 h. The zebrafish larvae model showed the unfavorable effect of blue light in prohibiting retinal tissue development. The RNA-Seq results confirmed that blue light induced cell death and participated in tissue growth inhibition and maturation. The current study reveals the mechanisms by which blue light induces cell death in a time-dependent manner. Moreover, both the in vivo and NGS data uncovered blue light’s effect on retinal tissue development, suggesting that exposing children to blue light could be relatively dangerous. These results could benefit the development of preventive strategies utilizing herbal medicine-based treatments for eye diseases or degeneration in the future.
+------------------------------------------------------------------------------------
+原文: Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+译文: 出版商说明：MDPI在已发布地图和机构附属关系方面保持中立。
+------------------------------------------------------------------------------------
+原文: AKAP12, ANLN, BIRC5, BUB1B, CAP1, CCNB1, CDC20, CDK1,
+
+译文: AKAP12, ANLN, BIRC5, BUB1B, CAP1, CCNB1, CDC20, CDK1,
+------------------------------------------------------------------------------------
+原文: Department of Ophthalmology, Kaohsiung Municipal Siaogang Hospital, Kaohsiung 812, Taiwan; pington64@gmail.com (K.-C.C.); 0870649@kmhk.org.tw (K.-J.C.)
+
+译文: 高雄市小港医院眼科, 台湾高雄812; pington64@gmail.com (K.-C.C.); 0870649@kmhk.org.tw (K.-J.C.)
+------------------------------------------------------------------------------------
+原文: RACGAP1, SPART, SPDL1, TACC3, TM4SF1, TOP2A, UBE2S, YBX1
+
+译文: RACGAP1, SPART, SPDL1, TACC3, TM4SF1, TOP2A, UBE2S, YBX1
+------------------------------------------------------------------------------------
+原文: CDH11, CDH4, CDK1, CDKN1A, CENPF, CFL1, CLIC4, CNN2,
+
+译文: CDH11, CDH4, CDK1, CDKN1A, CENPF, CFL1, CLIC4, CNN2,
+------------------------------------------------------------------------------------
+原文: ADAM9, AHNAK, ANXA2, AXL, BAMBI, BAX, BHLHE40, BMPER,
+
+译文: ADAM9, AHNAK, ANXA2, AXL, BAMBI, BAX, BHLHE40, BMPER,
+------------------------------------------------------------------------------------
+原文: To determine the other effects that might be induced by blue light exposure, the generation of ROS was investigated. To measure the ROS levels induced by blue light exposure, DCFDA staining was used. The DCFDA staining morphology of blue-light-exposed ARPE-19 cells was analyzed using immunofluorescence microscopy at the indicated time points, and the data showed that the ROS signals dramatically increased from 2 to 4 h and suddenly dropped to a very low level after 10 h of exposure (Figure 2A). The quantitative data showed that blue light significantly induced an over 6-fold higher ROS signal than that of the control cells after both 2 and 4 h of exposure. The results indicated that blue light induced cellular ROS during early exposure (Figure 2B). To further confirm the role of ROS generation in blue-light-induced cell death, the ROS-specific inhibitor NAC was used for the MTS assay. We found that one mM NAC treatment greatly restored the ARPE-19 cell survival rate by 40% compared to single blue light exposure (Figure 2C). Likewise, we analyzed the underlying mechanism by using RNA-Seq. The results showed that most of the regulators involved in the activation of oxidative stress, such as small MAF, ATF4, NRPB, SQSTM1, HO-1, PRDX1, FTL, FTH1, SOD, TXN, GSR, TRXR1, GST, NQO, EPHX1, GCLM, HSP22/40/90, STIP1, CCT7, and ERP29 gene expression, were upregulated by blue light (Figure 2D). The results suggest that ROS generation could play an important role in the early stage of blue-light-induced cytotoxicity in ARPE-19 cells.
+
+译文: 为了确定蓝光照射可能引发的其他效应，研究了活性氧（ROS）的生成。为了测量蓝光照射引起的ROS水平，使用了DCFDA染色。蓝光照射的ARPE-19细胞的DCFDA染色形态在指示的时间点使用免疫荧光显微镜进行分析，数据表明ROS信号在2到4小时内显著增加，并在10小时后骤降至非常低的水平（图2A）。定量数据表明，蓝光照射后2小时和4小时的ROS信号显著高于对照细胞的6倍以上。结果表明，蓝光在早期照射中诱导了细胞ROS（图2B）。为了进一步确认ROS生成在蓝光诱导细胞死亡中的作用，使用了ROS特异性抑制剂NAC进行MTS测定。我们发现1 mM NAC处理将ARPE-19细胞的存活率大幅提高了40%，相比于单独的蓝光照射（图2C）。同样，我们通过RNA-Seq分析了潜在机制。结果表明，大多数参与氧化应激激活的调节因子，如小MAF、ATF4、NRPB、SQSTM1、HO-1、PRDX1、FTL、FTH1、SOD、TXN、GSR、TRXR1、GST、NQO、EPHX1、GCLM、HSP22/40/90、STIP1、CCT7和ERP29基因表达被蓝光上调（图2D）。结果表明，ROS生成可能在ARPE-19细胞蓝光诱导的细胞毒性的早期阶段中发挥重要作用。
+------------------------------------------------------------------------------------
+原文: Cell viability was assessed using a colorimetric tetrazolium 3-(4,5-dimethylthiazol-2yl)-5-(3-carboxymethonyphenol)-2-(4-sulfophenyl)-2H-tetrazolium (MTS, Promega, Madison, WI, USA) assay. Briefly, 2.5 × 103 cells were seeded into a 96-well plate, and the cells were treated with different exposure doses of blue light (from 0 to 639 J/cm2) for the indicated periods. The final concentrations of MTS and phenazine methyl sulfate (PMS, Sigma-Aldrich, St. Louis, MO, USA) in each well were 80 µg/mL and 7.3 µg/mL, respectively, and the cells were further incubated. Subsequently, the absorbance was measured at 490 nm using a microplate reader (MTX Lab Systems, Inc., Vienna, VA, USA), and the relative cell viability is expressed as the absorbance percentage of the treated relative to that of the control cells.
+
+译文: 细胞活力使用比色法三氟氮基盐酸盐3-(4,5-二甲基噻唑-2-基)-5-(3-羧基甲酰苯酚)-2-(4-磺酰基苯)-2H-四唑（MTS, Promega, Madison, WI, USA）测定。简单来说，将2.5 × 103个细胞接种到96孔板中，细胞接受不同的蓝光照射剂量（从0到639 J/cm2），持续时间按说明进行。每个孔中MTS和苯胺甲基硫酸盐（PMS, Sigma-Aldrich, St. Louis, MO, USA）的最终浓度分别为80 µg/mL和7.3 µg/mL，细胞进一步培养。随后，使用微孔板读数器（MTX Lab Systems, Inc., 维也纳, VA, USA）在490 nm处测量吸光度，相对细胞活力表示为处理组与对照组吸光度的百分比。
+------------------------------------------------------------------------------------
+原文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, JUN, JUNB, KDM3A, KIF14,
+
+译文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, JUN, JUNB, KDM3A, KIF14,
+------------------------------------------------------------------------------------
+原文: First, the original fastq readings were used to verify the determined sequence quality. The adapter sequences were predeleted, the low-mass end was trimmed, and Trimmomatic software was used to filter the low-quality readings with Q33. Then, the low-quality data from tophat2 software were used to generate RNA. For the sequence data analysis, the high-quality reading alignment was compared to the human reference genome (grch38.p7). The gene counts were calculated by featureCounts software, and RLE/TMM/FPKM normalized the performance. The differentially expressed genes were screened according to a q-value < 0.05 as a screening threshold. The differential gene results were screened, and downstream systematic bioassays were performed using the Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway database (http://www.genome.ad.jp/kegg/kegg1.Html).
+
+译文: First, the original fastq readings were used to verify the determined sequence quality. The adapter sequences were predeleted, the low-mass end was trimmed, and Trimmomatic software was used to filter the low-quality readings with Q33. Then, the low-quality data from tophat2 software were used to generate RNA. For the sequence data analysis, the high-quality reading alignment was compared to the human reference genome (grch38.p7). The gene counts were calculated by featureCounts software, and RLE/TMM/FPKM normalized the performance. The differentially expressed genes were screened according to a q-value < 0.05 as a screening threshold. The differential gene results were screened, and downstream systematic bioassays were performed using the Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway database (http://www.genome.ad.jp/kegg/kegg1.Html).
+------------------------------------------------------------------------------------
+原文: FLNA, FLNB, FLNC, FLRT2, FN1, FOSL2, FOXF2, FOXQ1, FSTL1,
+
+译文: FLNA, FLNB, FLNC, FLRT2, FN1, FOSL2, FOXF2, FOXQ1, FSTL1,
+------------------------------------------------------------------------------------
+原文: MDM2, MYH10, NDC80, NEK6, NEK7, NUSAP1, PLK1, PRC1,
+
+译文: MDM2, MYH10, NDC80, NEK6, NEK7, NUSAP1, PLK1, PRC1,
+------------------------------------------------------------------------------------
+原文: IGFBP3, ITGA4, ITGB1, ITGB3, JUN, KRT18, KRT8, LOXL2, LTBR,
+
+译文: IGFBP3, ITGA4, ITGB1, ITGB3, JUN, KRT18, KRT8, LOXL2, LTBR,
+------------------------------------------------------------------------------------
+原文: As blue light screens are becoming more common and the dependence on lightemitting diodes (LEDs) is increasing, retinal tissue degeneration in humans caused by blue light has become of increasing concern. Thus, the current study aimed to reveal the underlying mechanism of retinal tissue degeneration regulated by blue light induction to develop a novel treatment strategy or medication for blue-light-induced retinal tissue degeneration.
+
+译文: As blue light screens are becoming more common and the dependence on lightemitting diodes (LEDs) is increasing, retinal tissue degeneration in humans caused by blue light has become of increasing concern. Thus, the current study aimed to reveal the underlying mechanism of retinal tissue degeneration regulated by blue light induction to develop a novel treatment strategy or medication for blue-light-induced retinal tissue degeneration.
+------------------------------------------------------------------------------------
+原文: In total, 1 × 105 ARPE19 cells were seeded onto a 60 mm Petri dish in an incubator with 5% CO2 at 37 ◦C. The cells were cultured in 5 mL of medium for 24 h and exposed to blue light for different durations. Trypsin (1 mL) was added to collect the cells, and the cells were centrifuged at 3000 rpm for 10 min at 4 ◦C. The supernatant was removed, 1 mL of acridine orange (AO) dye was added to the cells for 15 min at 37 ◦C, and then the cells were centrifuged to remove the supernatant. After washing three times with PBS, the centrifugation step was repeated. The supernatant was removed, 200 µL of PBS was added, and pipetting was carefully and repeatedly performed with an aspirator to suspend the cells. The data were analyzed using a BD Accuri C6 flow cytometer and the accompanying software.
+
+译文: In total, 1 × 105 ARPE19 cells were seeded onto a 60 mm Petri dish in an incubator with 5% CO2 at 37 ◦C. The cells were cultured in 5 mL of medium for 24 h and exposed to blue light for different durations. Trypsin (1 mL) was added to collect the cells, and the cells were centrifuged at 3000 rpm for 10 min at 4 ◦C. The supernatant was removed, 1 mL of acridine orange (AO) dye was added to the cells for 15 min at 37 ◦C, and then the cells were centrifuged to remove the supernatant. After washing three times with PBS, the centrifugation step was repeated. The supernatant was removed, 200 µL of PBS was added, and pipetting was carefully and repeatedly performed with an aspirator to suspend the cells. The data were analyzed using a BD Accuri C6 flow cytometer and the accompanying software.
+------------------------------------------------------------------------------------
+原文: 5. Conclusions
+
+译文: 5. Conclusions
+------------------------------------------------------------------------------------
+原文: Figure 6. Differential gene expression analysis and the potential mechanisms in ARPE-19 cells regulated by blue light. (A) The total number of differentially expressed genes (DEGs) between the control and blue-light-exposed groups. (B) Top 15 cellular diseases and functions of the 671 DEGs involved. (C) General heatmap of the toxicity and biofunctional analysis generated by IPA and individual catalog heatmaps, including (D) cellular movement, (E) cell cycle, (F) tissue development, and (G) cell-to-cell signaling and interaction, were specifically analyzed to determine the regulation pathways affected by blue light. Blue: decreased gene expression; orange: increased gene expression.
+
+译文: Figure 6. Differential gene expression analysis and the potential mechanisms in ARPE-19 cells regulated by blue light. (A) The total number of differentially expressed genes (DEGs) between the control and blue-light-exposed groups. (B) Top 15 cellular diseases and functions of the 671 DEGs involved. (C) General heatmap of the toxicity and biofunctional analysis generated by IPA and individual catalog heatmaps, including (D) cellular movement, (E) cell cycle, (F) tissue development, and (G) cell-to-cell signaling and interaction, were specifically analyzed to determine the regulation pathways affected by blue light. Blue: decreased gene expression; orange: increased gene expression.
+------------------------------------------------------------------------------------
+原文: Xia, H.; Hu, Q.; Li, L.; Tang, X.; Zou, J.; Huang, L.; Li, X. Protective effects of autophagy against blue light-induced retinal degeneration in aged mice. Sci. China Life Sci. 2019, 62, 244–256. [CrossRef]
+
+译文: 夏, H.; 胡, Q.; 李, L.; 唐, X.; 邹, J.; 黄, L.; 李, X. 自噬对蓝光诱导的老年小鼠视网膜退化的保护作用. 中国科学: 生命科学 2019, 62, 244–256. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Lipid Science and Aging Research Center, Kaohsiung Medical University, Kaohsiung 807, Taiwan
+
+译文: 高雄医学大学脂质科学与衰老研究中心, 高雄 807, 台湾
+------------------------------------------------------------------------------------
+原文: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/
+
+译文: 版权: © 2021 由作者版权所有. 许可方 MDPI, 巴塞尔, 瑞士. 本文为开放获取文章，按创作共用署名 (CC BY) 许可条款和条件发布 (https:// creativecommons.org/licenses/by/
+------------------------------------------------------------------------------------
+原文: AMD is the most common cause of blindness in elderly individuals worldwide and light-induced AMD could be one of the main reasons for accumulating retinal cell damage and reduced protective effects. Chen et al. used a mouse model to indicate light-induced photoreceptor rod tissue damage in 10-month-old mice, suggesting a promoting effect of light in inducing AMD [27]. In contrast, our zebrafish model shows the effect of blue light on retinal tissue development, which is a different concept than that reported by Chen in 2013. Their data showed a reduction in retinal tissue ONL thickness seven days after light exposure in over 6-month-old or elderly mice. However, by comparing with the control group, we found that multiple layers, including the IPL, INL, ONL, and RPE layer, were significantly affected and exhibited decreased thicknesses after exposure to blue light in the 4-day-old zebrafish larvae. Furthermore, the immunofluorescence assay performed for the TUNEL and caspase-3 investigation demonstrated blue light’s regulatory effect in inducing apoptosis throughout the retinal tissue, revealing the harmful effect of blue light in vivo. This finding was consistent with our in vitro results of blue light’s inhibitory effect on proliferation and the induction of apoptosis in ARPE-19 cells. In the neonatal stages, cell proliferation and differentiation both play important roles in tissue/organ maturation. Thus, the inhibitory effect of blue light impacted cell proliferation and cellular differentiation, leading to more severe sequelae in childhood during retinal development.
+
+译文: 年龄相关性黄斑变性（AMD）是全球老年人失明的最常见原因，光诱导的AMD可能是导致视网膜细胞损伤积累和降低保护作用的主要原因之一. 陈等人使用小鼠模型指示 10 个月大小鼠的光诱导视网膜光感受器杆组织损伤，表明光在诱导AMD中的促进作用 [27]. 相比之下，我们的斑马鱼模型显示蓝光对视网膜组织发展的影响，这与陈在2013年报告的概念有所不同. 他们的数据表明，在光照后七天，超过6个月大或老年小鼠的视网膜组织外核层（ONL）厚度减少. 然而，通过与对照组比较，我们发现包括内位脉络层（IPL）、内核层（INL）、外核层（ONL）和视网膜 pigment epithelium（RPE）层在内的多个层次受到显著影响，且在4天大的斑马鱼幼虫中，蓝光照射后表现出厚度减小. 此外，针对TUNEL和caspase-3的免疫荧光检测显示蓝光在诱导视网膜组织凋亡中的调节作用，揭示了蓝光在体内的有害影响. 这一发现与我们体外结果一致，后者显示蓝光对ARPE-19细胞增殖的抑制作用与凋亡的诱导作用. 在新生阶段，细胞增殖和分化在组织/器官成熟中都发挥着重要作用. 因此，蓝光的抑制效应影响了细胞增殖和细胞分化，导致在视网膜发育过程中儿童时期的后遗症更加严重.
+------------------------------------------------------------------------------------
+原文: Oxygenated free radicals with unstable electrons are also known as reactive oxygen species (ROS). Free radicals are atoms, molecules, or ions with an unpaired electron, and they are highly reactive and unstable. ROS can oxidize cells in the body and cause DNA damage or mutation. Common free radicals in cells include the superoxide anion (O2−), hydrogen peroxide (H2O2), nitric oxide (NO), and hydroxyl radicals (OH−•) [16]. These radicals attack molecules such as DNA, proteins, and lipids, causing damage to cellular tissues [17]. When intracellular ROS is produced in large amounts, and the antioxidant system cannot compete, they will cause oxidative stress. The oxidative stress produced in RPE cells is widely perceived to promote vision-related diseases (e.g., AMD), and oxidative stress is derived from excessive exposure to light, resulting in excessive activation of the visual cycle [18]. According to research, blue light can generate ROS from cytochromes in mitochondria by light induction [19] that inhibits cytochrome oxidase and leads to calcium accumulation and apoptosis of RPE cells [20].
+
+译文: 氧化自由基也称为反应性氧种（ROS）。自由基是具有未配对电子的原子、分子或离子，具有高度的反应性和不稳定性. ROS可以氧化体内细胞并导致DNA损伤或突变. 细胞中常见的自由基包括超氧阴离子（O2−）、过氧化氢（H2O2）、一氧化氮（NO）和羟基自由基（OH−•） [16]. 这些自由基攻击DNA、蛋白质和脂质等分子，造成细胞组织的损伤 [17]. 当细胞内的ROS大量产生，而抗氧化系统无法竞争时，将导致氧化应激. 在RPE细胞中产生的氧化应激被普遍认为促进与视觉相关的疾病（例如AMD），而氧化应激源于过度的光照暴露，导致视觉循环的过度激活 [18]. 根据研究，蓝光可以通过光诱导从线粒体中的细胞色素生成ROS [19]，抑制细胞色素氧化酶并导致RPE细胞钙累积和凋亡 [20].
+------------------------------------------------------------------------------------
+原文: The RNA library construction and sequencing were performed by Tools Biotech
+
+译文: RNA文库构建和测序由Tools Biotech进行
+------------------------------------------------------------------------------------
+原文: INCENP, ITGB1, KIF14, KIF20A, KIF20B, KIF23, KIFC1, MCM7,
+
+译文: INCENP, ITGB1, KIF14, KIF20A, KIF20B, KIF23, KIFC1, MCM7,
+------------------------------------------------------------------------------------
+原文: In today’s society, we are inseparable from the computer, communication, and consumer (3C) products. Therefore, we are often exposed to various types of visible light. Blue light in the wavelength range of 400–450 nm is reported to be the most dangerous to the eyes. However, the full mechanism of how blue light induces retinal tissue damage remains undefined. In the current study, we aimed to discover the mechanism involved in bluelight-induced ARPE-19 cell death. Furthermore, gene regulation was extensively screened using NGS to reveal all potential underlying mechanisms affected and regulated by blue light. Our data suggest that blue light reduced retinal ARPE-19 cell survival through at least four phenomena: (1) induced cell apoptosis, (2) ROS generation and increased cellular oxidative stress, (3) DNA damage, and (4) autophagy activation. These four phenomena could be the main reasons contributing to blue-light-induced ARPE-19 cell death.
+
+译文: 在当今社会，我们离不开计算机、通信和消费（3C）产品。因此，我们经常接触各种类型的可见光。波长范围在400–450 nm的蓝光被报道为对眼睛最危险的光。然而，蓝光如何诱导视网膜组织损伤的完整机制尚未明确。在本研究中，我们旨在发现蓝光诱导的ARPE-19细胞死亡的机制。此外，应用NGS进行了广泛的基因调控筛选，以揭示蓝光影响和调控的所有潜在机制。我们的数据显示，蓝光通过至少四种现象减少了视网膜ARPE-19细胞的生存：（1）诱导细胞凋亡，（2）ROS生成和增加细胞氧化应激，（3）DNA损伤，以及（4）自噬激活。这四种现象可能是导致蓝光诱导的ARPE-19细胞死亡的主要原因。
+------------------------------------------------------------------------------------
+原文: 7.45 × 10-15
+
+译文: 7.45 × 10-15
+------------------------------------------------------------------------------------
+原文: 3.2. Blue-Light-Induced Apoptosis
+
+译文: 3.2. 蓝光诱导的凋亡
+------------------------------------------------------------------------------------
+原文: *	Correspondence: caminolin@gmail.com (Y.-H.L.); cchiu@kmu.edu.tw (C.-C.C.)
+
+译文: *	通讯作者：caminolin@gmail.com (Y.-H.L.); cchiu@kmu.edu.tw (C.-C.C.)
+------------------------------------------------------------------------------------
+原文: Center for Cancer Research, Kaohsiung Medical University, Kaohsiung 807, Taiwan
+
+译文: 高雄医学大学癌症研究中心，高雄807，台湾
+------------------------------------------------------------------------------------
+原文: Vila, N.; Siblini, A.; Esposito, E.; Bravo-Filho, V.; Zoroquiain, P.; Aldrees, S.; Logan, P.; Arias, L.; Burnier, M.N. Blue-light filtering alters angiogenic signaling in human retinal pigmented epithelial cells culture model. BMC Ophthalmol. 2017, 17, 198. [CrossRef]
+
+译文: Vila, N.; Siblini, A.; Esposito, E.; Bravo-Filho, V.; Zoroquiain, P.; Aldrees, S.; Logan, P.; Arias, L.; Burnier, M.N. 蓝光过滤改变人类视网膜色素上皮细胞培养模型中的血管生成信号。BMC Ophthalmol. 2017, 17, 198. [CrossRef]
+------------------------------------------------------------------------------------
+原文: BNIP3, CALR, CCN1, CCN2, CCND1, CD274, CD44, CDKN1A,
+
+译文: BNIP3, CALR, CCN1, CCN2, CCND1, CD274, CD44, CDKN1A,
+------------------------------------------------------------------------------------
+原文: HSP90AA1, HSPA8, HSPB1, HSPD1, HSPG2, ID1, ID3, IGF2R,
+
+译文: HSP90AA1, HSPA8, HSPB1, HSPD1, HSPG2, ID1, ID3, IGF2R,
+------------------------------------------------------------------------------------
+原文: 4.1. Culture
+
+译文: 4.1. 培养
+------------------------------------------------------------------------------------
+原文: Brandtzaeg, P.; Kierulf, P.; Gaustad, P.; Skulberg, A.; Bruun, J.N.; Halvorsen, S.; Sorensen, E. Plasma endotoxin as a predictor of multiple organ failure and death in systemic meningococcal disease. J. Infect. Dis. 1989, 159, 195–204. [CrossRef] [PubMed]
+
+译文: Brandtzaeg, P.; Kierulf, P.; Gaustad, P.; Skulberg, A.; Bruun, J.N.; Halvorsen, S.; Sorensen, E. 血浆内毒素作为系统性脑膜炎球菌病多脏器衰竭和死亡的预测因子。J. Infect. Dis. 1989, 159, 195–204. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: RPE cells are highly differentiated unique epithelial cells that interact with adjacent photoreceptors on the apical side and maintain photoreceptor function. RPE cells are located between the layers of photoreceptor cells, providing them with nutrients. If oxidative damage occurs in RPE cells, the breakdown of photoreceptor cells would quickly follow, and visual acuity might become damaged [4]. RPE cells interact with Bruch’s membrane on the basolateral side and the choriocapillaris, which plays an important role in maintaining vision [5]. The damage, metabolic disorder and functional impairment of RPE cells are the key factors in AMD development. Based on past studies, RPE cell impairment could be caused by radiation, oxidative stress, accumulation of lipofuscin, and the immune system [6]. RPE cells are single-layer cells that form parts of the blood barrier and can easily undergo oxidative stress due to their high oxygen consumption. Chronic oxidative stress could induce RPE cell impairment and damage [7]. Among oxidative stresses, photooxidation mediated by lipofuscin notably promotes the development of AMD.
+
+译文: RPE细胞是高度分化的独特上皮细胞，它们在顶侧与邻近的光感受器相互作用并维持光感受器功能。RPE细胞位于光感受器细胞层之间，为其提供养分。如果RPE细胞发生氧化损伤，光感受器细胞的破坏将在此后迅速发生，视觉清晰度可能会受到损害[4]。RPE细胞在基侧与Bruch膜和脉络毛细血管相互作用，这在维持视觉中起着重要作用[5]。RPE细胞的损伤、代谢失调和功能障碍是AMD发展的关键因素。基于过去的研究，RPE细胞的损伤可能是由辐射、氧化应激、脂褐素积累以及免疫系统造成的[6]。RPE细胞是形成血液屏障的一层细胞，由于其高氧消耗，容易发生氧化应激。慢性氧化应激可能诱导RPE细胞损伤和损伤[7]。在氧化应激中，脂褐素介导的光氧化显著促进AMD的发展。
+------------------------------------------------------------------------------------
+原文: Yan, S.; Sorrell, M.; Berman, Z. Functional interplay between atm/atr-mediated DNA damage response and DNA repair pathways in oxidative stress. Cell Mol. Life Sci. 2014, 71, 3951–3967. [CrossRef] [PubMed]
+
+译文: 颜, S.; 所雷尔, M.; 伯曼, Z. atm/atr介导的DNA损伤反应与氧化应激中的DNA修复通路之间的功能相互作用. 细胞分子生命科学. 2014, 71, 3951–3967. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: (BIOTOOLS, Taipei, Taiwan). According to the manufacturer’s instructions, the total RNA was used for the library construction using a TruSeqtm RNA LT sample preparation kit (Illumina Inc., San Diego, CA, USA). Magnetic beads labeled oligo (dt) were used to collect mRNA from the ARPE-19 cells in the different treatment groups. The mRNA was then randomly fragmented in fragmentation buffer, and cDNA synthesis was performed using random hexamers and reverse transcriptase. After the first strand synthesis, a custom second strand synthesis buffer (Illumina), dNTPs, RNase H, and E. coli polymerase I were added to form a second strand by nick translation. After purification, repair of the terminal, A-tailing, sequence adaptor ligation, size selection, and PCR enrichment, the final cDNA library was complete. Subsequently, the library concentration was first quantified using a Qubit® dsDNA H.S. assay kit (Life Technologies, Carlsbad, CA, USA), followed by dilution to 1 ng/µL using an Agilent 2100 Bioanalyzer system (Agilent Technologies, Santa Clara, CA, USA). The cDNA size in the library adapters was determined at both ends and quantified to relatively high accuracy (library activity > 2 nm) by quantitative PCR (Q-PCR). The RNA libraries were sequenced on an Illumina HiSeq 2500 (Illumina, Inc., California, CA, USA) instrument for 300 cycles. The sequencing data were processed using Illumina software HiSeq X system (HD.3.4.0/RTA 2.7.7).
+
+译文: (生物工具, 台北, 台湾). 根据制造商的说明，总RNA用于使用TruSeqtm RNA LT样本制备试剂盒（Illumina Inc., 圣地亚哥, CA, USA）构建文库. 使用标记的磁珠寡聚（dt）从不同处理组的ARPE-19细胞中收集mRNA. 然后在片段缓冲液中随机断裂mRNA, 并使用随机六聚体和逆转录酶进行cDNA合成. 第一步链合成后，加入定制的第二链合成缓冲液（Illumina）、dNTPs、RNase H和大肠杆菌聚合酶I，通过缺口转移形成第二链. 经过纯化、末端修复、A尾加、序列适配子连接、大小选择和PCR富集，最终的cDNA文库完成. 随后，使用Qubit® dsDNA H.S. 检测试剂盒（Life Technologies, Carlsbad, CA, USA）首先定量文库浓度，然后使用Agilent 2100生物分析仪系统（Agilent Technologies, 圣克拉拉, CA, USA）稀释至1 ng/µL. 文库适配子的cDNA大小在两端进行测定并通过定量PCR（Q-PCR）获得相对高的准确度（文库活性 > 2 nm）. RNA文库在Illumina HiSeq 2500（Illumina, Inc., 加利福尼亚, CA, USA）仪器上进行300个周期的测序. 测序数据使用Illumina软件HiSeq X系统（HD.3.4.0/RTA 2.7.7）处理.
+------------------------------------------------------------------------------------
+原文: PTPRB, PTPRF, PTPRJ, RACGAP1, RELN, RPL13A, RPS19, RUNX2,
+
+译文: PTPRB, PTPRF, PTPRJ, RACGAP1, RELN, RPL13A, RPS19, RUNX2,
+------------------------------------------------------------------------------------
+原文: Nilsson, S.E.; Sundelin, S.P.; Wihlmark, U.; Brunk, U.T. Aging of cultured retinal pigment epithelial cells: Oxidative reactions, lipofuscin formation and blue light damage. Doc. Ophthalmol. 2003, 106, 13–16. [CrossRef] [PubMed]
+
+译文: 尼尔森, S.E.; 桑德林, S.P.; 维尔马克, U.; 布伦克, U.T. 培养的视网膜色素上皮细胞的衰老：氧化反应、脂褐素形成和蓝光损伤. 眼科学文献. 2003, 106, 13–16. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: LTBP3, LTBR, MAP1B, MAP2, MAP4, MBOAT7, MDM2,
+
+译文: LTBP3, LTBR, MAP1B, MAP2, MAP4, MBOAT7, MDM2,
+------------------------------------------------------------------------------------
+原文: 3. Discussion
+
+译文: 3. 讨论
+------------------------------------------------------------------------------------
+原文: Cells were exposed to blue light for different durations and the cells were harvested. Then, cell fixation was performed with 4% paraformaldehyde for 10 min and the cells were washed three times with PBS. After 5 min of action with 0.5% Triton, the cells were extracted with 1% BSA by soaking for 15 min, and 500-fold primary antibody γH2AX (Catalog number: sc-101696, Santa Cruz, Dallas, TX, USA) was diluted by adding 1% BSA and was shaken in a refrigerator at 4 ◦C for one hour. The cells were washed 3 times with 1% BSA for 10 min each time, 1% BSA was added to dilute the secondary antibody 500 times, and the cells were incubated in a refrigerator for 1 h. The secondary antibody was removed, the cells were incubated with 1% BSA and 40,6-diamidino-2-phenylindole (DAPI) at a concentration of 1 mg/mL, the nuclei were calibrated with 2000-fold diluted DAPI, and the cells were washed five times with 1% BSA. Then, the circular slide was removed from a 24-well plate, 3 µL of oil droplets was added to the slide, and the circular slide was placed vertically on the slide to cover the oil droplets. Finally, an inverted fluorescence microscope (Olympus, Model: IX71, Shinjuku, Tokyo, Japan) was used for imaging.
+
+译文: 细胞被暴露在蓝光下不同时间，并对细胞进行收集. 然后，使用4%多聚甲醛进行10分钟的固定，并用PBS清洗细胞三次. 使用0.5% Triton作用5分钟后，使用1%BSA浸泡15分钟提取细胞，并将500倍的初始抗体γH2AX（目录号：sc-101696，圣克鲁斯, 达拉斯, TX, USA）通过加入1% BSA稀释，并在4 ◦C的冰箱中摇晃一个小时. 用1% BSA清洗细胞3次，每次10分钟，加1% BSA稀释二抗500倍，并在冰箱中孵育1小时. 去除二抗后，细胞用1% BSA和浓度为1 mg/mL的40,6-二氨基-2-苯基吲哚（DAPI）孵育，核使用2000倍稀释的DAPI进行标定，然后用1% BSA清洗细胞五次. 然后，从24孔板上取下圆形载玻片，向载玻片中添加3 µL的油滴，并将圆形载玻片垂直放置在载玻片上以覆盖油滴. 最后，使用倒置荧光显微镜（奥林巴斯，型号：IX71，东京新宿，日本）进行成像.
+------------------------------------------------------------------------------------
+原文: SORT1, SOX9, SPARC, SPHK1, SQSTM1, TAGLN2, TFPI, TGFB2, TGFBR1, THBS1, TIMP3, TKT, TLN1, TMEM30A, TMPO,
+
+译文: SORT1, SOX9, SPARC, SPHK1, SQSTM1, TAGLN2, TFPI, TGFB2, TGFBR1, THBS1, TIMP3, TKT, TLN1, TMEM30A, TMPO,
+------------------------------------------------------------------------------------
+原文: P.-Y.; Lin, Y.-H.; et al. The Role of
+
+译文: P.-Y.; Lin, Y.-H.; 等. 角色的
+------------------------------------------------------------------------------------
+原文: −2.301
+
+译文: −2.301
+------------------------------------------------------------------------------------
+原文: Boulton, M.; Rozanowska, M.; Rozanowski, B.; Wess, T. The photoreactivity of ocular lipofuscin. Photochem. Photobiol. Sci. 2004, 3, 759–764. [CrossRef] [PubMed]
+
+译文: Boulton, M.; Rozanowska, M.; Rozanowski, B.; Wess, T. 眼部脂褐素的光反应性. 光化学. 光生物学. 科学. 2004, 3, 759–764. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Cell-Cell
+
+译文: 细胞-细胞
+------------------------------------------------------------------------------------
+原文: 3.5. Blue-Light-Induced Autophagy
+
+译文: 3.5. 蓝光诱导的自噬
+------------------------------------------------------------------------------------
+原文: Blue-light-induced retinal cell apoptosis has been reported for decades. Early in 1999 and 2001, Wu et al. and Seko et al. showed evidence regarding rat retinal tissue and cultured RPE cell apoptosis induced by blue light, and both used the same TUNEL assay to evaluate apoptosis and calculate the apoptosis rate in a time-dependent manner. The DNA ladder proved the apoptosis outcome of DNA fragmentation [21,22]. In our case, by using 7AAD and annexin V double staining, we defined the early apoptosis rate and total apoptosis rate by using flow cytometry. However, when we compared the cell survival rate and cell apoptosis rate (early/total), we found that cell viability was significantly decreased after 10 h of blue light exposure, and only slight apoptosis occurred. This phenomenon was interesting, as it indicated that blue-light-induced apoptosis might cause ARPE-19 cell death and participate in other signaling pathways.
+
+译文: 蓝光诱导的视网膜细胞凋亡已有数十年的报道。早在1999年和2001年，Wu等人和Seko等人展示了关于蓝光诱导的rat视网膜组织和培养的人视网膜色素上皮细胞凋亡的证据，二者均使用相同的TUNEL检测来评估凋亡并以时间依赖的方式计算凋亡率。DNA梯带证明了DNA断裂的凋亡结果[21,22]。在我们的实验中，通过使用7AAD和Annexin V双重染色，我们通过流式细胞术定义了早期凋亡率和总凋亡率。然而，当我们比较细胞存活率和细胞凋亡率（早期/总计）时，我们发现蓝光照射10小时后，细胞活性显著降低，仅有轻微的凋亡发生。这个现象很有趣，因为它表明蓝光诱导的凋亡可能导致ARPE-19细胞死亡，并参与其他信号通路。
+------------------------------------------------------------------------------------
+原文: ECT2, FLNA, GADD45A, GIPC1, GNAI2, GPC1, HIPK2, HSPB1,
+
+译文: ECT2, FLNA, GADD45A, GIPC1, GNAI2, GPC1, HIPK2, HSPB1,
+------------------------------------------------------------------------------------
+原文: Wielgus, A.R.; Chignell, C.F.; Ceger, P.; Roberts, J.E. Comparison of a2e cytotoxicity and phototoxicity with all-trans-retinal in human retinal pigment epithelial cells. Photochem. Photobiol. 2010, 86, 781–791. [CrossRef] [PubMed]
+
+译文: Wielgus, A.R.; Chignell, C.F.; Ceger, P.; Roberts, J.E. 人视网膜色素上皮细胞中a2e细胞毒性和光毒性与全反视黄醇的比较. 光化学. 光生物学. 2010, 86, 781–791. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: CFL1, CRY1, CSF1, CTSL, DKK1, DUSP1, EDN1, EFNB2, EGFR,
+
+译文: CFL1, CRY1, CSF1, CTSL, DKK1, DUSP1, EDN1, EFNB2, EGFR,
+------------------------------------------------------------------------------------
+原文: Datta, S.; Cano, M.; Ebrahimi, K.; Wang, L.; Handa, J.T. The impact of oxidative stress and inflammation on rpe degeneration in non-neovascular amd. Prog. Retin. Eye Res. 2017, 60, 201–218. [CrossRef]
+
+译文: Datta, S.; Cano, M.; Ebrahimi, K.; Wang, L.; Handa, J.T. 氧化应激和炎症对非新生血管性黄斑变性中RPE退化的影响. 视网膜与眼睛研究进展. 2017, 60, 201–218. [CrossRef]
+------------------------------------------------------------------------------------
+原文: To determine the harm of long-term exposure of blue light on retinal-related tissue, a zebrafish blue light exposure model was established for retinal histological analysis. As shown in Figure 5A, HE staining of retinal tissue showed that the normal layer distribution of retinal tissue included the inner plexiform layer (IPL), inner nuclear layer (INL), outer nuclear layer (ONL), and RPE layer. However, under blue light exposure for 24 and 30 h, the thickness decreased not only in the whole retina but also in tissues such as the IPL, INL, ONL, and RPE layer. The quantitative results showed that blue light significantly reduced the thickness of all retinal tissue (Figure 5B–F). The harmful effect of blue light on retinal tissue caused retinal cell death and thinned the related tissue layers. To further assay the potential mechanism by which blue light induces cytotoxicity in vivo, zebrafish retinal tissue was used for the TUNEL assay and IFC of apoptosis critical regulator caspase-3 evaluation. Using a TUNEL immunofluorescence assay and microscopy analysis, we found that blue light induced an obvious TUNEL reaction throughout the retinal layers (Figure 5G). Similarly, the IFC caspase-3 protein expression results showed that blue light increased the apoptosis regulator marker’s expression to execute the programmed cell death of retinal cells, including RPE cells (Figure 5H). The results indicate that blue light indeed induced retinal cell death by activating apoptosis signaling in the zebrafish model.
+
+译文: 为了确定蓝光对视网膜相关组织的长期伤害，建立了一种斑马鱼蓝光照射模型进行视网膜组织学分析。如图5A所示，视网膜组织的HE染色显示，正常的视网膜组织层分布包括内纤维层（IPL）、内核层（INL）、外核层（ONL）和RPE层。然而，在蓝光照射24小时和30小时后，整个视网膜的厚度不仅减少，IPL、INL、ONL和RPE层等组织的厚度也相应减薄。定量结果显示蓝光显著减少了所有视网膜组织的厚度（图5B–F）。蓝光对视网膜组织的有害影响导致视网膜细胞死亡并使相关组织层变薄。为了进一步检测蓝光在体内诱导细胞毒性的潜在机制，使用斑马鱼视网膜组织进行TUNEL检测和细胞凋亡关键调节因子caspase-3的IFC评估。通过TUNEL免疫荧光检测和显微镜分析，我们发现蓝光在视网膜各层中诱导了明显的TUNEL反应（图5G）。同样，IFC caspase-3蛋白表达结果显示蓝光增加了凋亡调节因子标记物的表达，从而促使视网膜细胞（包括RPE细胞）的程序性细胞死亡（图5H）。结果表明，蓝光确实通过激活斑马鱼模型中的凋亡信号诱导了视网膜细胞的死亡。
+------------------------------------------------------------------------------------
+原文: Department of Biotechnology, Kaohsiung Medical University, Kaohsiung 807, Taiwan; tzu0611@gmail.com (Y.-T.H.); liuwangta@kmu.edu.tw (W.L.); u106500025@kmu.edu.tw (C.-X.H.)
+
+译文: 生物技术系，高雄医学大学，台湾高雄807；tzu0611@gmail.com (Y.-T.H.); liuwangta@kmu.edu.tw (W.L.); u106500025@kmu.edu.tw (C.-X.H.)
+------------------------------------------------------------------------------------
+原文: Figure 1. Blue light induced ARPE-19 apoptotic cell death. (A) Evaluation of cell viability and death in ARPE-19 cells with time-dependent blue light exposure from 0 h to 48 h (magnification: 40×; enlarged: 200×). (B) Blue light induced a decreased ARPE-19 cell viability as determined by an MTS assay (** p < 0.01). (C) ARPE-19 cell apoptosis induced by blue light exposure for 0 to 36 h. Early and late apoptotic cells were detected using 7AAD and annexin V double staining in a flow cytometry analysis. (D) Quantitative results of the flow cytometry analysis of the early apoptosis population
+
+译文: 图1. 蓝光诱导的ARPE-19细胞凋亡死亡。(A) 评估ARPE-19细胞在0小时到48小时的时间依赖性蓝光照射下的细胞活力和死亡情况（放大倍数：40×; 放大：200×）。(B) 通过MTS分析确定蓝光诱导的ARPE-19细胞活力下降（** p < 0.01）。(C) 蓝光照射0到36小时诱导的ARPE-19细胞凋亡。使用7AAD和Annexin V双重染色在流式细胞术分析中检测早期和晚期凋亡细胞。(D) 早期凋亡群体的流式细胞术分析的定量结果
+------------------------------------------------------------------------------------
+原文: Brandstetter, C.; Mohr, L.K.; Latz, E.; Holz, F.G.; Krohne, T.U. Light induces nlrp3 inflammasome activation in retinal pigment epithelial cells via lipofuscin-mediated photooxidative damage. J. Mol. Med. 2015, 93, 905–916. [CrossRef] [PubMed]
+
+译文: Brandstetter, C.; Mohr, L.K.; Latz, E.; Holz, F.G.; Krohne, T.U. 光通过脂褐素介导的光氧化损伤诱导视网膜色素上皮细胞中的nlrp3炎症小体激活。J. Mol. Med. 2015, 93, 905–916. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: 4.6. Assessment of DNA Damage
+
+译文: 4.6. DNA损伤评估
+------------------------------------------------------------------------------------
+原文: Seko, Y.; Pang, J.; Tokoro, T.; Ichinose, S.; Mochizuki, M. Blue light-induced apoptosis in cultured retinal pigment epithelium cells of the rat. Graefes. Arch. Clin. Exp. Ophthalmol. 2001, 239, 47–52. [CrossRef] [PubMed]
+
+译文: Seko, Y.; Pang, J.; Tokoro, T.; Ichinose, S.; Mochizuki, M. 蓝光诱导的大鼠培养视网膜色素上皮细胞的凋亡。Graefes. Arch. Clin. Exp. Ophthalmol. 2001, 239, 47–52. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Among visible light, blue light (wavelengths of 400–500 nm) has comparatively higher energy and is more harmful than red light and green light (wavelengths of 500–700 nm) [8]. RPE cells are particularly sensitive to blue light [2], which might exacerbate AMD development [9]. Accumulating evidence indicates that light-induced damage, including blue light and U.V. light, can cause RPE lesions, resulting in or facilitating various macular-associated diseases. Among the spectrum of visible wavelengths (360–830 nm), blue light (400–500 nm) has been reported to facilitate the induction of oxidative stress in the macula [10], and excessive exposure to blue light is associated with the pathophysiology of retinal tissue due to the degeneration of the retina and photoreceptor cells [11]. Short-wavelength light, such as ultraviolet light and blue light, has relatively high energy and may cause severe damage to retinal tissues, especially RPE cells [12,13]. Lipofuscin could promote oxidative damage as a photooxidant when the cells are exposed to blue light. In addition to lipofuscin, there are other potential endogenous substances affected by blue light that may cause phototoxicity to the retina, such as all-trans-retinal and protoporphyrin [14,15].
+
+译文: 在可见光中，蓝光（波长400–500 nm）相对能量较高，且比红光和绿光（波长500–700 nm）更具危害性[8]。RPE细胞对蓝光特别敏感[2]，这可能会加剧年龄相关性黄斑变性（AMD）的发展[9]。越来越多的证据表明，包括蓝光和紫外光在内的光诱导损伤可以导致RPE损伤，从而导致或促进各种与黄斑相关的疾病。在可见光波长（360–830 nm）范围内，蓝光（400–500 nm）已被报道可以促进黄斑中氧化应激的诱导[10]，过度暴露于蓝光与视网膜组织的病理生理学相关，这主要是由于视网膜和感光细胞的退化[11]。短波长度的光线，如紫外光和蓝光，能量相对较高，可能对视网膜组织造成严重损伤，特别是RPE细胞[12,13]。脂褐素在细胞暴露于蓝光时可能作为光氧化剂促进氧化损伤。除了脂褐素，还有其他可能因蓝光而受到影响的内源性物质，可能对视网膜造成光毒性，如全反式视黄醛和原卟啉[14,15]。
+------------------------------------------------------------------------------------
+原文: Department of Medical Research, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan
+
+译文: 高雄医科大学医院医学研究部，台湾高雄807
+------------------------------------------------------------------------------------
+原文: Int. J. Mol. Sci. 2021, 22, 1338. https://doi.org/10.3390/ijms22031338	https://www.mdpi.com/journal/ijms
+
+译文: 国际分子科学杂志 2021, 22, 1338. https://doi.org/10.3390/ijms22031338  https://www.mdpi.com/journal/ijms
+------------------------------------------------------------------------------------
+原文: was used as a positive control that induced cell DNA damage by blocking DNA replication. The results showed low γH2AX expression in ARPE-19 cells under normal conditions, and strong γH2AX expression was found in the nuclei of CPT-treated and blue-light-exposed ARPE-19 cells. However, after 1 mM NAC treatment, γH2AX expression was decreased compared to single blue-light-exposed ARPE-19 cells (Figure 3B). The next-generation sequencing (NGS) data showed that blue light exposure increased gene expression in the cell cycle-related DNA damage response pathway, including HIPK2, MDM2, p21Cip1, and GADD45, and decreased DNA-PK, TOP2, and PLK gene expression (Figure 3C). The results indicate that DNA damage was activated, followed by an increase in oxidative stress and ROS generation.
+
+译文: 作为阳性对照，引发细胞DNA损伤，通过阻止DNA复制。结果表明，在正常条件下，ARPE-19细胞中γH2AX表达较低，而在CPT处理和蓝光照射的ARPE-19细胞核中发现强烈的γH2AX表达。然而，在1 mM NAC处理后，与单纯蓝光照射的ARPE-19细胞相比，γH2AX的表达减少了（图3B）。下一代测序（NGS）数据显示，蓝光照射增加了细胞周期相关DNA损伤反应通路中的基因表达，包括HIPK2、MDM2、p21Cip1和GADD45，同时DNA-PK、TOP2和PLK基因表达则减少（图3C）。结果表明，DNA损伤被激活，随后氧化应激和活性氧（ROS）产生增加。
+------------------------------------------------------------------------------------
+原文: ANXA2, AXL, BMPER, CA9, CALR, CCN1, CCND1, CD44,
+
+译文: ANXA2, AXL, BMPER, CA9, CALR, CCN1, CCND1, CD44,
+------------------------------------------------------------------------------------
+原文: Int. J. Mol. Sci. 2021, 22, 1338	2 of
+
+译文: 国际分子科学杂志 2021, 22, 1338 2 of
+------------------------------------------------------------------------------------
+原文: Kurihara, T.; Omoto, M.; Noda, K.; Ebinuma, M.; Kubota, S.; Koizumi, H.; Yoshida, S.; Ozawa, Y.; Shimmura, S.; Ishida, S.; et al. Retinal phototoxicity in a novel murine model of intraocular lens implantation. Mol. Vis. 2009, 15, 2751–2761. [PubMed]
+
+译文: Kurihara, T.; Omoto, M.; Noda, K.; Ebinuma, M.; Kubota, S.; Koizumi, H.; Yoshida, S.; Ozawa, Y.; Shimmura, S.; Ishida, S.; 等。 在一种新的小鼠眼内镜片植入模型中观察视网膜光毒性。分子视觉 2009, 15, 2751–2761. [PubMed]
+------------------------------------------------------------------------------------
+原文: The RPE cell line-19 (ARPE-19), a monolayer of polarized epithelial cells located between the sensory retina and choriocapillaris, was differentiated and mitotically inactivated under normal physiological conditions. ARPE-19 cells (BCRC cat. number: 60383), obtained from the Bioresource Collection and Research Center (BCRC, Hsinchu, Taiwan), were grown in Dulbecco’s Modified Eagle’s Medium (DMEM, Invitrogen Corporation, Carlsbad, CA, USA) supplemented with 8% (v/v) fetal bovine serum, 100 units/mL penicillin and 100 µg/mL streptomycin in an incubator with 5% CO2 at 37 ◦C. The cells were exposed to 0 to 639 J/cm2 blue light and cultured for 0 to 48 h. Different blue light exposure dose experiments were performed in triplicate and repeated three times to ensure reproducibility.
+
+译文: 视网膜色素上皮细胞系-19（ARPE-19），是一层极化上皮细胞，位于感光视网膜与脉络毛细血管之间，在正常生理条件下分化并处于有丝分裂失活状态。ARPE-19细胞（BCRC寄编号：60383）来自生物资源收集与研究中心（BCRC，台湾新竹），在含有8%（v/v）胎牛血清、100单位/mL青霉素和100 µg/mL链霉素的Dulbecco改良鹰培养基（DMEM，Invitrogen Corporation，加利福尼亚州卡尔斯巴德，美国）中培养，在37 ◦C、5% CO2的培养箱中进行培养。细胞暴露于0至639 J/cm2的蓝光下，并培养0至48小时。不同蓝光照射剂量实验以三重复进行，并重复三次以确保可重复性。
+------------------------------------------------------------------------------------
+原文: Academic Editors: Patrizia Ballerini, Antonia Patruno and Mirko Pesce Received: 23 December 2020 Accepted: 7 January 2021
+
+译文: 学术编辑：Patrizia Ballerini, Antonia Patruno 和 Mirko Pesce收到：2020年12月23日接受：2021年1月7日
+------------------------------------------------------------------------------------
+原文: Tissue Development
+
+译文: 组织发育
+------------------------------------------------------------------------------------
+原文: LIMA1, LMNB1,LMNB2, LMO4,LMO7, LOX, LOXL2, LRP1, LTBP2,
+
+译文: LIMA1, LMNB1, LMNB2, LMO4, LMO7, LOX, LOXL2, LRP1, LTBP2,
+------------------------------------------------------------------------------------
+原文: Wu, J.; Seregard, S.; Spangberg, B.; Oskarsson, M.; Chen, E. Blue light induced apoptosis in rat retina. Eye 1999, 13 Pt 4, 577–583. [CrossRef]
+
+译文: Wu, J.; Seregard, S.; Spangberg, B.; Oskarsson, M.; Chen, E. 蓝光诱导大鼠视网膜的凋亡。眼睛 1999, 13 Pt 4, 577–583. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 4.0/).
+
+译文: 4.0/).
+------------------------------------------------------------------------------------
+原文: Nordberg, J.; Arner, E.S. Reactive oxygen species, antioxidants, and the mammalian thioredoxin system. Free Radic. Biol. Med. 2001, 31, 1287–1312. [CrossRef]
+
+译文: Nordberg, J.; Arner, E.S. 活性氧物种，抗氧化剂和哺乳动物的硫氧还蛋白系统。自由基生物医学 2001, 31, 1287–1312. [CrossRef]
+------------------------------------------------------------------------------------
+原文: The Graduate Institute of Medicine, Kaohsiung Medical University, Kaohsiung 807, Taiwan
+
+译文: 高雄医学大学研究所, 高雄 807, 台湾
+------------------------------------------------------------------------------------
+原文: Department of Bioscience Technology, College of Health Science, Chang Jung Christian University, Tainan 711, Taiwan; hhuang@mail.cjcu.edu.tw
+
+译文: 长荣大学健康科学学院生物科学技术系, 台南 711, 台湾; hhuang@mail.cjcu.edu.tw
+------------------------------------------------------------------------------------
+原文: Figure 2. ROS generation in ARPE-19 cells induced by blue light. (A) Blue-light-induced ARPE-19 cell ROS (reactive oxygen species) generation was detected by using DCFDA staining and immunofluorescence microscopy. Blue light induction from 0 to 48 h (magnification: 40×; enlarged: 200×). (B) Quantitative results of ROS generation induced by blue light
+
+译文: 图2. 蓝光诱导ARPE-19细胞中的ROS生成。 (A) 通过DCFDA染色和免疫荧光显微镜检测蓝光诱导的ARPE-19细胞ROS（活性氧物种）生成。蓝光诱导从0至48小时（放大倍数：40×; 放大：200×）。 (B) 蓝光诱导的ROS生成的定量结果
+------------------------------------------------------------------------------------
+原文: We next investigated DNA damage activation after exposure to blue light. The intensity of the well-known DNA damage marker γH2AX can represent the level of DNA damage induced by blue light. By immunofluorescence staining of γH2AX and microscopic analysis, we found that the expression level of γH2AX significantly increased from 4 to 24 h of blue light exposure. The intense γH2AX immunosignal detected in the nucleus was directly proportional to the blue light exposure time (Figure 3A). To investigate the role of ROS in blue-light-induced DNA damage, the inhibitor NAC was used. Cisplatin (CPT)
+
+译文: 接下来我们研究了蓝光照射后DNA损伤的激活情况。著名的DNA损伤标志物γH2AX的强度可以代表蓝光诱导的DNA损伤水平。通过对γH2AX的免疫荧光染色和显微镜分析，我们发现γH2AX的表达水平在蓝光照射的4到24小时内显著增加。在细胞核中检测到的强烈γH2AX免疫信号与蓝光照射时间呈正相关（图3A）。为了研究ROS在蓝光诱导的DNA损伤中的作用，使用了抑制剂NAC。顺铂（CPT）
+------------------------------------------------------------------------------------
+原文: Table 1. Molecules involved in blue-light-induced ARPE-19 cellular function.
+
+译文: 表1. 参与蓝光诱导ARPE-19细胞功能的分子。
+------------------------------------------------------------------------------------
+原文: PTEN, PTPRJ, RUNX2, SERPINE1, SOX9, SPARC, TGFBR1, THBS1, TIMP3, VCL, VEGFA
+
+译文: PTEN, PTPRJ, RUNX2, SERPINE1, SOX9, SPARC, TGFBR1, THBS1, TIMP3, VCL, VEGFA
+------------------------------------------------------------------------------------
+原文: −1.439
+
+译文: −1.439
+------------------------------------------------------------------------------------
+原文: To assess the potential mechanisms of blue-light-induced damage, oxidative stress was investigated. Seko et al. first reported a concept in 2001 that blue light induced rat isolated RPE cell death and damage could be inhibited by using 30 mM NAC [22], and concluded that RPE cells were destroyed through an oxidation-dependent mechanism that eventually led to apoptosis. However, no real data were shown at that time. Immunofluorescence images and quantitative data showed that ROS were generated after only 2 and 4 h of exposure to blue light. These results may explain one of the reasons for decreased cell survival when apoptosis is not fully activated in the early stage of blue light exposure. ROS production could lead to DNA damage and the related inhibition of protein activity that affects the overall cellular process. Lee et al. reported that blue light exposure induced oxidative stress in human corneal epithelial cells and caused a decrease in cell viability [23]. A series of blue light wavelengths were tested to prove the harm of blue light to corneal epithelial cells, and the extract they added effectively inhibited cell death by activating radical scavenging activity and increased the antioxidant enzyme expression of heme oxygenase-1 (HO-1), peroxiredoxin-1 (Prx-1), catalase (CAT), and superoxide dismutase-2 (SOD-2). Thus, blue light might induce the same effect of producing ROS and increasing oxidative stress in RPE cells after short-term exposure.
+
+译文: 为了评估蓝光诱导损伤的潜在机制，研究了氧化应激。Seko等人在2001年首次报告了一个概念，即蓝光诱导大鼠分离RPE细胞的死亡和损伤可以通过使用30 mM NAC来抑制[22]，并得出结论称RPE细胞通过依赖氧化的机制而被破坏，最终导致了细胞凋亡。然而，当时没有提供真实数据。免疫荧光图像和定量数据表明，暴露于蓝光后仅2小时和4小时就会生成ROS。这些结果可能解释了在蓝光照射早期阶段，凋亡未完全激活时细胞存活率下降的原因之一。ROS的产生可能导致DNA损伤及相关的蛋白质活性抑制，从而影响整体细胞过程。Lee等人报告称蓝光照射诱导人类角膜上皮细胞的氧化应激，并导致细胞活力下降[23]。测试了一系列蓝光波长，以证明蓝光对角膜上皮细胞的危害，他们添加的提取物有效地通过激活自由基清除活性抑制了细胞死亡，并增加了血红素氧合酶-1（HO-1）、过氧化物酶体酶-1（Prx-1）、过氧化氢酶（CAT）和超氧化物歧化酶-2（SOD-2）的抗氧化酶表达。因此，蓝光可能在短期暴露后对RPE细胞产生同样的ROS生成和氧化应激增加的效果。
+------------------------------------------------------------------------------------
+原文: Chou, H.L.; Lin, Y.H.; Liu, W.; Wu, C.Y.; Li, R.N.; Huang, H.W.; Chou, C.H.; Chiou, S.J.; Chiu, C.C. Combination therapy of chloroquine and c(2)-ceramide enhances cytotoxicity in lung cancer h460 and h1299 cells. Cancers 2019, 11, 370. [CrossRef]
+
+译文: Chou, H.L.; Lin, Y.H.; Liu, W.; Wu, C.Y.; Li, R.N.; Huang, H.W.; Chou, C.H.; Chiou, S.J.; Chiu, C.C. 氯喹与c(2)-神经酰胺的联合治疗增强了肺癌h460和h1299细胞的细胞毒性. Cancers 2019, 11, 370. [CrossRef]
+------------------------------------------------------------------------------------
+原文: 2.1. Blue Light Exposure Induced ARPE-19 Cell Death by Activating Apoptosis
+
+译文: 2.1. 蓝光暴露诱导ARPE-19细胞死亡通过激活凋亡
+------------------------------------------------------------------------------------
+原文: IGFBP3, IGFBP5, IGFBP7, IL7R, INHBA, INPPL1, IRS2, ITGA3,
+
+译文: IGFBP3, IGFBP5, IGFBP7, IL7R, INHBA, INPPL1, IRS2, ITGA3,
+------------------------------------------------------------------------------------
+原文: 4.3. Assessment of Cell Viability
+
+译文: 4.3. 细胞活力评估
+------------------------------------------------------------------------------------
+原文: Division of Cardiology, Department of Internal Medicine, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan
+
+译文: 高雄医学大学医院心脏科, 高雄807, 台湾
+------------------------------------------------------------------------------------
+原文: Author Contributions: K.-C.C., Y.-H.L., and C.-C.C. designed the experiments and wrote the paper. Y.-T.H., L.-Y.C., and C.-X.H. performed the experiments and collected the data. C.-X.H. performed the zebrafish assay. Y.-H.L. analyzed both the in vitro and in vivo data. W.L. performed the bioinformatic analysis and provided suggestions regarding the in vivo zebrafish assay. H.-L.H. served as a consultant for the bioassays and provided the reagents. K.-C.C., S.-J.S., K.-J.C., and P.-Y.L. provided reagents and translational suggestions. K.-C.C. and Y.-H.L. wrote the draft. Y.-H.L. and C.-C.C. checked and edited the manuscript. All authors have read and agreed to the published version of the manuscript.
+
+译文: 作者贡献: K.-C.C., Y.-H.L.和C.-C.C.设计了实验并撰写了论文. Y.-T.H., L.-Y.C.和C.-X.H.进行了实验并收集数据. C.-X.H.进行了斑马鱼实验. Y.-H.L.分析了体外和体内数据. W.L.进行了生物信息学分析并提供了有关体内斑马鱼实验的建议. H.-L.H.作为生物测定的顾问并提供试剂. K.-C.C., S.-J.S., K.-J.C.和P.-Y.L.提供了试剂和转化建议. K.-C.C.和Y.-H.L.撰写了草稿. Y.-H.L.和C.-C.C.检查和编辑了手稿. 所有作者均已阅读并同意发表手稿的版本.
+------------------------------------------------------------------------------------
+原文: Powell, S.R.; Wang, P.; Divald, A.; Teichberg, S.; Haridas, V.; McCloskey, T.W.; Davies, K.J.; Katzeff, H. Aggregates of oxidized proteins (lipofuscin) induce apoptosis through proteasome inhibition and dysregulation of pro-apoptotic proteins. Free Radic. Biol. Med. 2005, 38, 1093–1101. [CrossRef] [PubMed]
+
+译文: Powell, S.R.; Wang, P.; Divald, A.; Teichberg, S.; Haridas, V.; McCloskey, T.W.; Davies, K.J.; Katzeff, H. 氧化蛋白聚集体（脂褐素）通过抑制蛋白酶体和调节促凋亡蛋白诱导凋亡. Free Radic. Biol. Med. 2005, 38, 1093–1101. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: 2.2. Oxidative Stress Generation Induced by Blue Light Exposure in ARPE-19 Cells
+
+译文: 2.2. 蓝光暴露引发ARPE-19细胞的氧化应激生成
+------------------------------------------------------------------------------------
+原文: Visual defects have a significant negative impact on the quality of life, and this causes an economic burden worldwide. Age-related macular degeneration (AMD) is caused by severe loss of vision in the elderly. AMD is caused by the degeneration of retinal pigment epithelium (RPE) cells and cone photoreceptor cells responsible for light detection in the macula, the central part of the retina. Clinically, AMD can be classified into two major phenotypes, “dry (atrophic) AMD” and “wet (neovascular) AMD”, which involves blood leakage or abnormal angiogenesis. AMD is the most common etiology for which patients attend low-vision clinics.
+
+译文: 视觉缺陷对生活质量产生显著负面影响，这在全球造成了经济负担. 年龄相关性黄斑变性（AMD）是由老年人视力严重丧失引起的. AMD由负责在黄斑（视网膜中央部分）中光检测的视网膜色素上皮（RPE）细胞和锥体感光细胞的退化引起. 临床上，AMD可以分为两种主要表型：“干性（萎缩性）AMD”和“湿性（新生血管性）AMD”，后者涉及血液泄漏或异常血管生成. AMD是患者前往低视力诊所的最常见病因.
+------------------------------------------------------------------------------------
+原文: LRP1, LTBR, MGST1, MT-CO1, MT-ND2, MT-ND3, MT-ND4,
+
+译文: LRP1, LTBR, MGST1, MT-CO1, MT-ND2, MT-ND3, MT-ND4,
+------------------------------------------------------------------------------------
+原文: SEMA3B, SEMA7A, SERPINB2, SERPINE1, SERPINE2, SGK1,
+
+译文: SEMA3B, SEMA7A, SERPINB2, SERPINE1, SERPINE2, SGK1,
+------------------------------------------------------------------------------------
+原文: The cells (1 × 105) were cultured in 6 cm dishes at 37 ◦C in a 5% CO2 incubator. After 24 h of attachment, the cells were exposed to blue light for 0, 2, 4, 10, 24, 36, or 48 h. The supernatant was removed and washed with 1× PBS; 200 µL of trypsin (Trypsin-EDTA, 2×) (Invitrogen, Carlsbad, CA, USA) was added; and the cells were placed in a 37 ◦C incubator for 10 min until completely suspended. In total, 1 mL of culture solution was added to the suspended cells in a 15 mL centrifuge tube. The tube was mixed well, 20 µL of the cell solution was transferred to a 1.5 mL centrifuge tube, and then, 20 µL of trypan blue was added and mixed evenly for the cell staining. After the staining, the number of cells was counted under a microscope using a cell counter. The living cells discharged the dye and appeared round and shiny without staining, while the dead cells were stained blue.
+
+译文: 细胞（1 × 105）在37 ◦C的5% CO2培养箱中于6 cm培养皿中培养. 在24小时附着后，细胞暴露于蓝光下0、2、4、10、24、36或48小时. 去除上清液，并用1× PBS洗涤；加入200 µL胰蛋白酶（Trypsin-EDTA, 2×）（Invitrogen, Carlsbad, CA, USA）；将细胞放置在37 ◦C培养箱中10分钟，直到完全悬浮. 总共有1 mL培养液添加到悬浮的细胞中，在15 mL离心管中. 管子混合均匀，20 µL细胞溶液转移到1.5 mL离心管中，然后加入20 µL台盼蓝并混合均匀以进行细胞染色. 染色后，使用显微镜计数细胞数量. 活细胞排出染料，呈现圆形光亮且未染色，而死亡细胞则呈蓝色染色.
+------------------------------------------------------------------------------------
+原文: Kai-Chun Cheng 1,2,3, Yun-Tzu Hsu 4, Wangta Liu 4,5,6, Huey-Lan Huang 7, Liang-Yu Chen 8, Chen-Xi He 4, Shwu-Jiuan Sheu 2,3, Kuo-Jen Chen 1, Po-Yen Lee 2, Yi-Hsiung Lin 4,9,10,11,* and Chien-Chih Chiu 4,5,6,12,13,*
+
+译文: Kai-Chun Cheng 1,2,3, Yun-Tzu Hsu 4, Wangta Liu 4,5,6, Huey-Lan Huang 7, Liang-Yu Chen 8, Chen-Xi He 4, Shwu-Jiuan Sheu 2,3, Kuo-Jen Chen 1, Po-Yen Lee 2, Yi-Hsiung Lin 4,9,10,11,* 和 Chien-Chih Chiu 4,5,6,12,13,*
+------------------------------------------------------------------------------------
+原文: 10 mL of 2,7-dichlorofluorescin diacetate probe (DCFH-DA, Molecular Probes Inc., Eugene, OR, USA) at 37 ◦C for 20 min and then washed three times with PBS. The fluorescence intensity of DCFH was quantified by flow cytometry (the excitation wavelength was 485 nm and the emission wavelength was 525 nm) using an Accuri™ C6 instrument and its software. The results are presented as the percentage of the control cells.
+
+译文: 10 mL的2,7-二氯荧光素二醋酸酯探针(DCFH-DA, Molecular Probes Inc., Eugene, OR, USA)在37°C下孵育20分钟，然后用PBS洗涤三次。DCFH的荧光强度通过流式细胞仪进行定量分析(激发波长为485 nm，发射波长为525 nm)，使用Accuri™ C6仪器及其软件进行分析。结果以对照细胞的百分比表示。
+------------------------------------------------------------------------------------
+原文: Signaling and Interaction
+
+译文: 信号传导与相互作用
+------------------------------------------------------------------------------------
+原文: 2.5. The Long-Term Effect of Blue Light Exposure on the Retina of Zebrafish Larvae
+
+译文: 2.5. 蓝光照射对斑马鱼幼虫视网膜的长期影响
+------------------------------------------------------------------------------------
+原文: CDKN1A, CLIC4, COL4A2, CSF1, DAG1, DKK1, ECT2, EDN1,
+
+译文: CDKN1A, CLIC4, COL4A2, CSF1, DAG1, DKK1, ECT2, EDN1,
+------------------------------------------------------------------------------------
+原文: 4.2. Assessment of Cell Viability
+
+译文: 4.2. 细胞活性评估
+------------------------------------------------------------------------------------
+原文: MYDGF, NGF, NKX3-1, NRP1, ODC1, PALLD, PDGFB, PLOD3,
+
+译文: MYDGF, NGF, NKX3-1, NRP1, ODC1, PALLD, PDGFB, PLOD3,
+------------------------------------------------------------------------------------
+原文: 4.7. Acridine Orange Staining for the Assessment of Autophagy
+
+译文: 4.7. 溴化乙啶橙染色以评估自噬
+------------------------------------------------------------------------------------
+原文: All experiments were conducted in triplicate and the data are represented as the mean ± S.D. The mapping and statistical analysis were performed using Sigma Plot 12.0 (SPSS Inc., Chicago, IL, USA). The data were subjected to an analysis of variance (ANOVA) and Duncan’s multiple range tests. p < 0.05 was considered significant.
+
+译文: 所有实验均进行三次重复，数据表示为均值 ± 标准差。地图绘制和统计分析使用Sigma Plot 12.0（SPSS Inc., Chicago, IL, USA）进行。数据经过方差分析（ANOVA）和Duncan多重范围检验。p < 0.05被认为具有统计学意义。
+------------------------------------------------------------------------------------
+原文: Activation z-Score
+
+译文: 激活z-分数
+------------------------------------------------------------------------------------
+原文: 4.4. Determination of Apoptosis by an Annexin V/7AAD Assay
+
+译文: 4.4. 通过Annexin V/7AAD检测法确定凋亡
+------------------------------------------------------------------------------------
+原文: Figure 3. Blue-light-induced ARPE-19 cell DNA damage. (A) DNA damage was evaluated by detecting the immunofluorescence intensity of the presented marker, γH2AX. The blue light exposure time was 0 to 24 h (magnification: 40×; enlarged: 200×). (B) To confirm the role of ROS generation in DNA damage regulation, the ROS inhibitor NAC (1 mM) was utilized to determine the alteration in DNA damage. CPT (cisplatin; 5 µM) was used in the positive DNA damage control group (magnification: 40×; enlarged: 200×). (C) IPA of RNA sequencing showed the molecules potentially involved in ARPE-19 cells regulated by blue light exposure. Blue: decreased gene expression; orange: increased gene expression.
+
+译文: 图3. 蓝光诱导的ARPE-19细胞DNA损伤。（A）通过检测所呈现标记物γH2AX的免疫荧光强度评估DNA损伤。蓝光照射时间为0至24小时（放大倍率：40×；放大：200×）。 （B）为了确认ROS生成在DNA损伤调控中的作用，使用ROS抑制剂NAC（1 mM）来确定DNA损伤的变化。CPT（顺铂；5µM）用于阳性DNA损伤对照组（放大倍率：40×；放大：200×）。 （C）RNA测序的IPA显示与蓝光照射调控的ARPE-19细胞相关的分子。蓝色：基因表达降低；橙色：基因表达增加。
+------------------------------------------------------------------------------------
+原文: Wielgus, A.R.; Collier, R.J.; Martin, E.; Lih, F.B.; Tomer, K.B.; Chignell, C.F.; Roberts, J.E. Blue light induced a2e oxidation in rat eyes—Experimental animal model of dry amd. Photochem. Photobiol. Sci. 2010, 9, 1505–1512. [CrossRef]
+
+译文: Wielgus, A.R.; Collier, R.J.; Martin, E.; Lih, F.B.; Tomer, K.B.; Chignell, C.F.; Roberts, J.E. 蓝光诱导大鼠眼中的a2e氧化——干性年龄相关性黄斑变性实验动物模型。光化学光生物科学 2010, 9, 1505–1512. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Boya, P.; Esteban-Martinez, L.; Serrano-Puebla, A.; Gomez-Sintes, R.; Villarejo-Zori, B. Autophagy in the eye: Development, degeneration, and aging. Prog. Retin. Eye Res. 2016, 55, 206–245. [CrossRef]
+
+译文: Boya, P.; Esteban-Martinez, L.; Serrano-Puebla, A.; Gomez-Sintes, R.; Villarejo-Zori, B. 眼中的自噬：发育、退化与衰老。视网膜与眼研究进展 2016, 55, 206–245. [CrossRef]
+------------------------------------------------------------------------------------
+原文: −1.174
+
+译文: −1.174
+------------------------------------------------------------------------------------
+原文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, KLF2, KRT18, KRT8, LOX,
+
+译文: ITGA4, ITGA5, ITGAV, ITGB1, ITGB3, KLF2, KRT18, KRT8, LOX,
+------------------------------------------------------------------------------------
+原文: MT-ND5, NBR1, NCOR2, NGF, NPPB, ODC1, PDGFB, PFKFB3,
+
+译文: MT-ND5, NBR1, NCOR2, NGF, NPPB, ODC1, PDGFB, PFKFB3,
+------------------------------------------------------------------------------------
+原文: (inner nuclear layer), ONL (outer nuclear layer), and RPE (retinal pigment epithelium) layers. Blue light exposure times of 24 and 30 h were compared with the 0 h control group. The quantitative thickness results of individual layers, including (B) the whole retina, (C) IPL, (D) INL, (E) ONL, and (F) RPE layer, were compared to determine the effect of blue light on retinal tissue development (* p < 0.05, ** p < 0.01). (G) TUNEL assay of blue light-exposed zebrafish retinal tissue. Phase: bright-field, Green: TUNEL reaction, Blue: DAPI for nuclear staining. Zebrafish exposed to blue light for 0, 24, and 30 h. (H) Retinal tissue of blue-light-exposed zebrafish used for the apoptosis immunofluorescence determination marker caspase-3. Green: Caspase-3 expression.
+
+译文: (内核层), ONL (外核层), 和 RPE (视网膜色素上皮) 层。比较了 24 和 30 小时的蓝光照射时间与 0 小时的对照组。比较了各个层的定量厚度结果，包括 (B) 整个视网膜, (C) IPL, (D) INL, (E) ONL, 和 (F) RPE 层，以确定蓝光对视网膜组织发展的影响 (* p < 0.05, ** p < 0.01)。 (G) 蓝光照射的斑马鱼视网膜组织的 TUNEL 检测。相位: 明场，绿色: TUNEL 反应，蓝色: DAPI 用于细胞核染色。斑马鱼在 0、24 和 30 小时内暴露于蓝光中。 (H) 用于凋亡免疫荧光鉴定标记物Caspase-3的蓝光照射斑马鱼视网膜组织。绿色: Caspase-3 表达。
+------------------------------------------------------------------------------------
+原文: COL11A1, COL4A1,COL4A2, CRMP1, CRY1, CSF1, CTSL, CYP1A1,
+
+译文: COL11A1, COL4A1,COL4A2, CRMP1, CRY1, CSF1, CTSL, CYP1A1,
+------------------------------------------------------------------------------------
+原文: 4. Materials and Methods
+
+译文: 4. 材料与方法
+------------------------------------------------------------------------------------
+原文: Informed Consent Statement: Not applicable.
+
+译文: 知情同意声明: 不适用。
+------------------------------------------------------------------------------------
+原文: 7.58 × 10−16
+
+译文: 7.58 × 10−16
+------------------------------------------------------------------------------------
+原文: Chen, Y.; Sawada, O.; Kohno, H.; Le, Y.Z.; Subauste, C.; Maeda, T.; Maeda, A. Autophagy protects the retina from light-induced degeneration. J. Biol. Chem. 2013, 288, 7506–7518. [CrossRef]
+
+译文: Chen, Y.; Sawada, O.; Kohno, H.; Le, Y.Z.; Subauste, C.; Maeda, T.; Maeda, A. 自噬保护视网膜免受光诱导的退化。J. Biol. Chem. 2013, 288, 7506–7518. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Conflicts of Interest: The authors declare no conflict of interest.
+
+译文: 利益冲突: 作者声明没有利益冲突。
+------------------------------------------------------------------------------------
+原文: Annexin V (#AVK005, Strong Biotech Corporation, Taipei, Taiwan)/7AAD (#11397, Cayman, Ann Arbor, MI, USA) was used to detect apoptosis. After blue light irradiation, the cells were treated with 10 µg/mL annexin V-fluorescein isothiocyanate and 1 µg/mL 7AAD for 30 min, followed by flow cytometry using an Accuri™ C6 instrument (BectonDickinson, Mansfield, MA, USA).
+
+译文: Annexin V (#AVK005, Strong Biotech Corporation, Taipei, Taiwan)/7AAD (#11397, Cayman, Ann Arbor, MI, USA) 被用来检测凋亡。在蓝光照射后，细胞用 10 µg/mL annexin V-荧光异硫氰酸酯和 1 µg/mL 7AAD 处理 30 分钟，然后用 Accuri™ C6 仪器 (BectonDickinson, Mansfield, MA, USA) 进行流式细胞术。
+------------------------------------------------------------------------------------
+原文: References
+
+译文: 参考文献
+------------------------------------------------------------------------------------
+原文: Involved Molecules
+
+译文: 相关分子
+------------------------------------------------------------------------------------
+原文: ACTB, ACTN1, ACTN4, ACTR2, ADAM19, ADAM9, ADAMTS5,
+
+译文: ACTB, ACTN1, ACTN4, ACTR2, ADAM19, ADAM9, ADAMTS5,
+------------------------------------------------------------------------------------
+原文: 2. Results
+
+译文: 2. 结果
+------------------------------------------------------------------------------------
+原文: 3.4. Blue-Light-Induced DNA Damage
+
+译文: 3.4. 蓝光诱导的 DNA 损伤
+------------------------------------------------------------------------------------
+原文: To further determine the underlying mechanisms involved in blue-light-induced ARPE-19 cell death, massive gene expression alterations were screened. By using NGS, gene expression in the control ARPE-19 and blue-light-exposed ARPE-19 cells was comprehensively determined. To analyze the differences in gene expression and their roles in blue-light-initiated mechanisms, IPA was used. The pathway enrichment data showed 671 differentially expressed genes after ARPE-19 exposure to blue light (Figure 6A). We found that over 16 cellular processes in ARPE-19 cells were affected by blue light exposure by investigating the related gene alterations and the involved signaling pathways. At least 340 genes (over 241 cancer cell death related, over 67 cellular development related, and 32 cell death survival related) participating in the cell fate decision in ARPE-19 cells were modified by blue light (Figure 6B). The gene expression heatmap showed that blue light exposure inhibited the expression of genes related to normal cell function, behavior, cell–cell interaction, and development by analyzing the effect of blue light on toxic function. Moreover, we found that blue light participated in additional mechanisms, including organismal injury and abnormalities, cancer development, and cell death (Figure 6C). Further analysis showed that the signal transduction related to cellular movement, cell cycle, tissue development, and cell–cell interactions in ARPE-19 cells was comprehensively decreased by blue light cells (Figure 6D–G); the active molecules are shown in Table 1. The RNA-Seq results indicate that blue light’s general inhibitory effect on normal ARPE-19 cell function and its activation of cell-death-related pathways could induce severe harmful effects on all aspects of retinal tissue.
+
+译文: 为了进一步确定蓝光诱导的 ARPE-19 细胞死亡的潜在机制，筛查了大规模的基因表达改变。通过使用 NGS，全面确定了对照 ARPE-19 和蓝光照射的 ARPE-19 细胞中的基因表达。为了分析基因表达的差异及其在蓝光引发的机制中的作用，使用了 IPA。通路富集数据显示在 ARPE-19 暴露于蓝光后有 671 个差异表达基因 (图 6A)。我们发现，蓝光照射影响了 ARPE-19 细胞的 16 种以上的细胞过程，通过调查相关基因的改变和涉及的信号通路。至少有 340 个基因 (超过 241 个与癌症细胞死亡相关的基因, 超过 67 个与细胞发育相关的基因, 和 32 个与细胞死亡生存相关的基因) 在 ARPE-19 细胞的命运决定中被蓝光修饰 (图 6B)。基因表达热图显示蓝光照射通过分析蓝光对毒性功能的影响，抑制了与正常细胞功能、行为、细胞-细胞相互作用和发育相关的基因的表达。此外，我们发现蓝光参与了额外的机制，包括生物体损伤和异常、癌症发展和细胞死亡 (图 6C)。进一步分析显示，蓝光细胞全面减少了与 ARPE-19 细胞的细胞运动、细胞周期、组织发育和细胞-细胞相互作用相关的信号转导 (图 6D–G)；活性分子见表 1。RNA-Seq 结果表明，蓝光对正常 ARPE-19 细胞功能的普遍抑制以及对细胞死亡相关通路的激活可能对视网膜组织的各个方面产生严重的不利影响。
+------------------------------------------------------------------------------------
+原文: Tanito, M.; Kaidzu, S.; Anderson, R.E. Protective effects of soft acrylic yellow filter against blue light-induced retinal damage in rats. Exp. Eye Res. 2006, 83, 1493–1504. [CrossRef]
+
+译文: Tanito, M.; Kaidzu, S.; Anderson, R.E. 软丙烯酸黄色滤光片对蓝光诱导的视网膜损伤的保护作用. Exp. Eye Res. 2006, 83, 1493–1504. [CrossRef]
+------------------------------------------------------------------------------------
+原文: NR3C2, NREP, NRP1, OSGIN1, P4HB, PALLD, PCOLCE2, PDGFB,
+
+译文: NR3C2, NREP, NRP1, OSGIN1, P4HB, PALLD, PCOLCE2, PDGFB,
+------------------------------------------------------------------------------------
+原文: ANGPTL2, ANXA2, ANXA3, ARHGAP11A, ARL4C, ARPC2,
+
+译文: ANGPTL2, ANXA2, ANXA3, ARHGAP11A, ARL4C, ARPC2,
+------------------------------------------------------------------------------------
+原文: Movement
+
+译文: 运动
+------------------------------------------------------------------------------------
+原文: 3.3. Blue-Light-Induced Oxidative Stress
+
+译文: 3.3. 蓝光诱导的氧化应激
+------------------------------------------------------------------------------------
+原文: Retinal Pigment Epithelium in
+
+译文: 视网膜色素上皮中的
+------------------------------------------------------------------------------------
+原文: Shen, C.J.; Cheng, Y.M.; Wang, C.L. Lncrna pvt1 epigenetically silences mir-195 and modulates emt and chemoresistance in cervical cancer cells. J. Drug Target. 2017, 25, 637–644. [CrossRef]
+
+译文: Shen, C.J.; Cheng, Y.M.; Wang, C.L. Lncrna pvt1 表观遗传学沉默 mir-195 并调节颈癌细胞的 EMT 和耐药性. J. Drug Target. 2017, 25, 637–644. [CrossRef]
+------------------------------------------------------------------------------------
+原文: It has been recognized for decades that blue light is harmful to RPE cells; however, the underlying mechanism remains unclear. In the current study, we aimed to determine the damage caused by blue light in RPE cells and reveal the potential pathways involved. Cell viability alterations were first investigated by using the MTS assay to measure cell survival after exposure to blue light for the indicated durations. As shown in Figure 1A, by observing the cell morphology microscopically, we found that 450 nm blue light exhibited cytotoxicity by decreasing ARPE-19 cell viability in a time-dependent manner. Using the MTS assay, the data showed that blue light induced significant cytotoxicity after 10 h of exposure, and the cell viability was less than 40% after 48 h of blue light exposure (Figure 1B). The results indicate the great potential cytotoxicity of blue light to ARPE-19 cells.
+
+译文: 几十年来，蓝光对视网膜色素上皮细胞 (RPE) 有害已被广泛认识；然而，其潜在机制仍不清楚。在本研究中，我们旨在确定蓝光对 RPE 细胞造成的损伤，并揭示相关的潜在通路。首先使用 MTS 测定法调查了细胞活力的变化，以测量在曝光指定时间后的细胞存活率。如图1A所示，通过显微镜观察细胞形态，我们发现 450 nm 的蓝光通过以时间依赖的方式降低 ARPE-19 细胞活力而表现出细胞毒性。使用 MTS 测定法，数据显示蓝光在曝光 10 小时后诱导了显著的细胞毒性，并且在 48 小时的蓝光曝光后，细胞活力降于 40%（图 1B）。结果表明蓝光对 ARPE-19 细胞具有很大的潜在细胞毒性。
+------------------------------------------------------------------------------------
+原文: 3.6. Animal Model
+
+译文: 3.6. 动物模型
+------------------------------------------------------------------------------------
+原文: In conclusion, our results suggest that blue light’s harmful effect is based on the induction of retinal ARPE-19 cell death through a sequential mechanism of cell proliferation inhibition and the induction of DNA damage and oxidative stress (Figure 7). Although the protective mechanism autophagy simultaneously occurs with cell proliferation inhibition and oxidative stress, it seems insufficient for preventing the accumulation of damage. More likely, the tracking process of autophagy could be one of the reasons that brought the RPE cell to autophagic cell death due to the pressure of cellular stress. The zebrafish larvae model suggests that blue light’s harmful effect includes reducing retinal tissue layer thickness and retinal degeneration in 4-day-old zebrafish in which retinal tissue is still developing. The results of RNA-Seq provided many potential mechanisms that participated in the effect of blue light on ARPE-19 cells, indicating impacts on not only cell survival and cell cycle regulation but also the regulation of cellular/tissue development, cell–cell interactions, protein/gene expression, and inflammation. The current study revealed novel evidence regarding blue light damage to retinal cells, as shown in the graphic abstract, and a scientific basis for developing a new therapeutic strategy against blue-light-induced macular degeneration in modern society.
+
+译文: 总之，我们的结果表明蓝光的有害作用是通过抑制细胞增殖及诱导 DNA 损伤和氧化应激的序列机制引起的视网膜 ARPE-19 细胞死亡（图 7）。虽然自噬的保护机制与细胞增殖抑制和氧化应激同时发生，但似乎不足以阻止损伤的积累。更可能的是，自噬的追踪过程可能是导致 RPE 细胞因细胞应激压力而发生自噬性细胞死亡的原因之一。斑马鱼幼虫模型表明，蓝光的有害作用包括减少视网膜组织层厚度和 4 天大斑马鱼的视网膜退化，而此时视网膜组织仍在发育中。RNA-Seq 的结果提供了许多参与蓝光作用于 ARPE-19 细胞的潜在机制，表明对细胞存活和细胞周期调节的影响，同时还涉及细胞/组织发育、细胞间相互作用、蛋白质/基因表达和炎症的调节。本研究揭示了关于蓝光对视网膜细胞损伤的新证据，如图形摘要所示，并为在现代社会中开发针对蓝光诱导的黄斑变性的新的治疗策略提供了科学依据。
+------------------------------------------------------------------------------------
+原文: AHNAK, AKAP12, AKT1S1, ALCAM, ALDH1A3, ALDOA,
+
+译文: AHNAK, AKAP12, AKT1S1, ALCAM, ALDH1A3, ALDOA,
+------------------------------------------------------------------------------------
+原文: Center for Lipid Biosciences, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan
+
+译文: 高雄医科大学医院脂质生物学中心, 高雄 807, 台湾
+------------------------------------------------------------------------------------
+原文: within 48 h (** p < 0.01). (C) MTS assay was used for cell viability determination of blue-light-induced ARPE-19 cell death; the ROS-specific inhibitor NAC (1 mM) was used to inhibit ROS generation (** p < 0.01). (D) RNA-Seq and IPA of the ROS regulation pathway and molecules involved in ARPE-19 cells affected by blue light exposure. Blue: decreased gene expression; orange: increased gene expression.
+
+译文: 在48小时内 (** p < 0.01)。 (C) 使用MTS测定法来确定蓝光诱导的ARPE-19细胞死亡的细胞活力；使用ROS特异性抑制剂NAC (1 mM)来抑制ROS生成 (** p < 0.01)。 (D) RNA测序和IPA分析在蓝光照射下影响ARPE-19细胞的ROS调控通路及相关分子。蓝色：基因表达降低；橙色：基因表达增加。 
+------------------------------------------------------------------------------------
+原文: Zebrafish In Vitro and In Vivo. Int. J. Mol. Sci. 2021, 22, 1338. https:// doi.org/10.3390/ijms22031338
+
+译文: 斑马鱼体外和体内研究. Int. J. Mol. Sci. 2021, 22, 1338. https:// doi.org/10.3390/ijms22031338
+------------------------------------------------------------------------------------
+原文: Figure 4. Blue-light-activated ARPE-19 autophagy. (A) Flow cytometry was used to determine the autophagic effect induced in ARPE-19 cells by blue light exposure using acridine orange staining. Chloroquine (CQ) was used as a positive control to activate autophagy. (B) Quantitative results of blue-light-activated ARPE-19 cell autophagy from 0 to 48 h (* p < 0.05). (C) To determine the role of the autophagy effect in blue-light-induced ARPE-19 cell death, the autophagy up-stream regulator PI3K inhibitor 3-MA was used to demonstrate cell viability. An MTS (2 mM) assay was used for the cell viability determination (* p < 0.05, ** p < 0.01). (D) RNA-Seq and IPA revealed the underlying mechanism regulated by blue light in ARPE-19 cells. Blue: decreased gene expression; orange: increased gene expression. (E) Western blot analysis of the expression of autophagy-related regulator markers, including the initiator inhibitor mTOR, lysosome regulator LAMP2, and autophagosome P62 and LC3 I/II. ARPE-19 cells were exposed to blue light for up to 24 h.
+
+译文: 图4. 蓝光激活的ARPE-19自噬。(A) 使用流式细胞术通过荧光素橙染色确定蓝光照射对ARPE-19细胞诱导的自噬效果。氯喹(CQ)作为阳性对照激活自噬。(B) 蓝光激活的ARPE-19细胞自噬的定量结果，从0到48小时 (* p < 0.05)。 (C) 为了确定自噬效应在蓝光诱导的ARPE-19细胞死亡中的作用，使用自噬上游调节因子PI3K抑制剂3-MA来演示细胞活力。使用MTS (2 mM)测定法来确认细胞活力 (* p < 0.05, ** p < 0.01)。 (D) RNA测序和IPA揭示了蓝光在ARPE-19细胞中调控的潜在机制。蓝色：基因表达降低；橙色：基因表达增加。(E) 自噬相关调节因子标记物的西方印迹分析，包括启动抑制因子mTOR、溶酶体调节因子LAMP2以及自噬体P62和LC3 I/II。ARPE-19细胞暴露在蓝光下长达24小时。 
+------------------------------------------------------------------------------------
+原文: NDST1, NEDD9, NEU1, NGF, NINJ1, NKX3-1, NOG, NPPB, NQO1,
+
+译文: NDST1, NEDD9, NEU1, NGF, NINJ1, NKX3-1, NOG, NPPB, NQO1,
+------------------------------------------------------------------------------------
+原文: 4.11. Statistical Analysis
+
+译文: 4.11. 统计分析
+------------------------------------------------------------------------------------
+原文: Autophagy is a complex physiological process of degradation and recycling. Nonfunctional or damaged intracellular substances (proteins/lipids/organelles) are engulfed by autophagosomes and degraded in lysosomes. Eventually, they will be reused in the cell metabolic process [25,26]. Several studies have reported that blue light activates autophagy in response to the induced cell damage in related tissues. Early in 2013, Chen et al. found evidence regarding the involvement of autophagy in light-induced Abca4-/-Rdh8-/-mouse autophagy and that the deletion of essential autophagy genes, including Beclin1 and Atg7, further increased cell susceptibility to light-induced retinal tissue damage. The results indicate that autophagy plays a crucial and protective role against light-induced damage [27]. Likewise, Xia et al. specifically highlighted the induction of autophagy by blue light in aged mice. Their data showed that the retinal function in 10-month-old mice changed after five days of blue light exposure, including a delay in a-wave and b-wave latent periods and a reduction in amplitude. Furthermore, autophagy-related regulators such as PERK, LC3, and Beclin-1 were upregulated in the early stage of blue light exposure and downregulated in the late stage [28]. Our study found that blue light improved autophagy by reducing the expression of the autophagy inhibitor mTOR and increasing autophagy regulators in ARPE-19 cells. The expression of the lysosome formation marker LAMP2 and autophagosome maturation markers LC3 I/II were activated to promote autophagy progression after exposure to blue light for 24–30 h. Blue light is the main component of visible light; thus, our findings in the current study are consistent with the literature that the presence of autophagy might be one of the cellular protection mechanisms against stress-induced cell damage or death in the early stage. P62 is considered the substrate of autophagy, and its increase indicated the abnormal progress of autophagy while exposed to blue light. While the increased lipofuscin was found simultaneously, we believe that the autophagy was blocked after initiation. However, we have proven that the situation could elevate cellular stress and eventually lead to cell death [29]. These findings may explain why the autophagy inhibitor 3-MA combined with blue light exposure could further decrease ARPE-19 cell viability. 3-MA is mainly used to inhibit autophagy progression by prohibiting the formation of autophagosomes and lysosomes; the blocking of autophagosomes could inhibit the autophagy process and an increase in cellular stress. We reported a similar effect of the autophagy-initiating compound C2 ceramide in combination with the autophagy inhibitor CQ. The abnormal increase in cellular stress could eventually turn the protective autophagy effect into a harmful cell death effect [29]. Thus, the phenomena show that the combination of autophagy inhibitors with blue light exposure might cause unexpected, severe damage.
+
+译文: 自噬是一个复杂的生理降解和再循环过程。功能失常或损坏的细胞内物质（蛋白质/脂质/细胞器）被自噬泡吞噬并在溶酶体中降解。最终，它们将在细胞代谢过程中被重新利用 [25,26]。一些研究报道了蓝光在相关组织中激活自噬以应对诱导的细胞损伤。早在2013年，陈等人发现有关自噬参与光诱导Abca4-/-Rdh8-/-小鼠自噬的证据，缺失必要的自噬基因，包括Beclin1和Atg7，进一步增加了细胞对光诱导视网膜组织损伤的易感性。结果表明自噬在光诱导损伤中发挥着关键和保护作用 [27]。同样，夏等人特别强调了蓝光在老年小鼠中诱导自噬。他们的数据表明，经过五天的蓝光照射后，10个月大的小鼠视网膜功能发生变化，包括a波和b波潜伏期的延迟和幅度的减少。此外，自噬相关调节因子如PERK、LC3和Beclin-1在蓝光照射的早期阶段上调，而在晚期阶段下调 [28]。我们的研究发现，蓝光通过降低自噬抑制因子mTOR的表达并增加ARPE-19细胞中的自噬调节因子来改善自噬。曝光24–30小时后，溶酶体形成标记物LAMP2和自噬泡成熟标记物LC3 I/II的表达被激活以促进自噬进程。蓝光是可见光的主要成分；因此，我们当前研究的发现与文献一致，认为自噬的存在可能是应对压力引起的细胞损伤或死亡的早期细胞保护机制之一。P62被认为是自噬的底物，其增加表明在蓝光照射下自噬的异常进程。同时发现的脂褐素增加，我们认为自噬在启动后被阻断。然而，我们证明这种情况可能会加剧细胞压力，最终导致细胞死亡 [29]。这些发现或许可以解释为什么自噬抑制剂3-MA与蓝光照射结合会进一步降低ARPE-19细胞的活力。3-MA主要用于通过抑制自噬泡和溶酶体的形成来阻止自噬进程；阻断自噬泡可能会抑制自噬过程并增加细胞压力。我们报告了一种自噬启动化合物C2鞘氨醇与自噬抑制剂CQ结合的类似效果。细胞压力异常增加最终可能会使保护性的自噬效应转变为有害的细胞死亡效应 [29]。因此，现象表明自噬抑制剂与蓝光照射相结合可能导致意想不到的严重损害。
+------------------------------------------------------------------------------------
+原文: By analyzing RNA sequencing data, we found the molecules involved in blue light regulation in various pathways, including apoptosis, oxidative stress generation, DNA damage, and autophagy, in retinal APRE-19 cells, and a time-dependent analysis showed the chronological order of blue-light-induced effects on cells. Furthermore, the IPA results revealed additional potential mechanisms beyond our expectation: blue light exposure not only induced cell proliferation inhibition but also affected tissue maturation, development, cell–cell interactions, movement, morphology, and inflammation, which have rarely been reported in the past. Combined with our data in zebrafish larvae, blue light likely induced an inhibitory effect on retinal tissue development, causing a reduction in the thickness of multiple layers (whole retina and the IPL, INL, ONL, and RPE layer) of retinal tissue, unlike what was reported for the disorganized photoreceptor outer segment (OS) in Xia’s model focusing on 10-month-old mice. The underlying effects of blue light exposure on retinal tissue growth and development provide valuable information and a scientific basis for future research, and they are worth further validation and discussion.
+
+译文: 通过分析RNA测序数据，我们发现了在视网膜APRE-19细胞中涉及蓝光调控的分子，这些分子参与多个途径，包括细胞凋亡、氧化应激生成、DNA损伤和自噬，并且时间依赖性分析显示了蓝光诱导的细胞效应的时间顺序。此外，IPA结果揭示了超出我们预期的额外潜在机制：蓝光暴露不仅引起了细胞增殖抑制，还影响了组织成熟、发育、细胞间相互作用、运动、形态和炎症，这在过去很少被报道。结合我们在斑马鱼幼体中的数据，蓝光可能对视网膜组织发育产生抑制作用，导致多层（整个视网膜以及IPL、INL、ONL和RPE层）视网膜组织厚度的减少，这不同于Xia模型中针对10个月大小鼠报道的无序光感受器外段（OS）。蓝光暴露对视网膜组织生长和发育的潜在影响提供了宝贵的信息和科学基础，为未来的研究提供了依据，并值得进一步验证和讨论。
+------------------------------------------------------------------------------------
+原文: Article
+
+译文: 文章
+------------------------------------------------------------------------------------
+原文: Woo, J.M.; Shin, D.Y.; Lee, S.J.; Joe, Y.; Zheng, M.; Yim, J.H.; Callaway, Z.; Chung, H.T. Curcumin protects retinal pigment epithelial cells against oxidative stress via induction of heme oxygenase-1 expression and reduction of reactive oxygen. Mol. Vis. 2012, 18, 901–908.
+
+译文: Woo, J.M.; Shin, D.Y.; Lee, S.J.; Joe, Y.; Zheng, M.; Yim, J.H.; Callaway, Z.; Chung, H.T. Curcumin protects retinal pigment epithelial cells against oxidative stress via induction of heme oxygenase-1 expression and reduction of reactive oxygen. Mol. Vis. 2012, 18, 901–908.
+------------------------------------------------------------------------------------
+原文: Young, R.W. Solar radiation and age-related macular degeneration. Surv. Ophthalmol. 1988, 32, 252–269. [CrossRef]
+
+译文: Young, R.W. Solar radiation and age-related macular degeneration. Surv. Ophthalmol. 1988, 32, 252–269. [CrossRef]
+------------------------------------------------------------------------------------
+原文: The DNA damage response (DDR) pathway, including the ATM-Chk2 and ATRChk1 checkpoints, is activated in oxidative-stress-induced DNA damage to coordinate DNA repair processes, the cell cycle, apoptosis, and cell aging [24]. Ataxia telangiectasia mutated protein (ATM) and ATM- and Rad3-related protein (ATR) are the major regulatory proteins of DDR. Our data clearly demonstrate blue light induced DNA damage through the increased expression of γH2AX. Moreover, NAC treatment strongly suggested that the DDR was mainly through activation of oxidative stress; once a specific inhibitor eliminated the stress, the DNA damage improved. Chen et al. showed evidence in 2019 that blue light could induce DNA double-strand cleavage by upregulating Ku80 expression in blue-light-exposed retinal neurocytes.
+
+译文: DNA损伤反应（DDR）途径，包括ATM-Chk2和ATR-Chk1检查点，在氧化应激诱导的DNA损伤中被激活，以协调DNA修复过程、细胞周期、细胞凋亡和细胞衰老[24]。共济失调毛细血管扩张突变蛋白（ATM）和ATM及Rad3相关蛋白（ATR）是DDR的主要调控蛋白。我们的数据清楚表明蓝光通过增加γH2AX的表达引起DNA损伤。此外，NAC处理强烈表明DDR主要是通过氧化应激的激活；一旦特定抑制剂消除了应激，DNA损伤得以改善。陈等人在2019年提供了证据，表明蓝光可以通过上调Ku80的表达在蓝光暴露的视网膜神经细胞中诱导DNA双链断裂。
+------------------------------------------------------------------------------------
+原文: Predicted Activation State
+
+译文: 预测激活状态
+------------------------------------------------------------------------------------
+原文: SLC16A3, SLC3A2, SLC48A1, SLC7A11, SLC7A5, SLIT3, SOD1,
+
+译文: SLC16A3, SLC3A2, SLC48A1, SLC7A11, SLC7A5, SLIT3, SOD1,
+------------------------------------------------------------------------------------
+原文: TheRoleofOxidativeStressandAutophagyinBlue-Light-Induced Damage to the Retinal Pigment Epithelium in Zebrafish In Vitro and In Vivo
+
+译文: 蓝光诱导的氧化应激和自噬在斑马鱼视网膜色素上皮的损伤中的作用
+------------------------------------------------------------------------------------
+原文: Narimatsu, T.; Negishi, K.; Miyake, S.; Hirasawa, M.; Osada, H.; Kurihara, T.; Tsubota, K.; Ozawa, Y. Blue light-induced inflammatory marker expression in the retinal pigment epithelium-choroid of mice and the protective effect of a yellow intraocular lens material in vivo. Exp. Eye Res. 2015, 132, 48–51. [CrossRef]
+
+译文: Narimatsu, T.; Negishi, K.; Miyake, S.; Hirasawa, M.; Osada, H.; Kurihara, T.; Tsubota, K.; Ozawa, Y. 研究了蓝光诱导的小鼠视网膜色素上皮-脉络膜中的炎症标记物表达及黄色眼内透镜材料的保护作用。Exp. Eye Res. 2015, 132, 48–51. [CrossRef]
+------------------------------------------------------------------------------------
+原文: Data Availability Statement: Not applicable.
+
+译文: 数据可用性声明：不适用。
+------------------------------------------------------------------------------------
+原文: −4.498
+
+译文: −4.498
+------------------------------------------------------------------------------------
+原文: TPM3, TPT1, TSPAN14, TUBA1C, TUBB, TXN, TXNRD1, UCHL1, VASP, VCL, VEGFA, VIM, VSIR, WBP2, WWC1, YBX1, ZYX
+
+译文: TPM3, TPT1, TSPAN14, TUBA1C, TUBB, TXN, TXNRD1, UCHL1, VASP, VCL, VEGFA, VIM, VSIR, WBP2, WWC1, YBX1, ZYX
+------------------------------------------------------------------------------------
+原文: Nakamura, M.; Kuse, Y.; Tsuruma, K.; Shimazawa, M.; Hara, H. The involvement of the oxidative stress in murine blue led light-induced retinal damage model. Biol. Pharm. Bull. 2017, 40, 1219–1225. [CrossRef] [PubMed]
+
+译文: Nakamura, M.; Kuse, Y.; Tsuruma, K.; Shimazawa, M.; Hara, H. 研究了氧化应激在小鼠蓝光LED光诱导的视网膜损伤模型中的参与。Biol. Pharm. Bull. 2017, 40, 1219–1225. [CrossRef] [PubMed]
+------------------------------------------------------------------------------------
+原文: Cellular
+
+译文: 细胞
+------------------------------------------------------------------------------------
+原文: Department of Ophthalmology, School of Medicine, College of Medicine, Kaohsiung Medical University, Kaohsiung 807, Taiwan
+
+译文: 高雄医科大学医学院眼科，台湾高雄807
+------------------------------------------------------------------------------------
+原文: 1.49 × 10−23
+
+译文: 1.49 × 10−23
+------------------------------------------------------------------------------------
+原文: (lower right corner) and total apoptosis population (lower right corner) for the statistical analysis (* p < 0.05, ** p < 0.01). (E) NGS (next-generation sequencing) and IPA (ingenuity pathway analysis) were used to determine the potential molecules involved in blue-light-induced apoptotic cell death. Blue: decreased gene expression; orange: increased gene expression.
+
+译文: （右下角）和总凋亡细胞比例（右下角）用于统计分析（* p < 0.05, ** p < 0.01）。(E) 使用NGS（下一代测序）和IPA（智慧通路分析）来确定参与蓝光诱导的凋亡细胞死亡的潜在分子。蓝色：基因表达降低；橙色：基因表达增加。
+------------------------------------------------------------------------------------
+原文: CDKN1A, CENPE, CEP55, CFL1, CIT, CKAP2, CSF1, DIAPH3,
+
+译文: CDKN1A, CENPE, CEP55, CFL1, CIT, CKAP2, CSF1, DIAPH3,
+------------------------------------------------------------------------------------
+原文: Subsequently, autophagic cell death was determined. Using AO (acridine orange) staining, we detected the autophagy level activated by blue light. Green fluorescence was detected as the original signal inside the cell, and red fluorescence was observed when autophagy occurred in acidic vesicles. Chloroquine (CQ) was used as the positive control to trigger notable autophagy for comparison. As shown in Figure 4A, we found that blue light induced autophagy by increasing the percentage of red fluorescence in ARPE-19 cells in a time-dependent manner. Analysis of the quantitative results showed that autophagy greatly occurred in the 24 and 48 h blue-light-exposed ARPE-19 cells (Figure 4B). 3-Methyladenine (3-MA) was used to inhibit autophagy by blocking PI3K/mTOR activation of autophagosome formation. In the current study, we found that the single treatment of 3-MA did not interfere with cell viability; however, when combined with blue light stimulation, we found that the cytotoxicity was aggravated and increased ARPE-19 cell death by 15% (Figure 4C). RNA-Seq data showed that cell cycle DNA damage-related pathway regulators were modified upon exposure to blue light. Gene expression of ribosomal subunits, including that of the 40S and 60S ribosomes, eIF1, eLF4A, ATF4, and GADD34, was upregulated while G-actin, cyclin D, and VEGFA, which are involved in cell cycle progression, were downregulated (Figure 4D). The related markers responsible for the different stages of autophagy were determined. The protein expression levels of the lysosome formation marker LAMP2 and the autophagosome maturation markers LC3 I/II and P62 were all upregulated after exposure to blue light up to 24 h. Additionally, the important autophagy repressor mTORC1 was found to be decreased by blue light exposure (Figure 4E). The results suggest that autophagy activated by blue light could be one of the causes of cell death.
+
+译文: 随后，确定了自噬性细胞死亡。使用AO（醌橙）染色，我们检测到了蓝光激活的自噬水平。绿色荧光被检测为细胞内部的原始信号，而在酸性囊泡中发生自噬时观察到红色荧光。氯喹（CQ）用作阳性对照以触发显著的自噬以便比较。如图4A所示，我们发现蓝光通过增加ARPE-19细胞中红色荧光的百分比以时间依赖的方式诱导自噬。定量结果分析表明，自噬在24和48小时蓝光照射的ARPE-19细胞中显著发生（图4B）。3-甲基腺苷（3-MA）用于通过阻断PI3K/mTOR激活自噬体形成来抑制自噬。在当前研究中，我们发现单独处理3-MA并不干扰细胞活力；然而，当与蓝光刺激结合时，我们发现细胞毒性加重，ARPE-19细胞死亡增加了15%（图4C）。RNA-Seq数据表明，细胞周期DNA损伤相关通路调节因子在暴露于蓝光后发生了变化。包括40S和60S核糖体在内的核糖体亚单位的基因表达，如eIF1, eLF4A, ATF4和GADD34，上调了，而参与细胞周期进程的G-肌动蛋白、周期蛋白D和VEGFA则下调了（图4D）。确定了负责自噬不同阶段的相关标记物。暴露于蓝光后的24小时内，溶酶体形成标记物LAMP2和自噬体成熟标记物LC3 I/II及P62的蛋白表达水平均上调。此外，重要的自噬抑制因子mTORC1在蓝光照射下被发现减少（图4E）。结果表明，由蓝光激活的自噬可能是细胞死亡的原因之一。
+------------------------------------------------------------------------------------
+原文: EFNB2, EGFR, F2R, FAT1, FGF1, FLNB, FN1, FOSL2, FRAS1, GPC1,
+
+译文: EFNB2, EGFR, F2R, FAT1, FGF1, FLNB, FN1, FOSL2, FRAS1, GPC1,
+------------------------------------------------------------------------------------
+原文: Decreased
+
+译文: 减少
+------------------------------------------------------------------------------------
+原文: Induced Damage
+
+译文: 诱导损伤
+------------------------------------------------------------------------------------
+原文: EGLN1, EMP1, ENAH, ENO1, ENPP2, EPPK1, ERRFI1, ETS1, EZR, F2R, FASN, FAT1, FAT3, FBN1, FERMT2, FGF1, FGF5, FKBP4,
+
+译文: EGLN1, EMP1, ENAH, ENO1, ENPP2, EPPK1, ERRFI1, ETS1, EZR, F2R, FASN, FAT1, FAT3, FBN1, FERMT2, FGF1, FGF5, FKBP4,
+------------------------------------------------------------------------------------
+原文: CYP1B1, DAG1, DCBLD2, DDRGK1, DEK, DIAPH1, DIO2, DKK1, DNAJA1, DNAJB4, DSP, DUSP1, ECT2, EDN1, EFNB2, EGFR,
+
+译文: CYP1B1, DAG1, DCBLD2, DDRGK1, DEK, DIAPH1, DIO2, DKK1, DNAJA1, DNAJB4, DSP, DUSP1, ECT2, EDN1, EFNB2, EGFR,
+------------------------------------------------------------------------------------
+原文: Citation: Cheng, K.-C.; Hsu, Y.-T.;
+
+译文: 引用: Cheng, K.-C.; Hsu, Y.-T.;
+------------------------------------------------------------------------------------
+原文: C.-X.; Sheu, S.-J.; Chen, K.-J.; Lee,
+
+译文: C.-X.; Sheu, S.-J.; Chen, K.-J.; Lee,
+------------------------------------------------------------------------------------
+原文: To investigate the underlying mechanism of damage induced by blue light in ARPE19 cells, the apoptosis pathway was first determined. By using 7AAD and annexin V double staining, we investigated the early apoptosis activation status. We found that early apoptosis exhibited by the P.S. membrane stain percentage and secondary apoptosis were detected and increased with increasing long-term blue light exposure (Figure 1C). The quantitative data showed that the early apoptosis rate was less than 5% in control ARPE-19 cells and significantly increased to over 26% after 48 h of blue light exposure. The total apoptosis rate also increased significantly from 6% to 33% after 36 h of blue light exposure (Figure 1D). Furthermore, to investigate apoptosis activation by blue light, we performed RNA sequencing to assay apoptosis-related signaling regulation. Through ingenuity pathway analysis® (IPA), the pathways regulated by blue light illumination were revealed. We found that blue light regulated gene activation by increasing gene expression of p21Cip1, Bax, CYP1A1, ALDH, NQO, and GST, and decreasing gene expression of SMRT, RIP140, MCM7, and Cyclin A and D (Figure 1E). The results suggest that blue light induced significant ARPE-19 cell death during long-term exposure, and apoptosis could be one of the causes of cell death; additionally, cell toxicity might be due to the activation of pro-apoptosis regulators and inhibition of cell cycle checkpoint gene expression.
+
+译文: 为了研究蓝光在ARPE19细胞中诱导损伤的潜在机制，首先确定了凋亡途径。通过使用7AAD和Annexin V双染色，我们调查了早期凋亡激活状态。我们发现，早期凋亡通过P.S.膜染色百分比表现出来，随着长期蓝光照射的增加，次要凋亡被检测到并增加（图1C）。定量数据显示，对照组ARPE-19细胞中的早期凋亡率低于5%，并在48小时蓝光照射后显著增加到超过26%。总凋亡率在36小时的蓝光照射后也显著从6%增加到33%（图1D）。此外，为了研究蓝光诱导的凋亡激活，我们进行了RNA测序以检测与凋亡相关的信号调节。通过创造性通路分析® (IPA)，揭示了蓝光照射调节的通路。我们发现蓝光通过增加p21Cip1、Bax、CYP1A1、ALDH、NQO和GST的基因表达，降低SMRT、RIP140、MCM7以及Cyclin A和D的基因表达，从而调节基因激活（图1E）。结果表明，蓝光在长期照射期间诱导了显著的ARPE-19细胞死亡，而凋亡可能是细胞死亡的原因之一；此外，细胞毒性可能是由于促凋亡调节因子的激活和细胞周期检查点基因表达的抑制。
+------------------------------------------------------------------------------------
+原文: Department of Medicine, Kaohsiung Medical University, Kaohsiung 807, Taiwan; verity0418@gmail.com
+
+译文: 医学系，高雄医学大学，高雄807，台湾；verity0418@gmail.com
+------------------------------------------------------------------------------------
+原文: Keywords: retinal pigment epithelium; blue light; DNA damage; apoptosis; reactive oxygen species; autophagy; zebrafish-model; degeneration
+
+译文: 关键词: 视网膜色素上皮; 蓝光; DNA损伤; 凋亡; 反应性氧种; 自噬; 鳗鱼模型; 退化
+------------------------------------------------------------------------------------
+原文: 2.3. DNA Damage Triggered by Blue Light Stimulation
+
+译文: 2.3. 蓝光刺激引发的DNA损伤
+------------------------------------------------------------------------------------
+原文: 4.8. RNA Extraction and Analysis
+
+译文: 4.8. RNA提取与分析
+------------------------------------------------------------------------------------
+原文: Cells (1 × 105) were seeded in a 6 cm dish. The cells were treated with blue light irradiation for 0, 2, 4, 10, 24, 36, or 48 h. After the treatment, the cells were incubated with
+
+译文: 细胞（1 × 105）被播种在6厘米的培养皿中。细胞接受蓝光照射0、2、4、10、24、36或48小时处理。处理后，细胞被孵育与
+------------------------------------------------------------------------------------
+原文: Figure 5. Effect of blue light in the regulation of retinal tissue development in a zebrafish larvae model. (A) Retinal tissue sections with HE staining determined the retinal-related layer distribution, including the IPL (inner plexiform layer), INL
+
+译文: 图5. 蓝光在斑马鱼幼虫模型中调节视网膜组织发育的影响。(A) 通过HE染色的视网膜组织切片确定视网膜相关层的分布，包括IPL（内膨胀层）、INL。
+------------------------------------------------------------------------------------
+原文: ASPH, ASPM, AXL, BAX, BTG2, CA9, CALD1, CALR, CAP1, CAST,
+
+译文: ASPH, ASPM, AXL, BAX, BTG2, CA9, CALD1, CALR, CAP1, CAST,
+------------------------------------------------------------------------------------
+原文: GNAI2, HMGB1, HSPB8, HSPD1, HSPG2, HSPH1, ID1, ID3, ITGA3,
+
+译文: GNAI2, HMGB1, HSPB8, HSPD1, HSPG2, HSPH1, ID1, ID3, ITGA3,
+------------------------------------------------------------------------------------
+原文: PHLPP1, PLXNB2, PRDX1, PRKDC, PTEN, PTPRJ, RAB3B,
+
+译文: PHLPP1, PLXNB2, PRDX1, PRKDC, PTEN, PTPRJ, RAB3B,
+------------------------------------------------------------------------------------
+原文: TMSB10/TMSB4X, TNFRSF10B, TNIK, TNS1, TPI1, TPM1, TPM2,
+
+译文: TMSB10/TMSB4X, TNFRSF10B, TNIK, TNS1, TPI1, TPM1, TPM2,
+------------------------------------------------------------------------------------
+原文: Liu, W.; Huang, H.-L.; Chen, L.-Y.; He,
+
+译文: Liu, W.; Huang, H.-L.; Chen, L.-Y.; He,
+------------------------------------------------------------------------------------
+原文: Xu, X.R.; Yu, H.T.; Yang, Y.; Hang, L.; Yang, X.W.; Ding, S.H. Quercetin phospholipid complex significantly protects against oxidative injury in arpe-19 cells associated with activation of nrf2 pathway. Eur. J. Pharmacol. 2016, 770, 1–8. [CrossRef]
+
+译文: Xu, X.R.; Yu, H.T.; Yang, Y.; Hang, L.; Yang, X.W.; Ding, S.H. Quercetin phospholipid complex significantly protects against oxidative injury in arpe-19 cells associated with activation of nrf2 pathway. Eur. J. Pharmacol. 2016, 770, 1–8. [CrossRef]
+------------------------------------------------------------------------------------
+原文: HEG1, HIF1A, HIPK2, HMGB1, HMGB2, HMOX1, HSPG2, ID1, ID3,
+
+译文: HEG1, HIF1A, HIPK2, HMGB1, HMGB2, HMOX1, HSPG2, ID1, ID3,
+------------------------------------------------------------------------------------
+原文: Blue-Light-Induced Damage to the
+
+译文: Blue-Light-Induced Damage to the
+------------------------------------------------------------------------------------
+原文: p-Value
+
+译文: p-Value
+------------------------------------------------------------------------------------
+原文: ETS1, F2R, FBN1, FERMT2, FGF1, FLNA, FN1, GADD45A, GAS5,
+
+译文: ETS1, F2R, FBN1, FERMT2, FGF1, FLNA, FN1, GADD45A, GAS5,
+------------------------------------------------------------------------------------
+原文: 4.5. Determination of Intracellular ROS
+
+译文: 4.5. Determination of Intracellular ROS
+------------------------------------------------------------------------------------
+原文: Figure 7. Schematic illustration of blue-light-induced pathogenesis of retinal tissue. Our results suggest that blue light induced a sequential effect in RPE cells, including (1) ROS generation, (2) DNA damage, (3) autophagic stress, and (4) apoptosis, eventually resulting in macular degeneration or retinopathy. The blue arrow indicates low energy visible light which is non-harmful to RPE and the red arrow indicates the illumination of high-energy blue light.
+
+译文: Figure 7. Schematic illustration of blue-light-induced pathogenesis of retinal tissue. Our results suggest that blue light induced a sequential effect in RPE cells, including (1) ROS generation, (2) DNA damage, (3) autophagic stress, and (4) apoptosis, eventually resulting in macular degeneration or retinopathy. The blue arrow indicates low energy visible light which is non-harmful to RPE and the red arrow indicates the illumination of high-energy blue light.
+------------------------------------------------------------------------------------
+原文: Cell Cycle
+
+译文: Cell Cycle
+------------------------------------------------------------------------------------
+原文: Kaarniranta, K.; Tokarz, P.; Koskela, A.; Paterno, J.; Blasiak, J. Autophagy regulates death of retinal pigment epithelium cells in age-related macular degeneration. Cell Biol. Toxicol. 2017, 33, 113–128. [PubMed]
+
+译文: Kaarniranta, K.; Tokarz, P.; Koskela, A.; Paterno, J.; Blasiak, J. Autophagy regulates death of retinal pigment epithelium cells in age-related macular degeneration. Cell Biol. Toxicol. 2017, 33, 113–128. [PubMed]
+------------------------------------------------------------------------------------
+原文: 1. Introduction
+
+译文: 1. Introduction
+------------------------------------------------------------------------------------
+原文: 4.10. Biological Pathway Analysis
+
+译文: 4.10. Biological Pathway Analysis
+------------------------------------------------------------------------------------
+原文: Institutional Review Board Statement: Not applicable.
+
+译文: Institutional Review Board Statement: Not applicable.
+------------------------------------------------------------------------------------
+原文: 9.36 × 10−47
+
+译文: 9.36 × 10−47
+------------------------------------------------------------------------------------
+原文: Department of Biological Sciences, National Sun Yat-Sen University, Kaohsiung 804, Taiwan
+
+译文: Department of Biological Sciences, National Sun Yat-Sen University, Kaohsiung 804, Taiwan
+------------------------------------------------------------------------------------
+原文: Lipofuscin, an aggregation of oxidized proteins, was reported to induce apoptosis through proteasome inhibition and pro-apoptotic protein dysregulation [1]. Furthermore, the propensity for RPE cells to be damaged or destroyed by excessive exposure to visible light may be of significance to retinal disorders characterized by enhancing the accumulation of the autofluorescent pigments that constitute lipofuscin, aggregates of oxidized proteins that induce apoptosis through proteasome inhibition and dysregulation of proapoptotic proteins [1]. Lipofuscin is a byproduct of RPE cells phagocytosing the lipids constituting photoreceptor cells’ outer segments and accumulating in lysosomes. Lipofuscin is a complex mixture of pigments that are phototoxic to RPE cells [2]. The overaccumulation of autofluorescent lipofuscin could indicate cell aging and increase AMD development risk [3].
+
+译文: Lipofuscin, an aggregation of oxidized proteins, was reported to induce apoptosis through proteasome inhibition and pro-apoptotic protein dysregulation [1]. Furthermore, the propensity for RPE cells to be damaged or destroyed by excessive exposure to visible light may be of significance to retinal disorders characterized by enhancing the accumulation of the autofluorescent pigments that constitute lipofuscin, aggregates of oxidized proteins that induce apoptosis through proteasome inhibition and dysregulation of proapoptotic proteins [1]. Lipofuscin is a byproduct of RPE cells phagocytosing the lipids constituting photoreceptor cells’ outer segments and accumulating in lysosomes. Lipofuscin is a complex mixture of pigments that are phototoxic to RPE cells [2]. The overaccumulation of autofluorescent lipofuscin could indicate cell aging and increase AMD development risk [3].
+------------------------------------------------------------------------------------
+原文: GADD45A, GAPDH, GAS5, GDF5, GIPC1, GNAI2, GNG12, GPC1,
+
+译文: GADD45A, GAPDH, GAS5, GDF5, GIPC1, GNAI2, GNG12, GPC1,
+------------------------------------------------------------------------------------
+原文: Published: 29 January 2021
+
+译文: 发布于：2021年1月29日
+------------------------------------------------------------------------------------
+原文: KIF20B, KIFC1, KLF2, KLF6, KPNA2, KRT18, KRT8, LCP1, LDHA,
+
+译文: KIF20B, KIFC1, KLF2, KLF6, KPNA2, KRT18, KRT8, LCP1, LDHA,
+------------------------------------------------------------------------------------
+原文: PDK1, PHLPP1, PLXNB2, PODXL, PPIF, PPP1R15A, PRDX1, PTEN,
+
+译文: PDK1, PHLPP1, PLXNB2, PODXL, PPIF, PPP1R15A, PRDX1, PTEN,
+------------------------------------------------------------------------------------
+原文: Oxidative Stress and Autophagy in
+
+译文: 氧化应激与自噬在
+------------------------------------------------------------------------------------

@@ -1,0 +1,824 @@
+原文: 
+
+译文: 
+------------------------------------------------------------------------------------
+原文: 650% of cells are round and without intracytoplasmic granules; no extensive cell lysis or empty areas between cells
+
+译文:  650% 的细胞呈圆形且没有细胞内颗粒；细胞之间没有广泛的细胞溶解或空白区域
+------------------------------------------------------------------------------------
+原文: The animals were euthanized by exsanguination while under deep anesthesia induced with ketamine and Beuthanasia®-D. A complete gross necropsy was performed by, or under the supervision of, qualiWed veterinary pathologists and included collection of all macroscopic observations, organ weights, and comprehensive collection of tissue samples for microscopic examination. Tissues were preserved in neutral-buVered 10% formalin (except for the eyes, which were preserved in Davidson’s Wxative for optimum Wxation), routinely processed and embedded in paraYn, sectioned, stained with hematoxylin and eosin, and examined by light microscopy by a board certiWed veterinary pathologist.
+
+译文:  动物在使用氯胺酮和Beuthanasia®-D诱导的深度麻醉下通过放血安乐死。由合格的兽医病理学家进行或监督了完整的尸检，包括收集所有宏观观察、器官重量，并全面收集组织样本以便进行显微检查。组织保存在中性缓冲10%福尔马林中（眼睛除外，眼睛保存在Davidson 固定液中以获得最佳固定），常规处理后嵌入石蜡，切片，使用苏木素-伊红染色，并由经过认证的兽医病理学家通过光学显微镜进行检查。
+------------------------------------------------------------------------------------
+原文: The authors gratefully acknowledge and thank Jan Bernal and David Moddrelle for performing the nonhuman primate surgeries; Tom Hastings, Lydia Andrews-Jones, and Patrick Lappin for their microscopic evaluation of tissues; Tazara Thomas, Cathy Nguyen, Zobair Musa, and GeoVrey del Rosario for directing the medical device studies; Molly Bernard for assistance with the references; and Thomas Spiegelberg and David Adler for preparation of Wgures.
+
+译文:  作者衷心感谢并感谢Jan Bernal和David Moddrelle进行非人类灵长类动物手术；Tom Hastings、Lydia Andrews-Jones和Patrick Lappin进行组织的显微评估；Tazara Thomas、Cathy Nguyen、Zobair Musa和Geoffrey del Rosario负责医疗器械研究；Molly Bernard为参考文献提供的协助；以及Thomas Spiegelberg和David Adler负责图示的准备。
+------------------------------------------------------------------------------------
+原文: National Research Council, 1996. Institute of Laboratory Animal Resources (ILAR), Guide for the Care and Use of Laboratory Animals. National Academy Press, Washington, D.C.
+
+译文:  全国研究委员会，1996年。实验动物资源研究所(ILAR)，实验动物的护理和使用指南。国家科学院出版社，华盛顿特区。
+------------------------------------------------------------------------------------
+原文: Three cynomolgus monkeys per sex per group
+
+译文:  每组每个性别三只猕猴
+------------------------------------------------------------------------------------
+原文: Kounnas, M.Z., Church, F.C., Argraves, W.S., Strickland, D.K., 1996. Cellular internalization and degradation of antithrombin III-thrombin, heparin cofactor II-thrombin, and alpha 1-antitrypsin-trypsin complexes is mediated by the low density lipoprotein receptor-related protein. J. Biol. Chem. 271, 6523–6529.
+
+译文:  Kounnas, M.Z., Church, F.C., Argraves, W.S., Strickland, D.K., 1996。细胞内化和降解抗凝血酶III-凝血酶、肝素辅因子II-凝血酶和α1-抗胰蛋白酶-胰蛋白酶复合物的过程是由低密度脂蛋白受体相关蛋白介导的。生物化学杂志 271, 6523–6529。
+------------------------------------------------------------------------------------
+原文: Necropsy and microscopic examination of a comprehensive panel of tissues from the nonhuman primates that had received repeated subcutaneous injections or abdominal implantation of test material revealed no rhThrombin- or bovine thrombin-related eVects on organ weights, or gross or microscopic pathology (see Table 4 for selected Wndings).
+
+译文:  对接受了重复皮下注射或腹部植入测试材料的非人类灵长类动物进行尸检和全面组织的显微检查未发现与rhThrombin或牛凝血酶相关的器官重量、宏观或显微病理学效应（见表4中的选定发现）。
+------------------------------------------------------------------------------------
+原文: Study type (dose duration)
+
+译文:  研究类型（剂量持续时间）
+------------------------------------------------------------------------------------
+原文: Uchigasaki, S., Takahashi, H., Suzuki, T., 1998. A case of delayed death after accidental intravenous injection of thrombin. Int. J. Legal Med. 111, 202–204.
+
+译文:  Uchigasaki, S., Takahashi, H., Suzuki, T., 1998。意外静脉注射凝血酶后延迟死亡的一例。国际法医学杂志 111, 202–204。
+------------------------------------------------------------------------------------
+原文: Table 4
+
+译文:  表4
+------------------------------------------------------------------------------------
+原文: A study was conducted to determine the in vitro biological reactivity/ cytotoxicity of mammalian cells to vehicle (thrombin placebo), rhThrombin, and bovine thrombin according to ISO 10993-5 (1999). L-929 (American Type Culture Collection cell line CCL 1, NCTC clone 929) murine Table 2
+
+译文:  根据ISO 10993-5（1999），进行了一项研究以确定哺乳动物细胞对载体（凝血酶安慰剂）、rhThrombin和牛凝血酶的体外生物反应性/细胞毒性。L-929（美国典型培养物收藏细胞系CCL 1，NCTC克隆929）小鼠表2
+------------------------------------------------------------------------------------
+原文: Gershon, S.K., Chang, A.C., Purvis, W.V., Salive, M., 1999. Misadministration of topical bovine thrombin. JAMA, J. Am. Med. Assoc. 282, 1919.
+
+译文: Gershon, S.K., Chang, A.C., Purvis, W.V., Salive, M., 1999. 外用牛凝血酶误用. JAMA, J. Am. Med. Assoc. 282, 1919.
+------------------------------------------------------------------------------------
+原文: Died or sacriWced moribund	0	0	0
+
+译文: 死亡或牺牲的垂危者	0	0	0
+------------------------------------------------------------------------------------
+原文: Su, Z., Izumi, T., Thames, E.H., Lawson, J.H., Ortel, T.L., 2002. Antiphospholipid antibodies after surgical exposure to topical bovine thrombin. J. Lab. Clin. Med. 139, 349–356.
+
+译文: Su, Z., Izumi, T., Thames, E.H., Lawson, J.H., Ortel, T.L., 2002. 外用牛凝血酶手术接触后抗磷脂抗体. J. Lab. Clin. Med. 139, 349–356.
+------------------------------------------------------------------------------------
+原文: L-929 mouse Wbroblasts triplicate wells
+
+译文: L-929小鼠成纤维细胞三重复孔
+------------------------------------------------------------------------------------
+原文: 3.1. Inter-species plasma clotting times
+
+译文: 3.1. 跨物种血浆凝固时间
+------------------------------------------------------------------------------------
+原文: 3.3. Irritation studies (Rabbits)
+
+译文: 3.3. 刺激性研究（兔子）
+------------------------------------------------------------------------------------
+原文: Sands, J.J., Nudo, S.A., Ashford, R.G., Moore, K.D., Ortel, T.L., 2000. Antibodies to topical bovine thrombin correlate with access thrombosis. Am. J. Kidney Dis. 35, 796–801.
+
+译文: Sands, J.J., Nudo, S.A., Ashford, R.G., Moore, K.D., Ortel, T.L., 2000. 对外用牛凝血酶的抗体与血流通畅性相关. Am. J. Kidney Dis. 35, 796–801.
+------------------------------------------------------------------------------------
+原文: Studies in cynomolgus monkeys were conducted to evaluate the safety and immunogenicity following application of rhThrombin to an induced hepatic injury or after repeated subcutaneous injection.
+
+译文: 在猕猴中进行的研究评估了在诱导性肝损伤后或重复皮下注射rhThrombin后应用的安全性和免疫原性.
+------------------------------------------------------------------------------------
+原文: 0–4
+
+译文: 0–4
+------------------------------------------------------------------------------------
+原文: Area of cornea involved
+
+译文: 角膜受累区域
+------------------------------------------------------------------------------------
+原文: Cornea
+
+译文: 角膜
+------------------------------------------------------------------------------------
+原文: 2.1. Test and control article
+
+译文: 2.1. 测试和对照物料
+------------------------------------------------------------------------------------
+原文: www.elsevier.com/locate/yrtph
+
+译文: www.elsevier.com/locate/yrtph
+------------------------------------------------------------------------------------
+原文: Gross observation
+
+译文: 粗略观察
+------------------------------------------------------------------------------------
+原文: 2.10.2. Body weight
+
+译文: 2.10.2. 体重
+------------------------------------------------------------------------------------
+原文: doi:10.1016/j.yrtph.2006.07.006
+
+译文: doi:10.1016/j.yrtph.2006.07.006
+------------------------------------------------------------------------------------
+原文: Kawabata, A., Kuroda, R., 2000. Protease-activated receptor (PAR), a novel family of G protein-coupled seven trans-membrane domain receptors: activation mechanisms and physiological roles. Jpn. J. Pharmacol. 82, 171–174.
+
+译文: Kawabata, A., Kuroda, R., 2000. 蛋白酶激活受体（PAR），一种新型的G蛋白偶联七跨膜结构家族受体：激活机制和生理作用. Jpn. J. Pharmacol. 82, 171–174.
+------------------------------------------------------------------------------------
+原文: Six rabbits/group
+
+译文: 每组六只兔子
+------------------------------------------------------------------------------------
+原文: 2. Materials and methods
+
+译文: 2. 材料与方法
+------------------------------------------------------------------------------------
+原文: One of 22 monkeys (4.5%) was positive for speciWc antibodies following either repeated subcutaneous injection of rhThrombin or implantation of the rhThrombin on a gelatin sponge during surgery. This another monkey was non-reactive for antibodies through Day 22 post-surgery, but developed speciWc, low titer antibodies to rhThrombin by Day 58 post-surgery; this response was not classiWed as a seroconversion according to prospective assay criteria. In contrast, evaluation of sera from four of four monkeys (100%) treated with bovine thrombin during liver surgery indicated seroconversion as shown by the development of speciWc IgG antibodies by 22 days following surgery that remained measurable at 56 days post-surgery.
+
+译文: 22只猴子中有1只（4.5%）在rhThrombin的重复皮下注射或手术中在明胶海绵上植入rhThrombin后检测到特异抗体。另一只猴子在手术后的第22天未对抗体反应，但在手术后的第58天发展出特异性低滴度抗体；根据前瞻性检测标准，这一反应未被分类为血清转化。相比之下，四只接受牛凝血酶治疗的猴子（100%）的血清评估显示，在手术后22天内特异性IgG抗体的发展表明血清转化，这种抗体在手术后56天仍然可测.
+------------------------------------------------------------------------------------
+原文: 4. Discussion
+
+译文: 4. 讨论
+------------------------------------------------------------------------------------
+原文: 2.10. Parameters measured (Cynomolgus monkey studies)
+
+译文: 2.10. 测量参数（猕猴研究）
+------------------------------------------------------------------------------------
+原文: 620% of cells are round, loosely attached, and without intracytoplasmic granules; occasional lysed cells present
+
+译文: 620%的细胞是圆形，松散附着，并且没有细胞内颗粒；偶尔出现溶解的细胞
+------------------------------------------------------------------------------------
+原文: The accumulated evidence derived from the nonclinical evaluation of rhThrombin supports the conclusion that rhThrombin is safe, well-tolerated, and minimally immunogenic when administered topically, subcutaneously or as an adjunct to hemostasis in an animal model of surgical bleeding. These toxicology studies were used to support initiation of clinical trials of rhThrombin in a variety of surgical settings.
+
+译文: 从rhThrombin的非临床评估中积累的证据支持这一结论，即rhThrombin在局部、皮下或作为手术出血动物模型中止血的辅助用药时是安全的，耐受性良好，且免疫原性较低。这些毒理学研究用于支持rhThrombin在各种手术环境中临床试验的启动。
+------------------------------------------------------------------------------------
+原文: Cicala, C., Bucci, M., De Dominicis, G., Harriot, P., Sorrentino, L., Cirino, G., 1999. Bronchoconstrictor eVect of thrombin and thrombin receptor activating peptide in guinea-pigs in vivo. Br. J. Pharmacol. 126, 478–484.
+
+译文: Cicala, C., Bucci, M., De Dominicis, G., Harriot, P., Sorrentino, L., Cirino, G., 1999. 對豚鼠的血栓素和血栓素受體激活肽在體內的支氣管收縮作用. 英國藥理學雜誌. 126, 478–484.
+------------------------------------------------------------------------------------
+原文: Chapman, W.C., Lockstadt, H., Singla, N., KaWe, F.E., Lawson, J.H., 2006. Phase 2, randomized, double-blind, placebo-controlled, multicenter clinical evaluation of recombinant human thrombin in multiple surgical indications. J. Thromb. Haemost. 4, 2083–2085.
+
+译文: Chapman, W.C., Lockstadt, H., Singla, N., KaWe, F.E., Lawson, J.H., 2006. 重組人血栓素在多種外科適應症中的第2期隨機雙盲安慰劑對照多中心臨床評估. 血栓與止血. 4, 2083–2085.
+------------------------------------------------------------------------------------
+原文: Three rabbits/ group
+
+译文: 每組三隻兔
+------------------------------------------------------------------------------------
+原文: Implant/wound
+
+译文: 植入/傷口
+------------------------------------------------------------------------------------
+原文: Clinical outcome among cynomolgus monkeys after placement of a surgical hepatic wound and treatment with Gelfoam and either control, bovine thrombin, or rhThrombin (mean § SD, 2 males and 2 females per group)
+
+译文: 在手術性肝臟傷口放置及使用Gelfoam和控制組、牛血栓素或rhThrombin治療後的猕猴的臨床結果（每組2隻雄性和2隻雌性，均值§標準差）
+------------------------------------------------------------------------------------
+原文: (single dose)
+
+译文: （單次劑量）
+------------------------------------------------------------------------------------
+原文: Abstract
+
+译文: 摘要
+------------------------------------------------------------------------------------
+原文: Iris
+
+译文: 虹膜
+------------------------------------------------------------------------------------
+原文: 2.10.1. Clinical observations
+
+译文: 2.10.1. 臨床觀察
+------------------------------------------------------------------------------------
+原文: Among animals that underwent abdominal surgery, slight redness, and swelling at the incision site were observed post-surgery, with resolution over the course of the subsequent week. Post-surgical indications of inXammation and liver injury were observed in serum chemistry results with elevations in C-reactive protein, AST, ALT, Wbrinogen (in some animals), and elevated numbers of total white blood cells (primarily neutrophils). These values returned to normal levels within a few weeks post-dosing (see Fig. 3 and Table 4 for selected parameters from one of two implant studies). In addition, slight decreases in albumin and total protein in almost all animals one day after surgery (which also returned to normal within 1–2 weeks post-surgery) were consistent with the induced liver injury and a hepatic acute phase response. A slight decrease in the circulating red blood cell mass one day after surgery (resulting from blood loss from surgery and blood sampling) with a corresponding rise in reticulocytes (reXective of a normal hematopoietic response to the blood loss) was also seen. No alterations in clinical pathology, including coagulation parameters or urinalysis results, were attributed to either rhThrombin or bovine thrombin administration.
+
+译文: 在經歷腹部手術的動物中，手術後在切口處觀察到輕微的紅腫，並在隨後的一周內緩解。手術後的炎症和肝損傷的指示在血清化學結果中顯示，C-反應蛋白、AST、ALT、纖維蛋白原（在某些動物中）和全白血球數（主要是嗜中性白血球）的升高被觀察到。這些數值在給藥後幾周內恢復到正常水平（參見圖3和表4中的兩項植入研究之一的選定參數）。此外，幾乎所有動物在手術後一天出現輕微的白蛋白和總蛋白下降（這些數值在手術後1–2周內也恢復正常），這和肝損傷及肝急性期反應是一致的。手術後一天出現循環紅細胞質量的輕微下降（由於手術和取血造成的失血），同時伴隨著網狀紅細胞的增加（反映出對失血正常的造血反應）也被觀察到。沒有將任何臨床病理變化，包括凝血參數或尿液檢查結果，歸因於rhThrombin或牛血栓素的施用。
+------------------------------------------------------------------------------------
+原文: Karges, H.E., Funk, K.A., Ronneberger, H., 1994. Activity of coagulation and Wbrinolysis parameters in animals. Arzneim. Forsch. 44, 793–797.
+
+译文: Karges, H.E., Funk, K.A., Ronneberger, H., 1994. 動物中凝血和纖溶參數的活性. 藥物研究. 44, 793–797.
+------------------------------------------------------------------------------------
+原文: Lawson, J.H., 2006. The clinical use and immunologic impact of thrombin in surgery. Semin. Thromb. Hemostasis 32 (Suppl. 1), 98–110.
+
+译文: Lawson, J.H., 2006. 血栓素在外科中的臨床使用及免疫影響. 血栓與止血學. 32（附加第1期），98–110.
+------------------------------------------------------------------------------------
+原文: 0273-2300/$ - see front matter © 2006 Elsevier Inc. All rights reserved.
+
+译文: 0273-2300/$ - 請參見前言© 2006年愛思唯爾公司保留所有權利.
+------------------------------------------------------------------------------------
+原文: 0–2
+
+译文: 0–2
+------------------------------------------------------------------------------------
+原文: Body weight (kg)	3.6 (§1.2)	3.6 (§0.5)	3.5 (§0.7)
+
+译文: 體重（公斤） 3.6 (§1.2) 3.6 (§0.5) 3.5 (§0.7)
+------------------------------------------------------------------------------------
+原文: 2.7. Ocular irritation study (Rabbits)
+
+译文: 2.7. 眼刺激研究（兔）
+------------------------------------------------------------------------------------
+原文: R.R., MacPhee, M.J., Enriquez, J.I., Delgado, A.V., Charles, N.C., Hess, J.R., 2001. DiVerent hypotensive responses to intravenous bovine and human thrombin preparations in swine. J. Trauma: Inj., Infect., Crit. Care 50, 83–90.
+
+译文: R.R., MacPhee, M.J., Enriquez, J.I., Delgado, A.V., Charles, N.C., Hess, J.R., 2001. 在猪中，静脉注射牛源和人源血栓素制剂引起的不同低血压反应。创伤杂志：创伤，感染，危重护理 50, 83–90。
+------------------------------------------------------------------------------------
+原文: 2.6. Skin irritation study (Rabbits)
+
+译文: 2.6. 皮肤刺激研究（兔子）
+------------------------------------------------------------------------------------
+原文: Nonclinical safety studies were conducted in compliance with the International Organization for Standardization (ISO 10993) Guidelines for Biological Evaluation of Medical Devices, the Federal Hazardous Substances Act (FHSA), and/or the International Conference on Harmonisation (ICH) S6 Preclinical Safety Evaluation of Biotechnology-derived Pharmaceuticals guideline. The nonclinical program was designed to support clinical trial initiation and potential marketing of rhThrombin as a general aid to hemostasis (Table 1). Nonclinical studies of rhThrombin included an evaluation of in vitro cytotoxicity, dermal irritation to normal and abraded skin (New Zealand White rabbits), ocular irritation (New Zealand White rabbits), and systemic toxicity and immunogenicity upon abdominal implantation or repeated subcutaneous injection (cynomolgus monkeys). Across studies, the Wrst day of dosing was considered Day 1 of the study.
+
+译文: 非临床安全研究根据国际标准化组织（ISO 10993）医疗器械生物评估指南、联邦危险物质法（FHSA）和/或国际协调会议（ICH）S6 生物技术衍生药物的临床前安全评估指南进行。非临床项目旨在支持临床试验的启动和rhThrombin作为止血剂的潜在市场（表1）。rhThrombin的非临床研究包括对体外细胞毒性、正常和破损皮肤的皮肤刺激（新西兰白兔）、眼刺激（新西兰白兔）以及在腹部植入或反复皮下注射后的系统毒性和免疫原性评估（猕猴）。在各项研究中，给药的第一天被视为研究的第1天。
+------------------------------------------------------------------------------------
+原文: Final concentrations of 25, 250 or 500 U/mL rhThrombin or bovine thrombin
+
+译文: 最终浓度为25, 250或500 U/mL的rhThrombin或牛源血栓素
+------------------------------------------------------------------------------------
+原文: a ZymoGenetics, Inc., 1201 Eastlake Ave. East, Seattle, WA 98102, USA b Charles River Laboratories, Sparks, NV 89431, USA
+
+译文: a ZymoGenetics, Inc., 1201 Eastlake Ave. East, Seattle, WA 98102, USA b Charles River Laboratories, Sparks, NV 89431, USA
+------------------------------------------------------------------------------------
+原文: In contrast to Wndings associated with topically or subcutaneously administered thrombin, rapid intravenous administration of thrombin in man, rhesus monkeys, swine, guinea pigs and rabbits is associated with hypotension, acute thromboembolic obstructions, and death due to systemic thrombosis (Cicala et al., 1999; Gershon et al., 1999; Pusateri et al., 2001; Uchigasaki et al., 1998; Whitaker and McKay, 1969). Following intravenous administration of high amounts of thrombin, the consumption (and subsequent depletion) of coagulation factors leads to both clinically prolonged plasma clotting times (e.g., APTT and PT) and to prolonged bleeding from sites of injury. Hematologically, a reduced circulating platelet count may develop subsequent to intravascular clotting and platelet aggregation. Systemic Wbrin deposition has been found in various organs, including the liver, kidneys, and lungs of tissues from dogs that received intravenous injections of 70U/kg of thrombin (Girolami et al., 1966). The lack of any signs and symptoms of coagulation system activation in the toxicology studies presented here is consistent with the rapid, local inactivation and removal of rhThrombin as suggested by biodistribution data (Visich et al., 2006).
+
+译文: 与局部或皮下给药血栓素的研究结果相比，快速静脉给药血栓素在人类、猕猴、猪、豚鼠和兔中与低血压、急性血栓栓塞阻塞以及因系统性血栓形成导致的死亡相关（Cicala等，1999; Gershon等，1999; Pusateri等，2001; Uchigasaki等，1998; Whitaker和McKay，1969）。在静脉注射大量血栓素后，凝血因子的消耗（及随之而来的耗竭）导致临床上血浆凝血时间延长（例如，APTT和PT）以及受伤部位出血延长。从血液学上看，血管内凝血和血小板聚集可能会导致循环血小板计数减少。在接受静脉注射70U/kg血栓素的狗的各个器官中发现有系统性纤维蛋白沉积，包括肝脏、肾脏和肺（Girolami等，1966）。此处呈现的毒理学研究中没有凝血系统激活的任何迹象和症状，与生物分布数据（Visich等，2006）所建议的rhThrombin的快速局部失活和清除是一致的。
+------------------------------------------------------------------------------------
+原文: Kajitani, M., Ozdemir, A., Aguinaga, M., Jazieh, A.R., Flick, J.T., Antakli, T., 2000. Severe hemorrhagic complication due to acquired factor V inhibitor after single exposure to bovine thrombin product. J. Card. Surg. 15, 378–382.
+
+译文: Kajitani, M., Ozdemir, A., Aguinaga, M., Jazieh, A.R., Flick, J.T., Antakli, T., 2000. Severe hemorrhagic complication due to acquired factor V inhibitor after single exposure to bovine thrombin product. J. Card. Surg. 15, 378–382.
+------------------------------------------------------------------------------------
+原文: J.K. HeVernan et al. / Regulatory Toxicology and Pharmacology 47 (2007) 48–58	49
+
+译文: J.K. HeVernan et al. / Regulatory Toxicology and Pharmacology 47 (2007) 48–58	49
+------------------------------------------------------------------------------------
+原文: 3.2. Cytotoxicity (Isolated cells)
+
+译文: 3.2. Cytotoxicity (Isolated cells)
+------------------------------------------------------------------------------------
+原文: Recombinant human thrombin (rhThrombin) is being developed as an alternative to thrombin products puriWed from pooled human or bovine plasma, which are currently marketed for topical hemostasis. Preclinical studies of rhThrombin were conducted prior to its evaluation as a topical adjunct to surgical hemostasis in clinical trials. No overt clinical pathology or signs were observed in cynomolgus monkeys following implantation of a gelatin sponge containing either rhThrombin or bovine thrombin to a surgical liver wound, and similar gross and microscopic wound healing characteristics were observed over an eight-week recovery period with either compound. Repeated subcutaneous injections of rhThrombin or bovine thrombin to cynomolgus monkeys produced no treatment-related eVects. Whereas no monkeys demonstrated anti-rhThrombin antibody seroconversion, speciWc anti-bovine antibodies were detected in all tested monkeys exposed to bovine thrombin. Addition of rhThrombin or bovine thrombin to mouse Wbroblast cells resulted in expected detachment and shape change. Topical application of rhThrombin to rabbits did not cause irritation to the eye, normal skin, or abraded skin. These studies showed that topical, subcutaneous, or implanted rhThrombin was minimally immunogenic, safe, and well tolerated in nonclinical models, and supported the clinical evaluation of rhThrombin in a variety of surgical settings. © 2006 Elsevier Inc. All rights reserved.
+
+译文: Recombinant human thrombin (rhThrombin) is being developed as an alternative to thrombin products puriWed from pooled human or bovine plasma, which are currently marketed for topical hemostasis. Preclinical studies of rhThrombin were conducted prior to its evaluation as a topical adjunct to surgical hemostasis in clinical trials. No overt clinical pathology or signs were observed in cynomolgus monkeys following implantation of a gelatin sponge containing either rhThrombin or bovine thrombin to a surgical liver wound, and similar gross and microscopic wound healing characteristics were observed over an eight-week recovery period with either compound. Repeated subcutaneous injections of rhThrombin or bovine thrombin to cynomolgus monkeys produced no treatment-related eVects. Whereas no monkeys demonstrated anti-rhThrombin antibody seroconversion, speciWc anti-bovine antibodies were detected in all tested monkeys exposed to bovine thrombin. Addition of rhThrombin or bovine thrombin to mouse Wbroblast cells resulted in expected detachment and shape change. Topical application of rhThrombin to rabbits did not cause irritation to the eye, normal skin, or abraded skin. These studies showed that topical, subcutaneous, or implanted rhThrombin was minimally immunogenic, safe, and well tolerated in nonclinical models, and supported the clinical evaluation of rhThrombin in a variety of surgical settings. © 2006 Elsevier Inc. All rights reserved.
+------------------------------------------------------------------------------------
+原文: Grade
+
+译文: Grade
+------------------------------------------------------------------------------------
+原文: coagulation cascade.
+
+译文: coagulation cascade.
+------------------------------------------------------------------------------------
+原文: Ellis, H., Moran, B.J., Thompson, J.N., Parker, M.C., Wilson, M.S., Menzies, D., McGuire, A., Lower, A.M., Hawthorn, R.J., O’Brien, F., Buchan, S., Crowe, A.M., 1999. Adhesion-related hospital readmissions after abdominal and pelvic surgery: a retrospective cohort study. Lancet 353, 1476–1480.
+
+译文: Ellis, H., Moran, B.J., Thompson, J.N., Parker, M.C., Wilson, M.S., Menzies, D., McGuire, A., Lower, A.M., Hawthorn, R.J., O’Brien, F., Buchan, S., Crowe, A.M., 1999. Adhesion-related hospital readmissions after abdominal and pelvic surgery: a retrospective cohort study. Lancet 353, 1476–1480.
+------------------------------------------------------------------------------------
+原文: A study was conducted in rabbits under FHSA guidelines to examine the potential for rhThrombin to irritate normal and abraded skin. During the 24 h prior to treatment, the entire dorsal surface of each of six rabbits was clipped free of hair. Only animals with healthy, intact skin were used. On the day of treatment, one site on each animal was abraded by scoring the skin in such a manner as to penetrate the stratum corneum but not the dermis. One 0.5 mL volume of either vehicle or reconstituted rhThrombin was applied under a one-inch square gauze pad to the abraded site. Another 0.5 mL volume of the same material was applied to a nonabraded site on the same animal. The gauze patches were held in place with non-irritating surgical tape, and the trunks of each rabbit were wrapped in gauze and then an elastic bandage. At 24 h following treatment, the rabbits were unwrapped and the treatment sites exposed. Observation of all animals for mortality, signs of morbidity, or reaction to treatment was performed at least once daily through 72 h following dosing. Scoring at 24 and 72 h after dosing followed the criteria set forth in FHSA regulations (16 CFR 1500.41), summarized in Table 3, and included evaluation of edema, erythema, and eschar formation.
+
+译文: A study was conducted in rabbits under FHSA guidelines to examine the potential for rhThrombin to irritate normal and abraded skin. During the 24 h prior to treatment, the entire dorsal surface of each of six rabbits was clipped free of hair. Only animals with healthy, intact skin were used. On the day of treatment, one site on each animal was abraded by scoring the skin in such a manner as to penetrate the stratum corneum but not the dermis. One 0.5 mL volume of either vehicle or reconstituted rhThrombin was applied under a one-inch square gauze pad to the abraded site. Another 0.5 mL volume of the same material was applied to a nonabraded site on the same animal. The gauze patches were held in place with non-irritating surgical tape, and the trunks of each rabbit were wrapped in gauze and then an elastic bandage. At 24 h following treatment, the rabbits were unwrapped and the treatment sites exposed. Observation of all animals for mortality, signs of morbidity, or reaction to treatment was performed at least once daily through 72 h following dosing. Scoring at 24 and 72 h after dosing followed the criteria set forth in FHSA regulations (16 CFR 1500.41), summarized in Table 3, and included evaluation of edema, erythema, and eschar formation.
+------------------------------------------------------------------------------------
+原文: Animals were routinely observed at least twice daily for clinical observations beginning at least seven days prior to test article administration and continuing through the end of study. Clinical observations were conducted by trained animal technicians to identify general animal health status, with standardized criteria for physical appearance, activity and behavior, and indications of abnormalities in feces or urine.
+
+译文: 动物在测试物质给药前至少七天的临床观察中被定期至少观察两次，并持续到研究结束。临床观察由经过培训的动物技术人员进行，以识别一般动物健康状况，采用标准化的物理外观、活动和行为标准，以及粪便或尿液中的异常指示。
+------------------------------------------------------------------------------------
+原文: Reactivity
+
+译文: 反应性
+------------------------------------------------------------------------------------
+原文: Conjunctivae
+
+译文: 结膜
+------------------------------------------------------------------------------------
+原文: 3. Results
+
+译文: 3. 结果
+------------------------------------------------------------------------------------
+原文: The evaluation of in vitro cytotoxicity associated with bovine thrombin or rhThrombin demonstrated cell rounding and detachment, without loss of membrane integrity.
+
+译文: 与牛凝血酶或重组凝血酶相关的体外细胞毒性评估显示细胞圆形化和脱落，但膜完整性未受损。
+------------------------------------------------------------------------------------
+原文: Jane K. HeVernan a, Rafael A. Ponce a,¤, Linda A. Zuckerman a, John P. Volpone a,
+
+译文: Jane K. HeVernan a, Rafael A. Ponce a,¤, Linda A. Zuckerman a, John P. Volpone a,
+------------------------------------------------------------------------------------
+原文: Test system, number
+
+译文: 测试系统，编号
+------------------------------------------------------------------------------------
+原文: 2.9. Repeated subcutaneous injection study (Cynomolgus monkeys)
+
+译文: 2.9. 重复皮下注射研究（猕猴）
+------------------------------------------------------------------------------------
+原文: Edema formation
+
+译文: 水肿形成
+------------------------------------------------------------------------------------
+原文: 346 U/kg (5405 U/m2) rhThrombin or bovine thrombina
+
+译文: 346 U/kg (5405 U/m2) 重组凝血酶或牛凝血酶
+------------------------------------------------------------------------------------
+原文: Wbrin (and 2-antiplasmin) (Jenny and Mann, 2001). Taken together, these activities result in the rapid generation of a stable clot at the site of vessel injury that is resistant to Wbrinolytic degradation, thus providing a suitable matrix for wound repair.
+
+译文: 纤维蛋白（和2-抗纤溶酶）（Jenny 和 Mann，2001）。综上所述，这些活动导致在血管损伤处快速生成稳定的血块，抵抗纤维蛋白溶解降解，从而为伤口修复提供合适的基质。
+------------------------------------------------------------------------------------
+原文: Following precedents established for other topical hemostats such as Costasis® and Flo-Seal®, we designed the nonclinical safety program for rhThrombin around FDA requirements for both medical devices and recombinant proteins. Thus, we selected speciWc studies so as to comply with the International Organization for Standardization (ISO 10993) Guidelines for Biological Evaluation of Medical Devices, the Federal Hazardous Substances Act (FHSA), and the International Conference on Harmonisation (ICH) S6 Preclinical Safety Evaluation of Biotechnology-derived Pharmaceuticals guideline.
+
+译文: 根据其他局部止血剂如Costasis®和Flo-Seal®建立的先例，我们为重组凝血酶设计了非临床安全计划，以符合FDA对医疗器械和重组蛋白的要求。因此，我们选择特定研究，以遵循国际标准化组织（ISO 10993）对医疗器械的生物评估指南、联邦有害物质法（FHSA）以及国际协调会议（ICH）S6生物技术衍生药物的临床前安全评估指南。
+------------------------------------------------------------------------------------
+原文: 2.4. Inter-species comparison of plasma clotting
+
+译文: 2.4. 跨物种比较血浆凝血
+------------------------------------------------------------------------------------
+原文: Vascular damage results in the activation, adhesion, and aggregation of platelets, and the activation of plasma coagulation factors that generate a platelet plug and a stable Wbrin clot to limit bleeding at the site of vessel injury. Thrombin is the central enzymatic mediator of this system (Fig. 1). The thrombin precursor, prothrombin, is a 72kDa, vitamin K-dependent, serine protease that is primarily synthesized in the liver and that circulates in plasma as a zymogen at a concentration of 1–2M (Jenny and Mann, 2001). Proteolytic conversion of prothrombin to enzymatically
+
+译文: 血管损伤导致血小板的激活、粘附和聚集，以及血浆凝血因子的激活，从而生成血小板堵塞和稳定的纤维蛋白血块，以限制血管损伤处的出血。凝血酶是该系统的中心酶介质（图1）。凝血酶前体，凝血酶原，是一种72kDa、依赖于维生素K的丝氨酸蛋白酶，主要在肝脏合成，并以1–2M的浓度作为酶原在血浆中循环（Jenny 和 Mann，2001）。凝血酶原的蛋白水解转化为酶的
+------------------------------------------------------------------------------------
+原文: Res. 2, 1–11.
+
+译文: Res. 2, 1–11.
+------------------------------------------------------------------------------------
+原文: 2.10.3. Urinalysis
+
+译文: 2.10.3. 尿液分析
+------------------------------------------------------------------------------------
+原文: Multiple publications document the frequent immunogenic response of patients to bovine thrombin and the sometimes signiWcant clinical consequences that may result (Lawson, 2006). Among patients treated with topical bovine thrombin, 20% to 90% develop antibodies to the preparations (Cmolik et al., 1993; Ortel et al., 2001; Sands et al., 2000; Winterbottom et al., 2002). Factors underlying the variability in the reported immunogenicity rates include the thrombin puriWcation method, surgical type, assay method, and previous exposure history. In cases where antibodies cross-react to homologous human proteins, including thrombin or Factor V, patients may develop subsequent, potentially life-threatening coagulopathies or anaphylaxis (Cmolik et al., 1993; Dorion et al., 1998; Ortel et al., 2001; Poynton et al., 2003; Sands et al., 2001; Spero, 1993).
+
+译文: 多项出版物记录了患者对牛凝血酶的频繁免疫原性反应及其可能导致的有时显著的临床后果（Lawson，2006）。在接受局部牛凝血酶治疗的患者中，20%到90%会对该制剂产生抗体（Cmolik 等，1993；Ortel 等，2001；Sands 等，2000；Winterbottom 等，2002）。报告的免疫原性率变异的因素包括凝血酶的纯化方法、手术类型、检测方法和过往接触历史。在抗体与同源人类蛋白（包括凝血酶或因子V）交叉反应的情况下，患者可能出现后续的、潜在的致命性凝血病或过敏反应（Cmolik 等，1993；Dorion 等，1998；Ortel 等，2001；Poynton 等，2003；Sands 等，2001；Spero，1993）。
+------------------------------------------------------------------------------------
+原文: McDonald, T.O., Britton, B., Brogmann, A.R., Robb, C.A., 1977. Biocompatibility and bioabsorption of microWbrillar collagen hemostat in experimental animals. Toxicology 7, 37–44.
+
+译文: 麦当劳, T.O., 布里顿, B., 布罗格曼, A.R., 罗布, C.A., 1977. 微纤维胶原止血剂在实验动物中的生物相容性与生物吸收. 毒理学 7, 37–44.
+------------------------------------------------------------------------------------
+原文: Winterbottom, N., Kuo, J.M., Nguyen, K., Reich, C.J., Trent, K.J., Rondinone, J.F., Shargill, N.S., 2002. Antigenic responses to bovine thrombin exposure during surgery: a prospective study of 309 patients. J. Appl.
+
+译文: 温特博顿, N., 库, J.M., 阮, K., 莱希, C.J., 特伦特, K.J., 隆迪农, J.F., 夏吉尔, N.S., 2002. 手术期间对牛凝血酶暴露的抗原反应：309名患者的前瞻性研究. 应用学报.
+------------------------------------------------------------------------------------
+原文: 0.1 mL of 100, 1000 or 2000 U/mL rhThrombin
+
+译文: 0.1 mL 的 100, 1000 或 2000 U/mL 重组凝血酶
+------------------------------------------------------------------------------------
+原文: Fibrinogen	aPTT
+
+译文: 纤维蛋白 原	aPTT
+------------------------------------------------------------------------------------
+原文: Observation
+
+译文: 观察
+------------------------------------------------------------------------------------
+原文: In plasma, thrombin activity is inhibited by its binding to antithrombin III, which accounts for greater than 80% of the plasma thrombin antagonism (Troy, 1988). Binding of thrombin to thrombomodulin at the endothelial surface both inhibits thrombin activity and activates Protein Cmediated inhibition of factors V and VIII, thereby decreasing new thrombin production. The activity of thrombomodulin, in turn, is potentiated by various endothelial proteoglycans, including dextran sulphate, heparan sulphate, and heparin, which thereby confer anticoagulant properties to the endothelium (and forms the basis for heparin as a therapeutic anticoagulant). This system of anticoagulation ensures that circulating free, active thrombin is quickly inhibited, thus minimizing spurious clotting and ensuring vascular patency and tissue perfusion.
+
+译文: 在血浆中，凝血酶活性通过其与抗凝血酶 III 的结合而抑制，这占据了血浆凝血酶拮抗作用的80%以上（Troy, 1988）。凝血酶与内皮表面的 thrombomodulin 的结合既抑制凝血酶活性，又激活蛋白 C 介导的对因子 V 和 VIII 的抑制，从而减少新的凝血酶生产。Thrombomodulin 的活性反过来又被包括右旋糖酐硫酸盐、肝素硫酸盐和肝素在内的各种内皮蛋白聚糖所增强，从而赋予内皮抗凝特性（并形成肝素作为治疗性抗凝剂的基础）。该抗凝系统确保循环的游离活性凝血酶被迅速抑制，从而最小化虚假凝血并确保血管通畅和组织灌注。
+------------------------------------------------------------------------------------
+原文: 2.8. Abdominal implantation studies (Cynomolgus monkeys)
+
+译文: 2.8. 腹部植入研究（猕猴）
+------------------------------------------------------------------------------------
+原文: Regulatory Toxicology and Pharmacology 47 (2007) 48–58
+
+译文: 监管毒理学与药理学 47 (2007) 48–58
+------------------------------------------------------------------------------------
+原文: 3.4.2. Anatomic pathology
+
+译文: 3.4.2. 解剖病理
+------------------------------------------------------------------------------------
+原文: Spero, J.A., 1993. Bovine thrombin-induced inhibitor of factor V and bleeding risk in postoperative neurosurgical patients. Report of three cases. J. Neurosurg. 78, 817–820.
+
+译文: 斯佩罗, J.A., 1993. 牛凝血酶诱导的因子 V 抑制剂及术后神经外科患者出血风险. 三例病例报告. 神经外科杂志 78, 817–820.
+------------------------------------------------------------------------------------
+原文: Redness
+
+译文: 红肿
+------------------------------------------------------------------------------------
+原文: a clotting factor, thrombin cleaves Wbrinogen to form soluble Wbrin, and activates Factor XIII, which cross-links
+
+译文: 作为一种凝血因子，凝血酶切割纤维蛋白原形成可溶性纤维蛋白，并激活因子 XIII，进行交联
+------------------------------------------------------------------------------------
+原文: 0.5 mL of 100, 1000 or 2000 U/mL rhThrombin
+
+译文: 0.5 mL 的 100, 1000 或 2000 U/mL 重组凝血酶
+------------------------------------------------------------------------------------
+原文: 100 U/mL rhThrombin or vehicle (n D 4–6 rabbits per group).
+
+译文: 100 U/mL 重组凝血酶或对照（每组 n D 4–6 只兔子）。
+------------------------------------------------------------------------------------
+原文: 670% of cells are round or lysed
+
+译文: 670% 的细胞是圆形或溶解
+------------------------------------------------------------------------------------
+原文: There were no notable diVerences in the quality of the wound healing response associated with implantation of rhThrombin- or bovine thrombin-saturated gelatin sponges on a template liver injury. Expected gross lesions relating to the surgical procedure and implantation of the gelatin sponge included Wbrous adhesions, characterized as mild to moderate, between the liver implant site and the thoracic wall, diaphragm, or other liver lobes. Expected histologic Wndings included granulation tissue and macrophage inWltrates (active repair in the parenchyma), hemosiderin accumulation (hemoglobin breakdown secondary to surgical hemorrhage), the presence of scattered foreign material encompassed by multinucleated giant cells (presumed Gelfoam fragments), and capsular Wbrosis/Wbroplasia (response to hepatic wounding procedure). The character and relative severity of these and other Wndings were considered secondary to hepatic wound repair and degradation of foreign material and were not attributed to treatment with either thrombin product.
+
+译文: 与 rhThrombin 或牛凝血酶饱和明胶海绵的植入相关的伤口愈合反应质量没有显著差异。与手术程序和明胶海绵植入相关的预期大体病变包括肝脏植入部位与胸壁、膈肌或其他肝叶之间的纤维粘连，特征为轻度到中度。预期组织学发现包括肉芽组织和巨噬细胞浸润（实质中的主动修复）、铁血黄素积累（外科出血后血红蛋白分解）、被多核巨细胞包围的散在异物材料（推测为明胶泡沫碎片），以及囊性纤维化/纤维增生（对肝脏损伤手术的反应）。这些及其他发现的性质和相对严重性被视为肝脏伤口修复和外来材料降解的次要结果，不归因于任何凝血酶产品的治疗。
+------------------------------------------------------------------------------------
+原文: * Corresponding author. Fax: +1 206 442 68608. E-mail address: reap@zgi.com (R.A. Ponce).
+
+译文: * 通信作者。传真：+1 206 442 68608。电子邮件地址：reap@zgi.com (R.A. Ponce)。
+------------------------------------------------------------------------------------
+原文: Two to three cynomolgus monkeys per sex per group
+
+译文: 每组每个性别的两到三只猕猴
+------------------------------------------------------------------------------------
+原文: 4 (severe)
+
+译文: 4（严重）
+------------------------------------------------------------------------------------
+原文: Preclinical safety of recombinant human thrombin
+
+译文: 重组人凝血酶的临床前安全性
+------------------------------------------------------------------------------------
+原文: Keywords: Thrombin; Recombinant protein; Hemostasis; Coagulation; Antibody
+
+译文: 关键词：凝血酶；重组蛋白；止血；凝血；抗体
+------------------------------------------------------------------------------------
+原文: Nonclinical studies of rhThrombin
+
+译文: rh凝血酶的非临床研究
+------------------------------------------------------------------------------------
+原文: Bishop, P.D., Lewis, K.B., Schultz, J., Walker, K.M., 2006. Comparison of recombinant human thrombin and plasma-derived human alphathrombin. Semin. Thromb. Hemostasis 32, 86–97.
+
+译文: Bishop, P.D., Lewis, K.B., Schultz, J., Walker, K.M., 2006。重组人凝血酶与血浆源人α凝血酶的比较。Semin. Thromb. Hemostasis 32, 86–97。
+------------------------------------------------------------------------------------
+原文: Christie, R.J., Carrington, L., Alving, B., 1997. Postoperative bleeding induced by topical bovine thrombin: report of two cases. Surgery (St. Louis) 121, 708–710.
+
+译文: Christie, R.J., Carrington, L., Alving, B., 1997。由局部牛凝血酶引起的术后出血：两例报告。Surgery (St. Louis) 121, 708–710。
+------------------------------------------------------------------------------------
+原文: Structure
+
+译文: 结构
+------------------------------------------------------------------------------------
+原文: 0–3
+
+译文: 0–3
+------------------------------------------------------------------------------------
+原文: Sands, J.J., Nudo, S.A., Moore, K.D., Ortel, T.L., 2001. Antibodies to prothrombin, factor V, and beta2-glycoprotein I and vascular access thrombosis. Asaio J. 47, 507–510.
+
+译文: Sands, J.J., Nudo, S.A., Moore, K.D., Ortel, T.L., 2001。针对前凝血酶、因子V和β2-糖蛋白I的抗体与血管通路血栓形成。Asaio J. 47, 507–510。
+------------------------------------------------------------------------------------
+原文: References
+
+译文: 参考文献
+------------------------------------------------------------------------------------
+原文: Jenny, N.S., Mann, K.G., 2001. Thrombin. In: Colman, R.W., Hirsh, J., Marder, V.J., Clowes, A.W., George, J.N. (Eds.), Hemostasis and Thrombosis: Basic Principles and Clinical Practice. Lippincott Williams & Wilkins, Philadelphia, pp. 171–189.
+
+译文: Jenny, N.S., Mann, K.G., 2001。凝血酶。在：Colman, R.W., Hirsh, J., Marder, V.J., Clowes, A.W., George, J.N.（编辑），止血与血栓形成：基本原理和临床实践。Lippincott Williams & Wilkins, Philadelphia, 第171–189页。
+------------------------------------------------------------------------------------
+原文: 2.10.5. Anatomic pathology
+
+译文: 2.10.5。解剖病理学
+------------------------------------------------------------------------------------
+原文: Because of the concern by medical practitioners about the immunogenicity of commercial bovine thrombin in humans, we wanted to maximize the potential for our toxicology studies to be predictive of human immunogenic reactions to rhThrombin. For that reason, the cynomolgus monkey was chosen as the most relevant model for testing rhThrombin, as that species is closely aligned phylogenetically to humans. We used a hepatic injury model in cynomolgus monkeys as a primary safety study of rhThrombin. This study, which was designed to mimic a likely clinical application of rhThrombin to control bleeding, allowed evaluation of potential acute clinical pathology, immunogenicity, and eVects on wound healing after implantation of a thrombin-saturated gelatin sponge applied to a template liver wound. In addition, we examined the sensitization, systemic toxicity, and immunogenicity of repeated subcutaneous rhThrombin injection in cynomolgus monkeys. Because of the current clinical use of absorbable sponges or spray devices to deliver commercially available thrombin, tests for cellular cytotoxicity and irritation following exposure to rhThrombin were conducted in rabbits as
+
+译文: 由于医务人员对商业化牛凝血酶在人类中的免疫原性的关注，我们希望最大程度地提高毒理学研究对人类免疫原反应的预测能力。因此，选择了猕猴作为测试rh凝血酶的最相关模型，因为该物种在系统发育上与人类非常接近。我们在猕猴中使用了一种肝脏损伤模型作为rh凝血酶的主要安全性研究。该研究旨在模拟rh凝血酶控制出血的潜在临床应用，允许评估潜在的急性临床病理学、免疫原性以及在应用凝血酶饱和明胶海绵于模板肝脏创伤后的愈合效果。此外，我们还检查了在猕猴中反复皮下注射rh凝血酶所导致的敏感性、全身毒性和免疫原性。由于目前临床使用可吸收海绵或喷雾设备来递送商业化凝血酶，因此在兔子中进行了暴露于rh凝血酶后的细胞细胞毒性和刺激性测试。
+------------------------------------------------------------------------------------
+原文: No treatment-related adverse clinical observations or alterations in food intake, body weight, clinical pathology parameters, or urinalysis results were found during the subcutaneous immunogenicity or abdominal implant studies.
+
+译文: 在皮下免疫原性或腹部植入研究期间未发现与治疗相关的不良临床观察或食物摄入、体重、临床病理参数或尿液分析结果的变化。
+------------------------------------------------------------------------------------
+原文: Llewelyn, C.A., Hewitt, P.E., Knight, R.S., Amar, K., Cousens, S., Mackenzie, J., Will, R.G., 2004. Possible transmission of variant CreutzfeldtJakob disease by blood transfusion. Lancet 363, 417–421.
+
+译文: Llewelyn, C.A., Hewitt, P.E., Knight, R.S., Amar, K., Cousens, S., Mackenzie, J., Will, R.G., 2004. 可能通过输血传播变异型克雅二氏病. 柳叶刀 363, 417–421.
+------------------------------------------------------------------------------------
+原文: Ortel, T.L., Mercer, M.C., Thames, E.H., Moore, K.D., Lawson, J.H., 2001. Immunologic impact and clinical outcomes after surgical exposure to bovine thrombin. Ann. Surg. 233, 88–96.
+
+译文: Ortel, T.L., Mercer, M.C., Thames, E.H., Moore, K.D., Lawson, J.H., 2001. 手术接触牛凝血酶后的免疫学影响和临床结果. 外科年鉴 233, 88–96.
+------------------------------------------------------------------------------------
+原文: Received 1 May 2006
+
+译文: 收到日期：2006年5月1日
+------------------------------------------------------------------------------------
+原文: An analysis of coagulation was conducted by measuring activated partial thromboplastin time (APTT), prothrombin time (PT), and Wbrinogen using an AMAX CS-190™ Coagulation Analyzer (Sigma Diagnostics, St. Louis, MO). Plasma was isolated from whole blood generally collected from a femoral or saphenous vein via butterXy catheter into a syringe containing sodium citrate as the anticoagulant.
+
+译文: 通过使用AMAX CS-190™凝血分析仪（Sigma Diagnostics, St. Louis, MO）测量激活的部分凝血酶时间（APTT）、凝血酶原时间（PT）和纤维蛋白原进行了凝固分析。血浆是从通常通过股静脉或隐静脉使用带有抗凝剂的注射器收集的全血中分离得到的，注射器中含有柠檬酸钠作为抗凝剂。
+------------------------------------------------------------------------------------
+原文: Fig. 2. Flow chart for antibody assays. The presence of antibodies against rhThrombin or bovine thrombin were detected using a three-tiered ELISA approach. Samples positive for antibodies in an initial screen were retested to determine the antibody titer (semi-quantitation of the antibody). The speciWcity of the antibodies for rhThrombin or bovine thrombin were determined in a third assay if the titer was suYcient.
+
+译文: 图2. 抗体检测的流程图。使用三级ELISA方法检测针对rh凝血酶或牛凝血酶的抗体。初筛呈阳性的样本被重新测试以确定抗体滴度（抗体的半定量）。如果滴度足够，在第三个检验中确定抗体对rh凝血酶或牛凝血酶的特异性。
+------------------------------------------------------------------------------------
+原文: Whitaker, A.N., McKay, D.G., 1969. Induction of hypotension in rhesus monkeys and rabbits by intravenous thrombin infusion. Lab. Invest. 20, 79–86.
+
+译文: Whitaker, A.N., McKay, D.G., 1969. 通过静脉输注凝血酶诱导恒河猕猴和兔子的低血压. 研究实验室 20, 79–86.
+------------------------------------------------------------------------------------
+原文: Two studies were conducted to evaluate the safety, immunogenicity, and eVects on wound healing properties over an 8-week period of rhThrombin applied to a surgical liver template wound in cynomolgus monkeys. Monkeys were sedated on Day 1 with ketamine, anesthetized with a ketamine/diazepam cocktail, intubated, and then maintained on a surgical plane using isoXurane inhalant anesthesia. An 8–12 cm midline laparotomy incision was made that extended posteriorly from the tip of the sternum. The distal tip of the left medial lobe of the liver was then exposed. A wound was created at approximately the middle of the lobe using a 2.0 cm diameter ring template. The template was placed on the upper surface of the liver and, with the aid of the convex side of a spoon applied to the underside of the lobe, a section of the liver was forced upward through the template, and the raised portion of the liver was excised to a level Xush with the template. Gelfoam® sponges (size 100, Pharmacia, Kalamazoo, MI) were cut into approximately 3 £ 3 cm squares and soaked aseptically with rhThrombin, bovine thrombin, or vehicle (approximately 1.5 mL of 1000 U/mL solution) just prior to topical application during surgery. After the creation of the wound, the treatmentsoaked sponge was moderately squeezed, stretched to achieve an approximation of the original shape, immediately placed so as to cover the entire wound, and held in place until the bleeding stopped. The abdominal incision was then closed with the non-sutured sponge in place.
+
+译文: 进行了两项研究，以评估对猕猴的外科肝模板伤口中施用rh凝血酶的安全性、免疫原性及对伤口愈合特性的影响，时间为8周。猕猴在第1天接受氯胺酮镇静，在氯胺酮/地西泮鸡尾酒下麻醉，插管，然后在使用异氟烷吸入麻醉的外科平面上维持。进行了8–12厘米的中线剖腹术切口，向后延伸至胸骨尖端。接着暴露出左侧内叶肝的远端尖端。在大约叶中间的位置创建一个直径为2.0厘米的环模板伤口。模板被放置在肝脏的上表面，并在勺子的凸面帮助下施加到叶的下侧，从而通过模板将一部分肝脏向上强制推进，抬起的肝脏部分被切除，与模板平齐。Gelfoam®海绵（尺寸100, Pharmacia, Kalamazoo, MI）被切成大约3£3厘米的方块，在手术中施用前无菌浸泡于rh凝血酶、牛凝血酶或载体中（大约1.5毫升的1000 U/mL溶液）。在创建伤口后，将处理过的海绵适度挤压，拉伸以获得原始形状的近似，立刻放置以覆盖整个伤口，直至出血停止并保持在位。然后用未缝合的海绵闭合腹部切口。
+------------------------------------------------------------------------------------
+原文: ALT	C-reactive Protein
+
+译文: ALT C-反应蛋白
+------------------------------------------------------------------------------------
+原文: Acknowledgments
+
+译文: 致谢
+------------------------------------------------------------------------------------
+原文: Fig. 1. Hemostasis with topically applied rhThrombin. The application of rhThrombin to an open, bleeding wound bed initiates the activation of platelets, the conversion of Wbrinogen to Wbrin, and the activation of factor XIII, leading to cross-linking of Wbrin and other factors into a strong clot. Inhibition of thrombin begins rapidly, primarily by complexation to endogenous antithrombin III, thus avoiding unwanted intravascular coagulation.
+
+译文: 图1. 局部应用rhThrombin的止血作用。将rhThrombin应用于开放的出血伤口床，可启动血小板的激活、纤维蛋白原向纤维蛋白的转化，以及第十三因子的激活，导致纤维蛋白与其他因子交联形成强有力的血块。凝血酶的抑制快速开始，主要是通过与内源性抗凝血酶III的复合，避免不必要的血管内凝血。 
+------------------------------------------------------------------------------------
+原文: Lentz, S.R., Fernandez, J.A., GriYn, J.H., Piegors, D.J., Erger, R.A., Malinow, M.R., Heistad, D.D., 1999. Impaired anticoagulant response to infusion of thrombin in atherosclerotic monkeys associated with acquired defects in the protein C system. Arterioscler. Thromb. Vasc. Biol. 19, 1744–1750.
+
+译文: Lentz, S.R., Fernandez, J.A., GriYn, J.H., Piegors, D.J., Erger, R.A., Malinow, M.R., Heistad, D.D., 1999. 在与获得性蛋白C系统缺陷相关的动脉粥样硬化猴子中，对输注凝血酶的抗凝反应受损。动脉硬化、血栓形成和血管生物学 19, 1744–1750。
+------------------------------------------------------------------------------------
+原文: 1. Introduction
+
+译文: 1. 介绍
+------------------------------------------------------------------------------------
+原文: Safety/ immunogenicity (4 weekly subcutaneous doses)
+
+译文: 安全性/免疫原性（每周4次皮下注射）
+------------------------------------------------------------------------------------
+原文: 3 (moderate)
+
+译文: 3（中等）
+------------------------------------------------------------------------------------
+原文: Reverdiau-Moalic, P., Delahousse, B., Body, G., Bardos, P., Leroy, J., Gruel, Y., 1996. Evolution of blood coagulation activators and inhibitors in the healthy human fetus. Blood 88, 900–906.
+
+译文: Reverdiau-Moalic, P., Delahousse, B., Body, G., Bardos, P., Leroy, J., Gruel, Y., 1996. 健康人类胎儿血液凝固激活剂和抑制剂的演变。血液 88, 900–906。
+------------------------------------------------------------------------------------
+原文: Erythema and eschar formation
+
+译文: 红斑和痂形成
+------------------------------------------------------------------------------------
+原文: Several ancillary experiments veriWed the appropriateness of the cynomolgus monkey and rabbit for toxicology testing of rhThrombin. Data presented here demonstrate the ability of rhThrombin to clot the plasma of rabbits, cynomolgus monkeys, and humans. Assay interference by endogenous inhibitors such as antithrombin III was reduced by dilution of the plasma and the use of an excess amount of rhThrombin. Because of the excess rhThrombin, the diVerences between species (or animals) in the time to clot formation is primarily a reXection of diVerent levels of Wbrinogen available to form a clot. In addition to the in vitro clot testing, a rabbit model of surgical hepatic bleeding supports the use of this species for toxicology studies by demonstrating that rhThrombin was eVective in achieving hemostasis when applied with gauze pads or Gelfoam. For example, when applied to liver wounds with gauze pads, rhThrombin at between 500 and 2000U/mL, or bovine thrombin at 1000nominalU/mL, stopped bleeding signiWcantly faster than did gauze pads with either saline or 100U/mL rhThrombin (Fig. 4; Meehan and Bolton, 2004). The cynomolgus monkey has been used as a model system to examine atherosclerosis and the protein C anticoagulant pathway following injection of human plasma-derived thrombin (Lentz et al., 1999). In addition, results of a biodistribution study demonstrated an expected inhibitor complex formation between rhThrombin and antithrombin III in cynomolgus monkeys (Visich et al., 2006). In those evaluations, size exclusion analysis of serum drawn following a single intravenous (3.5U/kg) or subcutaneous (350U/ kg) injection of [121I]rhThrombin demonstrated rapid thrombin–inhibitor complex formation. Whole body serial gamma imaging of animals receiving intravenous injections of radiolabeled rhThrombin showed an immediate accumulation of radioactivity in the region of the liver and the spleen. Following subcutaneous injection, radioactivity was primarily observed in the region of the dose site up to six hours post-dose with subsequent accumulation in the region of the liver and the spleen. These results are consistent with known hepatocyte receptor-mediated thrombininhibitor clearance mechanisms (Kounnas et al., 1996). In a review of the literature, similar circulating antithrombin III concentrations between humans and monkeys have been reported, and there is overall a good correlation between those two species of the levels of many other components of the coagulation and Wbrinolytic systems (Karges et al., 1994). Use of nonhuman primates thus maximized the likelihood of identifying responses that might predict human toxicity of a coagulation enzyme.
+
+译文: 若干辅助实验证实了猕猴和兔子在rhThrombin毒理测试中的适用性。此处提供的数据表明rhThrombin能够使兔子、猕猴和人类的血浆凝固。通过稀释血浆和使用过量rhThrombin，可以减少内源性抑制剂（如抗凝血酶III）对测定的干扰。由于过量的rhThrombin，不同物种（或动物）之间凝固形成时间的差异主要反映了可用于形成血块的纤维蛋白原水平的不同。除了体外凝固测试外，兔子模型的外科肝脏出血支持使用该物种进行毒理研究，证明rhThrombin在涂抹纱布或Gelfoam时在止血方面有效。例如，当涂抹于肝脏伤口时，rhThrombin在500到2000U/mL之间，或牛凝血酶在1000名义U/mL时，止血速度显著快于使用生理盐水或100U/mL rhThrombin的纱布（图4；Meehan和Bolton，2004）。猕猴被用作模型系统，以研究注射人类血浆来源的凝血酶后动脉粥样硬化和蛋白C抗凝通路（Lentz等，1999）。此外，生物分布研究的结果表明在猕猴中，rhThrombin与抗凝血酶III之间形成预期的抑制剂复合（Visich等，2006）。在这些评估中，单次静脉注射（3.5U/kg）或皮下注射（350U/kg）的[121I]rhThrombin后抽取的血清的尺寸排斥分析显示快速的凝血酶-抑制剂复合形成。接受放射性标记rhThrombin静脉注射的动物全身序列伽马成像显示在肝脏和脾脏区域立即积聚放射性物质。皮下注射后，放射性物质主要观察到在剂量部位区域，直到注射后六小时，随后在肝脏和脾脏区域积聚。这些结果与已知的肝细胞受体介导的凝血酶-抑制剂清除机制一致（Kounnas等，1996）。在文献回顾中，报告了人类和猴子之间相似的循环抗凝血酶III浓度，而且这两种物种之间的凝血和纤维溶解系统多个成分的水平总体上呈良好相关性（Karges等，1994）。因此，使用非人灵长类动物最大限度地提高了识别可能预测人类凝血酶毒性的反应的可能性。
+------------------------------------------------------------------------------------
+原文: prescribed by regulatory guidelines for medical devices. As the intended use of rhThrombin involves exposure of open wounds to the drug, rather than topical administration to normal skin, we followed the FHSA for the investigation of dermal irritation in rabbits rather than the ISO guidelines because of the inclusion of abraded skin as part of the FHSA test design.
+
+译文: 根据医疗器械的监管指南规定。由于rhThrombin的预期用途涉及将药物暴露于开放性伤口，而不是对正常皮肤进行局部给药，因此我们遵循了FHSA进行兔子皮肤刺激性研究，而不是ISO指南，因为FHSA测试设计中包含了磨损皮肤的部分。
+------------------------------------------------------------------------------------
+原文: Discharge
+
+译文: 出院
+------------------------------------------------------------------------------------
+原文: We found no evidence of altered wound healing following surgical application of rhThrombin to an induced liver injury in cynomolgus monkeys. Systemic eVects (e.g. increases in the levels of C-reactive protein and liver enzymes) indicating inXammation and an acute phase reaction were observed in animals across all treatment groups following abdominal surgery and excision of liver tissue. Normalization of the clinical pathology parameters largely occurred within a week post-surgery, with no subsequent abnormalities throughout the remainder of the recovery period. Fibrous adhesions were present with no apparent diVerences in the amount or degree of Wbrotic proliferation due to treatment with either thrombin. Adhesions following surgery on humans are a signiWcant cause of morbidity (Ellis et al., 1999) and have been shown to occur in rat and dog surgical studies of bovine thrombin and absorbable gelatin sponges (McDonald et al., 1977; McGaw et al., 1988). Histopathologic examination of tissues revealed that, at two months, monkeys from all groups showed the expected signs of liver wound healing including granulation tissue and remnants of the gelatin sponge encompassed by cells.
+
+译文: 我们没有发现rhThrombin在诱发肝损伤后在狒狒的外科应用中导致伤口愈合的证据。手术后，各治疗组的动物出现了系统性反应（如C反应蛋白和肝酶水平升高），表明炎症和急性期反应。在手术后的一周内，临床病理参数基本上恢复正常，在恢复期的其余时间没有出现异常。纤维粘连存在，但因治疗使用任一凝血酶的原因，在数量或纤维增生的程度上没有明显差异。人类手术后的粘连是一个显著的疾病原因（Ellis et al., 1999），并已在牛凝血酶和可吸收明胶海绵的老鼠和狗手术研究中被证明会发生（McDonald et al., 1977; McGaw et al., 1988）。组织的组织病理学检查表明，在两个月后，所有组的猴子显示出肝损伤愈合的预期迹象，包括肉芽组织和被细胞包围的明胶海绵残余物。
+------------------------------------------------------------------------------------
+原文: Jones Pharma Incorporated, 2000. Package Insert: Thrombin-JMI(R).
+
+译文: Jones Pharma Incorporated, 2000。包装说明书：Thrombin-JMI(R)。
+------------------------------------------------------------------------------------
+原文: The use of PPACK, a speciWc thrombin inhibitor, showed that cell detachment was directly related to the activity of thrombin. Thrombin can alter the shape of cells (Cottrell et al., 2002; Majumdar et al., 1998) through protease-activated receptors (PAR1, PAR3, PAR4) that are coupled to heteromeric G proteins (Kawabata and Kuroda, 2000). Despite the reactivity seen in vitro, there were no signs of cellular toxicity seen upon microscopic examination of tissues from the monkeys treated with single or multiple doses of rhThrombin.
+
+译文: 使用PPACK，这种特定的凝血酶抑制剂，显示出细胞脱落与凝血酶的活性直接相关。凝血酶可以通过与耦合到异源G蛋白的蛋白酶激活受体（PAR1、PAR3、PAR4）改变细胞的形状（Cottrell et al., 2002; Majumdar et al., 1998）。尽管在体外观察到反应性，但在微观检查经rhThrombin单次或多次剂量处理的猴子组织时未见细胞毒性迹象。
+------------------------------------------------------------------------------------
+原文: Topical bovine thrombin is associated with antibody formation against plasma proteins or other co-purifying contaminants (e.g., coagulation factor V and phospholipids), and is labeled with a “black box” warning regarding the inherent risks of cross-reactive immunogenicity (Jones Pharma Incorporated, 2000). Of particular concern are the formation of antibodies against bovine thrombin and/or factor V that cross-react with endogenous human coagulation factors and interfere with normal clotting (Christie et al., 1997; Cmolik et al., 1993; Dorion et al., 1998; Kajitani et al., 2000; Sands et al., 2000; Schoenecker et al., 2000; Su et al., 2002). In these studies, abdominal implantation of rhThrombin or bovine thrombin on a gelatin sponge elicited markedly diVerent rates of antibody formation. The evaluation of serum samples obtained from the 22 rhThrombin-exposed cynomolgus monkeys after either repeated subcutaneous injections or abdominal implantation demonstrated a sporadic, low-titer antibody response to rhThrombin in only one animal. In contrast, in a subset of four animals exposed to bovine thrombin after abdominal implantation, speciWc antibodies to bovine thrombin were detected in all animals within three weeks of exposure, and these antibodies persisted throughout the eight-week study. These data suggest that rhThrombin is much less immunogenic than bovine thrombin in cynomolgus monkeys. The low antigenicity rate in the animals treated with rhThrombin is consistent with a low rate of immunogenicity observed in Phase 2 clinical trials of rhThrombin (Lockstadt et al., 2005; Chapman et al., 2006).
+
+译文: 局部使用的牛凝血酶与对血浆蛋白或其他共纯化污染物（例如凝血因子V和磷脂）的抗体形成相关，并附有有关交叉反应免疫原性固有风险的“黑框”警告（Jones Pharma Incorporated, 2000）。特别令人关切的是针对牛凝血酶和/或因子V形成的抗体，这些抗体与内源性人类凝血因子交叉反应并干扰正常凝血（Christie et al., 1997; Cmolik et al., 1993; Dorion et al., 1998; Kajitani et al., 2000; Sands et al., 2000; Schoenecker et al., 2000; Su et al., 2002）。在这些研究中，在明胶海绵上进行腹部植入rhThrombin或牛凝血酶引发了显著不同的抗体形成速率。从22只rhThrombin暴露的狒狒中获得的血清样本进行评估，显示只有一只动物对rhThrombin产生了偶发的低滴度抗体反应。相比之下，在四只在腹部植入后暴露于牛凝血酶的动物子集中，所有动物在三周内均检测到针对牛凝血酶的特异性抗体，这些抗体在八周的研究中持续存在。这些数据表明，rhThrombin在狒狒中的免疫原性远低于牛凝血酶。接受rhThrombin治疗的动物中的低抗原性率与rhThrombin在第II期临床试验中观察到的低免疫原性率一致（Lockstadt et al., 2005; Chapman et al., 2006）。
+------------------------------------------------------------------------------------
+原文: The potential for rhThrombin to cause irritation was examined in New Zealand White rabbits by application to the eye and to normal and abraded skin sites. All rabbits remained healthy and no ocular irritation was observed for any rabbit throughout the study period. Similarly, no irritation was seen on either the abraded or normal skin of any rhThrombin-treated rabbits, but two of six vehicle-treated rabbits showed very slight erythema at the 24h post-dose observation time point. Neither rhThrombin nor the vehicle were classiWed as primary irritants.
+
+译文: rhThrombin对刺激的潜在影响在新西兰白兔中进行了评估，方法是将其应用于眼睛和正常及擦伤的皮肤部位。所有兔子都保持健康，在整个研究期间没有观察到任何兔子的眼部刺激。同样，任何经过rhThrombin处理的兔子的擦伤或正常皮肤上也未见刺激，但六只载体处理的兔子中有两只在给药后24小时的观察时间点显示出非常轻微的红斑。rhThrombin和载体均未被归类为主要刺激物。
+------------------------------------------------------------------------------------
+原文: Recombinant human thrombin (rhThrombin) was produced by ZymoGenetics (Seattle, WA). The resulting rhThrombin was identical in sequence and disulWde-bonding pattern to native human thrombin as measured by LC-MS/MS peptide mapping. Circular dichroism studies and Xray crystallography established secondary and tertiary similarity between rhThrombin and native human thrombin, and reverse phase-high pressure liquid chromatography proWles of the native and recombinant molecules exhibited a similar proWle (Bishop et al., 2006). Lyophilized rhThrombin was supplied in vials containing 1.6 mg rhThrombin, 1.2 mg histidine, 80 mg mannitol, 8 mg sucrose, 0.9 mg calcium chloride, 0.1 g PEG 3350, and 14.1 mg sodium chloride per vial. Vials were reconstituted with 5.0 mL of sterile saline to achieve a labeled activity of 1000 U/mL. Solutions of 100–2000 U/mL were prepared by reconstitution with sterile saline as appropriate. After 1:1 (v/v) dilution with sterile saline, the vehicle consisted of the identical formulation as for rhThrombin test article, with the exclusion of rhThrombin. Bovine thrombin (Thrombin JMI, manufactured by GenTrac, Inc., Middleton, WI and distributed by Jones Pharma, Inc., St. Louis, MO; a division of King Pharmaceuticals, Bristol, TN) was reconstituted according to the manufacturer’s instructions using sterile saline to achieve a labeled activity of 1000 U/mL.
+
+译文: 重组人凝血酶（rhThrombin）由ZymoGenetics（美国华盛顿州西雅图）生产。所得的rhThrombin在序列和二硫键模式上与天然人凝血酶相同，经过LC-MS/MS肽图谱测定。圆二色性研究和X射线晶体学确定了rhThrombin与天然人凝血酶之间的二级和三级相似性，并且天然和重组分子的反相高压液相色谱谱图表现出相似的特征（Bishop等，2006）。冻干的rhThrombin以小瓶形式供应，每瓶含有1.6 mg rhThrombin、1.2 mg组氨酸、80 mg甘露醇、8 mg蔗糖、0.9 mg氯化钙、0.1 g PEG 3350和14.1 mg氯化钠。小瓶用5.0 mL无菌盐水复溶，以达到标示活性1000 U/mL。通过适当的无菌盐水复溶制备了100–2000 U/mL的溶液。与无菌盐水1:1（v/v）稀释后，载体的配方与rhThrombin测试制剂相同，但不包括rhThrombin。牛凝血酶（Thrombin JMI，由GenTrac, Inc.生产，位于美国威斯康星州米德尔顿，由Jones Pharma, Inc.分销，位于美国密苏里州圣路易斯；隶属于King Pharmaceuticals, 位于美国田纳西州布里斯托尔）根据制造商的说明使用无菌盐水复溶，以达到标示活性1000 U/mL。
+------------------------------------------------------------------------------------
+原文: 2 (mild)
+
+译文: 2（轻度）
+------------------------------------------------------------------------------------
+原文: Use of a plasma-puriWed agent also carries a risk associated with pathogen transmission. Development of Creutzfeldt– Jakob disease (CJD) in humans exposed to prion-contaminated bovine products is one such concern, especially given the long latency and invariably fatal outcome of the disease, and because of the lack of screening tests and puriWcation methods. The risk of prion transmission through blood products is not merely theoretical as documented by the fatality of a patient in England who was transfused with contaminated packed red blood cells (Llewelyn et al., 2004). Development of thrombin products puriWed from human plasma would carry additional risks associated with transmission of known viral pathogens such as hepatitis B and human immunodeWciency virus.
+
+译文: 使用血浆纯化的制剂也带有与病原体传播相关的风险。在接触含有朊病毒的牛产品后人类发展克雅氏病（CJD）是一个此类担忧，特别是考虑到该疾病的长潜伏期和不可避免的致命结果，以及缺乏筛查测试和纯化方法。通过血液产品传播朊病毒的风险并不只是理论上的，正如2004年（Llewelyn等）报道的一位在英格兰接受含污染的浓缩红细胞输血的患者的致死案例所证明的那样。从人类血浆纯化的凝血酶产品将带来与已知病毒病原体传播相关的额外风险，如乙型肝炎和人类免疫缺陷病毒。
+------------------------------------------------------------------------------------
+原文: Urinalysis was conducted as a component of the abdominal implantation studies. Urine was collected during the Wrst morning void via cagepan during the week prior to surgery, and on Days 7 and 56. Evaluated urinalysis parameters included color/character; speciWc gravity (using a handheld refractometer); pH, leukocyte esterase, nitrite, urobilinogen, protein, glucose, ketones, bilirubin, occult blood (using dip sticks); and microscopic evaluation for sediment.
+
+译文: 尿液分析作为腹部植入研究的一部分进行了。这项研究中，尿液是在手术前一周的第一次晨尿通过笼盘收集的，以及在第7天和第56天收集的。评估的尿液分析参数包括颜色/特征；比重（使用手持折射仪）；pH值，白细胞酯酶，亚硝酸盐，尿胆原，蛋白质，葡萄糖，酮体，胆红素，隐血（使用试纸）；以及沉淀的显微镜评估。
+------------------------------------------------------------------------------------
+原文: Dermal irritation
+
+译文: 皮肤刺激
+------------------------------------------------------------------------------------
+原文: Cytotoxicity (48 h incubation)
+
+译文: 细胞毒性（48小时孵育）
+------------------------------------------------------------------------------------
+原文: Scoring of cytotoxicity
+
+译文: 细胞毒性评分
+------------------------------------------------------------------------------------
+原文: Fig. 3. Selected clinical pathology results (as means, n D 4/group) from one of two liver implant studies in cynomolgus monkeys. ALT levels, a marker of hepatocellular injury, increased slightly at 24 h following surgical placement of the wounds and treatment with rhThrombin, bovine thrombin or vehicle, but returned quickly to normal levels. A transient increase in the levels of C-reactive protein in animals of all groups indicates an expected acute phase reaction as a result of the surgery. The absence of a drop in Wbrinogen levels and the maintenance of baseline aPTT values throughout the study provide evidence for normal hemostasis following treatment with rhThrombin or bovine thrombin, with no indication of activation of the
+
+译文: 图3.来自两项桉猴肝脏植入研究中的一项（每组n=4）的选定临床病理结果（均值）。ALT水平作为肝细胞损伤的标志，在手术后24小时以及治疗rhThrombin、牛血栓素或安慰剂后略有增加，但迅速恢复到正常水平。所有组别动物中C反应蛋白水平的暂时升高表明由手术引起的预期急性反应。纤维蛋白原水平未下降且在整个研究期间保持基线aPTT值提供了rhThrombin或牛血栓素治疗后正常止血的证据，没有迹象表明
+------------------------------------------------------------------------------------
+原文: Blood was collected for clinical pathology analyses in studies conducted in nonhuman primates (abdominal implantation studies and the repeated subcutaneous injection study). In the abdominal implantation study, blood was collected within one week prior to surgery, 24 h post-surgery, and on Days 8, 15, 22, 29, 36, 43, 50, and 56. In the repeated subcutaneous injection study, blood was collected within two weeks prior to study initiation, and on Days 1 and 22 (predose, 6 and 24 h post-dose).
+
+译文: 在非人灵长类动物（腹部植入研究和重复皮下注射研究）进行的临床病理分析中收集了血液。在腹部植入研究中，血液在手术前一周内、手术后24小时，以及第8、15、22、29、36、43、50和56天收集。在重复皮下注射研究中，血液在研究开始前两周内和第1天及第22天（给药前、给药后6小时和24小时）收集。
+------------------------------------------------------------------------------------
+原文: 3.4.1. Observations and clinical pathology
+
+译文: 3.4.1. 观察和临床病理
+------------------------------------------------------------------------------------
+原文: 2.3. Animal care and use
+
+译文: 2.3. 动物护理和使用
+------------------------------------------------------------------------------------
+原文: Young adult male and female New Zealand White rabbits were used for ocular and dermal irritation studies, while naïve male and female purpose-bred cynomolgus monkeys (Macaca fascicularis) of Chinese origin were used for single and multiple dose toxicity studies. Within studies, monkeys were randomized to dosing with the goal of balancing mean body weights across treatment groups. Animal care and experimental procedures were conducted at Charles River Laboratories, Inc. (Sparks, NV and Worcester, MA) and Northview PaciWc Laboratories, Inc. (Hercules, CA). All study procedures were performed according to written protocols approved by each institution’s animal welfare and use committee responsible for study conduct. Strict compliance to accepted animal welfare standards, including the USDA Animal Welfare Act (9 Code of Federal Regulations, Parts 1, 2, and 3) and the current Guide for the Care and Use of Laboratory Animals (NRC, 1996) was observed. Nonhuman primates also received enrichment in the form of commingling (when possible), supplemental fruits and vegetables, and toys.
+
+译文: 使用年轻成年雄性和雌性新西兰白兔进行眼部和皮肤刺激研究，而采用的为中国来源的目的繁殖的天真雄性和雌性桉猴（Macaca fascicularis）进行单剂量和多剂量毒性研究。在研究中，猴子被随机分配到不同剂量组，以平衡各治疗组之间的平均体重。动物护理和实验程序在查尔斯河实验室公司（内华达州斯帕克斯和马萨诸塞州伍斯特）和北景太平洋实验室公司（加利福尼亚州赫基利斯）进行。所有研究程序均按照每个机构动物福利和使用委员会批准的书面协议执行。严格遵守接受的动物福利标准，包括美国农业部动物福利法（联邦法规法典第1、2和3部分）以及当前的实验动物护理和使用指南（NRC，1996）。非人灵长类动物还获得了交互（如果可能）、补充水果和蔬菜及玩具的丰富饲养。
+------------------------------------------------------------------------------------
+原文: Majumdar, M., Seasholtz, T.M., Goldstein, D., de Lanerolle, P., Brown, J.H., 1998. Requirement for Rho-mediated myosin light chain phosphorylation in thrombin-stimulated cell rounding and its dissociation from mitogenesis. J. Biol. Chem. 273, 10099–10106.
+
+译文: Majumdar, M., Seasholtz, T.M., Goldstein, D., de Lanerolle, P., Brown, J.H., 1998. Rho介导的肌球蛋白轻链磷酸化在凝血酶刺激的细胞圆形化中的必要性及其与有丝分裂的分离. J. Biol. Chem. 273, 10099–10106.
+------------------------------------------------------------------------------------
+原文: Discrete intracytoplasmic granules; no cell lysis
+
+译文: 离散的细胞质颗粒; 无细胞溶解
+------------------------------------------------------------------------------------
+原文: Wbroblast cells were cultured for 24–48 h until a monolayer was formed with greater than 80% conXuence. The growth medium was decanted and replaced by vehicle, rhThrombin, or bovine thrombin in Minimal Essential Medium Eagle. Controls included cells incubated with extracts of Whatman® Wlter paper as a negative control and Tygon® F-4040-A tubing or tumor necrosis factor- as positive controls. In one case, rhThrombin was pre-treated with D-phenylalanyl-L-prolyl-L-arginine chloromethyl ketone (PPACK). Following incubation, cells were examined under a light microscope at 24 and 48 h. In some cases, cells were treated with trypan blue before microscopic examination to evaluate cell integrity. Criteria for scoring reactivity are summarized in Table 2.
+
+译文: 成纤维细胞被培养24–48小时，直到形成大于80%融合度的单层. 生长培养基被去除，并用载体、rh凝血酶或牛凝血酶在最少必需培养基鹰中替换. 对照组包括与Whatman®滤纸提取物培养的细胞作为阴性对照，以及与Tygon® F-4040-A管或肿瘤坏死因子培养的细胞作为阳性对照. 在一种情况下，rh凝血酶预处理了D-苯丙氨酸-L-脯氨酸-L-精氨酸氯甲基酮（PPACK）. 培养结束后，细胞在24小时和48小时后通过光学显微镜进行检查. 在某些情况下，细胞在显微镜检查前用台盼蓝处理以评估细胞的完整性. 反应性评分标准总结在表2中.
+------------------------------------------------------------------------------------
+原文: Lockstadt, H.L.J., Chapman, W., Murphy, A., Reynolds, T., 2005. Safety, immunogenicity, and eYcacy of recombinant human thrombin as a topical surgical hemostat: integrated results for a multi-surgery phase 2 program. J. Thromb. Haemost. 3, 144.
+
+译文: Lockstadt, H.L.J., Chapman, W., Murphy, A., Reynolds, T., 2005. 重组人凝血酶作为局部手术止血剂的安全性、免疫原性及有效性: 多次手术二期程序的综合结果. J. Thromb. Haemost. 3, 144.
+------------------------------------------------------------------------------------
+原文: Troy, G.C., 1988. An overview of hemostasis. Vet. Clin. North Am. Small Anim. Pract. 18, 5–20.
+
+译文: Troy, G.C., 1988. 出血的概述. Vet. Clin. North Am. Small Anim. Pract. 18, 5–20.
+------------------------------------------------------------------------------------
+原文: A study was conducted to determine the safety and potential incidence and degree of immunogenic response to rhThrombin when administered by repeated weekly subcutaneous injection to cynomolgus monkeys. Monkeys were dosed with vehicle control (0.346 mL/kg), or 346 U/kg bovine thrombin or rhThrombin once weekly for four consecutive weeks. Study animals were evaluated for changes in clinical signs, body weight, food consumption, and clinical pathology indices (described below). Serum was analyzed from monkeys treated with vehicle or rhThrombin for the presence of IgG antibodies against rhThrombin. All monkeys were euthanized after six weeks, and subjected to a complete necropsy (described below).
+
+译文: 进行了一项研究，以确定在先天猕猴中通过每周重复皮下注射rh凝血酶时的安全性和潜在的免疫反应发生率及程度. 猕猴每周一次接收载体对照（0.346 mL/kg），或者346 U/kg牛凝血酶或rh凝血酶，持续四周. 研究动物被评估临床症状、体重、食物摄入及临床病理指标的变化（如下所述）. 分析接受载体或rh凝血酶治疗的猕猴血清中是否存在针对rh凝血酶的IgG抗体. 所有猕猴在六周后被安乐死，并进行完整的尸检（如下所述）.
+------------------------------------------------------------------------------------
+原文: a Data reported as a range in cases where group included animals reporting less than lower limit of quantitation (0.1 mg/dL).
+
+译文: 在组中出现的动物报告低于定量下限（0.1 mg/dL）的情况下，数据以范围形式报告.
+------------------------------------------------------------------------------------
+原文: Cmolik, B.L., Spero, J.A., Magovern, G.J., Clark, R.E., 1993. Redo cardiac surgery: late bleeding complications from topical thrombin-induced factor V deWciency. J. Thorac. Cardiovasc. Surg. 105, 222–227. discussion 227–228.
+
+译文: Cmolik, B.L., Spero, J.A., Magovern, G.J., Clark, R.E., 1993. 再次心脏手术: 来自局部凝血酶引起的因子V缺乏的晚期出血并发症. J. Thorac. Cardiovasc. Surg. 105, 222–227. 讨论227–228.
+------------------------------------------------------------------------------------
+原文: A study was conducted in rabbits to examine the potential for ocular irritation of topical rhThrombin according to ISO 10993-10:2002(E). Three rabbits per group had 0.1 mL of either vehicle or reconstituted rhThrombin instilled into the conjunctival sac of the right eye. The left eye of each rabbit served as an untreated control. Observation of all animals for mortality, signs of morbidity, or reaction to treatment was performed at least once daily through 72 h following dosing. Both eyes of each animal were examined by gross observation and scored for irritation at 1, 24, 48, and 72 h post-treatment. Scoring followed the criteria set forth in ISO 10993-10:2002(E), summarized in Table 3, and included evaluation of the cornea, iris, and conjunctivae.
+
+译文: 在兔子中进行了一项研究，以根据ISO 10993-10:2002(E)检查局部rh凝血酶的潜在眼刺激性. 每组三只兔子在右眼结膜囊中滴入0.1 mL的载体或重组成的rh凝血酶. 每只兔子的左眼作为未处理对照. 在给药后72小时内，观察所有动物的死亡率、疾病迹象或对治疗的反应，至少进行一次每日检查. 通过肉眼观察检查每只动物的双眼，并在治疗后1小时、24小时、48小时和72小时进行刺激评分. 评分遵循ISO 10993-10:2002(E)中的标准，总结在表3中，并包括角膜、虹膜和结膜的评估.
+------------------------------------------------------------------------------------
+原文: The suitability of using rabbits and cynomolgus monkeys for nonclinical studies was supported by the ability of rhThrombin to clot those species’ plasma at an average rate of between 79 and 145%, respectively, of the rate of clotting of human plasma in a deWned assay system. The mean (§ standard deviation) time to clot formation after the addition of rhThrombin to dilute plasma was 9.5s (§0.1s) for human plasma, 7.5s (§0.1s) for rabbit plasma, and 13.8s (§ 0.2s) for monkey plasma. The thrombin clotting time results reported here are faster than those reported for human adults of 14.0s (range 12–16s, nD40 (ReverdiauMoalic et al., 1996)), likely reXecting diVerences in assay format.
+
+译文: 使用兔子和猕猴进行非临床研究的适宜性得到了支持，因为rhThrombin使这些物种的血浆的凝血速度平均为人类血浆在特定检测系统中凝血速度的79%至145%之间。加入rhThrombin后，稀释血浆凝血形成的均值（§标准差）时间为人类血浆9.5秒（§0.1秒）、兔子血浆7.5秒（§0.1秒）和猴子血浆13.8秒（§0.2秒）。这里报告的凝血酶凝血时间结果比人类成人报告的14.0秒（范围12-16秒，nD40（ReverdiauMoalic等，1996））要快，可能反映了检测格式的差异。
+------------------------------------------------------------------------------------
+原文: Ocular irritation
+
+译文: 眼刺激
+------------------------------------------------------------------------------------
+原文: Girolami, A., CliVton, E.E., Agostino, D., 1966. Hemorrhagic syndrome in dogs induced by intravenous thrombin. Thromb. Diath. Haemorrh. 16, 243–256.
+
+译文: Girolami, A., CliVton, E.E., Agostino, D., 1966. 由静脉注射凝血酶引起的犬出血综合征。Thromb. Diath. Haemorr. 16, 243–256.
+------------------------------------------------------------------------------------
+原文: Poynton, A.R., Nelson, M.C., McCance, S.E., Levine, R.L., O’Leary, P.F., 2003. Bovine thrombin induces an acquired coagulopathy in sensitized patients undergoing revision spinal surgery: a report of two cases. Spine 28, E221–E223.
+
+译文: Poynton, A.R., Nelson, M.C., McCance, S.E., Levine, R.L., O’Leary, P.F., 2003. 牛凝血酶在接受修复脊柱手术的敏感患者中引起获得性凝血障碍：两例报告。Spine 28, E221–E223.
+------------------------------------------------------------------------------------
+原文: Nearly complete destruction of the cell layers
+
+译文: 几乎完全破坏了细胞层
+------------------------------------------------------------------------------------
+原文: Fig. 4. Time to hemostasis with rabbit model of hepatic bleeding. New Zealand White rabbits were used in a model of hepatic bleeding, similar to the monkey model described in this paper. The percent of animals still bleeding at various times is represented. Rabbits treated with gauze soaked in rhThrombin (rhT) at most concentrations, or in bovine thrombin (bT) at 1000 U/mL (label claim potency), stopped bleeding faster than rabbits treated with gauze plus
+
+译文: 图4. 兔模型下肝脏出血的止血时间。新西兰白兔被用于一个肝脏出血模型，类似于本文描述的猴子模型。各种时间仍在出血的动物百分比被表示。用浸泡在rhThrombin（rhT）的纱布或以1000 U/mL（标签声称效力）的牛凝血酶（bT）处理的兔子，止血比仅用纱布处理的兔子快
+------------------------------------------------------------------------------------
+原文: 2.5. Cytotoxicity study (isolated cells)
+
+译文: 2.5. 细胞毒性研究（分离细胞）
+------------------------------------------------------------------------------------
+原文: Visich, J.E., Byrnes-Blake, K.A., Lewis, K.B., Meengs, B., Rogge, M.C., 2006. Bioavailability and relative tissue distribution of [125I]-recombinant human thrombin following intravenous or subcutaneous administration to nonhuman primates. J. Thromb. Haemost. 9 (4), 1962–1968.
+
+译文: Visich, J.E., Byrnes-Blake, K.A., Lewis, K.B., Meengs, B., Rogge, M.C., 2006. [125I]-重组人凝血酶在非人灵长类动物静脉内或皮下给药后的生物利用度及相对组织分布。J. Thromb. Haemost. 9 (4), 1962–1968.
+------------------------------------------------------------------------------------
+原文: 1000 U/mL rhThrombin or bovine thrombin on an absorbent gel pad
+
+译文: 1000 U/mL的rhThrombin或牛凝血酶在吸收凝胶垫上的
+------------------------------------------------------------------------------------
+原文: healing (single dose, two studies)
+
+译文: 愈合（单剂量，两项研究）
+------------------------------------------------------------------------------------
+原文: Meehan, W.P., Bolton, M.G., 2004. Recombinant human thrombin: demonstration of eYcacy in models of surgical bleeding. J. Surg. Res. 121, 323.
+
+译文: Meehan, W.P., Bolton, M.G., 2004. 重组人凝血酶：在外科出血模型中显示疗效。J. Surg. Res. 121, 323.
+------------------------------------------------------------------------------------
+原文: Pusateri, A.E., Holcomb, J.B., Bhattacharyya, S.N., Harris, R.A., Gomez,
+
+译文: Pusateri, A.E., Holcomb, J.B., Bhattacharyya, S.N., Harris, R.A., Gomez,
+------------------------------------------------------------------------------------
+原文: Observations
+
+译文: 观察
+------------------------------------------------------------------------------------
+原文: 2.10.6. Antibody analyses
+
+译文: 2.10.6. 抗体分析
+------------------------------------------------------------------------------------
+原文: Cottrell, G.S., Coelho, A.M., Bunnett, N.W., 2002. Protease-activated receptors: the role of cell-surface proteolysis in signalling. Essays Biochem. 38, 169–183.
+
+译文: Cottrell, G.S., Coelho, A.M., Bunnett, N.W., 2002. 蛋白酶激活受体：细胞表面蛋白水解在信号传导中的作用。Essays Biochem. 38, 169–183.
+------------------------------------------------------------------------------------
+原文: Recombinant human thrombin (rhThrombin) is being developed as a general adjunct to hemostasis (Bishop et al., 2006). Because the recombinant protein sequence is identical to the human protein sequence, the risk of immunogenic cross-reactivity, and a subsequent coagulopathy, is minimized. Moreover, because the source of rhThrombin is not plasma, the risk of pathogen transmission is also minimized. To evaluate the relative safety and immunogenicity of rhThrombin, a series of nonclinical toxicology studies were conducted in a variety of mammalian species, and the results are reported here.
+
+译文: 重组人凝血酶（rhThrombin）正作为止血的一般辅助剂进行开发（Bishop等，2006）。由于重组蛋白序列与人类蛋白序列相同，免疫原性交叉反应及随后凝血障碍的风险降到最低。此外，由于rhThrombin的来源不是血浆，病原体传播的风险也降到最低。为了评估rhThrombin的相对安全性和免疫原性，进行了系列非临床毒理学研究，并在此报告了结果。
+------------------------------------------------------------------------------------
+原文: Table 1
+
+译文: 表1
+------------------------------------------------------------------------------------
+原文: Topical thrombin USP (Thrombostat®) was licensed in 1943 and is derived from puriWed bovine plasma. Since then, two other topical thrombin products derived from bovine plasma have been licensed, namely ThromboGen® in 1986 and Thrombin-JMI® in 1995 (Gershon et al., 1999), although puriWed thrombin derived from human plasma is in development. Bovine plasma-derived thrombin products are currently marketed and indicated for use as aids to hemostasis where oozing blood from capillaries and small venules is accessible. Thrombin is applied in a variety of surgical settings as a liquid adsorbed onto hemostatic sponges or as a spray. In addition, thrombin is included as a hemostatic component in vascular sealing devices, wound dressings, and Wbrin sealants.
+
+译文: 局部凝血酶USP（Thrombostat®）于1943年获得许可，来源于纯化的牛血浆。此后，又有两种来源于牛血浆的局部凝血酶产品获得了许可，分别是1986年的ThromboGen®和1995年的Thrombin-JMI®（Gershon等，1999），尽管目前正在开发来源于人血浆的纯化凝血酶。来源于牛血浆的凝血酶产品目前已上市，并被指示用于止血，适用于小血管和小静脉渗血的场合。凝血酶以多种外科手术环境中的液体形式应用，吸附于止血海绵上或作为喷雾。此外，凝血酶还作为血管密封装置、伤口敷料和纤维素密封剂中的止血成分被包含在内。
+------------------------------------------------------------------------------------
+原文: Skin
+
+译文: 皮肤
+------------------------------------------------------------------------------------
+原文: Several studies were conducted to verify that rhThrombin would be hemostatically active in the species intended for the nonclinical studies. In vitro plasma clotting times were compared across plasma from the nonclinical species and humans using a modiWed Clauss Wbrinogen assay. Duplicate samples from Wve to seven individuals each of 0.1 mL of sodium citrate-anticoagulated human, rabbit, and cynomolgus monkey plasma (diluted to 25% with normal saline) were pre-warmed to 37 °C in cuvettes placed in holders on a ST-4 BIO instrument (Diagnostica Stago, Asnières, France). Following the addition of a small iron ball to each cuvette, 0.1 mL of 25 U/mL rhThrombin was added at the same time that an alternately applied electromagnetic Weld was activated. The time to clot formation was recording as the number of elapsed seconds before the increased viscosity of coagulated plasma halted the moving iron ball.
+
+译文: 进行了一系列研究，以确认rhThrombin在非临床研究所针对的物种中具有止血活性。使用改良的Clauss纤维蛋白原测定法，比较了来自非临床物种和人类的血浆凝固时间。来自五到七名个体的重复样本，均为0.1 mL的枸橼酸钠抗凝人、兔和恒河猴血浆（稀释至25%生理盐水）在37°C的方槽中预热。随后，在每个方槽中加入一个小铁球，同时激活交替施加的电磁场，加入0.1 mL的25 U/mL rhThrombin。记录在凝固血浆的粘度增加，导致移动铁球停止前所经过的秒数，即为凝固形成的时间。
+------------------------------------------------------------------------------------
+原文: A comprehensive serum chemistry analysis was performed on a Beckman Coulter Synchron CX®7 Clinical Chemistry Analyzer (Beckman Coulter, Inc., Brea, CA) using approximately 0.5 mL serum isolated from whole blood collected from a femoral or saphenous vein via butterXy catheter into a syringe. Endpoints measured included sodium, calcium, potassium, phosphorus, chloride, urea nitrogen (BUN), carbon dioxide, creatinine, total bilirubin, total protein, alkaline phosphatase (AP), albumin, lactate dehydrogenase (LDH), globulin, aspartate aminotransferase (AST), albumin/globulin ratio, alanine aminotransferase (ALT), glucose, gamma-glutamyltransferase (GGT), cholesterol, C-reactive protein (CRP), and triglycerides.
+
+译文: 在贝克曼库尔特Synchron CX®7临床化学分析仪（贝克曼库尔特，Inc.，Brea，CA）上进行了全面的血清化学分析，使用大约0.5 mL的血清，该血清是通过毛细管导管从股静脉或隐静脉采集的全血所得。测量的指标包括钠、钙、钾、磷、氯、尿素氮（BUN）、二氧化碳、肌酐、总胆红素、总蛋白、碱性磷酸酶（AP）、白蛋白、乳酸脱氢酶（LDH）、球蛋白、天冬氨酸氨基转移酶（AST）、白蛋白/球蛋白比率、丙氨酸氨基转移酶（ALT）、葡萄糖、谷氨酰基转移酶（GGT）、胆固醇、C反应蛋白（CRP）和甘油三酯。
+------------------------------------------------------------------------------------
+原文: Scoring of ocular and dermal lesions
+
+译文: 眼部和皮肤损伤的评分
+------------------------------------------------------------------------------------
+原文: Doses of thrombin
+
+译文: 凝血酶的剂量
+------------------------------------------------------------------------------------
+原文: Dorion, R.P., Hamati, H.F., Landis, B., Frey, C., Heydt, D., Carey, D., 1998. Risk and clinical signiWcance of developing antibodies induced by topical thrombin preparations. Arch. Pathol. Lab. Med. 122, 887–894.
+
+译文: Dorion, R.P., Hamati, H.F., Landis, B., Frey, C., Heydt, D., Carey, D., 1998. 局部凝血酶制剂诱导抗体产生的风险和临床意义。《病理学与实验医学档案》122, 887–894.
+------------------------------------------------------------------------------------
+原文: 2.10.4. Clinical pathology
+
+译文: 2.10.4. 临床病理
+------------------------------------------------------------------------------------
+原文: Available online 12 September 2006
+
+译文: 2006年9月12日在线可用
+------------------------------------------------------------------------------------
+原文: Sera for the detection of anti-rhThrombin antibodies were assayed at baseline and various time points up to six weeks following repeated subcutaneous injection and up to eight weeks following surgical procedures in the abdominal implantation studies. Sera from a subset of animals that received bovine thrombin in the abdominal implantation study were assessed for the presence of anti-bovine thrombin antibodies after one, two, three and eight weeks. Enzyme linked immunosorbent assays (ELISA) were developed to assess the cynomolgus monkey immune responses. The assays used either rhThrombin- or bovine thrombin-coated wells of microtiter plates to capture anti-thrombin immunoglobulin pres-
+
+译文: 为了检测抗rhThrombin抗体，基线和在多次皮下注射后的六个时间点，以及在腹部植入研究中手术后的最长八周内采集血清。来自接受牛凝血酶的动物子集的血清在一、二、三和八周后被评估抗牛凝血酶抗体的存在。开发了酶联免疫吸附测定（ELISA）来评估猕猴的免疫反应。该测定使用涂覆rhThrombin或牛凝血酶的微孔板来捕获抗凝血酶免疫球蛋白。
+------------------------------------------------------------------------------------
+原文: 0 (none)
+
+译文: 0（无）
+------------------------------------------------------------------------------------
+原文: Mouse Wbroblast cells were exposed to rhThrombin and bovine thrombin to evaluate cytotoxicity as deWned by the ISO guidelines. The known thrombin inhibitor PPACK was added to some cells to deWne the speciWcity of observed responses. Other cells were treated with trypan blue, a dye that is excluded from living cells having intact membranes while being incorporated into dead cells. Exposure of L-929 cells to vehicle or 25U/mL rhThrombin showed no notable aVect on cell number, shape, or adherence to the culture dish. In contrast, exposure to 100, 250 or 500U/mL rhThrombin or bovine thrombin resulted in rounding and detachment at 24 and 48h of incubation (ranging from mild to severe reactivity with increasing dose). Despite the reactivity following exposure to thrombin, exclusion of trypan blue dye indicated continued membrane integrity and viability of the cells. Co-culture of cells in medium containing rhThrombin (250U/mL) and the thrombin inhibitor PPACK substantially diminished the morphological changes at 24 and 48h (to slight reactivity), indicating that the induced eVects were attributable to rhThrombin-associated protease activity.
+
+译文: 小鼠成纤维细胞暴露于rhThrombin和牛凝血酶，以根据ISO指南评估细胞毒性。已知的凝血酶抑制剂PPACK被添加到某些细胞中，以定义观察到的反应的特异性。其他细胞被用台盼蓝处理，这是一种排除完整膜活细胞而被死细胞吸收的染料。L-929细胞暴露于载体或25U/mL rhThrombin未对细胞数量、形状或对培养皿的附着产生显著影响。相比之下，暴露于100、250或500U/mL的rhThrombin或牛凝血酶在24和48小时的培养中导致细胞圆形化和脱离（随着剂量的增加，其反应性从轻微到严重不等）。尽管在暴露于凝血酶后出现反应性，排除台盼蓝染料表明细胞的膜完整性和活力持续存在。将细胞共同培养在含有rhThrombin（250U/mL）和凝血酶抑制剂PPACK的培养基中在24和48小时内显著减少了形态变化（减少至轻微反应），表明诱导的效应归因于rhThrombin相关的蛋白酶活性。
+------------------------------------------------------------------------------------
+原文: Table 3
+
+译文: 表3
+------------------------------------------------------------------------------------
+原文: 2.2. Overview of rhThrombin nonclinical studies
+
+译文: 2.2. rhThrombin非临床研究概述
+------------------------------------------------------------------------------------
+原文: McGaw, T., Elkins, T.E., DeLancey, J.O., McNeeley, S.G., Warren, J., 1988. Assessment of intraperitoneal adhesion formation in a rat model: can a procoagulant substance prevent adhesions? Obstet. Gynecol. 71, 774–778.
+
+译文: McGaw, T., Elkins, T.E., DeLancey, J.O., McNeeley, S.G., Warren, J., 1988。对大鼠模型中腹腔粘连形成的评估：一种促凝血物质能否预防粘连？妇产科杂志71, 774–778。
+------------------------------------------------------------------------------------
+原文: Degree of opacity
+
+译文: 不透明度等级
+------------------------------------------------------------------------------------
+原文: Swelling
+
+译文: 肿胀
+------------------------------------------------------------------------------------
+原文: ent in serum. Horseradish peroxidase-labeled Protein G, which recognizes the Fc portion of cynomolgus monkey immunoglobulin G, was used as the detection reagent. The assay format was titer-based and semi-quantitative with sample analyses performed in three tiers (see Fig. 2). The Wrst tier was designed to screen samples for the presence of antibodies to rhThrombin or bovine thrombin using an absorbance threshold established with normal, thrombin-naïve animals so as to achieve a 5% false-positive rate. The second testing tier conWrmed reactivity and determined the semi-quantitative antibody titer levels, deWned as the log10 of the sample dilution necessary to return an absorbance equal to the aforementioned threshold. All samples with a titer value were then tested for speciWcity by immunodepletion by pre-incubation with rhThrombin, bovine thrombin, sample buVer, or a non-speciWc protein. Antibody incidence was based on seroconversion, or a change in at least one titer unit from a given animal’s pre-dose or Day 8 value that was observed at a minimum of two later time points.
+
+译文: 血清中的内容。使用辣根过氧化物酶标记的蛋白G作为检测试剂，它识别猕猴免疫球蛋白G的Fc部分。该检测格式是基于稀释度的，并且是半定量的，样品分析分为三个层级（见图2）。第一层级旨在筛选样品中是否存在抗rhThrombin或牛凝血酶的抗体，使用正常、未接触凝血酶的动物建立的吸光度阈值，以实现5%的假阳性率。第二层级确认反应性并确定半定量抗体稀释度水平，定义为返回与上述阈值相等的吸光度所需的样品稀释度的log10。所有具有稀释值的样品随后通过与rhThrombin、牛凝血酶、样品缓冲液或非特异性蛋白的预孵育进行免疫去pletion来测试特异性。抗体发生率基于血清转化，即从给定动物的剂量前或第8天值变化至少一个稀释单位，并在两个或多个后续时间点观察到。
+------------------------------------------------------------------------------------
+原文: The monkeys were allowed to recover for eight weeks with the implant in place, and were observed and evaluated for changes in clinical signs, food consumption, body weight, urinalysis, and clinical pathology indices (described below). Sera were analyzed for IgG antibodies against rhThrombin among monkeys treated with vehicle or rhThrombin. Sera from four animals treated with bovine thrombin were also evaluated for the presence of antibodies against bovine thrombin. All monkeys were euthanized at eight weeks post-surgery and subjected to a complete necropsy (described below).
+
+译文: 猴子们被允许在植入物放置的情况下恢复八周，并观察和评估临床症状、食物消耗、体重、尿液分析和临床病理指标的变化（见下文）。对接受载体或重组凝血酶（rhThrombin）处理的猴子的血清进行了抗rhThrombin IgG抗体的分析。还对四只用牛凝血酶处理的动物的血清进行了抗牛凝血酶抗体的检测。所有猴子在手术后八周被安乐死，并进行了全面的尸检（见下文）。
+------------------------------------------------------------------------------------
+原文: 1 (slight)
+
+译文: 1（轻微）
+------------------------------------------------------------------------------------
+原文: active thrombin is a highly regulated process and occurs in the presence of calcium, phospholipids, and factors Xa/Va, collectively termed the prothrombinase complex. Thrombin has proteolytic activity towards Wbrinogen; coagulation factors V, VII, VIII, XI, and XIII; thrombin activatable Wbrinolytic inhibitor (TAFI); and the protease activated receptors PAR1 and PAR4. Acting as a stimulator of coagulation system activation, thrombin induces its own production via positive feedback activation of factor XI and cofactors V and VIII. In addition, thrombin is a highly potent agonist of PAR1 on platelets, leading to their aggregation at the site of injury. In turn, these platelets provide membrane surface for prothrombinase complex formation, thereby stimulating further thrombin generation. Acting as
+
+译文: 活性凝血酶是一个高度调节的过程，发生在钙、磷脂和Xa/Va因子的存在下，统称为凝血酶复合体。凝血酶对纤维蛋白原、凝血因子V、VII、VIII、XI和XIII、可激活的纤溶抑制剂（TAFI）、以及激活的前列腺素受体PAR1和PAR4具有蛋白水解活性。作为凝血系统激活的刺激物，凝血酶通过正反馈激活因子XI和辅因子V和VIII来诱导自身的生成。此外，凝血酶是血小板上PAR1的高度有效的激动剂，导致它们在损伤部位聚集。反过来，这些血小板为凝血酶复合体的形成提供了膜表面，从而刺激进一步的凝血酶生成。作为
+------------------------------------------------------------------------------------
+原文: 3.4.3. Immunogenicity
+
+译文: 3.4.3. 免疫原性
+------------------------------------------------------------------------------------
+原文: Jennifer Visich a, Erika E. Giste a, Nancy Jenkins a, Dan Boster a, Susan Pederson a, Glenn Knitter a, Thomas Palmer a, Margaret Wills b, Richard J. Early b, Mark C. Rogge a
+
+译文: Jennifer Visich a，Erika E. Giste a，Nancy Jenkins a，Dan Boster a，Susan Pederson a，Glenn Knitter a，Thomas Palmer a，Margaret Wills b，Richard J. Early b，Mark C. Rogge a
+------------------------------------------------------------------------------------
+原文: 3.4. Abdominal implantation and repeated subcutaneous injection studies (Cynomolgus monkeys)
+
+译文: 3.4. 腹部植入和重复皮下注射研究（恒河猴）
+------------------------------------------------------------------------------------
+原文: Weekly body weight measurements were collected using calibrated scales during the two-week prestudy acclimation period, throughout the study duration, and at necropsy.
+
+译文: 在两周的预研究适应期、整个研究期间和尸检时使用校准的秤收集每周体重测量。
+------------------------------------------------------------------------------------
+原文: Schoenecker, J.G., Hauck, R.K., Mercer, M.C., Parker, W., Lawson, J.H., 2000. Exposure to topical bovine thrombin during surgery elicits a response against the xenogeneic carbohydrate galactose alpha1-3galactose. J. Clin. Immunol. 20, 434–444.
+
+译文: Schoenecker, J.G., Hauck, R.K., Mercer, M.C., Parker, W., Lawson, J.H., 2000. 在手术中接触局部牛凝血酶会引发针对异种糖类半乳糖α1-3半乳糖的反应。J. Clin. Immunol. 20, 434–444.
+------------------------------------------------------------------------------------
+原文: A comprehensive hematology analysis was performed using a Bayer Advia® 120 Hematology Analyzer (Bayer HealthCare, Diagnostics Division, Tarrytown, NY) using approximately 0.5 mL of blood collected from a femoral or saphenous vein via butterXy catheter into a syringe containing EDTA anticoagulant. Endpoints measured included red blood cell (RBC) counts, mean cell hemoglobin (MCH), white blood cell (WBC) and diVerential cell counts, mean corpuscular volume (MCV), hemoglobin concentration, mean corpuscular hemoglobin concentration (MCHC), hematocrit, platelet counts, reticulocyte counts, blood cell morphology, red cell distribution width (RDW), and blood cell morphology.
+
+译文: 使用Bayer Advia® 120血液分析仪（拜耳医疗，诊断部，塔里敦，NY）进行全面的血液学分析，使用约0.5 mL的血液从股静脉或隐静脉通过蝴蝶针收集到含有EDTA抗凝剂的注射器中。测量的终点包括红细胞（RBC）计数、平均细胞血红蛋白（MCH）、白细胞（WBC）和分类细胞计数、平均红细胞体积（MCV）、血红蛋白浓度、平均红细胞血红蛋白浓度（MCHC）、血细胞比容、血小板计数、网织红细胞计数、血细胞形态、红细胞分布宽度（RDW）和血细胞形态。
+------------------------------------------------------------------------------------
+原文: The safety of rhThrombin when applied topically, subcutaneously, or in combination with a gelatin sponge was demonstrated by the results of the in vivo studies. There was an absence of ocular or dermal irritation in the rabbit following topical exposure to rhThrombin, and there was no systemic toxicity associated with either rhThrombin or bovine thrombin after repeated subcutaneous injection or after abdominal implantation in the cynomolgus monkey. All animals appeared healthy throughout the studies with no indications of either a local or systemic coagulopathy. These Wndings are consistent with an absence of reported systemic toxicity of topically applied bovine thrombin in humans since 1943 (Gershon et al., 1999).
+
+译文: 在体内研究的结果证明了rhThrombin在局部、皮下使用或与明胶海绵结合使用时的安全性。在对兔子进行局部暴露后，未出现眼部或皮肤刺激，rhThrombin或牛血栓素在重复皮下注射或在猕猴腹部植入后均未出现系统性毒性。在整个研究过程中，所有动物看起来都很健康，没有局部或系统性凝血功能障碍的迹象。这些发现与自1943年以来在人类中没有报告局部使用牛血栓素的系统性毒性是一致的（Gershon等，1999）。
+------------------------------------------------------------------------------------
+原文: a Estimated clinical dose scaled allometrically, assuming whole body surface area for human (70 kg) and monkey (5 kg) of 1.85 and 0.32 m2, respectively.
+
+译文: a 估计临床剂量按全身表面积等度量法缩放，假设人类（70 kg）和猴子（5 kg）的全身表面积分别为1.85和0.32 m2。
+------------------------------------------------------------------------------------

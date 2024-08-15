@@ -1,0 +1,396 @@
+原文: Preparation of test article：石鑫鑫、刘露露；
+
+译文: Preparation of test article: Shi Xinxin, Liu Lulu; 
+------------------------------------------------------------------------------------
+原文: raw资料
+
+译文: raw data
+------------------------------------------------------------------------------------
+原文: protectionmeasures：按照《Occupational Health Safety and Protection Manual》操作，穿戴合适的personal protective equipment（PPE）；
+
+译文: protection measures: Operate according to the "Occupational Health Safety and Protection Manual", wear suitable personal protective equipment (PPE); 
+------------------------------------------------------------------------------------
+原文: 专题QA：何艳
+
+译文: special QA: He Yan
+------------------------------------------------------------------------------------
+原文: 1.1. Study Name及编号 10
+
+译文: 1.1. Study Name and Number 10
+------------------------------------------------------------------------------------
+原文: 成都New & Hi-tech Industrial Development Zone（西区）西芯大道17号
+
+译文: Chengdu New & Hi-tech Industrial Development Zone (Western District), 17 Xixin Avenue
+------------------------------------------------------------------------------------
+原文: Standard Curvelinear range（clo）：Standard Curve的回归系数（R2）在0.9986 ~ 0.9998之间，Standard Curve线性各concentrationaccuracy在98.61 % ~ 102.84 %之间。
+
+译文: Standard Curve linear range (clo): The regression coefficient (R2) of the Standard Curve is between 0.9986 ~ 0.9998, and the accuracy of each concentration within the Standard Curve linear range is between 98.61% ~ 102.84%.
+------------------------------------------------------------------------------------
+原文: 何艳 日期
+
+译文: He Yan Date
+------------------------------------------------------------------------------------
+原文: assay开始日期：2018-12-04；
+
+译文: assay start date: 2018-12-04; 
+------------------------------------------------------------------------------------
+原文: 信噪比S/N ≥ 10，accuracy均应在95% ~ 105%之间，RSD ≤ 5%。
+
+译文: signal-to-noise ratio S/N ≥ 10, accuracy should be between 95% ~ 105%, RSD ≤ 5%.
+------------------------------------------------------------------------------------
+原文: dose formulationsdisposal后stability
+
+译文: dose formulations disposal stability
+------------------------------------------------------------------------------------
+原文: Manufacturer：浙江车头制药股份有限公司；
+
+译文: Manufacturer: Zhejiang Chehe Pharmaceutical Co., Ltd.; 
+------------------------------------------------------------------------------------
+原文: 表3-1 质量控制（sbk002）
+
+译文: Table 3-1 Quality Control (sbk002)
+------------------------------------------------------------------------------------
+原文: dose formulations analyzed methodology验证assay
+
+译文: dose formulations analyzed methodology validation assay
+------------------------------------------------------------------------------------
+原文: 目的：对A2018030项目中determinationtest articleconcentration的analyzedmethodperform验证，并对dose formulations的preparationmethod及stabilityperform考察，ensuretest article的质量和preparation准确性，为临床前SafetyEvaluation中发现的问题（如toxicity与doserelationship等）提供可靠的科学reference。
+
+译文: Purpose: To validate the analyzed method for determining the concentration of the test article in Project A2018030, and to investigate the preparation method and stability of dose formulations, ensuring the quality and preparation accuracy of the test article. To provide reliable scientific reference for issues discovered in preclinical safety evaluations (such as the relationship between toxicity and dose). 
+------------------------------------------------------------------------------------
+原文: 《medicationnon-clinical studyGood Laboratory Practices (GLPs)》（fCFDA，2017年09月）；
+
+译文: "Medication Non-clinical Study Good Laboratory Practices (GLPs)" (fCFDA, September 2017); 
+------------------------------------------------------------------------------------
+原文: 6.8. accuracy与precision 21
+
+译文: 6.8. accuracy and precision 21
+------------------------------------------------------------------------------------
+原文: 地址：Jiangsu ProvinceKunshan CityNew & Hi-tech Industrial Development ZoneYuanfeng Road166号；
+
+译文: Address: No. 166, Yuanfeng Road, New & Hi-tech Industrial Development Zone, Kunshan City, Jiangsu Province; 
+------------------------------------------------------------------------------------
+原文: 数显加热magnetic stirrer
+
+译文: Digital display heated magnetic stirrer
+------------------------------------------------------------------------------------
+原文: Conclusion：本assay建立的sbk002和clo dose formulations analyzed method在5.0 ~ 15.0 μg/mL concentration range内线性均良好，System Suitability、Stock Solution Comparison、质量控制、专属性、Carry-over、lower limit of quantification、accuracy与precision均meet formulation analyzed的要求，可for sbk002和clo dose formulations的ANALYSIS AND TEST。sbk002 dose formulations (concentration：250.0 mg/mL)在room temperature遮光条件下4 h内stability良好，dose formulations经disposal后在room temperature遮光条件下1天内stability良好；clo dose formulations (concentration：250.0 mg/mL)在room temperature遮光条件下4 h内stability良好，dose formulations disposal后在room temperature遮光条件下1天内stability良好。
+
+译文: Conclusion: The analyzed method established in this assay for sbk002 and clo dose formulations has good linearity within the concentration range of 5.0 ~ 15.0 μg/mL. System Suitability, Stock Solution Comparison, Quality Control, Specificity, Carry-over, Lower Limit of Quantification, accuracy, and precision all meet the requirements for formulation analysis and testing. The sbk002 dose formulations (concentration: 250.0 mg/mL) show good stability for 4 hours at room temperature, protected from light. The dose formulations also remain stable for 1 day under similar conditions after disposal. The clo dose formulations (concentration: 250.0 mg/mL) show good stability for 4 hours at room temperature, protected from light. Stability is maintained for 1 day under similar conditions after disposal. 
+------------------------------------------------------------------------------------
+原文: dose formulations stability (clo)：dose formulations room temperature遮光4 h stability：stability sample的testing concentration与初始concentration ratio在98.05% ~ 101.78%之间，testing concentration与标示concentration ratio在99.51% ~ 100.99%之间，RSD为0.74%。
+
+译文: dose formulations stability (clo): stability of the dose formulations at room temperature, protected from light, for 4 hours: The testing concentration ratio to the initial concentration is between 98.05% ~ 101.78%, and the testing concentration ratio to the labeled concentration is between 99.51% ~ 100.99%, with an RSD of 0.74%.
+------------------------------------------------------------------------------------
+原文: Carry-over（clo）：空白溶剂sample在cloretention time处have no interference peaks。
+
+译文: Carry-over (clo): No interference peaks are observed at the cloretention time in the blank solvent sample.
+------------------------------------------------------------------------------------
+原文: System Suitability (clo)：Peak Area的RSD在0.25% ~ 0.48%之间，retention time的RSD在0.00% ~ 0.08%之间，拖尾factor在1.32 ~ 1.45之间。
+
+译文: System Suitability (clo): The RSD of Peak Area is between 0.25% ~ 0.48%, the RSD of retention time is between 0.00% ~ 0.08%, and the tailing factor is between 1.32 ~ 1.45.
+------------------------------------------------------------------------------------
+原文: 图2-2 Standard Curvelinear range（clo）
+
+译文: Fig. 2-2 Standard Curve linear range (clo)
+------------------------------------------------------------------------------------
+原文: data acquisition和analyzed
+
+译文: data acquisition and analysis
+------------------------------------------------------------------------------------
+原文: selectionQuality Control SampleQC_X作为质量控制sample，均匀distribution于analytical run中重复determination。分别命名为：PCS_QC_X_n（n表示在该analytical run中第n次determination）。
+
+译文: selection Quality Control Sample QC_X is uniformly distributed and repeatedly determined within the analytical run. Each is named: PCS_QC_X_n (n represents the nth determination within the analytical run). 
+------------------------------------------------------------------------------------
+原文: 联系人：武丽；
+
+译文: Contact person: Wu Li; 
+------------------------------------------------------------------------------------
+原文: aspirating上述stock solution (181204-ST2-sbk) 967 μL，用稀释液dilute to volume至10 mL，得concentration为100 μg/mL的quality control工作溶液，命名为：181204-WS2-sbk。
+
+译文: Aspirate 967 μL of the above stock solution (181204-ST2-sbk), dilute to volume with diluent to 10 mL, resulting in a 100 μg/mL quality control working solution, named: 181204-WS2-sbk. 
+------------------------------------------------------------------------------------
+原文: 注：accuracy = testingconcentration / dose formulations标示concentration，testingconcentration = 实测concentration × 稀释倍数。表7-1 precision（sbk002）
+
+译文: Note: accuracy = testing concentration / labeled concentration of dose formulations, testing concentration = actual measured concentration × dilution factor. Table 7-1 precision (sbk002)
+------------------------------------------------------------------------------------
+原文: 目录 5
+
+译文: TABLE OF CONTENTS 5
+------------------------------------------------------------------------------------
+原文: 实测concentration(μg/mL)
+
+译文: Measured concentration (μg/mL)
+------------------------------------------------------------------------------------
+原文: sterilized注射用水
+
+译文: Sterilized water for injection
+------------------------------------------------------------------------------------
+原文: 水相 (0.2% TFA 水溶液)：量取1000 μL TFA加至500 mL sterilized注射用水中，mixed well后，sonicate脱bubbles 15 min，即得。room temperature Storage，expiry date 3天。
+
+译文: Aqueous phase (0.2% TFA aqueous solution): Measure 1000 μL TFA and add to 500 mL sterilized water for injection, mix well, then sonicate to remove bubbles for 15 min, and it is ready. Store at room temperature, expiry date 3 days.
+------------------------------------------------------------------------------------
+原文: 传真：0512-36802288；
+
+译文: Fax: 0512-36802288;
+------------------------------------------------------------------------------------
+原文: preparationmethod：根据dose formulationsconcentration和prepared volume等Calculation所需test article量（sbk002dose formulationsconcentration = 称取量 × content/volume；clodose formulationsconcentration = 称取量 × Purity/volume）。在room temperatureprotected from excessive light环境下，准确称取一定量的test article至研钵中，加适量0.5 % CMC-Na溶液充分研磨后，完全metastasis至标定volume的容器中，用0.5 % CMC-Na定至刻度，即得所需concentration的dose formulations。
+
+译文: Preparation method: Accurately weigh the required amount of test article based on the dose formulations concentration and prepared volume calculations (sbk002 dose formulations concentration = weighed amount × content/volume; clo dose formulations concentration = weighed amount × purity/volume). In an environment protected from excessive light at room temperature, accurately weigh a certain amount of test article into a mortar, add an appropriate amount of 0.5% CMC-Na solution, grind thoroughly, then completely transfer to a volumetric container, and dilute to mark with 0.5% CMC-Na solution to obtain the desired concentration of dose formulations.
+------------------------------------------------------------------------------------
+原文: Characterization：白色crystal性粉末；
+
+译文: Characterization: White crystalline powder;
+------------------------------------------------------------------------------------
+原文: 准确称取12.5313 g的clo至研钵中，用0.5% CMC-Na溶液充分研磨后，完全metastasis至标定volume (50 mL)的容器中，用0.5% CMC-Na定至刻度，即得250.0 mg/mL的clo组dose formulations。
+
+译文: Accurately weigh 12.5313 g of clo into a mortar, grind thoroughly with 0.5% CMC-Na solution, then completely transfer to a volumetric container (50 mL), and dilute to mark with 0.5% CMC-Na solution to obtain a 250.0 mg/mL dose formulation of clo.
+------------------------------------------------------------------------------------
+原文: 称取10.38 mg clo (Purity：99.75%)，以稀释液1 dissolution并dilute to volume至10 mL，preparation成一定concentration的quality control stock solution (concentration = 称取量 × Purity/volume)。命名为：181204-ST2-clo。
+
+译文: Weigh 10.38 mg of clo (Purity: 99.75%), dissolve in diluent 1, and dilute to volume to 10 mL to prepare a quality control stock solution of a certain concentration (concentration = weighed amount × purity/volume). Named: 181204-ST2-clo.
+------------------------------------------------------------------------------------
+原文: 流动相preparation
+
+译文: Preparation of mobile phase
+------------------------------------------------------------------------------------
+原文: Study Name：sbk002及硫酸氢氯吡格雷原料药dose formulationsanalyzedmethodology验证assay；
+
+译文: Study Name: sbk002 and clopidogrel sulfate raw material dose formulations methodology validation assay;
+------------------------------------------------------------------------------------
+原文: 空白溶剂sample在sbk002/cloretention time处have no interference peaks或interfering peakPeak Area ≤ lower limit of quantificationPeak Area的10 %。
+
+译文: Blank solvent samples have no interference peaks or interfering peaks with Peak Area ≤ 10% of the lower limit of quantification Peak Area at the retention time of sbk002/clo.
+------------------------------------------------------------------------------------
+原文: 表9-2 dose formulations stability (clo)
+
+译文: Table 9-2 Dose formulations stability (clo)
+------------------------------------------------------------------------------------
+原文: 超高效液相色谱仪
+
+译文: Ultra-high-performance liquid chromatography (UHPLC)
+------------------------------------------------------------------------------------
+原文: Peak Area的ratio在95 % ~ 105 % 之间。
+
+译文: Ratio of Peak Area between 95% ~ 105%.
+------------------------------------------------------------------------------------
+原文: size：51.8 g/袋；
+
+译文: Size: 51.8 g/bag;
+------------------------------------------------------------------------------------
+原文: 图2-1 Standard Curve linear range (sbk002)
+
+译文: Figure 2-1 Standard Curve linear range (sbk002)
+------------------------------------------------------------------------------------
+原文: assay result见Appendix二图3-1和图3-2。Carry-over：空白溶剂sample在sbk002/clo retention time处均have no interference peaks。
+
+译文: Assay result see Appendix II Figures 3-1 and 3-2. Carry-over: There are no interference peaks at the retention time of sbk002/clo in blank solvent samples.
+------------------------------------------------------------------------------------
+原文: 图2-1 Standard Curvelinear range（sbk002）
+
+译文: Figure 2-1 Standard Curve linear range (sbk002)
+------------------------------------------------------------------------------------
+原文: 表5-1 lower limit of quantification (sbk002)
+
+译文: Table 5-1 Lower limit of quantification (sbk002)
+------------------------------------------------------------------------------------
+原文: 4. data acquisition和analyzed 20
+
+译文: 4. Data acquisition and analysis 20
+------------------------------------------------------------------------------------
+原文: 梅特勒-托利多
+
+译文: Mettler-Toledo
+------------------------------------------------------------------------------------
+原文: Confidential 第 40页 /共 48页
+
+译文: Confidential Page 40 of 48
+------------------------------------------------------------------------------------
+原文: accuracy与 precision
+
+译文: Accuracy and precision
+------------------------------------------------------------------------------------
+原文: Appendix一：Appendix Tables 25
+
+译文: Appendix I: Appendix Tables 25
+------------------------------------------------------------------------------------
+原文: size：2 g/袋；
+
+译文: Size: 2 g/bag;
+------------------------------------------------------------------------------------
+原文: 表2-2 Stock Solution Comparison (clo)
+
+译文: Table 2-2 Stock Solution Comparison (clo)
+------------------------------------------------------------------------------------
+原文: Appendix二：Appendix Figures 39
+
+译文: Appendix II: Appendix Figures 39
+------------------------------------------------------------------------------------
+原文: vehicle (0.5% CMC-Na)的preparation
+
+译文: Preparation of vehicle (0.5% CMC-Na)
+------------------------------------------------------------------------------------
+原文: Stock Solution Comparison（sbk002）：Quality Control SampleQC与Standard CurvesampleSTD3Peak Area的ratio在96.71 % ~ 100.76 %之间。
+
+译文: Stock Solution Comparison (sbk002): Ratio of Peak Area between Quality Control Sample QC and Standard Curve sample STD3 is between 96.71% ~ 100.76%.
+------------------------------------------------------------------------------------
+原文: dose formulationsroom temperature遮光放置4h
+
+译文: Store dose formulations at room temperature and protect from light for 4 hours
+------------------------------------------------------------------------------------
+原文: 标示concentration
+
+译文: Labeled concentration
+------------------------------------------------------------------------------------
+原文: assay result见Appendix一表3-1和表3-2。质量控制 (sbk002)：Quality Control Sample QC的accuracy在96.57% ~ 98.90%之间，precision RSD为0.48%和0.50%；质量控制 (clo)：Quality Control Sample QC的accuracy在98.39% ~ 99.61%之间，precision RSD为0.47%和0.12%。
+
+译文: Assay result see Appendix I Tables 3-1 and 3-2. Quality control (sbk002): The accuracy of Quality Control Sample QC is between 96.57% ~ 98.90%, and the precision RSD is 0.48% and 0.50%; quality control (clo): the accuracy of Quality Control Sample QC is between 98.39% ~ 99.61%, and the precision RSD is 0.47% and 0.12%.
+------------------------------------------------------------------------------------
+原文: 表7-2 precision（clo）
+
+译文: Table 7-2 Precision (clo)
+------------------------------------------------------------------------------------
+原文: treatment method：按下表volume取to be tested dose formulations，第一步用稀释液1 dilute to volume后，centrifuged（10000 r/min，5 min，20 ℃），取supernatant perform第二步稀释。第二步和第三步用稀释液2 dilute to volume后，上机analyzed。
+
+译文: Treatment method: According to the volume listed in the table, take the dose formulations to be tested. In the first step, dilute to volume with diluent 1, then centrifuge (10,000 r/min, 5 min, 20℃), take the supernatant, and perform the second step of dilution. In the second and third steps, dilute to volume with diluent 2, then analyze.
+------------------------------------------------------------------------------------
+原文: 稀释 倍数
+
+译文: Dilution factor
+------------------------------------------------------------------------------------
+原文: 系统
+
+译文: System
+------------------------------------------------------------------------------------
+原文: 流速：0.3 mL/min；
+
+译文: Flow rate: 0.3 mL/min;
+------------------------------------------------------------------------------------
+原文: assay result见Appendix一表9-1和表9-2。
+
+译文: Assay result see Appendix I Tables 9-1 and 9-2.
+------------------------------------------------------------------------------------
+原文: assayresult见Appendix一表2-1和表2-2。Stock Solution Comparison（sbk002）：Quality Control SampleQC与Standard CurvesampleSTD3Peak Area的ratio在96.71 % ~ 100.76 % 之间；Stock Solution Comparison（clo）：Quality Control SampleQC与Standard CurvesampleSTD3Peak Area的ratio在99.65 % ~ 100.02 %之间。
+
+译文: Assay result see Appendix I Tables 2-1 and 2-2. Stock Solution Comparison (sbk002): Ratio of Peak Area between Quality Control Sample QC and Standard Curve sample STD3 is between 96.71% ~ 100.76%; Stock Solution Comparison (clo): Ratio of Peak Area between Quality Control Sample QC and Standard Curve sample STD3 is between 99.65% ~ 100.02%.
+------------------------------------------------------------------------------------
+原文: 表9-1 dose formulations stability (sbk002)
+
+译文: Table 9-1 dose formulations stability (sbk002)
+------------------------------------------------------------------------------------
+原文: 表1-2 System Suitability（clo）
+
+译文: Table 1-2 System Suitability (clo)
+------------------------------------------------------------------------------------
+原文: Name/Code：硫酸氢氯吡格雷/clo；
+
+译文: Name/Code: Clopidogrel Hydrogen Sulfate/clo;
+------------------------------------------------------------------------------------
+原文: sbk002dose formulationsroom temperature遮光stability：将D1preparation的sbk002组dose formulationsroom temperature遮光放置2 h和4 h后，再从dose formulations的上、中、下层各取1份样，按dose formulationstreatment methodperformdisposal后，进样analyzed。命名为：STA(Pre_2h)_A_1 、 STA(Pre_2h)_A_3、STA(Pre_2h)_A_5、STA(Pre_4h)_A_1、STA(Pre_4h)_A_3和STA(Pre_4h)_A_5。
+
+译文: sbk002 dose formulations room temperature light-protected stability: Place the D1 preparation’s sbk002 group dose formulations at room temperature with light protection for 2 h and 4 h, then take one sample each from the top, middle, and bottom layers of the dose formulations. After performing disposal according to the dose formulations treatment method, analyze the samples. Named as: STA(Pre_2h)_A_1, STA(Pre_2h)_A_3, STA(Pre_2h)_A_5, STA(Pre_4h)_A_1, STA(Pre_4h)_A_3, and STA(Pre_4h)_A_5.
+------------------------------------------------------------------------------------
+原文: justification 2017年9月1日生效的原食品pharmaceuticals监督management总局《medication non-clinical study Good Laboratory Practices (GLPs)》（Order No. 34），经济合作和发展 Tissues OECD Principles of good laboratory practice (as revised in 1997) ENV/MC/CHEM(98)17，美国食品pharmaceuticals监督management局 Good laboratory practice for nonclinical laboratory studies (21 CFR Part 58)，study protocol和standard operating procedures（SOPs）examination，以及列出将examination report汇报给study director和Test Facility Management的日期。此外，本声明确认该final report准确reflected了assay的raw data。
+
+译文: justification: The original Food and Pharmaceuticals Supervision and Management General Administration of China’s "Good Laboratory Practices (GLPs) for Medication Non-clinical Study" (Order No. 34), effective September 1, 2017, OECD Principles of Good Laboratory Practice (as revised in 1997) ENV/MC/CHEM(98)17, U.S. Food and Pharmaceuticals Supervision and Management Administration Good Laboratory Practice for Nonclinical Laboratory Studies (21 CFR Part 58), study protocol, and standard operating procedures (SOPs) examination, and provide examination reports to the study director and Test Facility Management dates. Furthermore, this statement confirms that the final report accurately reflects the raw data of the assay.
+------------------------------------------------------------------------------------
+原文: method: Use a 超高效液相色谱仪 to assess the concentration and stability of the dose formulations of the preparation. Testing performed at 220 nm wavelength with a UPLC®BEH C18 Chromatographic column and isocratic elution for sbk002 and Clopidogrel Hydrogen Sulfate (clo). Assessments include System Suitability, Stock Solution Comparison, quality control, specificity, Standard Curve linear range, Carry-over, lower limit of quantification, accuracy and precision, post-disposal stability of dose formulations, and stability validation of dose formulations.
+
+译文: method: Use an ultra-high performance liquid chromatograph to assess the concentration and stability of the dose formulations of the preparation. Testing performed at 220 nm wavelength with a UPLC® BEH C18 Chromatographic column and isocratic elution for sbk002 and Clopidogrel Hydrogen Sulfate (clo). Assessments include System Suitability, Stock Solution Comparison, quality control, specificity, Standard Curve linear range, Carry-over, lower limit of quantification, accuracy and precision, post-disposal stability of dose formulations, and stability validation of dose formulations.
+------------------------------------------------------------------------------------
+原文: 等度洗脱，水相 : 有机相 = 55:45；
+
+译文: Isocratic elution, water phase: organic phase = 55:45;
+------------------------------------------------------------------------------------
+原文: 拖尾factor (T)
+
+译文: Tailing factor (T)
+------------------------------------------------------------------------------------
+原文: 第三步稀释（S3）
+
+译文: Third step dilution (S3)
+------------------------------------------------------------------------------------
+原文: accuracy与precision (sbk002)：accuracy在89.53% ~ 104.95%之间，inter-assay precision的RSD在0.71% ~ 5.54%之间，intra-assay precision的RSD为4.25%。
+
+译文: Accuracy and precision (sbk002): Accuracy between 89.53% ~ 104.95%, inter-assay precision RSD between 0.71% ~ 5.54%, intra-assay precision RSD is 4.25%.
+------------------------------------------------------------------------------------
+原文: 超高效液相色谱仪：ACQUITY UPLC H-Class，Waters；
+
+译文: Ultra-high performance liquid chromatography: ACQUITY UPLC H-Class, Waters;
+------------------------------------------------------------------------------------
+原文: size：38 g/袋；
+
+译文: Size: 38 g/bag;
+------------------------------------------------------------------------------------
+原文: 表2-1 Stock Solution Comparison（sbk002）
+
+译文: Table 2-1 Stock Solution Comparison (sbk002)
+------------------------------------------------------------------------------------
+原文: 稀释倍数
+
+译文: Dilution factors
+------------------------------------------------------------------------------------
+原文: 表6-1 accuracy (sbk002)
+
+译文: Table 6-1 accuracy (sbk002)
+------------------------------------------------------------------------------------
+原文: 联系人：夏玉叶；
+
+译文: Contact person: Xia Yuye;
+------------------------------------------------------------------------------------
+原文: 回归系数（R2） ≥ 0.99，Standard Curve线性各concentration回读accuracy均应在90 % ~ 110 % 之间。
+
+译文: Regression coefficient (R2) ≥ 0.99, Standard Curve linear range each concentration back-calculated accuracy should be between 90 % ~ 110 %.
+------------------------------------------------------------------------------------
+原文: 表4-1 Standard Curvelinear range（sbk002）
+
+译文: Table 4-1 Standard Curve linear range (sbk002)
+------------------------------------------------------------------------------------
+原文: dose formulationsdisposal后stability（clo）：stabilitysample的testingconcentration与初始concentrationratio在102.90 % ~ 105.99 %之间，testingconcentration与标示concentrationratio在103.96 % ~ 104.56 %之间， RSD为0.30 %。
+
+译文: Dose formulations disposal post-stability (clo): The testing concentration to initial concentration ratio of stability samples between 102.90 % ~ 105.99 %, testing concentration to labeled concentration ratio between 103.96 % ~ 104.56 %, RSD is 0.30 %.
+------------------------------------------------------------------------------------
+原文: aspirating溶液
+
+译文: Aspirating solution
+------------------------------------------------------------------------------------
+原文: assay操作：丁伟芳、王晓彤、陆明敏；
+
+译文: Assay operators: Ding Weifang, Wang Xiaotong, Lu Mingmin;
+------------------------------------------------------------------------------------
+原文: 2. Study Materials与method 11
+
+译文: 2. Study Materials and methods 11
+------------------------------------------------------------------------------------
+原文: 本assay建立的sbk002和clodose formulationsanalyzedmethod在5.0 ~ 15.0 μg/mLconcentrationrange内线性均良好，System Suitability、Stock Solution Comparison、质量控制、专属性、Carry-over、lower limit of quantification、accuracy与precision均meetformulationanalyzed的要求，可forsbk002和clodose formulations的ANALYSIS AND TEST。sbk002dose formulations（concentration：250.0 mg/mL）在room temperature遮光条件下4 h内stability良好，dose formulations经disposal后在room temperature遮光条件下1天内stability良好。clodose formulations（concentration：250.0 mg/mL）在room temperature遮光条件下4 h内stability良好，dose formulationsdisposal后在room temperature遮光条件下1天内stability良好。
+
+译文: The sbk002 and clo dose formulations analyzed method established in this assay shows good linearity within the concentration range of 5.0 ~ 15.0 μg/mL. System Suitability, Stock Solution Comparison, quality control, specificity, Carry-over, lower limit of quantification, accuracy and precision all meet the formulation analysis requirements, and can be used for the ANALYSIS AND TEST of sbk002 and clo dose formulations. sbk002 dose formulations (concentration: 250.0 mg/mL) exhibit good stability within 4 h at room temperature with light protection, and after disposal exhibit good stability within 1 day at room temperature with light protection. clo dose formulations (concentration: 250.0 mg/mL) exhibit good stability within 4 h at room temperature with light protection, and after disposal exhibit good stability within 1 day at room temperature with light protection.
+------------------------------------------------------------------------------------
+原文: 地址：成都New & Hi-tech Industrial Development Zone (西区)西芯大道17号；
+
+译文: Address: 17 West Chip Avenue, Chengdu New & Hi-tech Industrial Development Zone (West Zone);
+------------------------------------------------------------------------------------
+原文: 质量控制（clo）：Quality Control SampleQC的accuracy在98.39 % ~ 99.61 % 之间，precisionRSD为0.47 %和0.12 %。
+
+译文: Quality Control (clo): The accuracy of Quality Control Sample QC is between 98.39% and 99.61%, with precision RSD being 0.47% and 0.12%.
+------------------------------------------------------------------------------------
+原文: 地址：
+
+译文: Address:
+------------------------------------------------------------------------------------
+原文: name：苏州华测生物technique有限公司；
+
+译文: Name: Suzhou Huace Bio-technology Co., Ltd.;
+------------------------------------------------------------------------------------
+原文: [5] 苏敏, 王京昆. affectmedication非临床Safety性Evaluation的test articlerelated问题[J]. 中国药事, 2015, 29(2): 141-146.
+
+译文: [5] Su Min, Wang Jingkun. Issues related to non-clinical safety evaluation of test articles affect medication [J]. China Pharmaceuticals, 2015, 29(2): 141-146.
+------------------------------------------------------------------------------------
+原文: assay result见Appendix一表5-1和表5-2。lower limit of quantification (sbk002)：信噪比S/N在83 ~ 242之间，accuracy在100.70% ~ 102.06%之间，precision RSD为0.70%；lower limit of quantification (clo)：信噪比S/N在35 ~ 138之间，accuracy在98.96% ~ 100.38%之间，密度RSD为0.72%。
+
+译文: Assay results can be found in Appendix 1, Tables 5-1 and 5-2. Lower limit of quantification (sbk002): Signal-to-noise ratio S/N is between 83 and 242, accuracy is between 100.70% and 102.06%, and precision RSD is 0.70%; lower limit of quantification (clo): Signal-to-noise ratio S/N is between 35 and 138, accuracy is between 98.96% and 100.38%, and density RSD is 0.72%.
+------------------------------------------------------------------------------------
+原文: [4] 李耀庭, 梁金强, 黄芝瑛. medication Safety性Evaluation研究中test article的testing与analyzed [J]. medication Evaluation研究, 2014, 37(6): 541-543.
+
+译文: [4] Li Yaoting, Liang Jinqiang, Huang Zhiying. Testing and analysis of test articles in medication safety evaluation studies [J]. Medication Evaluation Studies, 2014, 37(6): 541-543.
+------------------------------------------------------------------------------------
