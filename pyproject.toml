@@ -1,0 +1,11 @@
+[project]
+name = "pro-translator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-docx>=1.1.0",
+    "openai>=1.0.0",
+    "pandas>=2.3.0",
+]

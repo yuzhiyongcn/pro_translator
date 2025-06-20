@@ -208,6 +208,4 @@ class DocTranslator:
 
 if __name__ == "__main__":
     translator = DocTranslator(False)
-    translator.translate(
-        "苏州华测_非临床安全性评价研究方案及报价_化药1类- 双语-0814.docx"
-    )
+    translator.translate("20250611植物提取物非临床安全性研究-translated.docx")
